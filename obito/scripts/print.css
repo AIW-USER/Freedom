@@ -1,0 +1,92 @@
+/* Monochrome print style — modelled on the reference spread */
+@page {
+  size: A4;
+  margin: 22mm 46mm 20mm 16mm;          /* outer (right) margin = active space */
+  @top-left   { content: string(sec); font: 600 8.5pt "Avenir Next", "Menlo", "Apple Symbols"; color:#000; vertical-align: bottom; padding-bottom: 3mm; }
+  @top-right  { content: string(chapter); font: 600 8.5pt "Avenir Next", "Menlo", "Apple Symbols"; vertical-align: bottom; padding-bottom: 3mm; }
+  @bottom-center { content: "Orthopaedics · " string(sec) " · Revision Notes 2026"; font: 7.5pt "Avenir Next", "Menlo", "Apple Symbols"; color:#444; }
+  @bottom-right { content: counter(page); font: 600 9pt "Avenir Next", "Menlo", "Apple Symbols"; }
+  @right-top { content: "– – Active space – –"; font: 7.5pt "Avenir Next", "Menlo", "Apple Symbols"; color:#666; vertical-align: top; padding-top: 2mm; text-align: center; }
+}
+@page :left {
+  margin: 22mm 16mm 20mm 46mm;
+  @top-left   { content: string(sec); }
+  @top-right  { content: none; }
+  @bottom-right { content: none; }
+  @bottom-left { content: counter(page); font: 600 9pt "Avenir Next", "Menlo", "Apple Symbols"; }
+  @right-top { content: none; }
+  @left-top { content: "– – Active space – –"; font: 7.5pt "Avenir Next", "Menlo", "Apple Symbols"; color:#666; vertical-align: top; padding-top: 2mm; text-align: center; }
+}
+@page :right { @top-left { content: none; } }
+/* title + contents pages: symmetric margins, no active space */
+.front { page: front; }
+@page front      { margin: 22mm 18mm 20mm 18mm; @right-top { content: none; } @left-top { content: none; } }
+@page front:left { margin: 22mm 18mm 20mm 18mm; @right-top { content: none; } @left-top { content: none; } }
+@page :first { @top-left { content: none; } @top-right { content: none; } @right-top { content: none; } }
+
+#sec { string-set: sec content(); height: 0; overflow: hidden; font-size: 0; }
+html { font: 9.4pt/1.38 "Avenir Next", "Menlo", "Apple Symbols", sans-serif; color: #000; }
+body { margin: 0; }
+b, strong { font-weight: 600; }
+
+/* ---------- titles ---------- */
+h1 { font: 400 21pt/1.15 "Baskerville", "Menlo", "Apple Symbols", serif; text-transform: uppercase; letter-spacing: .04em;
+     text-align: center; margin: 6mm 0 1mm; string-set: chapter content(); }
+h1.chapter { break-before: page; }
+h1.book { margin-top: 30mm; font-size: 26pt; }
+p.sub { text-align: center; font: italic 9pt "Avenir Next", "Menlo", "Apple Symbols"; margin: 0 0 8mm; letter-spacing: .06em; }
+p.sub::before, p.sub::after { content: " — "; }
+
+/* stage heading: numbered black block + heavy rule */
+h2 { font: 400 14pt "Baskerville", "Menlo", "Apple Symbols", serif; margin: 7mm 0 3mm; padding-bottom: 1.2mm;
+     border-bottom: 1.4pt solid #000; break-after: avoid; }
+h2 .num { display: inline-block; background: #000; color: #fff; font: 600 9.5pt "Avenir Next", "Menlo", "Apple Symbols";
+          width: 6mm; text-align: center; margin-right: 2.5mm; padding: .6mm 0; vertical-align: 1.5pt; }
+/* module heading: underlined across the page */
+h3 { font: 600 10.5pt "Avenir Next", "Menlo", "Apple Symbols"; margin: 5mm 0 2mm; padding-bottom: .8mm;
+     border-bottom: .6pt solid #000; break-after: avoid; }
+
+/* ---------- Cornell cue lines ---------- */
+p { margin: 0 0 1.6mm; orphans: 2; widows: 2; }
+p.cue { display: grid; grid-template-columns: 34mm 1fr; column-gap: 3mm; break-inside: avoid; }
+p.cue .k { font-weight: 600; }
+p.ask { display: grid; grid-template-columns: 58% 1fr; column-gap: 3mm; break-inside: avoid;
+        border-bottom: .3pt solid #bbb; padding-bottom: 1mm; }
+p.ask .q { font-weight: 600; font-style: italic; }
+p.ask .a::before { content: "→ "; }
+
+/* ---------- tables ---------- */
+table { border-collapse: collapse; width: 100%; margin: 2mm 0 4mm; font-size: 8.6pt; break-inside: avoid; page-break-inside: avoid; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+/* keep a caption/lead-in line with the table that follows */
+h2 + table, h3 + table, p + table { break-before: avoid; }
+th, td { border: .5pt solid #333; padding: 1.2mm 1.8mm; vertical-align: top; text-align: left; }
+th { background: #dcdcdc; font-weight: 600; }
+thead tr th:empty { background: #dcdcdc; }
+td img { max-height: 26mm; max-width: 30mm; display: block; }
+a.toc { color: #000; text-decoration: none; }
+a.toc::after { content: leader(".") target-counter(attr(href), page); }
+
+/* ---------- figures ---------- */
+figure { margin: 2mm 0 4mm; text-align: center; break-inside: avoid; }
+figure img { max-width: 80mm; max-height: 55mm; width: auto; height: auto; }
+figcaption { font: italic 7.8pt "Avenir Next", "Menlo", "Apple Symbols"; color: #333; margin-top: 1mm; }
+
+/* ---------- flowcharts ---------- */
+.flow { margin: 2mm 0 4mm; font-size: 8.6pt; break-inside: avoid; }
+.flow .root { display: inline-block; border: 1.2pt solid #000; padding: 1mm 3mm; font-weight: 600; }
+.flow ul { list-style: none; margin: 0; padding-left: 5mm; }
+.flow li { position: relative; padding: 1.2mm 0 0 6mm; }
+.flow li::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; border-left: .7pt solid #000; }
+.flow li:last-child::before { bottom: auto; height: 4.6mm; }
+.flow li::after { content: ""; position: absolute; left: 0; top: 4.6mm; width: 5.5mm; border-top: .7pt solid #000; }
+.flow .node { display: inline-block; border: .6pt solid #000; border-radius: 1.5mm; padding: .7mm 2.2mm; background: #fff; }
+.flow .cond { }
+.flow .arr { padding: 0 1.5mm; }
+.flow .note { font-size: 7.8pt; font-style: italic; color: #333; }
+
+code { font: 8.5pt "Menlo", monospace; }
+
+/* the contents table may run over several pages */
+table.contents { break-inside: auto; page-break-inside: auto; }
