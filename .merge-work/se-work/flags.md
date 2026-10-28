@@ -1,0 +1,12 @@
+- Traumatic Anterior Shoulder Instability (TUBS).md — anterior = 60–78% of all shoulder dislocations (TO A/P/MDI lecture) — usual teaching ~95% (another TO lecture says 95%)
+- Traumatic Anterior Shoulder Instability (TUBS).md — bare-spot formula written (B − A) × 2 / B × 100% — usual (B − A)/2B; TO text also gives (A–B)/B×100 — garbled
+- Traumatic Anterior Shoulder Instability (TUBS).md — Kocher "Traction → ER → Abduction → IR" — classic Kocher uses adduction
+- Basic Arthroscopic Instrumentation.md — glutaraldehyde (Cidex) "4%" — usual 2%; written neutrally as "TO states 4%"
+- Basic Arthroscopic Instrumentation.md — sheath "~2 mm larger than scope" vs TO table 2.7→2.9 mm, 1.9→2.2 mm — internally inconsistent
+- SLAP Lesion.md — biceps load I 'pain relief = positive' — in Kim's test a positive result is pain/apprehension NOT relieved (or increased) by resisted flexion
+- Reverse Shoulder Arthroplasty.md — humeral cut '30° retroversion, 45° inclination' (TO) — 45° presumably measured from shaft axis complement; RSA stems are typically 135–155° NSA
+- CROSS-SECTION Pediatrics/Supracondylar Fracture - Pediatric.md — Baumann ("Bowman's") angle normal 8–28° (TO distal humerus lecture) — usual 70–75° (or 64–81°)
+- CROSS-SECTION Trauma/Proximal Humerus Fractures.md — PHILOS "8 mm below GT tip" (one TO) vs "5–7 mm" (other TO); written as 5–8 mm
+- CROSS-SECTION Trauma/Radial Head Fractures.md — TO elbow-injuries lectures give Kocher = ECRB–anconeus and Kaplan = ECRL–ECRB — standard Kocher = anconeus–ECU, Kaplan = ECRB–EDC (the TO approaches lecture agrees with standard)
+- Elbow Anatomy & Biomechanics.md — PMRI listed with "MCL deficiency" and MCL reconstruction (TO elbow-injuries lectures) — PMRI is classically LCL + anteromedial coronoid facet; written in table only as secondary MCL per TO
+- Elbow Anatomy & Biomechanics.md — radial head safe zone: 90° arc (Caputo) vs posterolateral 80° non-articular / 280° articular vs lateral 120° bare — three different figures, stated as conflict
