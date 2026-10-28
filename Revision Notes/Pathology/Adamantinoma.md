@@ -12,7 +12,9 @@
 
 **Site** — **mid-tibial diaphysis, anterior cortex** (tibia **80–90%**) · synchronous ipsilateral **fibula 10–50%** · other long bones rare
 
-**Nature** — **low-grade malignant** · aetiology unknown
+**Nature** — **low-grade malignant** · aetiology unknown · arises from **aberrant epithelial nests** (TO)
+
+**TO profile** — tibia, **3rd decade**, **males** (TO)
 
 ### Osteofibrous dysplasia association
 
@@ -94,6 +96,8 @@ Anterior tibial cortical lytic lesion
 **Wide-margin en bloc resection** — standard of care · prevents recurrence + metastasis
 
 **Reconstruction** — **intercalary** resection → **allograft** or intercalary megaprosthesis · amputation usually unnecessary
+
+**Biological reconstruction preferred (TO)** — **intercalary resection + vascularised fibula** transfer
 
 **No chemo / no radiotherapy** — low-grade, not effective for local control
 

@@ -114,6 +114,10 @@
 
 ![Milking manoeuvre – valgus via thumb with forearm supinated](../../MCQ/attachments/q216806-a-milking.jpg)
 
+**Milking (TO)** — **shoulder ER, elbow flexed >90°**, pull thumb (valgus) → medial pain · **moving valgus**: constant valgus while flexion → extension, pain **70–120°** (TO)
+
+**Chronic medial instability (TO)** — repeated valgus (javelin, gymnasts) attenuates MCL · difficulty throwing · **ulnar neuritis** (weak grip, ulnar numbness) from traction/medial overload · **valgus stress view under IITV opens ulnohumeral joint** · small medial epicondyle avulsion/ossification on X-ray
+
 **Pain in mid-arc (70–120°)** — **anterior bundle MCL** · **pain at terminal extension** = **posterior compartment / olecranon osteophytes**
 
 | ✗ Exam distractor | Indicates |
@@ -204,6 +208,8 @@ MUCL injury
 **Docking vs Jobe** — **~15% more excellent results** · **3× fewer complications** · **3–5% less ulnar neuropathy** · RTP **>90%** vs **80–85%** (figure-of-8)
 
 **Biomechanics** — docking + cortical button **stronger** than figure-of-8 + interference screw
+
+**TO technique table** — all use **sublime tubercle** ulnar tunnels · **Jobe**: complete flexor-pronator take-down (historical gold standard), **figure-of-8 3-ply** · **modified Jobe**: flexor-pronator split, figure-of-8 3-ply · **docking**: graft ends in **blind humeral tunnel**, tied over bone bridge, **2-ply → easier but weaker** (TO) — conflicts with "docking stronger" above · TO lists ulnar nerve transposition as **obligatory** in all three — read the options
 
 **Calcified attritional UCL in high-level thrower** — **reconstruction (modified Jobe)**\
 ✗ Wrong options: original Jobe · repair ± augmentation · arthroscopic debridement + repair

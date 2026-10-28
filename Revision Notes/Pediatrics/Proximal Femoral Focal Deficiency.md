@@ -21,12 +21,16 @@
 
 **Not associated** — clubfoot · café-au-lait · webbed neck (Turner) · scapular winging (Sprengel)
 
+**Associations (TO)** — **fibular hemimelia \~45%** · **clubfoot** (TO lists it — conflicts with the "not associated" line above; read the options) · congenital heart disease · spinal and facial dysplasia
+
 **ACL deficiency most likely in** — **PFFD**\
 ✗ Wrong options: cleidocranial (RUNX2) · Apert (FGFR2) · achondroplasia (FGFR3) · radial head dislocation
 
 ## 3 Presentation
 
 **Exam** — severe shortening · **% shortening constant with growth** · short bulky thigh **flexed, abducted, externally rotated** · feet usually normal
+
+**Exam (TO)** — **knee flexion contracture** · foot often at level of **contralateral knee** · **skin dimple over greater trochanter**
 
 ![PFFD clinical appearance](../../Orthobullets/attachments/ob4043-clinical-photo-moved.jpg)
 
@@ -42,6 +46,10 @@
 | **D** | **Absent** | **Absent** |
 
 **Femoral head ossifies ~6 months** → defer hip decisions until then
+
+**Aitken — TO version** — A: head present, short femur · B: **femoral neck pseudarthrosis** · C: **absent head** · D: **absent head + acetabulum** · **Paley**: group A congenital short femur → B–D increasing discontinuity
+
+**Options (TO)** — orthosis · lengthening (selected Paley A; hip + knee instability makes it hard) · valgus osteotomy for coxa vara · **knee fusion + extension prosthesis** · rotationplasty · amputation
 
 ![Femoral neck pseudarthrosis](../../Orthobullets/attachments/ob4043-ap-xrays-cervical-pseudoarthrosis-moved.jpg)
 

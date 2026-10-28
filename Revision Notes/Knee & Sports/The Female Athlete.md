@@ -34,6 +34,24 @@
 
 **Associated (OB)** — amenorrhoea, osteoporosis, **↓ immune function**, insufficient caloric intake · not **low LDL** → actually **↑ LDL** (hypoestrogenism)
 
+**Energy availability (TO)** — **EA = (energy intake − exercise energy expenditure) ÷ fat-free mass (kg)** · **≥ 45 kcal/kg FFM/day optimal** · 30–44 subclinical · **< 30 = low EA → triad / RED-S** · RMR **< 90% predicted** = LEA marker
+
+**Continuum (TO)** — ACSM 1992 → **revised 2007 as a continuum** · **even one component = diagnostic** · menses: eumenorrhoea → luteal suppression → anovulation → **oligomenorrhoea (cycle > 35 days)** → **amenorrhoea (> 3 months)** · bone: normal → osteopenia → osteoporosis → stress fracture
+
+**RED-S (TO)** — IOC **2014** (update 2018) · **both sexes** · multisystem: reproductive, bone, endocrine, metabolic, **haematological (anaemia)**, CVS (bradycardia, hypotension), immune, GI, psychological, performance · males: **↓ testosterone** (restore EA first, **avoid early testosterone**)
+
+| Axis in LEA (TO) | Change |
+|---|---|
+| HPO | ↓ GnRH → ↓ LH / FSH → ↓ oestrogen |
+| **HPT** | **↓ T3, normal TSH** (euthyroid sick) |
+| HPA | **↑ cortisol** |
+| GH–IGF-1 | **↓ IGF-1** |
+| Leptin–ghrelin | **↓ leptin, ↑ ghrelin** |
+
+**Screening tools (TO)** — **LEAF-Q** (females) **score ≥ 8 = high risk** · **IOC RED-S CAT**: **green** full participation · **yellow** modified training · **red** no participation until cleared
+
+**Differential of amenorrhoea (TO)** — PCOS (↑ LH:FSH, hirsutism) · pregnancy (β-hCG) · thyroid · **hyperprolactinaemia** → exclude before functional hypothalamic amenorrhoea · **peak bone mass by 25 yr**; adolescent BMD loss irreversible
+
 **Cardiovascular (OB)** — **endothelial dysfunction** (nitric oxide imbalance between vasodilators + vasoconstrictors) → atherosclerosis, ↑ future CVD · RED-S: **dyslipidaemia + ↑ visceral adiposity → precocious coronary atherosclerosis**
 
 ### Pathophysiology – energy deficit & hormones
@@ -248,6 +266,19 @@ Female athlete triad with stress fracture
 
 **Natural course** — appropriate diet + moderated exercise → **natural return of menses**
 
+| TO management detail | Content |
+|---|---|
+| Energy | **+300–600 kcal/day** initially · target EA ≥ 45 · **↑ intake before ↓ training** |
+| Macronutrients | CHO 50–60%, protein 15–20%, fat 25–30% · **20–25 g protein post-exercise** |
+| **Ca + vit D** | **1500 mg Ca + 1500–2000 IU vit D / day** (TO, triad lecture) · vs 2000 mg + 800 IU (TO, below) — read the options |
+| Training | **↓ load 10–20%**, no double sessions until menses resume |
+| **Hormones (amenorrhoea > 6 months)** | **Transdermal oestrogen + cyclic oral progesterone preferred** (bone, no hepatic effects) · **combined OCP symptomatic only — masks LEA** (TO) · read the options vs OCP rows above |
+| Bisphosphonates | Severe osteoporosis only, after skeletal maturity, cautiously |
+| Psychology | **CBT** preferred |
+| Monitoring | DEXA every 6–12 months · vit D 6-monthly · RMR 3-monthly · menses monthly |
+
+**Return to play (TO)** — normal menses (or testosterone) · **EA ≥ 45** · stable weight **≥ 90% ideal body weight** · **BMD (T / Z) ≥ −1.0** · MDT clearance
+
 **Recovery rates** — **energy status: days–weeks** (↑ IGF-1, reverses energy conservation) → **menses: months** (oestrogen anti-resorptive) → **BMD: years**
 
 ![Triad components recover at different rates](../../MCQ/attachments/q5522-illa-triadrecov.jpg)
@@ -341,3 +372,9 @@ Female athlete triad with stress fracture
 **"Runner's nipples — EXCEPT (TO)?"** → **warm weather precipitates it** (cold does)
 
 **"Modified Thomas: thigh on table, knee extends (TO)?"** → **two-joint hip flexors short (positive)**
+
+**"Energy availability threshold defining LEA (TO)?"** → **< 30 kcal/kg FFM/day**
+
+**"LEAF-Q score indicating high risk (TO)?"** → **≥ 8**
+
+**"Preferred hormone therapy for amenorrhoea > 6 months (TO)?"** → **transdermal oestrogen + cyclic progesterone**

@@ -14,6 +14,10 @@
 
 **NOT associated (TO)** — **Addison's disease**
 
+**Compression risk factors (TO list)** — DM · hypothyroidism · acromegaly · **excessive alcohol** · tobacco · obesity · **hereditary motor sensory neuropathy**
+
+**Patient-reported tools (TO)** — CTS questionnaire · **DASH** · Michigan Hand Outcomes Questionnaire · **PROMIS** · Patient Specific Functional Scale
+
 **Pregnancy CTS (TO)** — usually **resolves after delivery**
 
 **Diabetics (TO)** — **worse surgical outcome** than idiopathic
@@ -28,7 +32,17 @@
 
 **TCL (roof) attachments** — radial: **scaphoid tubercle + trapezium**; ulnar: **hook of hamate + pisiform**
 
-**Narrowest** — level of **hook of hamate**
+**Narrowest** — level of **hook of hamate** · \~**2 cm from proximal (leading) edge** = site of morphological nerve change (TO)
+
+**Superficial to flexor retinaculum (TO)** — **ulnar nerve + artery** · **palmar cutaneous branch of median n.**
+
+| Roof zone (TO) | Structure |
+|---|---|
+| Proximal | **Deep forearm fascia** |
+| Central | **TCL** |
+| Distal | **Aponeurosis of thenar + hypothenar muscles** |
+
+**Median nerve at wrist (TO)** — **\~30 fascicles** · **motor fascicles volar** (→ recurrent branch) · sensory radial, ulnar, dorsal · **94% sensory fibres** → sensory changes first
 
 **Floor** — proximal carpal row
 
@@ -38,9 +52,13 @@
 
 | Recurrent branch variant | % |
 |---|---|
-| Extraligamentous | 50 |
-| Subligamentous | 30 |
-| **Transligamentous** (at risk) | **20** |
+| Extraligamentous | 50 (Orthobullets) · **46–90%** (TO) |
+| Subligamentous | 30 · **31%** (TO) |
+| **Transligamentous** (at risk) | **20** · **23%** (TO) |
+| From **ulnar border** of median n. (TO) | Rare, **highest risk** at CTR |
+| On top of TCL (TO) | Very rare |
+
+**Other variants (TO)** — origin from **ulnar border** of median n. · branch **lying on top of TCL** · **Lanz grade III = high division** proximal to tunnel (persistent median artery / aberrant muscle) · **grade IV** = thenar branch proximal to tunnel / accessory branches
 
 **Surgical rule** — **cut TCL far ulnar** (radial cut → transects transligamentous branch → **loss of opposition**)
 
@@ -62,6 +80,18 @@
 | **Berrettini** | Hand | Sensory, common digital | no motor sparing |
 
 ## 2 Mechanism
+
+**Two compression sites (TO)** — **proximal edge of TCL** → wrist flexion ↑ compression → **Phalen +** · **hook of hamate** → **hourglass nerve** → **Durkan +, Phalen −**
+
+| Compression stage (TO) | Histopathology | Symptoms | Abnormal test |
+|---|---|---|---|
+| **Early** | Blood-nerve barrier breakdown, **endoneurial oedema** | **Intermittent** (nocturnal) paraesthesia | **Provocative manoeuvres** |
+| **Intermediate** | Intraneural connective-tissue thickening; **demyelination** | **Constant** paraesthesia ± weakness | **Thresholds** (Semmes-Weinstein, vibration) |
+| **Late** | **Axonal degeneration** | Numbness + **atrophy** | **2PD** |
+
+**Fibres affected first (TO)** — heavily myelinated **A-beta** (touch, pressure) · pain fibres last → numb but **protective sensation kept** (no trophic ulcers/burns)
+
+**Night symptoms (TO)** — wrist flexion in sleep + fluid shift → **endoneurial oedema** · later daytime (pinch, flexion) → constant
 
 **Idiopathic** — **inflamed synovium** = commonest cause; ↑ pressure → ↓ intraneural blood flow
 
@@ -100,9 +130,17 @@
 | **2-point discrimination** | Positive if fails at **5 mm**; innervation density test; best for **nerve regeneration after repair** |
 | Scratch collapse | Supportive |
 
+**Nocturnal paraesthesia (TO)** — **pathognomonic** of CTS · also fixed wrist positions (newspaper, mouse)
+
+**Phalen vs Tinel** — Phalen (60 s) **more sensitive + specific than Tinel** (TO, median compression lecture) · Tinel high specificity (TO, other source) — read the options
+
+**Scratch collapse (TO)** — elbows 90°, patient resists ER → scratch over compression site → **sudden loss of ER power** = positive
+
 **High sensitivity (TO)** — Durkan, hand diagram, night pain, Semmes-Weinstein
 
 **High specificity (TO)** — **hand diagram, Tinel**
+
+**Four-item rule (TO)** — **abnormal hand diagram + abnormal Semmes-Weinstein + positive Durkan + night pain** → probability ↑ · **all four negative → probability extremely low**
 
 **NOT CTS tests** — **Murphy** (TO) · **Wartenberg** (cubital tunnel) · **Froment** (ulnar) · **OK sign** (AIN) · hypothenar atrophy (ulnar)
 
@@ -123,7 +161,7 @@
 
 **High/low pretest probability** — EDS **won't change probability** → treat clinically
 
-**EDS role** — confirm (work comp), **prognosis**; AAOS: obtain if surgery planned
+**EDS role** — confirm (work comp), **prognosis** (**greater latency → slower recovery**, TO); AAOS: obtain if surgery planned
 
 | NCS (latency/velocity) | EMG (muscle) |
 |---|---|
@@ -135,7 +173,17 @@
 
 **Cut-off conflict** — **DSL >3.5 / DML >4.5 ms** (CTS note, TO, OB) · **DSL >3.2 / DML >4.3 ms** (Orthobullets NCS note) — read the options
 
+**Abnormal motor latency + normal SNAP (TO)** — rule out **C8 radiculopathy** · **anterior horn cell disorder** · **isolated recurrent motor branch compression**
+
+**NCV after CTR (TO)** — **does not return to normal** despite full clinical recovery (retrograde degeneration, incomplete remyelination)
+
 **EMG EXCEPT trap** — **distal sensory latency** is NCS, not EMG
+
+| Clinical severity (TO) | Features |
+|---|---|
+| **Mild** | Failed splint/NSAIDs; no sensory/motor loss; **normal 2PD**, normal EMG |
+| **Moderate** | Daytime symptoms; **2PD > 15 mm** (TO — verify: abnormal 2PD usually > 5–6 mm); weak abduction, **no wasting**; sensory slowing on NCV |
+| **Severe** | Constant; **APB wasting**; sensory + motor NCV abnormal → **no role for conservative care** |
 
 | AAEM severity | Findings |
 |---|---|
@@ -147,7 +195,8 @@
 
 | Modality | Fact asked |
 |---|---|
-| **Ultrasound** | Median nerve **CSA >10 mm²** at **pisiform / proximal TCL** |
+| **Ultrasound** | Median nerve **CSA >10 mm²** at **pisiform / proximal TCL** · **US preferred over MRI** (higher resolution, real time, shows thenar wasting; MRI may be normal early) (TO) |
+| MRI (TO) | Nerve thickened + loss of fascicular pattern **proximal** to retinaculum, narrowed under it; compare areas, no absolute cut-off |
 | X-ray | **Not routine** (not needed for diagnosis) |
 | MRI / CT | Only if **space-occupying lesion** suspected (ganglion, tumour, **gout tophus**) |
 | NCS/EMG | See table above: **DSL >3.5 ms · DML >4.5 ms · CV <52 m/s**; fibs/PSW = severe |
@@ -176,7 +225,11 @@ CTS
 
 **Steroid injection** — **80% improve, 20% of these symptom-free at 1 y** (Green: 81%, mean 3.3 mo)
 
+**Injection = diagnostic marker (TO)** — relief confirms CTS vs cervical / proximal cause
+
 **Injection response** — good relief → **good surgical prognosis**; no relief → poorer outcome (but still may benefit)
+
+**Best responders to nonop (TO)** — symptoms **< 1 year** · manage thyroid / diabetes
 
 **Dose/agent** — no difference (methylpred = triamcinolone; dose ≠ duration)
 
@@ -201,13 +254,27 @@ CTS
 
 **Open (Kaplan's cardinal line)** — 1st web → hook of hamate = **superficial palmar arch**; incision in line with **ulnar border of long finger**; stay ulnar
 
+**Kaplan perpendiculars (TO)** — from **radial border of middle finger** → meets Kaplan line at **recurrent motor branch** · from **ulnar border of ring finger** → **ulnar nerve + artery**
+
+**Incision (TO)** — **\~6 mm ulnar to thenar crease**, in line with **radial border of extended ring finger** · **Kaplan line = DISTAL limit** · hook of hamate: from pisiform **1.5 cm distal + 1.5 cm radial**
+
+![Kaplan cardinal line — distal limit of incision](../../TO notes/attachments/TOn-notes-compression-neuropathies-median-nerve-compression-sep--p06-f017.jpg)
+
+**Open release (TO)** — incision **ulnar to palmaris longus** (radial → palmar cutaneous br.) · release forearm fascia + TCL + distal aponeurosis (TO) · antebrachial fascia release of no benefit (Orthobullets) — read the options
+
+**Not in primary CTR (TO)** — neurolysis · epineurotomy · synovectomy
+
+**Contraindications to CTR (TO)** — **untreated hypothyroidism** · **uncontrolled diabetes** · other metabolic neuropathies
+
+**Endoscopic techniques (TO)** — **Chow = two-portal** · **Agee = single-portal** · landmarks: **index–pisiform line**, **4th metacarpal line**
+
 **No benefit** — internal neurolysis, **tenosynovectomy** (idiopathic), antebrachial fascia release, Guyon release (decompressed anyway)
 
 **Lengthen TCL** — only if flexor tendon repair done (allows wrist flexion splint)
 
 **Endoscopic vs open** — endoscopic: **↓ early pain/analgesia** (main advantage), earlier RTW, better early key pinch, ↓ scar tenderness; **long term = open**
 
-**Endoscopic cons** — learning curve, **incomplete release** (commonest complication), ↑ revision, ↑ nerve injury risk
+**Endoscopic cons** — complications **more frequent + more serious** (TO) · learning curve, **incomplete release** (commonest complication), ↑ revision, ↑ nerve injury risk
 
 **Endoscopic contraindications (TO)** — **revision/recurrent CTS** · anatomic variant (APB wasting without sensory change) · previous tendon surgery/scar · **limited wrist extension**
 
@@ -237,7 +304,7 @@ CTS
 | **Pillar pain** | Thenar/hypothenar ache; 41% → 25% → 6% (1, 3, 12 mo) |
 | **Incomplete TCL release** | **Commonest cause of failure/revision**; ↑ with endoscopic |
 | Recurrence | 1% 5 y, 1.6% 10 y |
-| **Recurrent motor branch** | Open 3% / endo 0.7%; transligamentous; → repair or **opponensplasty (FDS ring → APB, Bunnell)**; EIP/PL alternatives |
+| **Recurrent motor branch** | Open 3% / endo 0.7%; transligamentous; → repair or **opponensplasty (FDS ring → APB, Bunnell)**; EIP/PL alternatives · TO list: FDS (**Bunnell, Royle-Thompson**), EIP, **ADM (Huber)**, **PL (Camitz)** |
 | **Palmar cutaneous branch** | **Open 19%** / endo 2.4%; painful neuroma |
 | **Proper digital n. index** | → **lumbrical weakness** (index MCP flexion + PIP extension weak) |
 | Arterial arch | Endo 0.02% |
@@ -269,6 +336,10 @@ CTS
 
 **"Most sensitive provocative?"** → **Durkan**
 
+**"Compression at hook of hamate — which test negative?"** → **Phalen** (Durkan positive, hourglass nerve) (TO)
+
+**"Abnormal motor latency, normal SNAP — rule out?"** → **C8 radiculopathy / anterior horn cell disease / isolated recurrent branch compression** (TO)
+
 **"Most sensitive early sensory?"** → **Semmes-Weinstein**
 
 **"Not a test for CTS"** → **Murphy** / Wartenberg
@@ -298,6 +369,12 @@ CTS
 **"Splinted 8 wk, still symptomatic"** → **CTR**
 
 **"Main advantage of endoscopic"** → **↓ post-op pain**
+
+**"Pathognomonic symptom of CTS?"** → **nocturnal paraesthesia** (TO)
+
+**"Distal limit of open CTR incision?"** → **Kaplan cardinal line (superficial palmar arch beyond)** (TO)
+
+**"Recurrent motor branch variant at highest risk?"** → **origin from ulnar border of median nerve** (TO)
 
 **"Grip at 3 mo"** → **100%**
 

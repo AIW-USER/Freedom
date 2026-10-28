@@ -193,6 +193,14 @@ PLC injury
 
 **Outcomes** — operative > nonop · **early treatment better** · anatomic reconstruction restores **rotatory but not all varus** stability
 
+| Fanelli–Larson PLC grade (TO) | Structures | Findings | Treatment (TO) |
+|---|---|---|---|
+| **A** | **Popliteus + PFL** | ↑ ER at 30°, normal varus | **Augmented repair (modified Larson)** |
+| **B** | Popliteus + PFL + **FCL** | ↑ ER at 30°, **5–10 mm** varus opening | **Reconstruction (modified LaPrade)** + cruciate |
+| **C** | Popliteus + PFL + FCL + **capsule** ± cruciate | ↑ ER at **30° + 90°**, **> 10 mm** varus opening | Reconstruction (modified LaPrade) + cruciate |
+
+**Larson rebuilds (TO)** — **LCL + popliteus** with single graft (TO) · LCL + PFL (table below) — read the options
+
 | Reconstruction | Graft / technique | Rebuilds |
 |---|---|---|
 | **Fibular-based (Larson)** | Soft-tissue graft (semitendinosus / Achilles) through fibular head tunnel → **figure-of-eight** → single femoral tunnel | **LCL + PFL** |
@@ -289,3 +297,5 @@ PLC injury
 **"Failed ACL graft, varus laxity, dial + at 30° only?"** → **revision ACL + PLC reconstruction**
 
 **"Acute PLC repair vs reconstruction?"** → **higher rate of failure**
+
+**"Fanelli type B PLC injury (TO)?"** → **popliteus + PFL + FCL, 5–10 mm varus opening**

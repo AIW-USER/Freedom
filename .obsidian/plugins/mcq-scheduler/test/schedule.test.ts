@@ -2,23 +2,42 @@ import { describe, expect, it } from "vitest";
 
 import type { ModuleDef } from "../src/modules";
 import {
-	createSchedule,
-	finishSession,
-	gapFor,
-	moveInQueue,
-	nextModule,
-	pickQuestions,
-	pickSize,
-	placeModules,
-	recordAnswer,
-	resetModule,
-	Result,
-	ScheduleState,
-	startSession,
-	unplacedModules,
-	emptyModule,
+	answer,
 	completedCount,
+	createSchedule,
+	dayStartMs,
+	DEFAULT_LIMITS,
+	effectiveDay,
+	formatWait,
+	isDone,
+	isMature,
+	Limits,
+	migrate,
+	ModuleCard,
+	moveInQueue,
+	newCard,
+	nextModule,
+	nextQuestion,
+	Pick,
+	placeModules,
+	previewIntervals,
+	rate,
+	Rating,
+	resetModule,
+	reveal,
+	ScheduleState,
+	setCurrent,
+	studyAhead,
+	studyDay,
+	todayStats,
+	unplacedModules,
 } from "../src/schedule";
+
+const MIN = 60_000;
+/** Tue 6 Oct 2026, 10:00 local. */
+const T0 = new Date(2026, 9, 6, 10, 0).getTime();
+const H = DEFAULT_LIMITS.dayStartHour;
+const D0 = studyDay(T0, H);
 
 function defsOf(n: number, size = 5): ModuleDef[] {
 	return Array.from({ length: n }, (_, i) => ({
@@ -44,200 +63,243 @@ function seeded(seed = 1): () => number {
 	};
 }
 
-/** Serve the next module and answer every question with `result`. */
-function solveNext(state: ScheduleState, live: Set<string>, result: (key: string) => Result) {
-	const pick = nextModule(state, live)!;
-	let s = startSession(state, pick.key, pick.kind, [`${pick.key}#a`, `${pick.key}#b`]);
-	for (const id of s.current!.ids) s = recordAnswer(s, id, { result: result(pick.key), chosen: 0 });
-	const done = finishSession(s)!;
-	return { pick, ...done };
-}
-
 const allLive = (defs: ModuleDef[]) => new Set(defs.map((d) => d.key));
 
-describe("serving order", () => {
-	it("serves three new modules, then one repeat", () => {
-		const defs = defsOf(20);
-		const live = allLive(defs);
-		let s = createSchedule(defs);
-		const kinds: string[] = [];
-		for (let i = 0; i < 12; i++) {
-			const r = solveNext(s, live, () => -1);
-			kinds.push(r.pick.kind[0].toUpperCase());
-			s = r.state;
-		}
-		expect(kinds.join("")).toBe("NNNRNNNRNNNR");
+function review(ivl: number, ease = 2.5, due = D0): ModuleCard {
+	return { ...newCard(), state: "review", ivl, ease, due, reps: 3 };
+}
+
+function pick(s: ScheduleState, live: Set<string>, now = T0, limits: Limits = DEFAULT_LIMITS): Pick {
+	const p = nextModule(s, live, now, limits);
+	if (isDone(p)) throw new Error("expected a module, got done");
+	return p;
+}
+
+/** Serve and rate modules until the day is done; returns the order served. */
+function studyDayOut(s: ScheduleState, live: Set<string>, rating: Rating, now: number, limits = DEFAULT_LIMITS) {
+	const served: Pick[] = [];
+	for (let i = 0; i < 1000; i++) {
+		const p = nextModule(s, live, now, limits);
+		if (isDone(p)) break;
+		served.push(p);
+		s = answer(s, p.key, `${p.key}#${i}`, rating, now, limits);
+	}
+	return { state: s, served };
+}
+
+describe("SM-2", () => {
+	it("steps a new module through 1 m and 10 m, then graduates at 1 day", () => {
+		let c = rate(newCard(), 2, T0, D0);
+		expect(c.state).toBe("learning");
+		expect(c.due).toBe(T0 + 10 * MIN);
+		c = rate(c, 2, T0, D0);
+		expect(c).toMatchObject({ state: "review", ivl: 1, due: D0 + 1 });
 	});
 
-	it("serves new modules in queue order starting from the first", () => {
+	it("Easy graduates a new module at 4 days; Skip restarts at 1 minute; Hard waits between the steps", () => {
+		expect(rate(newCard(), 3, T0, D0)).toMatchObject({ state: "review", ivl: 4, due: D0 + 4 });
+		expect(rate(newCard(), 0, T0, D0)).toMatchObject({ state: "learning", step: 0, due: T0 + MIN });
+		expect(rate(newCard(), 1, T0, D0).due).toBe(T0 + 5.5 * MIN);
+	});
+
+	it("Good on a review multiplies the interval by the ease", () => {
+		expect(rate(review(10), 2, T0, D0)).toMatchObject({ ivl: 25, due: D0 + 25, ease: 2.5 });
+	});
+
+	it("Hard multiplies by 1.2 and lowers the ease by 15 points", () => {
+		const c = rate(review(10), 1, T0, D0);
+		expect(c.ivl).toBe(12);
+		expect(c.ease).toBeCloseTo(2.35);
+	});
+
+	it("Easy multiplies by ease × 1.3 and raises the ease by 15 points", () => {
+		const c = rate(review(10), 3, T0, D0);
+		expect(c.ivl).toBe(33);
+		expect(c.ease).toBeCloseTo(2.65);
+	});
+
+	it("Skip on a review is a lapse: relearn in 10 minutes, ease −20, never below 130%", () => {
+		const c = rate(review(30, 1.4), 0, T0, D0);
+		expect(c).toMatchObject({ state: "relearning", lapses: 1, ease: 1.3, ivl: 1, due: T0 + 10 * MIN });
+		expect(rate(c, 2, T0, D0)).toMatchObject({ state: "review", ivl: 1, due: D0 + 1 });
+	});
+
+	it("counts days late, half for Good", () => {
+		expect(rate(review(10, 2.5, D0 - 4), 2, T0, D0).ivl).toBe(30);
+	});
+
+	it("previews each button's wait", () => {
+		expect(previewIntervals(newCard(), T0, D0)).toEqual(["1m", "6m", "10m", "4d"]);
+		expect(previewIntervals(review(10), T0, D0)).toEqual(["10m", "12d", "25d", "1.1mo"]);
+		expect(formatWait(3 * 60 * MIN)).toBe("3h");
+	});
+});
+
+describe("study day", () => {
+	it("counts 03:00 as the day before when the day starts at 4", () => {
+		const late = new Date(2026, 9, 7, 3, 0).getTime();
+		const morning = new Date(2026, 9, 7, 4, 0).getTime();
+		expect(studyDay(late, 4)).toBe(D0);
+		expect(studyDay(morning, 4)).toBe(D0 + 1);
+		expect(dayStartMs(D0 + 1, 4)).toBe(morning);
+	});
+
+	it("study ahead acts as tomorrow, then carries on when tomorrow comes", () => {
+		const defs = defsOf(50);
+		const live = allLive(defs);
+		const limits = { ...DEFAULT_LIMITS, newPerDay: 3 };
+		let { state } = studyDayOut(createSchedule(defs), live, 3, T0, limits);
+		expect(state.today).toMatchObject({ day: D0, newDone: 3 });
+
+		state = studyAhead(state, T0, H);
+		expect(effectiveDay(state, T0, H)).toBe(D0 + 1);
+		expect(todayStats(state, live, T0, limits).newLeft).toBe(3);
+		state = studyDayOut(state, live, 3, T0, limits).state;
+		expect(state.today).toMatchObject({ day: D0 + 1, newDone: 3 });
+
+		// The real tomorrow: still day D0+1, already done.
+		const tomorrow = T0 + 86_400_000;
+		expect(effectiveDay(state, tomorrow, H)).toBe(D0 + 1);
+		expect(isDone(nextModule(state, live, tomorrow, limits))).toBe(true);
+		// The day after: a fresh day.
+		expect(todayStats(state, live, tomorrow + 86_400_000, limits).newLeft).toBe(3);
+	});
+});
+
+describe("what comes next", () => {
+	it("introduces new modules from the head of the queue, up to the daily limit", () => {
+		const defs = defsOf(30);
+		const { served } = studyDayOut(createSchedule(defs), allLive(defs), 3, T0);
+		expect(served.map((p) => p.key)).toEqual(defs.slice(0, 20).map((d) => d.key));
+		expect(served.every((p) => p.kind === "new")).toBe(true);
+	});
+
+	it("serves a due learning module first", () => {
 		const defs = defsOf(5);
-		const s = createSchedule(defs);
-		expect(nextModule(s, allLive(defs))).toEqual({ key: "t::m0", kind: "new" });
+		let s = createSchedule(defs);
+		s = answer(s, "t::m3", "x", 0, T0, DEFAULT_LIMITS); // learning, due T0+1m
+		expect(pick(s, allLive(defs), T0 + 2 * MIN)).toEqual({ key: "t::m3", kind: "learning" });
 	});
 
-	it("repeats the lowest-scoring eligible module", () => {
+	it("spreads new modules evenly among the reviews", () => {
+		const defs = defsOf(20);
+		let s = createSchedule(defs);
+		for (const d of defs.slice(10)) s = { ...s, cards: { ...s.cards, [d.key]: review(5) } };
+		s = { ...s, queue: s.queue.slice(0, 10) };
+		const { served } = studyDayOut(s, allLive(defs), 3, T0, { ...DEFAULT_LIMITS, newPerDay: 5 });
+		expect(served.map((p) => p.kind[0]).join("")).toBe("nrrnrrnrrnrrnrr");
+	});
+
+	it("caps reviews at the daily maximum", () => {
 		const defs = defsOf(10);
-		const live = allLive(defs);
-		let s = createSchedule(defs);
-		const scores: Record<string, Result> = { "t::m0": 0, "t::m1": -1, "t::m2": 1 };
-		for (let i = 0; i < 3; i++) s = solveNext(s, live, (k) => scores[k] ?? 1).state;
-		// The repeat is due, but m1 (gap 2) has waited only 1: one more new first.
-		const fourth = solveNext(s, live, () => 1);
-		expect(fourth.pick).toEqual({ key: "t::m3", kind: "new" });
-		expect(solveNext(fourth.state, live, () => 1).pick).toEqual({ key: "t::m1", kind: "repeat" });
+		let s = { ...createSchedule(defs), queue: [] };
+		for (const d of defs) s = { ...s, cards: { ...s.cards, [d.key]: review(5) } };
+		const { served } = studyDayOut(s, allLive(defs), 2, T0, { ...DEFAULT_LIMITS, reviewsPerDay: 4 });
+		expect(served).toHaveLength(4);
 	});
 
-	it("among eligible repeats takes the lowest score, then the fewest attempts", () => {
-		const defs = defsOf(4);
-		const s: ScheduleState = {
-			...createSchedule(defs),
-			queue: [],
-			sessionCount: 50,
-			slot: 3,
-			modules: {
-				"t::m0": { ...emptyModule(), attempts: 1, score: 0, lastSolvedAt: 1 },
-				"t::m1": { ...emptyModule(), attempts: 2, score: -0.5, lastSolvedAt: 2 },
-				"t::m2": { ...emptyModule(), attempts: 1, score: -0.5, lastSolvedAt: 3 },
-				"t::m3": { ...emptyModule(), attempts: 1, score: -1, lastSolvedAt: 50 },
-			},
-		};
-		// m3 is lowest but was just solved and has not waited its gap.
-		expect(nextModule(s, allLive(defs))).toEqual({ key: "t::m2", kind: "repeat" });
+	it("takes a learning module due within 20 minutes rather than ending the day", () => {
+		const defs = defsOf(1);
+		let s = answer(createSchedule(defs), "t::m0", "x", 2, T0, DEFAULT_LIMITS); // due in 10 m
+		expect(pick(s, allLive(defs))).toEqual({ key: "t::m0", kind: "learning" });
+		s = answer(s, "t::m0", "y", 2, T0, DEFAULT_LIMITS); // graduated: tomorrow
+		expect(nextModule(s, allLive(defs), T0, DEFAULT_LIMITS)).toEqual({ done: true, nextLearningAt: null });
 	});
 
-	it("keeps serving new modules while no repeat has waited its gap", () => {
-		const defs = defsOf(10);
-		const live = allLive(defs);
-		let s = createSchedule(defs);
-		// All perfect: gap after one attempt is 2 + 2·1·2 = 6, so m0 is back 6 modules later.
-		const kinds: string[] = [];
-		for (let i = 0; i < 8; i++) {
-			const r = solveNext(s, live, () => 1);
-			kinds.push(r.pick.kind[0].toUpperCase());
-			s = r.state;
-		}
-		expect(kinds.join("")).toBe("NNNNNNNR");
-	});
-
-	it("repeats only once everything new is used, never the one just solved", () => {
-		const defs = defsOf(2);
-		const live = allLive(defs);
-		let s = createSchedule(defs);
-		s = solveNext(s, live, () => 1).state;
-		s = solveNext(s, live, () => 1).state;
-		expect(nextModule(s, live)).toEqual({ key: "t::m0", kind: "repeat" });
+	it("reports when the next learning module is due", () => {
+		const defs = defsOf(1);
+		const s = answer(createSchedule(defs), "t::m0", "x", 1, T0, DEFAULT_LIMITS); // 5.5 m
+		const later = T0 - 30 * MIN; // pretend it is earlier so the wait exceeds learn-ahead
+		expect(nextModule({ ...s, cards: { "t::m0": { ...s.cards["t::m0"], due: T0 + 60 * MIN } } }, allLive(defs), later, DEFAULT_LIMITS)).toEqual({
+			done: true,
+			nextLearningAt: T0 + 60 * MIN,
+		});
 	});
 
 	it("skips modules that are no longer in the file", () => {
 		const defs = defsOf(3);
-		const s = createSchedule(defs);
-		expect(nextModule(s, new Set(["t::m2"]))?.key).toBe("t::m2");
+		expect(pick(createSchedule(defs), new Set(["t::m1", "t::m2"])).key).toBe("t::m1");
 	});
 
-	it("returns null once every module is completed", () => {
-		const defs = defsOf(1);
-		const live = allLive(defs);
+	it("counts the day's work", () => {
+		const defs = defsOf(5);
 		let s = createSchedule(defs);
-		for (let i = 0; i < 3; i++) s = solveNext(s, live, () => 1).state;
-		expect(nextModule(s, live)).toBeNull();
+		s = answer(s, "t::m0", "x", 3, T0, DEFAULT_LIMITS);
+		expect(s.queue).not.toContain("t::m0");
+		expect(s.today).toEqual({ day: D0, newDone: 1, reviewsDone: 0 });
+		expect(todayStats(s, allLive(defs), T0, DEFAULT_LIMITS)).toMatchObject({ newLeft: 4, due: 0, learning: 0 });
 	});
 });
 
-describe("gap", () => {
-	it("grows with score and attempts", () => {
-		const m = (attempts: number, score: number) => ({ ...emptyModule(), attempts, score });
-		expect(gapFor(m(1, -1))).toBe(2);
-		expect(gapFor(m(3, -1))).toBe(2);
-		expect(gapFor(m(1, 0))).toBe(4);
-		expect(gapFor(m(2, 1))).toBe(10);
-		expect(gapFor(m(2, 0.5))).toBeGreaterThan(gapFor(m(2, 0)));
-	});
-});
+describe("which question a visit asks", () => {
+	const ids = ["OB1", "TO1", "OB2", "TO2", "OBx"];
+	const kinds = { isTO: (id: string) => id.startsWith("TO"), answerable: (id: string) => id !== "OBx" };
 
-describe("question pick", () => {
-	it("takes 40%, rounded up, at least one", () => {
-		expect([1, 2, 3, 5, 10, 16].map(pickSize)).toEqual([1, 1, 2, 2, 4, 7]);
-	});
-
-	it("asks questions not asked last time first", () => {
-		const ids = ["a", "b", "c", "d", "e"];
-		const picked = pickQuestions(ids, () => true, ["a", "b", "c"], seeded(3));
-		expect(picked.length).toBe(2);
-		expect(picked.sort()).toEqual(["d", "e"]);
-	});
-
-	it("always asks every TO question and samples 40% of the OB ones", () => {
-		const ids = ["OB1", "OB2", "OB3", "OB4", "OB5", "TO1", "TO2"];
-		const isTO = (id: string) => id.startsWith("TO");
-		for (let seed = 1; seed <= 20; seed++) {
-			const picked = pickQuestions(ids, () => true, [], seeded(seed), isTO);
-			expect(picked.filter(isTO).sort()).toEqual(["TO1", "TO2"]);
-			expect(picked.filter((id) => !isTO(id)).length).toBe(2); // ceil(0.4 × 5)
+	it("asks every question once — TO first, then OB, then unanswerable — before any repeats", () => {
+		let card: ModuleCard = newCard();
+		const asked: string[] = [];
+		const rng = seeded(3);
+		for (let i = 0; i < 5; i++) {
+			const id = nextQuestion(card, ids, kinds, rng)!;
+			asked.push(id);
+			card = { ...card, lastId: id, questions: { ...card.questions, [id]: { seen: 1, last: 2, sum: 2, lastAt: i } } };
 		}
+		expect(asked.slice(0, 2).sort()).toEqual(["TO1", "TO2"]);
+		expect(asked.slice(2, 4).sort()).toEqual(["OB1", "OB2"]);
+		expect(asked[4]).toBe("OBx");
 	});
 
-	it("asks only the TO questions when a module has no OB ones", () => {
-		const picked = pickQuestions(["TO1", "TO2", "TO3"], () => true, [], seeded(), () => true);
-		expect(picked.sort()).toEqual(["TO1", "TO2", "TO3"]);
+	it("then asks the weakest: lowest last rating, then lowest average, then longest unseen", () => {
+		const q = (last: Rating, sum: number, seen: number, lastAt: number) => ({ last, sum, seen, lastAt });
+		const card: ModuleCard = {
+			...newCard(),
+			lastId: "OB1",
+			questions: { OB1: q(0, 0, 1, 1), TO1: q(1, 4, 2, 2), OB2: q(1, 2, 2, 3), TO2: q(1, 2, 2, 0), OBx: q(3, 3, 1, 0) },
+		};
+		// OB1 has the lowest rating but was asked last; OB2 and TO2 tie on average, TO2 seen longer ago.
+		expect(nextQuestion(card, ids, kinds, seeded())).toBe("TO2");
 	});
 
-	it("leaves an unanswerable TO question out, since it could only ever score 0", () => {
-		const picked = pickQuestions(["OB1", "TO1", "TO2"], (id) => id !== "TO2", [], seeded(), (id) =>
-			id.startsWith("TO"),
-		);
-		expect(picked.sort()).toEqual(["OB1", "TO1"]);
-	});
-
-	it("leaves out unanswerable questions unless nothing else is left", () => {
-		expect(pickQuestions(["a", "b"], (id) => id === "b", [], seeded())).toEqual(["b"]);
-		expect(pickQuestions(["a"], () => false, [], seeded())).toEqual(["a"]);
+	it("repeats the only question of a one-question module", () => {
+		const card: ModuleCard = { ...newCard(), lastId: "A", questions: { A: { seen: 1, last: 2, sum: 2, lastAt: 0 } } };
+		expect(nextQuestion(card, ["A"], kinds, seeded())).toBe("A");
 	});
 });
 
-describe("scoring and completion", () => {
-	it("scores the session average of +1, 0 and −1", () => {
-		const defs = defsOf(1);
-		let s = startSession(createSchedule(defs), "t::m0", "new", ["a", "b", "c", "d"]);
-		s = recordAnswer(s, "a", { result: 1, chosen: 0 });
-		s = recordAnswer(s, "b", { result: 1, chosen: 0 });
-		s = recordAnswer(s, "c", { result: 0, chosen: null });
-		expect(finishSession(s)).toBeNull(); // not finished until every question is answered
-		s = recordAnswer(s, "d", { result: -1, chosen: 2 });
-		const done = finishSession(s)!;
-		expect(done.tally).toEqual({ right: 2, skipped: 1, wrong: 1, average: 0.25 });
-		expect(done.state.modules["t::m0"]).toMatchObject({ attempts: 1, score: 0.25, perfect: 0 });
-		expect(done.state.queue).not.toContain("t::m0");
+describe("answering", () => {
+	it("records the question and clears the one on screen", () => {
+		const defs = defsOf(2);
+		let s = setCurrent(createSchedule(defs), { key: "t::m0", id: "Q0_1", kind: "new", revealed: null });
+		s = reveal(s, 2);
+		expect(s.current?.revealed).toEqual({ chosen: 2 });
+		expect(reveal(s, 0).current?.revealed).toEqual({ chosen: 2 });
+		s = answer(s, "t::m0", "Q0_1", 1, T0, DEFAULT_LIMITS);
+		expect(s.current).toBeNull();
+		expect(s.cards["t::m0"].questions.Q0_1).toEqual({ seen: 1, last: 1, sum: 1, lastAt: T0 });
+		expect(s.cards["t::m0"].lastId).toBe("Q0_1");
 	});
+});
 
-	it("keeps the first answer to a question", () => {
-		let s = startSession(createSchedule(defsOf(1)), "t::m0", "new", ["a"]);
-		s = recordAnswer(s, "a", { result: -1, chosen: 1 });
-		s = recordAnswer(s, "a", { result: 1, chosen: 0 });
-		expect(s.current!.answers.a.result).toBe(-1);
+describe("completion", () => {
+	it("is mature with every question seen and an interval of 21 days", () => {
+		const seen = (ids: string[]) => Object.fromEntries(ids.map((id) => [id, { seen: 1, last: 2 as Rating, sum: 2, lastAt: 0 }]));
+		expect(isMature({ ...review(21), questions: seen(["a", "b"]) }, ["a", "b"])).toBe(true);
+		expect(isMature({ ...review(21), questions: seen(["a"]) }, ["a", "b"])).toBe(false);
+		expect(isMature({ ...review(20), questions: seen(["a", "b"]) }, ["a", "b"])).toBe(false);
+		const s = { ...createSchedule(defsOf(1, 1)), cards: { "t::m0": { ...review(30), questions: seen(["Q0_0"]) } } };
+		expect(completedCount(s, () => ["Q0_0"])).toBe(1);
 	});
+});
 
-	it("completes after three perfect sessions, not necessarily in a row", () => {
-		const defs = defsOf(1);
-		const live = allLive(defs);
-		let s = createSchedule(defs);
-		const results: Result[] = [1, -1, 1, 0, 1];
-		let completedAt = -1;
-		results.forEach((r, i) => {
-			if (completedAt !== -1) return;
-			const done = solveNext(s, live, () => r);
-			s = done.state;
-			if (done.completedNow) completedAt = i;
-		});
-		expect(completedAt).toBe(4);
-		expect(completedCount(s)).toBe(1);
-	});
-
-	it("resumes a session with its answers intact", () => {
-		let s = startSession(createSchedule(defsOf(1)), "t::m0", "new", ["a", "b"]);
-		s = recordAnswer(s, "a", { result: 1, chosen: 3 });
-		const reloaded: ScheduleState = JSON.parse(JSON.stringify(s));
-		expect(reloaded.current!.answers).toEqual({ a: { result: 1, chosen: 3 } });
-		expect(reloaded.current!.ids).toEqual(["a", "b"]);
+describe("migration", () => {
+	it("keeps the version 1 queue order and starts every module new", () => {
+		const v1 = { version: 1, queue: ["b", "a"], modules: { a: { attempts: 0 }, b: { attempts: 0 }, c: { attempts: 2 } } };
+		const s = migrate(v1)!;
+		expect(s.version).toBe(2);
+		expect(s.queue).toEqual(["b", "a", "c"]);
+		expect(s.cards.c).toEqual(newCard());
+		expect(migrate(s)).toBe(s);
+		expect(migrate(null)).toBeNull();
 	});
 });
 
@@ -252,23 +314,19 @@ describe("editing", () => {
 
 	it("resets a module back into the queue at its file position", () => {
 		const defs = defsOf(4);
-		const live = allLive(defs);
 		let s = createSchedule(defs);
-		s = solveNext(s, live, () => 1).state; // m0 solved
-		s = solveNext(s, live, () => 1).state; // m1 solved
+		s = answer(s, "t::m0", "x", 3, T0, DEFAULT_LIMITS);
+		s = answer(s, "t::m1", "x", 3, T0, DEFAULT_LIMITS);
 		s = resetModule(s, "t::m1", defs);
 		expect(s.queue).toEqual(["t::m1", "t::m2", "t::m3"]);
-		expect(s.modules["t::m1"]).toEqual(emptyModule());
+		expect(s.cards["t::m1"]).toEqual(newCard());
 	});
 
-	it("a module started out of turn leaves the cycle where it was", () => {
+	it("a module studied out of turn is introduced and leaves the queue", () => {
 		const defs = defsOf(6);
-		let s = startSession(createSchedule(defs), "t::m4", "manual", ["x"]);
-		s = recordAnswer(s, "x", { result: 1, chosen: 0 });
-		s = finishSession(s)!.state;
-		expect(s.slot).toBe(0);
+		const s = answer(createSchedule(defs), "t::m4", "x", 2, T0, DEFAULT_LIMITS);
 		expect(s.queue).not.toContain("t::m4");
-		expect(nextModule(s, allLive(defs))?.key).toBe("t::m0");
+		expect(s.cards["t::m4"].state).toBe("learning");
 	});
 });
 
@@ -306,9 +364,9 @@ describe("new modules", () => {
 		]);
 	});
 
-	it("gives placed modules a zero record, so they are no longer new", () => {
+	it("gives placed modules a new card, so they are no longer unplaced", () => {
 		const s = placeModules(base, fresh, { where: "end" }, defs);
 		expect(unplacedModules(s, defs)).toEqual([]);
-		expect(s.modules["t::m4"]).toEqual(emptyModule());
+		expect(s.cards["t::m4"]).toEqual(newCard());
 	});
 });

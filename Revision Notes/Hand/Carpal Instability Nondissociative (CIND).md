@@ -36,6 +36,8 @@
 
 **Commonest cause of radiocarpal instability** — **distal radius malunion** (Orthobullets) · ulnar translocation commonly **RA / RSC disruption** (TO) — read the options
 
+**Radiocarpal instability mechanism (TO)** — failure of **extrinsic volar ligaments** → proximal row translates **volarly** · midcarpal instability → failure of midcarpal stabilisers → **capitate translation → VISI**
+
 **Dorsal radiocarpal instability (TO)** — DR malunion with **loss of volar tilt**
 
 ## 3 Presentation
@@ -53,6 +55,8 @@
 **Static X-ray** — AP + lateral; often **normal or mild VISI**
 
 **Dynamic fluoroscopy / cineradiography** — **diagnostic** (TO); sudden jump of proximal row **flexion → extension** with ulnar deviation
+
+**Stress views (TO)** — **volar / dorsal drawer** → detect midcarpal instability
 
 **Ulnar translation** — **>50% of lunate width** translated ulnarly off the lunate fossa
 

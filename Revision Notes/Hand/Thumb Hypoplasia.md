@@ -72,10 +72,10 @@ Hypoplastic thumb — CMC joint stable?
 
 | Procedure | Technique |
 |---|---|
-| **Opponensplasty** | **FDS** or **ADM** |
+| **Opponensplasty** | **FDS** or **ADM** · Blauth II–IIIA: **FDS ring** transfer or **Huber (ADM) opponensplasty** (TO) |
 | 1st web deepening | **Z-plasty** |
 | MCP stabilisation | **Fusion** · UCL reconstruction with **FDS** · UCL with free graft |
-| **Pollicisation** | Index on NV bundles; detach 1st dorsal + palmar interossei; shorten by removing **index MC + physis**; stabilise index MCP; rebalance tendons; plan skin to avoid grafts |
+| **Pollicisation** | Index on NV bundles; detach 1st dorsal + palmar interossei; shorten by removing **index MC + physis**; stabilise index MCP; rebalance tendons; plan skin to avoid grafts · **12–18 mo** · **index MP → thumb CMC** · EIP → EPL · EDC → APL · 1st DI → APB · 1st PI → adductor pollicis (TO) |
 
 **9-month-old, basal MC aplasia, deficient CMC, no MCP/IP motion** → **pollicisation**\
 ✗ Wrong options: observation · opposition transfer alone · web release + transfer + MCP fusion · UCL reconstruction

@@ -136,6 +136,12 @@ export interface McqSettings {
 	progress: ProgressSettings;
 	/** Vault path of the modules file the schedule is built from. */
 	modulesFile: string;
+	/** New modules introduced per study day. */
+	newPerDay: number;
+	/** Most reviews served per study day. */
+	reviewsPerDay: number;
+	/** Hour (0–23) at which a new study day begins. */
+	dayStartHour: number;
 }
 
 export const DEFAULT_SETTINGS: McqSettings = {
@@ -147,6 +153,9 @@ export const DEFAULT_SETTINGS: McqSettings = {
 	activityPath: "",
 	progress: DEFAULT_PROGRESS_SETTINGS,
 	modulesFile: "Question Modules.md",
+	newPerDay: 20,
+	reviewsPerDay: 200,
+	dayStartHour: 4,
 };
 
 export class McqParseError extends Error {

@@ -12,6 +12,8 @@
 
 **Typical patient** — **13-year-old male**, lesion on **lateral aspect of medial femoral condyle** · **M:F 5–6:1**
 
+**Age bands (TO)** — **juvenile < 12–14 yr** (open physis, heals) · **adult > 14 yr** (closed physis, poor healing, surgery) · OCD overall **13–21 yr** · sites also LFC, **lower pole patella** · **commonest cause of loose body in adolescent knee** (TO)
+
 **Sites** — **knee (most common)**, capitellum, talus · knee osteochondrosis on **0.002–0.003%** of knee radiographs
 
 | Knee location | Share |
@@ -37,6 +39,8 @@
 **Other** — **recurrent effusions**, localised tenderness, stiffness, swelling, antalgic gait
 
 **Wilson test** — **pain on internal rotation of tibia during extension between 90° and 30°**, **relieved by tibial external rotation**
+
+**Wilson (TO)** — seated, 90° flexion, IR, actively extend → pain at **\~30°** (**tibial spine impinges lesion**)
 
 ## 4 Diagnosis & Classification
 
@@ -79,6 +83,15 @@
 
 **ICRS OCD** — **types II + III = unstable** → often surgery (OB)
 
+| OCD stage (TO, Mohindra) | Lesion | Procedure |
+|---|---|---|
+| **I** | Intact cartilage, stable | **Retrograde drilling** (fluoroscopy, from non-articular side) |
+| **II** | Partial cartilage breach | **Fragment fixation** (Herbert screw / bioabsorbable pins) |
+| **III** | Complete breach, fragment in crater | Debride crater → refix / OATS / ACI |
+| **IV** | **Free loose body** | Loose-body excision + cartilage restoration (OATS / ACI / BMAC) |
+
+**Fixation (TO)** — **Herbert screw = best compression** · alternatives bioabsorbable pins, PLLA plugs, fibrin glue
+
 ### Prognosis — open physes & lesion stability
 
 | Good prognosis (nonop) | Poor prognosis |
@@ -95,6 +108,8 @@
 **Location conflict** — classic MFC site = **good prognosis** (Orthobullets, OB) vs **typical location not predictive of healing** (OB, DeSmet / Paletta question) — read the options
 
 **Adult OCD** — rarely heals spontaneously; **very low nonop healing rate**
+
+**Prognosis (TO)** — good: juvenile, **< 1 cm**, medial condyle, stable · poor: adult, **> 2 cm**, patellar / lateral, unstable · **OA progression rare in OCD** (unlike SONK)
 
 ## 5 Management
 
@@ -142,6 +157,8 @@ Arthroscopic finding (OB algorithm)
 **Stable, open physes** — **restricted WB + bracing** / **activity modification** · **50–75% heal without fragmentation** · also **asymptomatic adults**
 
 **Duration** — **NWB 6–8 wk** (OB) · activity restriction **3–9 months** (OB) · cease sport 4–6 months (OB, osteonecrosis chapter)
+
+**Juvenile protocol (TO)** — stage I–II → **immobilise + NWB 6 wk**, full WB by **3 months** · stage III–IV or **3 months failed** nonop → surgery · **adult: surgery if symptomatic or > 1 cm**
 
 **11 yr, intact cartilage, Wilson +** — **non-weight bearing for 6–8 weeks**\
 ✗ Wrong options: removal · ORIF · microfracture · full WB
@@ -270,3 +287,7 @@ Arthroscopic finding (OB algorithm)
 **"OCA over MACI alone?"** → **subchondral bone loss > 1 cm**
 
 **"Untreated OCD > 6 cm², normal alignment?"** → **osteochondral allograft (Treatment E)**
+
+**"Commonest cause of loose body in an adolescent knee (TO)?"** → **osteochondritis dissecans**
+
+**"Stage I adult OCD with intact cartilage (TO)?"** → **retrograde drilling**

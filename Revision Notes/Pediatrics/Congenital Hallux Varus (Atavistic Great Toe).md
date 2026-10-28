@@ -10,6 +10,10 @@
 
 **Associated** — **polydactyly** (often)
 
+**Pathoanatomy (TO)** — short thick 1st MT · **fibrous medial band** · **rudimentary duplicated great toe** · hallux varus = deformity in **phalanges/MTP** vs metatarsus primus varus = deformity in **metatarsal**
+
+**Modified Farmer (TO)** — release fibrous band + create **syndactyly/synostosis between 1st and 2nd toes**
+
 ### Longitudinal epiphyseal bracket
 
 **LEB** (delta phalanx / bracket epiphysis) — anomalous **C-shaped secondary ossification centre** along the **medial diaphysis** → blocks transverse/longitudinal growth → progressive shortening + angulation

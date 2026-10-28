@@ -26,6 +26,11 @@
 | **Between humeral & ulnar heads of pronator teres** | **Most common site** | **Resisted pronation with elbow extended** |
 | **FDS aponeurotic arch** | Rare; FDS = medial epicondyle → volar P2 digits 2–5 | **Resisted FDS of middle finger** |
 | Gantzer muscle (accessory FPL head) | Listed by Adler & Wolf (OB) | — |
+| Palmaris profundus, FCR brevis (TO) | Rare | — |
+
+**Distances (TO)** — PT heads **3–7.5 cm** distal to humeral epicondylar line · FDS arch **\~6.5 cm** distal
+
+**Branching (TO)** — **PT first** (around elbow) → **ulnar-side** branches to PL, FCR, FDS (two) → **AIN = only branch from the RADIAL side** (FPL, FDP index + middle, PQ) → localises median lesions
 
 **Pronator teres attachments** — humeral head **medial epicondyle** + ulnar head **coronoid** → **mid-lateral radial shaft**
 
@@ -75,6 +80,8 @@ Pronator syndrome
        (≈80% relief; lacertus release possible under local anaesthesia)
 ```
 
+**Surgical release (TO)** — lazy-S proximal forearm → release **lacertus fibrosus** (almost subcutaneous) → **step-lengthen humeral head of PT** → release tendinous attachment of **deep (ulnar) head** → **excise FDS arch**
+
 **After failed CTR + forearm signs** — **decompress median nerve at elbow**\
 ✗ Wrong options: revision CTR · AIN decompression: AIN purely motor · ulnar decompression · more night bracing
 
@@ -115,3 +122,5 @@ Pronator syndrome
 **"Reverse Martin–Gruber?"** → **Marinacci** (TO)
 
 **"Mandatory imaging?"** → **elbow X-ray (supracondylar process)**
+
+**"Only median branch in forearm arising from radial side?"** → **AIN** (TO)

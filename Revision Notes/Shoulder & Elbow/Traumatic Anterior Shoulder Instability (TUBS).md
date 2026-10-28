@@ -14,6 +14,18 @@
 
 **Hyperlaxity** — global hyperlaxity (Ehlers-Danlos, collagen disorders) → OR **2.68** for anterior instability · **3× recurrence** · fewer capsulolabral lesions · more often atraumatic instability
 
+**Dislocation direction (TO)** — **anterior ~95%** · posterior ~5% · inferior (luxatio erecta) rare · one TO lecture: anterior **60–78%** of all dislocations (TO — verify: usual ~95%) — read the options
+
+**Bimodal age (TO)** — young males **20–40 y** + elderly **>70 y**
+
+**Head vs glenoid (TO)** — humeral head **~4× larger** than glenoid → stability sacrificed for mobility
+
+**Instability ≠ laxity (TO)** — laxity = ↑ translation, **no symptoms** · instability = laxity **+ symptoms** · dislocation = complete loss of articulation
+
+**"Unstable painful shoulder" (Boyd) (TO)** — pain without frank dislocation, labral tear present
+
+**Bone loss frequency in recurrent instability (TO)** — glenoid bone loss **50–95%** · Hill-Sachs **~93%** · **bipolar 60%+**
+
 ### Anatomy – static & dynamic restraints
 
 **Static** — bony anatomy, capsule, GH ligaments, **labrum (+50% glenoid depth)**
@@ -36,6 +48,12 @@
 **Main stabiliser above 45° abduction (TO)** — **IGHL**
 
 **AIGHL glenoid attachment** — usually to **labrum**; less commonly direct to glenoid neck
+
+**Negative intra-articular pressure (TO)** — **~−42 cm H₂O** · labral tear → pressure leaks → loss of concavity-compression → recurrence
+
+**"X-factors" (TO)** — **volition** + **proprioception** (besides static + dynamic stabilisers)
+
+**Labrum functional zone (TO)** — labrum functional only up to **2 o'clock** → anchors placed **below the coracoid**
 
 ### Pathoanatomy – Bankart lesion, IGHL & mechanism (abduction–external rotation)
 
@@ -127,6 +145,10 @@
 
 **Glenoid bone loss (TO)** — from anteroinferior rim fracture or **erosion** by humeral head; **6.8% loss per dislocation** (average)
 
+**Types of bone loss (TO)** — glenoid **attritional (chronic)**: repeated dislocations shave anterior rim · glenoid **acute (bony Bankart)**: avulsed fragment with labrum · humeral **Hill-Sachs**: posterosuperior head impacted on anterior glenoid
+
+**History (TO)** — Hill-Sachs described **1940** (Hill & Sachs); earliest impaction-fracture reference **1861** (Flower) · **Rowe (1978)**: bone loss → Bankart failure · **Burkhart & De Beer (2000)**: bone loss = main predictor of recurrence; **engaging lesion** concept
+
 **Reverse Hill-Sachs** — anteromedial head; **posterior** dislocation; lesser tuberosity fracture = posterior dislocation
 
 ## 3 Presentation
@@ -139,11 +161,36 @@
 
 **Load and shift** — grades 0–III (table below); **sulcus sign** with arm at side
 
+**Clues to significant bone loss (TO)** — apprehension at **lower degrees** of abduction/ER · **ease of dislocation** (sleep, minor movement) · catching/locking · **high-energy first episode** (bony Bankart) · failed Bankart
+
+| Dislocation sign (TO) | Finding |
+|---|---|
+| **Dugas** | Cannot touch opposite shoulder |
+| **Hamilton ruler** | Straight edge from **acromion to lateral arm** lies flat (lost deltoid curvature) |
+| **Callaway** | ↑ **arm circumference** on affected side |
+| Flattened deltoid | Loss of shoulder contour |
+
+**Limb attitude (TO)** — anterior **abduction + ER** · posterior **adduction + IR** · inferior **arm locked overhead** · mnemonic **"A–E, P–I"**
+
+**Associated fractures (TO)** — **GT fracture → anterior** dislocation · **LT fracture → posterior** dislocation
+
+| Anterior test (TO) | Technique | Meaning |
+|---|---|---|
+| **Apprehension (Jobe)** | 90° abduction + ER | Pain / apprehension |
+| **Relocation** | Posterior pressure on head | Relief → confirms instability origin |
+| **Release** | Remove hand | Pain / apprehension returns → confirms |
+| **Rowe** | Edge of couch, push head forward | ↑ sensitivity |
+| **Andrews** | **130° abduction + ER** | Alternative to Jobe |
+| **Rockwood** | Apprehension **maximal at 90° abduction** | IGHL involvement |
+| **Anterior drawer** | Supine, 80–90° abduction + slight flexion + ER | Quantifies translation |
+
+**Diagnostic trio (TO)** — **apprehension + relocation + release**
+
 ### Diagnostic criteria – hyperlaxity
 
 | Criterion | Threshold |
 |---|---|
-| **Beighton score** | **>4** |
+| **Beighton score** | **>4** · **≥5/9** (TO) |
 | **Hyper-ER at side** | **>85°** |
 | **Hyperabduction (Gagey)** | **>105°** |
 | Load–shift | **>2+ in ≥2 planes** |
@@ -166,6 +213,21 @@
 | CT arthrogram | **MRI contraindicated** (pacemaker, cochlear implant); poorer soft tissue |
 | **MRI** | **Best for labral tear**; validated for bone loss |
 | **MR arthrogram** | **Study of choice for soft tissue**: sens **86–91%**, spec **86–96%** (MRI 44–100% / 66–95%) |
+
+| X-ray view (TO) | Use |
+|---|---|
+| **Garth (apical oblique)** | **Both** Hill-Sachs + glenoid rim in one view |
+| **AP in IR** | **Best AP view for Hill-Sachs** |
+| **Bernageau** | Anterior glenoid contour: **blunted angle, "cliff sign"** |
+| **Axillary lateral** | **Best for confirming direction** of dislocation |
+
+**View mnemonic (TO)** — **West Point → glenoid · Stryker → Hill-Sachs · Garth → both**
+
+**CT vs MRI (TO)** — **CT = quantify** bone loss (**3D CT with humeral subtraction** best) · **MRI = qualify** (presence + soft tissue; poor correlation with size) → confirm on CT before surgery
+
+**CT indications (TO)** — recurrent dislocation · high-energy injury · failed Bankart · X-ray/MRI suggests bone loss · young athlete **<25 y** planning early repair
+
+**MRI clock face (TO)** — on axial MRI **coracoid = 12–2 o'clock** · **Bankart = 3–6 o'clock** · **Kim lesion = 6–9 o'clock** (posteroinferior)
 
 ### MRI positioning – ABER view
 
@@ -192,6 +254,29 @@
 
 **Glenoid shape** — normally pear-shaped (narrow superior); anteroinferior loss → **inverted pear**
 
+**Bare spot (TO)** — central cartilage-free zone at **junction of lower ⅔ and upper ⅓** · glenoid **max AP width ≈ 25 mm** · reference for bone-loss measurement
+
+**Arthroscopic bare-spot formula (TO)** — written **(B − A) × 2 / B × 100%** (TO — verify: usual **(B − A) / 2B**)
+
+| Quantification method (TO) | Principle | Remark |
+|---|---|---|
+| **PICO / surface area** | Best-fit circle centred on bare spot → % area lost | Simple, reliable, **single CT** |
+| **Linear (bare spot)** | Anterior vs posterior radius | Also arthroscopic |
+| **Glenoid index (ratio)** | Involved vs **opposite** glenoid width | Needs **bilateral CT** |
+| **Osseous fragment length** | Defect length **> glenoid radius → grafting** | Quick screening |
+| Di Filippo | Multiplanar CT, both sides | Precise, complex |
+| Sugaya | 3D CT en face | Quantification |
+
+**Most reliable + practical (TO)** — **PICO** and **glenoid index**
+
+| Saito severity (TO) | % glenoid loss | Meaning |
+|---|---|---|
+| **Mild** | **<15%** | Usually insignificant → Bankart |
+| **Moderate** | **15–25%** | Borderline → arthroscopic engagement / on-off track |
+| **Severe** | **>25%** | Bankart alone likely fails → bony procedure |
+
+**Critical glenoid defect (TO)** — **>21%** → isolated Bankart fails ("universal failure", Saito / Itoi / Burkhart & De Beer) · **inverted pear = ≥25%** loss (TO)
+
 | Threshold | Meaning | Source |
 |---|---|---|
 | **>20–25%** | **Critical**; soft tissue alone fails (>2/3 failure) → bony procedure | Orthobullets, most OB |
@@ -216,6 +301,28 @@
 ### Hill-Sachs lesion & glenoid track (on/off-track)
 
 **Bipolar concept** — glenoid bone loss + Hill-Sachs together; bipolar > unipolar engagement risk
+
+**Engaging lesion (Burkhart & De Beer 2000) (TO)** — in **abduction + ER** the Hill-Sachs axis **parallels the anterior glenoid rim** → engages → dislocation · on/off-track (**Yamamoto, Itoi, Di Giacomo 2014**) = final evolution
+
+**Glenoid track 83% (TO)** — remaining **17% anterior margin = safety zone**
+
+| Hill-Sachs quantification (TO) | Significant if |
+|---|---|
+| **Hill-Sachs quotient** | Width × depth × length (cm) **>2.5** |
+| **Ratio method** (true AP) | Depth **>20% of head radius** |
+| Surface involvement | **>20%** |
+
+| Franceschi grade (TO) | Hill-Sachs |
+|---|---|
+| **I** | **Cartilaginous** only |
+| **II** | **Superficial bony scuffing** |
+| **III** | **Deep "hatchet-type"** fracture |
+
+| Flatow & Warner head involvement (TO) | Significance |
+|---|---|
+| **<20%** | Clinically **insignificant** |
+| **20–40%** | **Variable** |
+| **>40%** | **Significant → surgery** |
 
 **Glenoid track (TO)** — area of posterior humeral articular surface in contact with glenoid along **posterior end-range (ABD + ER)**; width = medial margin of track → medial margin of cuff footprint
 
@@ -269,6 +376,8 @@
 
 **ISIS worked (OB)** — 18 ♀ competitive tennis (forced overhead), HS + glenoid contour loss = **9** (>70%) · competitive + contact + HS on ER AP, age 21, normal laxity (ER 80°, negative Gagey) = **5**
 
+**ISIS limitations (TO)** — Boileau, **JBJS 2007** · does **not quantify bone loss** · **ignores bipolar lesions**
+
 ### Anteroposterior translation (load & shift)
 
 | Grade | Translation |
@@ -277,6 +386,13 @@
 | 1+ | **Up to glenoid rim** |
 | 2+ | **Over rim, spontaneously reduces** |
 | 3+ | Over rim, **does not reduce** |
+
+| Load & shift grade (TO) | Translation (% head diameter) |
+|---|---|
+| 0 | **<25%** (normal) |
+| I | **25–50%**, rides up to rim |
+| II | **>50%**, dislocates, relocates on release |
+| III | Dislocates and **stays out** until pushed back |
 
 ### Sulcus sign
 
@@ -327,6 +443,22 @@ Recurrent instability – humeral side (Hill-Sachs)
 └─ >40% → humeral head allograft / ICBG; hemiarthroplasty if >40–45% + arthritis
 ```
 
+```
+Glenoid side (TO bone-loss lecture)
+├─ <10% → ignore → Bankart
+├─ 10–25% → grey zone → on/off-track
+├─ 25–40% → Latarjet / ICBG
+└─ >40% → ICBG / allograft reconstruction
+```
+
+```
+Humeral side (TO bone-loss lecture)
+├─ <10% → ignore → Bankart
+├─ 10–30% → remplissage
+├─ 30–40% → ICBG / Latarjet
+└─ >40% → resurfacing / arthroplasty
+```
+
 ### Operative criteria
 
 | Procedure | Indications |
@@ -356,6 +488,24 @@ Recurrent instability – humeral side (Hill-Sachs)
 | **25–40%** | Any | **Latarjet** + ICBG to humeral head if head loss >30% |
 | **>40%** | Any | **ICBG / allograft** |
 
+| Di Giacomo / Itoi / Burkhart 2014 (TO) | Hill-Sachs on-track | Hill-Sachs off-track |
+|---|---|---|
+| **Glenoid defect <25%** | **Arthroscopic Bankart** | **Bankart + remplissage** |
+| **Glenoid defect >25%** | **Latarjet** | **Latarjet ± humeral procedure** (remplissage / bone graft) |
+
+| TO recurrent-dislocation algorithm | Hill-Sachs | Procedure (TO) |
+|---|---|---|
+| **<10%** | Non-engaging | **Bankart** |
+| <10% | Engaging | **Bankart + remplissage** |
+| **10–25%** | Non-engaging | **Bankart ± capsular shift** |
+| 10–25% | Engaging | **Bankart + remplissage** |
+| **25–40%** | Any | **Latarjet** |
+| **>40%** | Any | **ICBG / allograft** |
+
+**10–25% GBL + engaging HS** — **Bankart + remplissage** (TO recurrent-dislocation lecture) · **Latarjet if head loss >20%** (other TO algorithm) — read the options
+
+**Bankart indication (TO)** — **<20%** glenoid loss (recurrent lecture) · **<15%** (instability lecture) · "On-track → soft tissue safe; off-track → needs bone" (TO)
+
 **TO Hill-Sachs size rule** — non-engaging (**usually <20%**) → nothing · engaging **20–40%** → remplissage · engaging **>40%** → bone graft (Eden-Hybinette)
 
 **TO soft-tissue zone** — isolated Bankart if GBL **<15–20%** (stricter **13.5%** best-fit circle in high-demand athletes) + on-track
@@ -381,6 +531,8 @@ Recurrent instability – humeral side (Hill-Sachs)
 
 **Age cut-off conflict** — **<20** (Orthobullets, ISIS, OB) · **<25** (TO, some OB) · **<30** (OB immobilisation question) · 21–30 (Kralinger) — read the options
 
+**Age <20 recurrence (TO)** — **~70–90%** · up to **80%** in young athletes · **Beighton ≥5/9** = generalised laxity risk factor
+
 | Recurrence risk factors (TO) | |
 |---|---|
 | **Modifiable** | **Manual occupation**, overhead occupation, immobilisation after dislocation, **collision sport**, time to RTS, psychosocial (pain, **fear of reinjury**) |
@@ -404,6 +556,21 @@ Recurrent instability – humeral side (Hill-Sachs)
 **First-time dislocators** — management controversial; **ASES: surgery for athletes 14–30 y at end of season** if **positive apprehension + bone loss**
 
 **Reduction techniques** — **traction-countertraction (commonest)** · **Kocher**: arm at side in ER → forward flex → IR · **Hippocratic**: heel in axilla · **Stimson**: prone, weight hung from arm · scapular manipulation
+
+**Kocher sequence (TO)** — **Traction → ER → Abduction → IR ("T-E-A-I")** (TO — verify: classic Kocher = traction → ER → **adduction** → IR) · **Hippocratic = obsolete** (TO) · reduce ideally **under anaesthesia + muscle relaxation** (TO)
+
+**Immobilisation (TO first-time lecture)** — traditional **3 wk adduction + IR** · current concept **1 wk in ER brace** (capsulolabral healing, ↓ stiffness) · **>3 wk → stiffness** esp. elderly
+
+| Rehab after first dislocation (TO) | Duration | Focus |
+|---|---|---|
+| Phase 1 | **0–1 wk** | ER brace |
+| Phase 2 | 1–3 wk | Pendulum + assisted ROM |
+| Phase 3 | 3–6 wk | Active ROM, avoid extreme ER |
+| Phase 4 | **>6 wk** | Strengthening + proprioception |
+
+**Return to sport after nonop (TO)** — **~3 months** if stable
+
+**Operative indications after first episode (TO)** — **GT / LT / glenoid rim fracture** · **bony Bankart** · **cuff tear (>40 y)** · **failed closed reduction** · high-demand athlete **<25 y + Bankart on MRI** · open reduction via **deltopectoral**
 
 **Immobilisation** — **no benefit >1 wk**; short (≤1 wk) = prolonged (≥3 wk) recurrence (41% vs 37%, Paterson) → **may stop sling at 1 wk**
 
@@ -444,6 +611,34 @@ Recurrent instability – humeral side (Hill-Sachs)
 
 **Technique** — **fully mobilise labrum** before repair · **≥3 anchors** (<3 → failure) · "drive-through sign" pre-repair · knotless anchors
 
+**Bankart goals (TO)** — reattach labrum · **retension IGHL** (superior capsular shift) · **"bumper" effect** on rim
+
+**Anchor positions (TO)** — on glenoid face at **3, 4, 5 o'clock** (right) · **2–3 anchors sufficient** (TO) · ≥3–4 anchors (Orthobullets, OB) — read the options
+
+**Balanced repair (Snyder) (TO)** — add **posterior capsular plication** if head not centred
+
+**Arthroscopic Bankart (TO)** — **gold standard** for anterior instability **without bone loss**
+
+| Position (TO) | Detail |
+|---|---|
+| **Lateral decubitus (preferred)** | **45° abduction + 15–20° forward flexion**, **20–30° posterior tilt** |
+| Beach chair | Alternative; risk of **cerebral hypoperfusion** |
+
+| Portal (TO) | Location | Use |
+|---|---|---|
+| Posterior | 2 fingers down + medial to posterolateral acromion | Viewing |
+| Anterior | Between coracoid + anterior acromial edge | Working: anchors, lasso |
+| Anterosuperior | Just lateral to acromial edge | Shuttle |
+
+**Modern trends (TO)** — **single anterior portal** Bankart (less time + morbidity, same stability) · **all-suture soft anchors** (preserve bone stock, less artefact) · **knotless** anchors (no suture abrasion) · biocomposite anchors
+
+| Rehab after stabilisation (TO) | Timing |
+|---|---|
+| Sling | **2–3 wk** |
+| Passive ROM | From **3 wk** (avoid ER stress) |
+| Active strengthening | **6–8 wk** |
+| Return to sport | **4–6 months** (Latarjet later) |
+
 **Too many anchors** — **postage-stamp fracture** through anchor holes
 
 **Recurrence after arthroscopic Bankart** — 13% (Ahmed) · 15.3% (Boileau) · 4% without bone defect vs **67%** with (Burkhart) · **89%** contact athletes with inverted pear
@@ -471,6 +666,18 @@ Recurrent instability – humeral side (Hill-Sachs)
 ### Remplissage
 
 **Remplissage ("to fill")** — **infraspinatus + posterior capsule** sutured into Hill-Sachs (posterior capsulodesis + infraspinatus tenodesis) → **intra-articular HS becomes extra-articular** (TO) → can't engage rim in ER
+
+**Remplissage origin + range (TO)** — **Wolf** (2004 in one TO lecture · 2007 in another) · for **10–30%** defects (TO bone-loss lecture) · **20–40%** (TO recurrent lecture)
+
+| Humeral option (TO) | Indication | Key point |
+|---|---|---|
+| **Disimpaction / elevation** | **<3–4 wk old, <40%** surface | Cortical window → tamp → bone graft |
+| **Remplissage** | 10–30% | Infraspinatus tenodesis + posterior capsulodesis |
+| **Allograft plug** (Kropf, Sekiya) | Moderate | Structural resurfacing |
+| **Rotational osteotomy (Weber 1969)** | Large defect, **young** | **25° medial rotation** of head · **5.7%** recurrence |
+| **Resurfacing / hemiarthroplasty** | **>40%** surface loss, elderly / arthritic | — |
+
+**RSA / arthroplasty (TO)** — **elderly with >40%** humeral loss
 
 **Goal (TO)** — ✓ extra-articular HS\
 ✗ Wrong options: more secure labrum · ↑ head diameter · ↑ glenoid track width
@@ -509,6 +716,22 @@ Recurrent instability – humeral side (Hill-Sachs)
 | **Capsular** | **CA ligament stump** repairs capsule |
 
 **Triple effect question** — **all three (bony + sling + CA ligament)** ✓
+
+**Triple effect = Patte (TO)** — bone block + conjoint sling + **tenodesis effect** (conjoint + lower subscapularis reinforce capsule)
+
+**History (TO)** — **Latarjet 1954**: **2–3 cm** coracoid transferred along long axis to anteroinferior glenoid neck · **Bristow (Helfet 1958)**: coracoid **tip** to glenoid neck; non-anatomic, relies on sling, poor bone coverage · gold standard for **>25%** loss (TO) · **25–40%** range (TO)
+
+| Latarjet technical point (TO) | Detail |
+|---|---|
+| Fixation | **2 screws parallel to glenoid face**, toward scapular spine |
+| Safe zone | **<28° medial tilt** (axial) · **<29° superior inclination** (coronal) |
+| Graft position | **2–5 o'clock** (right) |
+| Nerve risk order (TO) | **Suprascapular > axillary > musculocutaneous** |
+| Nonunion | **2–9%** — poor decortication / fixation |
+| Recurrence | **<1%** if done correctly |
+| Malposition | **Overmedialisation → persistent instability** · lateral overhang → arthritis |
+
+**Arthroscopic Latarjet (Lafosse) (TO)** — **5 stages**: exposure → coracoid prep → drilling/osteotomy → transfer → fixation · **91% excellent**, **80% grafts flush** on CT (Lafosse & Boyle 2010)
 
 **Sling effect (TO)** — ✓ conjoint tendon dynamic stability\
 ✗ Wrong options: CA ligament transfer = capsular · bone surface = bony · LHB tenodesis = DAS
@@ -556,6 +779,13 @@ Recurrent instability – humeral side (Hill-Sachs)
 ✗ Wrong options: sling – differs from Latarjet
 
 **Iliac crest (Eden-Hybinette) (TO)** — autograft for large defects where **coracoid volume inadequate**; 89% healing at 1.4 y; screws or buttons; risks: hardware failure, subscapularis repair failure
+
+| Alternative graft (TO) | Source | Use |
+|---|---|---|
+| **ICBG** | **Inner table** of iliac wing | Matches glenoid concavity; **>30–40%** loss · Eden-Hybinette for **>40%** |
+| **Distal tibial allograft** | **Lateral** articular surface | Cartilage match; massive defects |
+| **Distal clavicle autograft** | Resurfacing | Smaller defects / backup |
+| Allograft bone plug | Cancellous | Limited integration; selective |
 
 **Revising a failed Latarjet** — hardware removal + ICBG or DTA; electrocautery/nerve check to protect MC nerve (scarred, overlaps axillary nerve)
 
@@ -688,6 +918,8 @@ Recurrent instability – humeral side (Hill-Sachs)
 
 **Latarjet nerve conflict** — **MC = most common** (Orthobullets, most OB) · **axillary = most common** (one OB; neuromonitoring: all clinical deficits axillary) — read the options
 
+**Nerve risk ranking (TO)** — **suprascapular > axillary > musculocutaneous** (TO Latarjet table) — read the options
+
 **Resorption conflict** — common, **up to 90%** (Orthobullets, OB) · "uncommon overall", mostly first 6 mo (another OB) — read the options
 
 **Nerve injury management** — mostly **traction/contusion neurapraxia** → **observe 3–6 wk**; delayed EMG if persistent; all resolved by 6 mo (neuromonitoring)
@@ -761,6 +993,17 @@ Recurrent instability – humeral side (Hill-Sachs)
 | Main problem | **Recurrence** | Weakness, pseudoparalysis |
 | Next test | MRI/MRA, 3D CT for bone | **MRI shoulder** |
 | Nerve | Axillary neurapraxia | Axillary / plexus (less common than cuff) |
+
+| **FEDS (TO)** | Options |
+|---|---|
+| **F**requency | Single / recurrent |
+| **E**tiology | Traumatic / atraumatic |
+| **D**irection | Anterior / posterior / inferior |
+| **S**everity | Subluxation / dislocation |
+
+| | **West Point** | **Stryker notch** | **Garth** |
+|---|---|---|---|
+| Shows (TO) | **Glenoid rim / bony Bankart** | **Hill-Sachs** | **Both** |
 
 | | **Remplissage + Bankart** | **Latarjet** |
 |---|---|---|
@@ -1045,3 +1288,17 @@ Recurrent instability – humeral side (Hill-Sachs)
 **"Thermal capsulorrhaphy is used in?"** → **shoulder instability** (TO)
 
 **"True about Buford complex EXCEPT"** → **associated with recurrent dislocation** (TO)
+
+**"Critical glenoid defect above which isolated Bankart fails (Saito)?"** → **>21%** (TO)
+
+**"Glenoid track as % of glenoid width?"** → **83%** (TO)
+
+**"Inverted-pear glenoid corresponds to?"** → **≥25% anterior bone loss** (TO)
+
+**"Dugas sign?"** → **cannot touch opposite shoulder** (TO)
+
+**"Kocher reduction sequence?"** → **traction → ER → abduction (adduction classically) → IR** (TO)
+
+**"ISIS above which Latarjet is advised?"** → **>6** (TO)
+
+**"Latarjet triple effect described by?"** → **Patte** (TO)

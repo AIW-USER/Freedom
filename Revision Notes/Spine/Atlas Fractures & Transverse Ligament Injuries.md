@@ -8,6 +8,8 @@
 
 **Incidence** — **\~7% of cervical fractures** · 25% of CVJ injuries · 1–3% of all spinal injuries · **commonly missed**
 
+**Incidence (TO)** — **5–10%** of cervical spine injuries (Mohindra) · **3–13%** of cervical fractures (Vishnu) · associated odontoid / hangman **40–50%** · mechanism: axial load → **"hoop stress"** bursts the ring
+
 **Bimodal** — **20–30 yrs** high-energy axial load (\~85% MVC) · **elderly** low-energy ground-level fall (OA, osteoporosis, gait imbalance)
 
 **Associated injuries** — **50%** other spine injury · **40% axis (C2) fracture** · head injury
@@ -86,6 +88,21 @@
 | **2** | **Jefferson burst** — bilateral anterior + posterior arch, axial load | TAL intact → **hard collar** · intrasubstance tear → **C1-2 fusion** · bony avulsion → **halo** |
 | **3** | **Unilateral lateral mass** | TAL intact → hard collar · disrupted → halo |
 
+| Gehweiler (TO) | Pattern | Treatment |
+|---|---|---|
+| **I** | Isolated **anterior arch** (hyperextension) | Collar 8–12 wks |
+| **II** | Isolated **posterior arch** | Collar 8–12 wks |
+| **IIIa** | Jefferson burst, **TAL intact** | Collar, close follow-up |
+| **IIIb** | Jefferson burst, **TAL disrupted** | **Unstable → posterior C1-2 fusion / halo** |
+| **IV** | **Lateral mass** | Collar; displaced → traction + halo |
+| **V** | **Transverse process** | Stable, collar |
+
+| Jefferson (TO) | Pattern | Stability |
+|---|---|---|
+| I | Bilateral posterior arch | Stable |
+| II | Unilateral lateral mass | Stable |
+| III | Burst — anterior + posterior arches | **Unstable** (TAL) |
+
 ![Landells atlas fracture patterns](../../Orthobullets/attachments/ob2015-illustration-depicting-the-different-fracture-patterns-of-th.jpg)
 
 ### Dickman classification (TAL injury)
@@ -94,6 +111,10 @@
 |---|---|---|
 | **I** | **Intrasubstance tear** (won't heal) | **C1-2 fusion** |
 | **II** | **Bony avulsion** of C1 lateral mass tubercle | **Halo** (75% success) |
+
+**TAL injury management (TO)** — type I (intraligamentous/insertional) **heals poorly → early C1-2 or OC fusion** · type II (bony avulsion) **halo 12–16 wks**, surgery if nonunion
+
+**Fixation (TO)** — **> 8 mm** combined LMD → C1-2 fusion / OC fixation · posterior C1-2 fixation **loses \~50% of neck rotation** · **anterior C1 ring fixation** preserves rotation
 
 ## 5 Management
 
@@ -182,3 +203,5 @@ Atlas fracture
 
 **"True about Jefferson fracture?"** → **greater occipital neuralgia** (TO)\
 ✗ Wrong options: high neuro injury · type 1 → halo · intact TAL → fusion
+
+**"Gehweiler type with TAL disruption?"** → **IIIb — unstable** (TO)

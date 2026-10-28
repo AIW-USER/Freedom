@@ -44,6 +44,8 @@
 | **2** | **Active** | **ABC, UBC**, chondromyxoid fibroma, chondroblastoma · **GCT without cortical breakthrough** |
 | **3** | **Aggressive** | **GCT** (cortical breakthrough, soft-tissue extension) |
 
+**Radiological rim (TO)** — **latent = thick sclerotic rim** · **active = thin rim** · **aggressive = breaching cortex**
+
 ### AJCC — bone sarcoma
 
 | Stage | Grade | Size / feature | Metastasis | 5-yr survival (Orthobullets) |
@@ -66,7 +68,24 @@
 
 **Nodes** — N0 / N1 · **distant mets → automatically stage IV**
 
+### Staging investigations (TO)
+
+**Systemic** — **bone scan + CT chest (2 mm cuts)** or **whole-body PET-CT (head to toe)** · **Ewing → add bone marrow biopsy** (TO)
+
+**AJCC (TO)** — grade, **size (8 cm cut-off)**, metastasis · **pulmonary → IVA** · **extrapulmonary → IVB**
+
 ## 5 Management
+
+### Surgical margins — examples (TO)
+
+| Margin | Example (TO) |
+|---|---|
+| **Intralesional** | **Curettage (GCT)** · debulking (metastasis) |
+| **Marginal** | Through reactive zone · **pedunculated osteochondroma** excision |
+| **Wide** | En bloc with cuff of normal tissue |
+| **Radical** | Whole compartment · e.g. **BKA for foot sarcoma** |
+
+**Radicality** — defined by the **compartment, not the level** · **amputation is not always radical** (TO)
 
 ### Limb salvage principles & contraindications
 
@@ -75,6 +94,18 @@
 **Barriers (relative, not absolute)** — **poorly placed biopsy** · **major vascular involvement** · **encasement of major motor nerve** · **pathological fracture** **(TO)**
 
 **Two of four components involved** — **not** a contraindication **(TO)**
+
+**LSS requirements (TO)** — tumour allows **wide excision** · major NV **not encased** · **no uncontrolled infection** · patient fit · contraindicated: unclear margins, improper-biopsy compartment contamination, **fungating / uncontrolled local disease**
+
+**Priority (TO)** — save the patient, then the limb, then function · **margin decides survival, reconstruction decides quality of life**
+
+**Megaprosthesis indications (TO)** — large segmental loss · joint resected · need **immediate stability + early mobilisation** · limits: infection, aseptic loosening, **extensor mechanism** (knee)
+
+**Rotationplasty indications (TO)** — child needing durable reconstruction · massive resection where prosthesis will fail · **poor soft-tissue envelope**
+
+**Soft-tissue cover (TO)** — local / free flaps · **gastrocnemius flap** for knee · cover ↓ infection
+
+**Complications (TO)** — early: infection, wound necrosis, NV injury · late: **aseptic loosening**, implant breakage, local recurrence, biological failure
 
 **Nerves sacrificed during proximal humerus resection** (axillary + radial) — **continue with endoprosthesis** **(TO)** · axillary usually sacrificed anyway · radial → **later tendon transfers** (or repair same sitting) · amputation indicated for **intra-op tumour spillage**, not nerve loss
 
@@ -94,6 +125,8 @@
 ✗ Wrong options: Roman numerals = malignant
 
 **"Limb salvage contraindication — all EXCEPT?"** → **two of four components involved** (✓ bad biopsy, ✓ path fracture, ✓ motor nerve encasement) **(TO)**
+
+**"Amputation — always a radical margin?"** → **No — the compartment defines radicality** (TO)
 
 **"Axillary + radial nerve sacrificed during humeral OS resection — next?"** → **proceed with planned endoprosthesis** **(TO)**\
 ✗ Wrong options: amputation

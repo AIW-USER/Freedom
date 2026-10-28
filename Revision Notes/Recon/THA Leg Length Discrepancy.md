@@ -42,6 +42,8 @@
 
 **Symptoms** — **perceived LLD** despite anatomic equality
 
+**Tolerance (TO)** — **< 1 cm** unnoticed · **1–2.5 cm** may dissatisfy · **> 2.5 cm** symptomatic · lengthening **> 2.5–4 cm** → nerve injury risk · both over-lengthening and shortening ↑ contralateral hip OA risk (TO)
+
 **True length** — **ASIS → medial malleolus**
 
 **Apparent length** — includes contractures + pelvic obliquity · hard to measure
@@ -72,6 +74,14 @@ LLD after THA
 
 ### Intraoperative factors
 
+**Templating (TO)** — bilateral AP pelvis, hips **15° IR** · **inter-ischial line** + **top of lesser trochanter** each side → shortening · copy centre of rotation from normal side · cup: **inferior edge on teardrop line**, medial edge not past vertical teardrop line, ~**40°** · femur: GT + LT distances to head centre → neck cut + offset · femoral + acetabular centres at **same height** → equal length
+
+| Intra-op check (TO) | Meaning |
+|---|---|
+| **Ranawat technique** | Greater trochanter / pelvic reference for length |
+| **Shuck test** | Traction → **half the head stays in the socket** = adequate tension |
+| **Drop-kick test** | Soft-tissue (rectus) tension |
+
 **Restore anatomic length** — templating · variable neck lengths · intraoperative length check · clinical + radiographic pre-op assessment · ✓ **variable-offset modular system does NOT restore length** (EXCEPT answer)
 
 ## How it's asked
@@ -92,3 +102,7 @@ LLD after THA
 **"When to treat LLD with shoe lift?"** → **after 6 months**
 
 **"Second most common THA litigation cause?"** → **LLD** (first: nerve injury)
+
+**"Shuck test — adequate tension?"** → **half the femoral head stays in the acetabulum** (TO)
+
+**"LLD after THR usually tolerated up to?"** → **≤ 2.5 cm** (TO)

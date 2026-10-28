@@ -10,6 +10,12 @@
 
 **Stability** — no abnormal strain or excess motion under physiologic load · maintained by FSU, muscle tension, abdominal/thoracic pressure, rib cage
 
+**Motion segment / 3-joint complex (TO)** — **disc + bilateral facet joints** · stabilises, articulates, transmits load
+
+**Load sharing (TO)** — **80% anterior** (body + disc) · **20% posterior** (facets) · disc degeneration → ↑ posterior load → **facet arthritis**
+
+**Disc mechanics (TO)** — annulus (collagen + fibroblasts) **resists tension** · nucleus (proteoglycans, hydrophilic) converts **axial load → radial force**
+
 ![Intradiscal pressure by posture](../../Orthobullets/attachments/ob2003-intradiscal-pressures.jpg)
 
 ### Denis three columns
@@ -36,6 +42,12 @@
 **Ruptured if** — bony Chance fracture, interspinous widening, progressive kyphosis on non-op care, facet diastasis · ambiguous: MRI signal between spinous processes
 
 **TLICS** — PLC intact 0 / indeterminate / ruptured 3 · burst without deficit + intact PLC = 2 → **non-op (< 4)** · + ruptured PLC = 5 → **surgery (> 4)**
+
+**Discoligamentous complex (TO)** — disc + ALL + PLL + flavum + interspinous + supraspinous + facet capsules · integrity = **cornerstone of stability**
+
+**Lever arm principle (TO)** — ALL/PLL short lever arm → must be strong · **interspinous ligament thin but long lever arm** → resists flexion · MRI **interspinous oedema = posterior tension band failure**
+
+**Crane model (TO)** — anterior = compression · posterior = **tension band** · posterior failure → **flexion-distraction injury** · COG \~**4 cm anterior to S1**
 
 ## 4 Diagnosis & Classification
 
@@ -66,12 +78,18 @@
 | **Thoracic** | **20° coronal, 55° sagittal** | Rotation; little flex-ext (ribs) · protects heart/lungs |
 | **Lumbar** | **50° coronal, 90° sagittal** | **Flex-ext**, minimal rotation |
 
+**Facet inclination (TO)** — cervical **\~45°** (planar → rotation + lateral bend, **dislocates most easily**) · thoracic **\~60°** · lumbar **\~90° sagittal** (flex-ext, **resists rotation**, protects against anterior slip) · thoracic **55°** (Orthobullets) · **60°** (TO) — read the options
+
+**Facet tropism (TO)** — **asymmetric orientation of paired facets** at one level → unequal load → degeneration + **spondylolisthesis** · commonest **L4–L5** · CT/AP X-ray · diagnostic **facet block**
+
 ### Instantaneous axis of rotation
 
 **Definition** — **theoretical axis about which an FSU rotates at an instant** · not fixed; moves with bending/rotation · **3 axes, 6 degrees of freedom**
 
 **Pathology** — **degeneration, fracture, ligament injury shift the IAR** outside the FSU (enlarged) \
 ✗ Wrong options: fixed · 12 DOF · from AP/lateral films
+
+**IAR location (TO)** — **anterior to the vertebral body** (TO — verify: usually placed within the posterior disc / vertebral body)
 
 ![IAR in degenerative disc](../../Orthobullets/attachments/ob2003-iar-of-degenerative-disc.jpg)
 
@@ -92,6 +110,21 @@
 | Lumbar | **L1 smallest lumbar diameter** · medial angulation L1 12°, L5 30°, S1 39° · S1 \~19 mm |
 | Landmarks | Transverse process midpoint (cranio-caudal) · lateral pars border (medio-lateral) |
 
+| Level | Medial angulation (TO) | Sagittal (TO) |
+|---|---|---|
+| T11–T12 | **0° (straight)** | Straight |
+| L1–L2 | **10°** | 0–10° inferior |
+| L3 | **15°** | 10° inferior |
+| L4–L5–S1 | **20°** | 15–25° inferior (**S1 25°**) |
+
+**Medial angulation conflict** — **L1 12°, L5 30°, S1 39°** (Orthobullets) · **L1 10°, L3 15°, L5 20°** (TO) — read the options
+
+**Entry point (TO)** — **intersection technique** (line through mid-facet × transverse process) = commonest · **pars technique** (lamina–pedicle–TP junction) = revision · **mammillary process** (just lateral + inferior to facet) = young / trauma
+
+**Screw size (TO)** — thoracic **5.5 mm × 35–40 mm** · lumbar (T11–sacrum) **6.5 mm × 40–50 mm** · tap **1 mm smaller** than screw
+
+**Pedicle (TO)** — **strongest part of the vertebra** → 3-column fixation · **ball-tip probe checks 5 walls** · **Lenke probe** (gear-shift) ↓ medial breach · **monoaxial = stronger**, **polyaxial = easier rod insertion**
+
 ## 5 Management
 
 ### Instrumentation (TO)
@@ -103,6 +136,32 @@
 | Steffee plate + pedicle screws | Posterior |
 | **Dwyer, Zielke** | **Anterior** (scoliosis) |
 | Pedicle screw | Posterior, spans **all three columns** (Boucher 1959) |
+
+**Generations (TO)** — 1st **Harrington** (hooks, no pedicle purchase) → 2nd **Steffee** plates → 3rd **pedicle screw–rod** (gold standard)
+
+| Cage (TO) | Shape | Approach | Feature |
+|---|---|---|---|
+| **PLIF** | Rectangular | Posterior | Easier insertion |
+| **TLIF** | **Banana** | Oblique | **Biomechanically stronger** (anterior placement) |
+| **Harms** | Cylindrical (mesh) | Anterior | **Corpectomy** — tumour, TB |
+
+**Cage role (TO)** — restores disc height → ↑ foraminal space → fusion · must be backed by **posterior instrumentation**
+
+**Instrumentation in disc surgery (TO)** — **instability on flexion-extension films** · **recurrent prolapse** · severe degeneration in obese/heavy patients · otherwise avoid fusion
+
+### Positioning & instruments (TO)
+
+**Prone lumbar** — bolsters at **nipple level + ASIS** · **abdomen hangs free** → no IVC compression → ↓ epidural venous bleeding · catheter if > 2 h (TO)
+
+**Bolsters** — **small = maintains lordosis** (instrumentation) · **large = flexes hips → widens interlaminar space** (discectomy) (TO)
+
+| Instrument | Use (TO) |
+|---|---|
+| **Cobb elevator** | Detach paraspinal muscle from spinous process + lamina |
+| **Kerrison rongeur** | Lamina + flavum · **1–2 mm cervical**, **3–4 mm lumbar** |
+| **Love's retractor** | L-shaped root retractor **with suction** |
+| Penfield probe | Probe foramen, dissect nerve from dura |
+| McElroy / Williams | Microdiscectomy retractors |
 
 ### Sacropelvic fixation (TO)
 
@@ -129,3 +188,7 @@
 **"Not a posterior instrumentation?"** → **Dwyer-Zielke** (TO)
 
 **"S2AI vs iliac screws — incorrect?"** → **"less SI joint violation"** (it's more) (TO)
+
+**"Ball-tip probe checks?"** → **all five pedicle walls** (TO)
+
+**"Biomechanically superior interbody cage?"** → **banana-shaped TLIF cage** (TO)

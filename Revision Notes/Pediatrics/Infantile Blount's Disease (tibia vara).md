@@ -37,6 +37,10 @@
 
 **Exam** — **genu varum + flexion + internal rotation** deformity · **lateral thrust on walking** (✓ abnormal finding) · internal tibial torsion · LLD · **no** tenderness, effusion or ↓ ROM
 
+**Siffert-Katz sign (TO)** — **varus thrust during walking** · acute varus **below the knee** · obesity **> 95th percentile** · early walkers
+
+**Pathological varum (TO)** — persists **> 2 yr** · unilateral · LLD · severe · obesity · causes: rickets, Blount, dysplasia, trauma/infection, hemimelia · **focal fibrocartilaginous dysplasia** — self-limiting, no surgery
+
 **Not abnormal** — **internal thigh–foot angle 5°** in an infant (OB)
 
 ### Cover-up test
@@ -72,6 +76,8 @@
 
 **Pathognomonic** — **medial metaphyseal fragmentation** → progressive tibia vara (TO)
 
+**X-ray signs (TO)** — metaphyseal flaring · **fibular physis near knee level** · physeal bar · Drennan MDA
+
 **MRI (TO)** — ↑ thickness of medial proximal tibial chondroepiphysis · ↑ height + width of **medial meniscus** · abnormal medial femoral epiphysis
 
 **Neglected infantile Blount (14 yr)** — **severe depression of medial tibial epiphysis**\
@@ -88,6 +94,8 @@
 | **>16°** | **Abnormal** · **95% progress** · ✓ most reliably separates Blount from physiologic |
 | **>20°** | Operative indication |
 
+**MDA cut-offs (TO)** — **< 11° normal · 11–16° doubtful · > 16° Blount** · Levine & Drennan (TO lecture 2): **> 10° suspicious**, **> 16° high likelihood of progression**
+
 **Tibiofemoral angle** — femoral vs tibial long axes
 
 ![Metaphyseal–diaphyseal angle](../../Orthobullets/attachments/ob4050-metaphyseal-diaphyseal-angle-moved.jpg)
@@ -100,6 +108,15 @@
 | **V–VI** | **Epiphyseal–metaphyseal bony bridge** (physeal bar) |
 
 **Use** — prognosis · stage II and IV can correct spontaneously in young children
+
+| Langenskiöld (TO) | Feature | Treatment (TO) |
+|---|---|---|
+| **I** | Medial metaphyseal **beak** | **Mermaid brace × 2 yr** |
+| **II** | **Depression** | Mermaid brace × 2 yr |
+| **III** | **Step** formation | Surgery (guided growth / osteotomy) |
+| **IV** | **Ossification of step** | Surgery |
+| **V** | **Separate medial fragment** | **Osteotomy + medial tibial plateau elevation** |
+| **VI** | **Medial physeal bar** | Osteotomy + plateau elevation |
 
 ![Langenskiöld stages](../../Orthobullets/attachments/ob4050-langen.jpg)
 
@@ -150,6 +167,10 @@ Infantile Blount
 
 **Technique** — **below the tibial tubercle** · **acute correction** · distal fragment into **valgus + external rotation + lateral translation** · staged for IV–VI · epiphysiolysis in V–VI · medial plateau elevation if depressed · **prophylactic anterior compartment fasciotomy**
 
+**Osteotomy types (TO)** — closing / opening wedge · **Rab's osteotomy** (biplanar oblique + derotation) · chevron · dome · adolescent: osteotomy, fixator realignment, lateral hemiepiphysiodesis
+
+**Focal fibrocartilaginous dysplasia (TO)** — varus **< 30° observe** (resolves) · **40–50° → osteotomy**
+
 **Overcorrection** — **10–15° valgus** (Orthobullets, TO) · **~10° valgus** (OB) · at least **5° valgus** (OB60) · ✓ medial physeal abnormality persists\
 ✗ Wrong options: correction to neutral · undercorrection
 
@@ -183,6 +204,8 @@ Infantile Blount
 **Recurrence** — **medial physeal bar** → progressive varus after well-done osteotomy → lateral hemiepiphysiodesis or bar resection\
 ✗ Wrong options: overcorrection · plate malposition · age 5 · vitamin D
 
+**Screen for SCFE (TO)** — all Blount patients (obesity)
+
 ## X vs Y
 
 | | **Infantile Blount** | **Adolescent Blount** |
@@ -208,6 +231,8 @@ Infantile Blount
 
 **"NOT a component of Blount's?"** → **external rotation** (TO)\
 ✗ Wrong options: varus · procurvatum · internal rotation
+
+**"Varus thrust during gait in Blount's — eponym?"** → **Siffert-Katz sign** (TO)
 
 **"1-yr, bowing, normal MDA?"** → **within normal limits** (TO)\
 ✗ Wrong options: bracing · surgery · vitamin D

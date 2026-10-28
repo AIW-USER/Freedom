@@ -84,6 +84,10 @@
 
 **History** — prior **elbow dislocation** ("never felt right"), or prior **tennis elbow surgery**
 
+**Causes of chronic lateral instability (TO)** — **neglected trauma** (fracture fixed, **LUCL not addressed**) · **steroid injections for lateral epicondylitis** (ligament attenuation) · chronic varus load
+
+**Symptoms (TO)** — apprehension/weakness **reaching out** (varus load) · painful clicking/snapping · apprehension on **axial load in supination + extension** (chair armrests) · unremitting lateral pain + swelling
+
 **Exam** — often benign; **tenderness over LUCL**, **varus instability** (no firm endpoint); full ROM
 
 ### Diagnosis – lateral pivot-shift, chair push-up & clinical signs
@@ -116,6 +120,10 @@
 **X-ray (AP + lateral)** — rule out fractures, confirm **concentric reduction**; often **normal / little value** in PLRI; may show **impaction defect of posterolateral capitellum**
 
 **Fluoroscopy / stress views** — during pivot-shift → **radial head subluxation** (radiocapitellar + ulnohumeral)
+
+**X-ray clues (TO)** — **"drop sign"** on lateral (~**4 mm ulnohumeral gap**) · radiocapitellar gapping on AP · small avulsion/ossification at lateral epicondyle · **varus stress view under IITV widens radiocapitellar joint** · MRI confirmatory
+
+**Drawer at high flexion (TO)** — positive at **80–90°** flexion = **posterolateral capsule laxity** too, not just LCL · pivot shift dimple + clunk at **~40°**
 
 **MRI** — identifies **acute LUCL avulsion**; poor in recurrent/attenuated LUCL (**oblique course**); detects LUCL pathology in only **50%**
 
@@ -183,6 +191,12 @@ LUCL injury / PLRI
 **Configuration** — tunnel at **supinator crest** → **"Y" tunnel** in humerus, tied over lateral column; graft must cover **> posterior 25% of radial head** (sling) · **+ capsuloligamentous plication**
 
 **Tensioning** — **neutral rotation + 45° flexion** (Orthobullets)
+
+**Tensioning (TO)** — **45–60° flexion + full pronation** (reduces residual posterolateral subluxation) — read the options
+
+**TO reconstruction details** — supine, Kocher or **EDC split** · graft **palmaris longus** (may be short), **half FCR**, **gracilis** (best diameter + length) · ulnar tunnels: one at **proximal margin of radial head**, a few mm posterior to joint, second **~2 cm distal over supinator crest** · humeral tunnel **just anterior + distal to isometric point** (anteroinferior lateral epicondyle) → exits posterolateral cortex, **cortical button** · graft **extracapsular** · **box-loop / sling** technique when both collaterals need reconstruction
+
+![LUCL reconstruction: ulnar tunnels at supinator crest, humeral tunnel at isometric point](../../TO notes/attachments/TOn-notes-approaches-around-elbow-chronic-elbow-and-forearm-inst-p07-f019.jpg)
 
 **Fixation** — **docking** (humeral Y tunnels) · interference screws both sides · overlay (sutures over bone)
 
@@ -290,3 +304,7 @@ LUCL injury / PLRI
 **"ECRB debridement, + pivot shift — labelled structure injured?"** → **LUCL (E)**
 
 **"Transection affecting elbow stability most?"** → **coronoid** (TO)
+
+**"Posterolateral rotatory drawer positive at 80–90° flexion implies?"** → **posterolateral capsule laxity as well as LCL** (TO)
+
+**"LUCL graft tensioned in?"** → **45–60° flexion + full pronation** (TO)

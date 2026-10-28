@@ -10,6 +10,8 @@
 
 **Associated syndromes** — **myelomeningocele** · **arthrogryposis** · **Larsen** (clubfeet + hip, knee, elbow dislocations)
 
+**Genu recurvatum (TO)** — hyperextension **> 5°** · causes: ligament laxity · **congenital knee dislocation** · quadriceps weakness · physeal injury · associations: arthrogryposis, **absent cruciates**, **hypoplastic patella** · Rx serial manipulation + casting
+
 **Associated deformities** — **DDH** — **50%** (Orthobullets) · ipsilateral hip dislocation **70–100%** (OB) · **clubfoot** · metatarsus adductus
 
 ## 3 Presentation

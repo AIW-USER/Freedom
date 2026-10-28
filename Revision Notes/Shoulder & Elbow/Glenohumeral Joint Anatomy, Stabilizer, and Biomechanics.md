@@ -13,6 +13,8 @@
 
 **180° abduction** — **120° GH (⅔) + 60° scapulothoracic (⅓)**
 
+**Rhythm variation (TO thrower lecture)** — ratio shifts toward **1:1 at ~60°**, ~**5:4** near 120° · without scapular rotation → deltoid active insufficiency → abduction limited to **60–70°**
+
 **Scapular plane** — **30° anterior** to coronal plane
 
 **Abduction needs ER** — clears greater tuberosity from acromion → **IR contracture → cannot abduct >120°**
@@ -33,8 +35,11 @@
 |---|---|---|
 | Orthobullets | **5° retroversion** avg (scapular body axis); **7° retro → 10° ante** | **~20° retroversion** (transepicondylar axis) |
 | TO | **Near 0°**, more often **slight retroversion**; <10° either way | **Retroverted 26° ± 11°** |
+| TO (bone-loss lecture) | **~7° retroversion** to scapular plane · **~5° superior inclination** | **~30° retroversion** · neck–shaft **130°** · diameter **~43 mm** |
 
 **Humeral retroversion** — **20°** (Orthobullets) · **26° ± 11°** (TO) — read the options
+
+**Humeral retroversion (TO bone-loss lecture)** — **30°** — read the options
 
 **False (TO)** — **"both glenoid and humeral head anteverted"**
 

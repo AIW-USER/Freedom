@@ -13,6 +13,18 @@
 **Indication** — exposed **bone, tendon, cartilage, implant**\
 ✗ Wrong options: STSG/FTSG on exposed tendon/bone/prosthesis (no viable bed, poor gliding)
 
+### Plastic surgery principles (TO)
+
+**Father of modern plastic surgery (TO)** — **Sir Harold Delf Gillies** (Ten Commandments; Gillies lip flap) · **father of plastic surgery = Sushruta** (forehead flap)
+
+**Gillies commandments (TO)** — make a plan · have a style · return normal to normal position · **do not throw away a living thing** (spare parts) · do not bear false witness against the defect · treat primary defect before secondary · **always provide a lifeboat** (plan B) · do not do today what can be put off till tomorrow (electrical burns) · no routine · do not covet thy neighbour's plastic unit
+
+**Paré principles (1564, TO)** — remove superfluous · restore displaced · separate joined · join separated · supply defects of nature
+
+**NOT a principle (TO)** — **"protect the surgical area"** (✓ replace like with like, ✓ always have an alternative plan)
+
+**Exam FAQs (TO)** — facelift consent: **haematoma** first (commonest, 6–24 h) · nasal fracture: **Walsham** (lateral wall) / **Asch** (septum) forceps
+
 ### Reconstructive ladder
 
 | Rung (simple → complex) |
@@ -26,6 +38,15 @@
 
 **Rule** — choose the **lowest rung** that covers the defect (local before distant or free)
 
+**Reconstructive ELEVATOR (TO)** — has replaced the ladder → go **straight to a free flap** if it is the best option, even for a small defect · **dermal substitutes** (AlloDerm, Biobrane: acellular dermal matrix) let a wound granulate + take a graft
+
+| Tissue needed (TO) | Flap examples |
+|---|---|
+| Skin only | Groin, **ALT**, anteromedial thigh, radial forearm |
+| Muscle (cover / functional) | **Latissimus dorsi, gracilis**, vastus lateralis, sartorius, gastrocnemius |
+| Nerve | Sural graft, **vascularised ulnar nerve graft** (plexus) |
+| Bone | **Fibula (commonest)**, iliac crest, scapula · first choice for IIIB+ bone gaps |
+
 ## 4 Diagnosis & Classification
 
 ### Blood supply classification
@@ -33,7 +54,8 @@
 | Type | Supply | Indication |
 |---|---|---|
 | **Axial pattern** | Single named AV pedicle | Length:width **>2:1** |
-| **Random pattern** | Microcirculation, no named pedicle | Length:width **<2:1** |
+| **Random pattern** | Microcirculation, no named pedicle | Length:width **<2:1** (Orthobullets) · **\~1:1 lower limb, up to 3:1 face** (TO) — read the options · V-Y, rotation, bipedicle |
+| Axial examples (TO) | Named vessel along axis | Nasolabial (angular a.) · forehead (supratrochlear a.) · groin (SCIA); survives only a little beyond vessel end |
 | Venous | Veins as arterial inflow + outflow | |
 
 ### Tissue type classification
@@ -64,6 +86,25 @@
 | III | **Two dominant** pedicles (different regional arteries) | **Rectus abdominis**, gluteus maximus, serratus anterior, semimembranosus | ![Type III](../../MCQ/attachments/TO17137948-3.png) |
 | IV | **Segmental**, multiple similar-calibre pedicles | **Sartorius**, tibialis anterior, EDL | ![Type IV](../../MCQ/attachments/TO17137948-4.png) |
 | **V** | **Single dominant + multiple secondary segmental** | **Latissimus dorsi**, pectoralis major | ![Type V](../../MCQ/attachments/TO17137948-5.png) |
+
+| Fasciocutaneous classification (TO) | Types |
+|---|---|
+| **Cormack & Lamberty** | **A** multiple perforators at one end · **B** single large perforator · **C** multiple small segmental perforators · **D** osteomyofasciocutaneous |
+| **Mathes & Nahai (pedicle source)** | **A** direct cutaneous (groin, SIEA) · **B** septocutaneous (scapular/parascapular, lateral arm) · **C** musculocutaneous (median forehead, ALT) |
+| Nakajima | A–F by course of vessel (know the name) |
+
+| Special flap term (TO) | Meaning |
+|---|---|
+| **Propeller** | Island on a **single perforator**, axial rotation **up to 180°**; length = perforator→defect + defect; skeletonise perforator, fully island (avoid kinking); e.g. lateral malleolus |
+| **Supercharging** | Extra vessel from an **UNRELATED distant** source |
+| **Turbocharging** | Extra pedicle **from the SAME flap** (e.g. both DIEP pedicles) |
+| **Standard delay** | Partial incision/elevation → full elevation after **10–14 days**; pedicled flaps (groin), not free |
+| Strategic delay | Divide minor pedicles → survive on main pedicle; elevate after 2 wk |
+| Prelamination | Build layers into flap at donor site first (cartilage under radial forearm for nose) |
+| **Prefabrication** | Give tissue a **new dominant pedicle** → raise after **\~6 wk** |
+| Venous flaps (Thatte) | I unipedicled · II bipedicled · III arteriovenous |
+
+**Hallock compound flaps (TO)** — solitary (one source) · combined: **conjoined** (territories joined physically, each own supply) vs **chimeric** (independent flaps linked to one source vessel) · classic chimeric = **subscapular system** (circumflex scapular → scapular/parascapular paddles + lateral border bone; thoracodorsal → LD + angular branch to scapular tip)
 
 ## 5 Management
 
@@ -119,6 +160,22 @@ Leg defect over tibia (by third)
 
 ![Groin flap](../../Orthobullets/attachments/ob6059-groin-flap.jpg)
 
+### Big 5 free flaps (TO)
+
+| Flap (TO) | Pedicle | Size / parts | Key points |
+|---|---|---|---|
+| **ALT** | **Descending branch of lateral circumflex femoral a.** (septo- + musculocutaneous perforators) | Up to \~25 × 30 cm ± vastus lateralis | Versatile, low morbidity, bulky → suprafascial thin harvest · line **ASIS → knee**, main perforator at **junction of proximal ⅔ / distal ⅓**, rectus femoris–VL septum |
+| **Radial forearm ("Chinese")** | Radial a. + venae, **always include cephalic vein** | Thin, pliable ± radius | Non-dominant arm; donor needs graft · stops 2 cm above styloid · **Allen: < 6 s safe, 7–11 s equivocal, ≥ 12 s do not harvest** |
+| **Latissimus dorsi** | **Thoracodorsal a.** (subscapular, 3rd part axillary); thoracodorsal n. (C6–8) | Large; Mathes V | Free for lower-limb cover; **pedicled for elbow flexion** (BPI), back, breast · **TDAP** spares muscle · pivot at axilla |
+| **Gracilis** | **Medial circumflex femoral a.** (type II) · anterior branch obturator n. | Muscle | Cover + **free functional transfer** (BPI elbow flexion, Volkmann) · pedicle **between adductor longus and gracilis** · keep incision medial |
+| **Free fibula** | **Peroneal a.** (nutrient a. at mid-shaft; endosteal + periosteal) | **22–26 cm** bone; skin paddle \~12 × 20 cm | Peroneal from PT distal to popliteal fossa, between TP + FHL · **fibular head supplied by anterior tibial a.** → second anastomosis if head taken |
+
+**Fibula contraindications (TO)** — PVD · heavy smoking · absent anterior tibial vessels · **peronea magna (0.2%) = absolute** · venous insufficiency · CTA not routine (pulses / Doppler)
+
+**Free flap monitoring (TO)** — **clinical = gold standard**: warm, light pink, not pale/congested, **slow bright red ooze on pricking** · adjuncts: handheld / laser Doppler, implantable devices, photoplethysmography, fluorescein, TcO₂
+
+**Groin flap (TO)** — SCIA; \~10–12 cm long, ≥ 8 cm wide; hidden scar · hand "in the pocket" **2–3 wk** until division (hygiene) · **scapular / parascapular** on circumflex scapular vessels (parascapular = ellipse along inferolateral border)
+
 ### Bone flaps – free fibula (peroneal artery)
 
 **Free fibula** — **peroneal a.** (1.5–4 mm) + 2 venae; pedicle 4–6 cm; ± skin paddle; keep distal **5–6 cm** (syndesmosis); defects **>6 cm** (trauma, infection, congenital, AVN) → 10 cm radius defect
@@ -131,6 +188,10 @@ Leg defect over tibia (by third)
 | Medial femoral trochlea | Transverse br. descending geniculate | Scaphoid proximal pole nonunion |
 | Distal radius vascularised graft | **1,2-intercompartmental supraretinacular a.** (radial a.) | Scaphoid AVN/nonunion |
 | Lateral arm osteo | PRCA | Small bone only |
+| Scapula (TO) | Circumflex scapular (or angular br. thoracodorsal) | Chimeric reconstructions |
+| Radius (TO) | Radial a. (with radial forearm flap) | — |
+| Calvarial (TO) | Superficial temporal / occipital a. | — |
+| MFC osteo-periosteal (TO) | **Articular branch of descending genicular a.** | When an intra-articular surface is needed |
 
 **Vascularised bone nonunion** — up to **32%** without additional bone graft
 
@@ -219,5 +280,15 @@ Leg defect over tibia (by third)
 ✗ Wrong options: ring transposition · ligament suture
 
 **"Most efficient NPWT pressure?"** → **125 mmHg**
+
+**"Father of modern plastic surgery?"** → **Sir Harold Gillies** (TO)
+
+**"Supercharging vs turbocharging?"** → **unrelated distant vessel vs vessel from the same flap** (TO)
+
+**"Allen test refill time contraindicating radial forearm flap?"** → **≥ 12 s** (TO)
+
+**"Absolute contraindication to free fibula?"** → **peronea magna** (TO)
+
+**"Best method of free flap monitoring?"** → **clinical (colour, warmth, bright red bleeding on pricking)** (TO)
 
 **"Strongest predictor of infection after flap for open tibia?"** → **flap failure**

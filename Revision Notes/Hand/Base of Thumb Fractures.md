@@ -112,6 +112,10 @@
 
 **ORIF** — **volar Gedda–Moberg approach**; thenar reflected, longitudinal capsulotomy; screws or T-plate; risk **SBRN injury**, wound problems if oedema
 
+**Bennett (TO)** — single volar-ulnar fragment held by **anterior oblique ligament**; MC displaces proximal + dorsal → pin MC to trapezium · fragment need not be pinned if **< 2 mm step** after reduction
+
+**Rolando (TO)** — Y/T comminuted → traction, ex-fix or **mini T-plate** · bone graft often needed
+
 **Ex-fix** — two 3 mm pins dorsoradial MC + two in radius ± 2nd MC; risk pin-site infection
 
 **Key outcome factor** — **anatomic articular congruity** > fixation method; reduction predicts **radiographic** arthritis\

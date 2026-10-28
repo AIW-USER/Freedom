@@ -95,6 +95,8 @@
 
 ## 3 Presentation
 
+**Signs (TO)** — palmar nodules · **pitting** · skin tethering · **tabletop test positive** (can't place hand flat) = surgical need
+
 **History** — **painless** nodule at **distal palmar crease** → cord → fixed flexion MCP/PIP
 
 **Exam** — palmar pits, skin blanching on extension, **Hueston tabletop test** + (can't lay palm flat)
@@ -205,6 +207,8 @@ Dupuytren
 
 **Do CTR on separate occasion** (TO)
 
+**Correction principles (TO)** — **MCP contractures correct more easily than PIP** · **PIP < 30° fares better** · persistent PIP tightness after cord excision = **joint contracture → capsulotomy** · protect digital nerves near spiral band · PNF: higher recurrence, for elderly / low demand · dermofasciectomy + graft for recurrent aggressive disease
+
 ## 6 Complications
 
 | Complication | Rate / key fact |
@@ -248,6 +252,8 @@ Dupuytren
 | Natatory | **Web space** |
 
 ## How it's asked
+
+**"Persistent PIP flexion after cord excision — next step?"** → **PIP capsulotomy (joint contracture)** (TO)
 
 **"Cause of PIP contracture?"** → **spiral cord** (TO)
 

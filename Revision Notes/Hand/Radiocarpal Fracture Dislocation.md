@@ -50,6 +50,8 @@
 
 ![Radiocarpal dislocation, lateral](../../Orthobullets/attachments/ob422863-radiocarpal-dislocation.jpg)
 
+**Fernandez type IV (TO)** — **avulsion** mechanism = radiocarpal fracture-dislocation → **always ORIF + ligament repair**
+
 ### Moneim classification
 
 | Type | Description |

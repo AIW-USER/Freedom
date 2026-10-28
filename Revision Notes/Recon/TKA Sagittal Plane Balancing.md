@@ -116,6 +116,8 @@
 
 ![Posterior vs anterior referencing](../../MCQ/attachments/TO19356211-1.jpg)
 
+**Choice of referencing (TO)** — **posterior = standard in varus** knees · **anterior preferred in valgus / RA** knees · posterior → upsize (avoid notching) · anterior → downsize (avoid overstuffing)
+
 ### Tight in both – resect tibia
 
 **Cannot extend + tray lifts off past 90°** → ✓ **resect more proximal tibia** (or thinner poly)\
@@ -152,6 +154,18 @@
 **CR technique (TO)** — avoid over-resecting distal femur (CR tends to flexion tightness) · choose **smaller** femur between sizes (PS: **larger**) · PCL inserts **5–10 mm** below tibial surface → protect (osteotome / bone block) · tight PCL → release / convert to PS (TO)
 
 **Kinematics (TO)** — CR: anterior femoral translation **30–60°** WB · PS: constant contact, rollback 60–90° NWB · both show early paradoxical translation · clinical scores, ROM, mid-term survival, quad recovery **no different** · **bicruciate-retaining** preserves screw-home partially (TO)
+
+### Flexion deformity by degree (TO)
+
+| Fixed flexion | Management (TO) |
+|---|---|
+| **< 15°** | **Posterior capsule release** |
+| **15–30°** | + **2 mm extra distal femoral cut** |
+| **> 30°** | **Two-stage** or **constrained** prosthesis |
+
+**Tibial cut (TO)** — **perpendicular to mechanical axis**, **8–10 mm** (implant thickness) · measured resection: bone removed = implant thickness
+
+**Posterior tibial slope (TO)** — native ~**7°** (promotes rollback) · ideal **5–7°** = **3–5° bone cut + 2° built into insert** · **> 10°** → risk of posterior fracture (TO)
 
 ### Genu recurvatum correction (TO)
 

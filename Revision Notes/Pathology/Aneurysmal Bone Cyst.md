@@ -6,7 +6,7 @@
 
 ### Epidemiology
 
-**Age** — **75% <20 yr** · first 2–3 decades
+**Age** — **75% <20 yr** · first 2–3 decades  · **female predominance** · **honeycomb** appearance (TO)
 
 **Site** — long bones **>60%** (**femur, tibia** commonest) · **metaphysis** · spine **15%** (**posterior elements** — lamina, spinous process) · pelvis posterior elements
 
@@ -118,6 +118,8 @@ Aneurysmal bone cyst
 **Embolization** — **spine and pelvis** (limited access) **(TO)** · preop → ↓ blood loss · alone may resolve lesion
 
 **Radionuclide ablation** — evidence for axial ABCs
+
+**Curopsy** — **limited curettage** at biopsy, also effective · **path fracture → curettage + graft** (TO)
 
 **Proximal femur, painful** — **curettage + grafting** (structural support)\
 ✗ Wrong options: observation → fracture risk · denosumab (GCT only) · proximal femoral replacement

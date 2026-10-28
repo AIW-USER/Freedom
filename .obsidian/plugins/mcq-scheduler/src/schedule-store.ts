@@ -2,7 +2,7 @@ import { normalizePath, Notice, TFile } from "obsidian";
 
 import type McqSchedulerPlugin from "./main";
 import { ModuleDef, parseModules } from "./modules";
-import { completedCount, ScheduleState } from "./schedule";
+import { completedCount, migrate, ScheduleState } from "./schedule";
 
 /**
  * Loads and saves the module schedule, and keeps the parsed modules file.
@@ -10,7 +10,7 @@ import { completedCount, ScheduleState } from "./schedule";
  * Both files live in the plugin folder, not the vault, so the plugin still
  * writes no notes:
  * - `schedule.json` — the whole {@link ScheduleState}, rewritten after every
- *   answer so an unfinished module survives a restart;
+ *   answer so the question on screen survives a restart;
  * - `responses.jsonl` — one line per answer, appended, never rewritten.
  */
 export class ScheduleStore {
@@ -42,7 +42,9 @@ export class ScheduleStore {
 		const { adapter } = this.plugin.app.vault;
 		try {
 			if (await adapter.exists(this.statePath)) {
-				this.state = JSON.parse(await adapter.read(this.statePath)) as ScheduleState;
+				// An older, session-based schedule is converted in place; it is
+				// written back in the new shape on the next change.
+				this.state = migrate(JSON.parse(await adapter.read(this.statePath)));
 			}
 		} catch (e) {
 			new Notice(`Could not read the module schedule: ${String(e)}`);
@@ -66,7 +68,7 @@ export class ScheduleStore {
 
 	/** Replace the state and persist it. */
 	set(next: ScheduleState | null): void {
-		const completedBefore = completedCount(this.state);
+		const completedBefore = this.completed(this.state);
 		this.state = next;
 		this.notify();
 		const text = next ? JSON.stringify(next) : null;
@@ -85,11 +87,17 @@ export class ScheduleStore {
 		// Completing a module (or resetting a completed one) moves the
 		// `modules-completed` progress source.
 		if (this.plugin.activity.enabled) {
-			this.plugin.progress.addSource("modules-completed", completedCount(next) - completedBefore);
+			this.plugin.progress.addSource("modules-completed", this.completed(next) - completedBefore);
 		}
 	}
 
-	logResponse(entry: { module: string; id: string; result: number; session: number }): void {
+	/** Mature modules: every question seen, interval 21 days or more. */
+	completed(state: ScheduleState | null = this.state): number {
+		return completedCount(state, (k) => this.byKey.get(k)?.ids);
+	}
+
+	/** `result` is +1 right, −1 wrong, 0 skipped or unanswerable; `rating` is 0 Skip … 3 Easy. */
+	logResponse(entry: { module: string; id: string; result: number; rating: number; day: number }): void {
 		const line = JSON.stringify({ t: new Date().toISOString(), ...entry }) + "\n";
 		this.writing = this.writing
 			.then(async () => {

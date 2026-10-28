@@ -38,6 +38,8 @@
 
 **Weight bearing** — exacerbates · **treatment based on size + signal** (Zaremski)
 
+**Not AVN (TO)** — previously thought vascular; now a **non-vascular subchondral insufficiency fracture** in osteopenic bone + **meniscal root tear** · **medial meniscus extrusion = hallmark** (> 50% on MRI)
+
 ## 3 Presentation
 
 **Onset** — **sudden severe knee pain** · **worse at night** + with weight bearing
@@ -59,6 +61,17 @@
 | **MRI** | **Most useful study** · confirms + **sizes** lesion → guides treatment |
 | MRI — lesion | **Crescent-shaped** · **subchondral hypointense crescent line**, cortical irregularity |
 | MRI — signal | **T1 marrow hypointensity** + **T2 hyperintensity (oedema)** · **serpiginous border** · localised low-signal area + surrounding oedema |
+
+**MRI timing (TO)** — **subchondral fracture line + extensive marrow oedema** · diagnosis possible **within 48 h** of pain onset
+
+| Aglietti stage (TO) | X-ray |
+|---|---|
+| I | Normal |
+| II | Subtle **flattening** of condyle |
+| III | Subchondral **lucency**, no collapse |
+| IV | **Subchondral collapse** |
+
+**Condylar ratio (TO)** — lesion width ÷ condylar width × 100 · **> 40% → poor prognosis**, rapid OA
 
 ![SONK of the medial femoral condyle (radiograph)](../../Orthobullets/attachments/ob3026-sonk.jpg)
 
@@ -93,6 +106,8 @@
 | **Bone bruise / occult fracture** | **Trauma**, bone fragility, overuse |
 | Secondary osteonecrosis | Risk factors, multifocal |
 
+**Transient osteoporosis / BMES (TO)** — middle-aged men or **3rd-trimester pregnancy** · **hip > knee** · **diffuse marrow oedema, no fracture line** · resolves **2–3 months** · RSD variant? · Rx **NWB 6–8 wk + bisphosphonates ± calcitonin** · **pregnancy → rest only (bisphosphonates contraindicated)**
+
 ## 5 Management
 
 ```
@@ -106,6 +121,14 @@ SONK
 **Nonop** — **mainstay** (most resolve, **self-limiting**) · **NSAIDs, narcotics, protected WB** · **PT for quadriceps strengthening** · **unloader brace**, sometimes **bisphosphonates** (OB) · good results
 
 **Post-arthroscopic** — most nonop · **protected WB 4–8 wk** (Di Caprio)
+
+| SONK (TO, Mohindra) | Treatment |
+|---|---|
+| **Stage I–II / ratio < 40%** | **Restricted WB 6–12 wk + bisphosphonates** |
+| **Stage III–IV / ratio > 40%** | **Subchondroplasty**, OATS, HTO or UKA |
+| Stage IV, isolated medial | **UKA** — opposite compartment intact, **no flexion–varus deformity**, secondary causes excluded · **bisphosphonates 3 months pre-op** |
+
+**Subchondroplasty (TO)** — image-guided **calcium phosphate (AccuFill)** injection → internal bone-graft substitute + scaffold
 
 **Timing (OB)** — most patients seen **post-collapse** → **arthroplasty** treatment of choice · pre-collapse treatment **controversial**
 
@@ -189,3 +212,7 @@ SONK
 **"Crescentic collapse, failed PRP / NSAIDs — treatment?"** → **arthroplasty**
 
 **"OCD vs SONK — site?"** → **lateral aspect of MFC (OCD) vs weight-bearing MFC (SONK)**
+
+**"Hallmark MRI finding with SONK (TO)?"** → **medial meniscus extrusion**
+
+**"SONK condylar ratio predicting poor prognosis (TO)?"** → **> 40%**

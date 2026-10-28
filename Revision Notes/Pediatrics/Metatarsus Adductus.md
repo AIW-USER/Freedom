@@ -42,6 +42,8 @@
 | Moderate | 3rd–4th web space |
 | Severe | 4th–5th web space |
 
+**Heel bisector grades (TO)** — normal 2nd–3rd toe · mild **3rd toe** · moderate **4th toe** · severe **lateral to 4th toe** · types: flexible · rigid · **dynamic (tibialis anterior overactivity)**
+
 ![Heel bisector line](../../Orthobullets/attachments/ob4061-heel-foot-bisector-2-moved.jpg)
 
 ### Berg classification
@@ -86,6 +88,8 @@
 | Symptomatic **serpentine** foot | Calcaneal osteotomy + midfoot osteotomies + **multiple metatarsal osteotomies with pinning + TMT release (Hamen)** · often accepted / observed |
 
 **Surgery timing (OB)** — >3 yr or rigid unresponsive to casting · medial release if symptomatic beyond 4 yr
+
+**Campbell algorithm (TO)** — mild: observe · moderate: stretching + serial casting · severe **2–4 yr: transmetatarsal (TMT) release/osteotomy** · **> 4 yr: multiple metatarsal osteotomies (Berman and Gartland)**
 
 **Indications (TO)** — pain · objectionable appearance · **difficulty fitting shoes** after the age for stretching/casting has passed
 

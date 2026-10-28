@@ -57,6 +57,16 @@
 
 **Diaphyseal 10° angulation** → blocks 20–30° rotation
 
+| Distal radius (TO) | Angulation | Displacement |
+|---|---|---|
+| **< 8 yr** | **≤ 45°** | **≤ 60%** |
+| **8–12 yr** | **≤ 30°** | **≤ 50%** |
+| **Adolescent** | **≤ 15°** | **≤ 40%** |
+
+**TO points** — remodelling depends on the **physis, not age** · distal radial physis = fastest in forearm, **\~75% of forearm growth** · overriding fractures **< 10 yr can fully remodel** · **no re-manipulation after 7 days** (physeal injury) · smooth wire safe if single pass, **< 2.5 mm**, low torque, avoid peripheral physis · fix if floating elbow, median nerve symptoms, compartment syndrome · **follow all for 6–12 months** · arrest → ulnar epiphysiodesis / ulnar shortening / radial osteotomy
+
+**Other TO lecture** — distal forearm acceptable: infants **< 30°**, children **< 15°**, peripubertal needs 2–3 yr growth · buckle = stable (2–3 wk splint) · **greenstick = unstable**, redisplaces → reduce + mould
+
 **4-yr, 12° apex volar at 2 weeks** → **observe — remodels within ~1 year**\
 ✗ Wrong options: osteoclasis · re-reduction · 2 years
 

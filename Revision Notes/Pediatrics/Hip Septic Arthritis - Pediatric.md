@@ -19,6 +19,8 @@
 
 **↑ Intra-articular pressure** → femoral head **osteonecrosis**
 
+**Transphyseal spread (TO)** — **< 18 months** → metaphyseal infection enters joint
+
 ### Causative organisms by age (S aureus, GBS, Kingella, gonococcus)
 
 | Age / setting | Organism | Gram stain |
@@ -62,11 +64,15 @@
 
 **Most predictive order** — **fever > CRP > ESR > refusal to bear weight > WBC** (CRP 2nd-best after fever)
 
+**Caird (TO)** — **fever = strongest predictor** · original Kocher (4 criteria) **does not include CRP**
+
 **CRP >2 mg/dL + refusal to bear weight** → **74%** · **CRP <2 mg/dL (<20 mg/L)** → favours **transient synovitis** · both absent <1%
 
 **Kocher criteria apply to the HIP only** — **not the knee** → knee: **aspirate**
 
 **Labs** — WBC ↑ in only 30–60% (neonates may be leukopenic) · ESR may be normal early · **CRP rises in 6–8 h** · **blood cultures** if febrile (often positive when joint culture negative)
+
+**Blood culture (TO)** — positive in **\~60%** · **PCR ↑ yield**
 
 ### Synovial fluid
 
@@ -87,6 +93,10 @@
 **Ultrasound** — **effusion** (can't tell septic vs sterile) · guides aspiration · **neonate: scan both hips** if any septic joint
 
 **MRI** — effusion + adjacent osteomyelitis · don't let it delay surgery
+
+**MRI (TO)** — gold standard for marrow oedema / early osteomyelitis · **mandatory in delayed presentation** · detects **obturator internus abscess** (mimics septic hip → drain via **subadductor approach**)
+
+**X-ray extras (TO)** — **lateral subluxation** of head · metaphyseal erosion late
 
 ![Joint-space widening — lateral displacement of proximal femur](../../Orthobullets/attachments/ob4032-joint-space-widening.jpg)
 
@@ -122,6 +132,8 @@ Irritable hip in a child
 
 **Urgent I&D = standard of care** — **surgical emergency** (removes chondrolytic enzymes, ↓ pressure / epiphyseal ischaemia) · err toward drainage
 
+**Arthrotomy indications (TO)** — **any septic hip** · any delayed presentation · any obturator internus abscess · drill metaphysis if MRI unavailable · arthroscopic drainage without traction = recent advance
+
 **Antibiotics alone** — **adolescent gonococcal** arthritis (high-dose penicillin ± aspiration)
 
 **Technique** — anterolateral or **anterior (Smith-Petersen)** arthrotomy · remove pus, irrigate · ± **1 × 1 cm capsular window** · drain · other joints open/arthroscopic
@@ -143,11 +155,52 @@ Irritable hip in a child
 
 **Sequelae** — **complete femoral head/neck destruction** (neglected neonatal sepsis) · **osteonecrosis**, articular destruction · physeal arrest → **LLD**, angular deformity · chronic osteomyelitis · persistent limp · contracture · follow **1–2 yr**
 
+**Mechanisms (TO)** — toxins + inflammation (chondrolysis) · **tamponade → head ischaemia** · triradiate closure → **acetabular dysplasia** · physeal closure → coxa breva / vara / valga, LLD, **GT overgrowth** · neck fracture → **pseudarthrosis**
+
+| Physis damaged (TO) | Deformity |
+|---|---|
+| Inferior | **Coxa vara** |
+| Superior | **Coxa valga** |
+| Anterior | Femoral **anteversion** |
+| Posterior | **Retroversion** |
+
 **NOT a typical sequel** — **chronic posterior instability/dislocation** (esp. after anterior approach)
 
 **Salvage** — varus/valgus proximal femoral osteotomy · trochanteric osteotomy · modified Albee arthroplasty
 
+**Pelvic support osteotomy (TO)** — subtrochanteric valgus-extension angulation osteotomy for post-septic hip, neglected DDH, Girdlestone hip, neck pseudarthrosis · ↑ stability, ↓ Trendelenburg · **level = contact point with pelvis on maximum-adduction X-ray** · valgus = max adduction + adduction contracture + **15–30° overcorrection** · **excess valgus → knee valgus + pelvic obliquity** · blade / bent plate (remove \~1 yr) · usually **after skeletal maturity** (TO)
+
+**Trochanteric procedures (TO)** — relative neck lengthening for trochanteric overgrowth (↑ abductor lever) · **true neck lengthening** (shaft lateralisation + graft) for post-septic sequelae
+
 ![Destroyed femoral head after untreated septic hip](../../MCQ/attachments/q566-a-xray-pelvis-ap-septic-hip.jpg)
+
+### Choi classification & reconstruction of sequelae (TO)
+
+| Choi (TO) — most widely used | Features |
+|---|---|
+| **IA / IB** | Near-normal / mild coxa magna |
+| **IIA** | **Coxa breva** (symmetric physeal closure) |
+| **IIB** | **Coxa vara / valga** (asymmetric closure) + acetabular dysplasia |
+| **IIIA** | Severe angular deformity, **excess ante-/retroversion** |
+| **IIIB** | **Femoral neck pseudarthrosis** (complete epiphyseal slip) |
+| **IVA** | Loss of head, small remnant articulating |
+| **IVB** | **Loss of head and neck** |
+
+**Other classifications (TO)** — **Hunka I–V** (minimal → total destruction + dislocation) · **Forlin–Milani** (located vs dislocated, head involvement) · **Johari** (Indian, most comprehensive: 1 loss of CFE · 2 unstable without CFE · 3 unstable with CFE · 4 AVN / physeal deformity · 5 pseudarthrosis)
+
+**Principles (TO)** — head coverage + congruity · LLD · abductors · alignment · stability
+
+| Problem (TO) | Options |
+|---|---|
+| Coverage | Abduction cast / brace · open reduction · femoral or pelvic osteotomy (Salter, Dega, Pemberton, shelf) · osteochondroplasty |
+| LLD | Shoe raise · contralateral epiphysiodesis · ipsilateral ex-fix lengthening |
+| Abductor insufficiency | **GT epiphysiodesis < 7 yr** · **GT advancement / distalisation > 7 yr** · neck lengthening |
+| Absent head (Choi IV) | **Albee** (denuded GT into acetabulum) · **L'Episcopo** (medial half of split remnant into acetabulum) · **modified Harmon** (open-wedge + graft, cartilage cap preserved) · trochanteric arthroplasty |
+| Salvage | Arthrodesis · **pelvic support osteotomy** · **Ilizarov hip reconstruction** |
+
+**Neck lengthening (TO)** — **Morscher** needs **congruent head–acetabulum** (osteotomy, shaft lateralisation, GT distal transfer) · **Wagner** also changes neck–shaft angle
+
+**Ilizarov hip reconstruction (TO)** — **subtrochanteric valgus (pelvic support) + distal femoral varus osteotomy + gradual lengthening** → corrects **LLD, instability, abductor lurch** · indications: DDH / traumatic / septic sequelae, absent head or neck, dysplasias · contraindicated **< 12 yr**, young adults fit for THR, paralytic hips
 
 ## X vs Y
 
@@ -230,3 +283,9 @@ Irritable hip in a child
 **"MMPs — true?"** → **mediate cartilage destruction in septic arthritis**
 
 **"LEAST likely complication of delayed treatment?"** → **chronic posterior hip instability**
+
+**"Strongest single predictor of septic hip (Caird)?"** → **fever** (TO)
+
+**"Choi IIIB?"** → **femoral neck pseudarthrosis** (TO)
+
+**"Procedure correcting LLD, instability and abductor lurch together?"** → **Ilizarov hip reconstruction** (TO)

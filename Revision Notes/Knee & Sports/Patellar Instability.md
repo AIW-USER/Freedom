@@ -50,6 +50,8 @@
 
 **MPFL size** — 4.5–6.4 cm × 1.9 cm · **208 N** tensile strength
 
+**MPFL (TO, Mohindra)** — **60–70%** of restraint to lateral translation · lies in **layer II** of medial knee (Warren & Marshall; between medial retinaculum / layer I and capsule / layer III) · also patellomeniscal + patellotibial ligaments
+
 **Femoral origin** — **between medial epicondyle and adductor tubercle** ("saddle") · **proximal to sMCL** · proximal + posterior to medial epicondyle · **anterior + distal to adductor tubercle**\
 ✗ Wrong options: on adductor tubercle = adductor magnus · distal to sMCL · lateral wall of MFC = PCL
 
@@ -113,6 +115,8 @@
 
 **J sign** — lateral in extension → "pops" into groove in early flexion (inverted J) · **associated with patella alta**
 
+**Glide / tilt (TO)** — glide **> 3 quadrants** lateral = excessive · **tilt test** = cannot lift lateral border off femur (tight lateral retinaculum) · apprehension at **20–30°** · risk cut-offs: **TT-TG normal < 15 mm, pathological > 20 mm** · **Q angle > 20° (females)**
+
 **Tight lateral retinaculum (TO)** — **cannot evert patella to neutral** (parallel to table) · repeat at **EUA** → decides **lateral lengthening**
 
 **Beighton (TO)** — thumb to forearm, MCP hyperextension, elbow hyperextension, knee recurvatum (bilateral) + palms to floor → **/9**
@@ -157,6 +161,8 @@
 | **Chronic patholaxity** | Recurrent subluxation; **more in women**; malalignment |
 | **Habitual** | **Painless**, every flexion; **proximal** cause (tight ITB, vastus lateralis); no effusion |
 
+**Types (TO)** — **recurrent = commonest form** in practice · habitual = dislocates every flexion, relocates in extension · **congenital** = from birth, severe bony dysplasia · acute = first-time with haemarthrosis
+
 ### Patellar height
 
 | Index | Measure | Normal | Alta | Baja |
@@ -170,6 +176,8 @@
 **Insall-Salvati (TO)** — **ratio of patellar tendon to patella** (✗ Wrong options: patella to tendon) · **> 1.2 = alta** (✗ Wrong options: baja) · tendon measured along its **posterior surface**, lower pole → tibial insertion
 
 **Best index (TO)** — **Caton-Deschamps "best"** · Blackburne-Peel **more accurate than IS** (lower articular margin easier to define)
+
+**Best index — conflict** — **Insall–Salvati = best indicator of patellar height** (TO, Mohindra notes) · Caton-Deschamps (TO, above) — read the options
 
 ![Blumensaat, Insall-Salvati, Blackburne-Peel, Caton-Deschamps](../../MCQ/attachments/TO17141203-1.png)
 
@@ -201,6 +209,8 @@
 
 **Severity** — **A + C mild** · **B + D severe** (spur = what is resected)
 
+**Dejour — TO lecture wording** — A shallow trochlea · B flat + spur · C asymmetric facets, lateral convexity · D **cliff** + spur · **higher grade → higher recurrence** · Dejour C / D → trochleoplasty (TO) vs B / D (above) — read the options
+
 ![Dejour classification](../../MCQ/attachments/q211634-illa-dejour-classification.jpg)
 
 ## 5 Management
@@ -220,6 +230,8 @@ Lateral patellar dislocation
 
 **Protocol** — short immobilisation → **6 wk controlled motion** (Orthobullets) · **2 wk brace locked at 0°** → ROM brace (TO)
 
+**First-time protocol (TO, Mohindra)** — immobilise **in extension 3 weeks** → quads / VMO rehab · MRI for osteochondral fragment / MPFL · read the options vs 2 wk / 6 wk above
+
 **Rehab** — **closed chain short arc quads**, core + hip (abductors, gluteals) · patellar sleeve / **"J" brace**
 
 **First dislocation (TO)** — **operative only for osteochondral fracture** · recurrence = secondary indication\
@@ -237,6 +249,8 @@ Lateral patellar dislocation
 ✗ Wrong options: patellotibial / patellomeniscal ligaments · LFC trochlea fracture · VMO disruption
 
 **MPFL tear site** — **patellar insertion** commonest (Orthobullets) · **femoral attachment** common avulsion site (OB) · **soft-tissue avulsion** most common pattern; midsubstance + soft-tissue avulsion > **bony avulsion** (OB) — read the options
+
+**MRI after dislocation (TO)** — contusion pair **LFC + inferomedial patella** (axials) · fragments may lie in **lateral suprapatellar or posterior recesses** · repeated episodes → MPFL / medial retinaculum **thick, separated from bone by fluid cleft** (insufficient) · **TT-TG on axials**: bicondylar line, perpendicular through deepest trochlear groove → most prominent tibial tuberosity (PT-TG uses patellar tendon midpoint)
 
 **Fragment origin** — **medial patellar facet (most common)** > **LFC** / lateral trochlear ridge · **transverse patella fracture not associated**\
 ✗ Wrong options: lateral facet · odd facet · medial / central trochlea
@@ -275,6 +289,8 @@ Lateral patellar dislocation
 **Graft** — **gracilis or semitendinosus** (stronger than native), two-tailed · **open physes → medial quadriceps turndown on suture anchors** (no femoral tunnel, TO)
 
 **Graft choice** — **all equal rates of postoperative instability** (allograft = autograft = quadriceps = synthetic) · infection + PROs also equal
+
+**MPFLR technique (TO)** — **ipsilateral gracilis most preferred** · superficial quadriceps technique (TO: "Konkani") · femoral point between **adductor tubercle + medial epicondyle** · **fix at 30–45° flexion** (TO) vs 30° (OB) · graft tight only on lateral translation · **always diagnostic arthroscopy first** · **overtightening → medial facet overload**
 
 **Complications (TO)** — knee stiffness, **patella fracture**, continued instability · femoral graft position is critical
 
@@ -345,6 +361,8 @@ Lateral patellar dislocation
 **Correction target** — **TT-TG 10–15 mm, never < 10** (Orthobullets) · **\~10 mm** (TO) · TO: medialisation = TT-TG − 20 mm
 
 **Other TTOs (TO)** — **Elmslie-Trillat = direct medial** · **Maquet = direct anterior** · TTO when **TT-TG > 20**, ↑ TT-PCL, **CDI > 1.2**
+
+**Distal realignment (TO)** — **medial shift → TT-TG > 20 mm** · **distal shift → patella alta** · **AMZ (Fulkerson)** → tracking + ↓ contact pressure · **Roux–Goldthwait** adjunct · proximal realignment = MPFLR (cornerstone), VMO advancement, lateral release
 
 **Distalisation (TO)** — for **CDI > 1.2** → target **CDI 1** on C-arm · usually **\~10 mm** bone removed
 
@@ -517,3 +535,7 @@ Lateral patellar dislocation
 **"Cliff pattern + spur, 5 dislocations?"** → **MPFL reconstruction + trochleoplasty**
 
 **"Measurement indicating lateral release?"** → **lateral patello-femoral angle**
+
+**"17F, TT-TG 19 mm, shallow trochlea, recurrent dislocation (TO)?"** → **trochleoplasty + proximal realignment (MPFLR)**
+
+**"MPFL lies in which layer of the medial knee (TO)?"** → **layer II**

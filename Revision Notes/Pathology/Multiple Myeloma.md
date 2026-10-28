@@ -22,11 +22,20 @@
 | **Osteosclerotic myeloma (POEMS)** | **P**olyneuropathy (symmetric, distal → proximal, doesn't improve) · **O**rganomegaly · **E**ndocrinopathy · **M** protein · **S**kin changes (trunk) · **sclerotic** lesions |
 | MGUS / asymptomatic myeloma | Annual surveillance |
 
+| Plasma cell dyscrasia (TO) | Criteria | Treatment |
+|---|---|---|
+| **MGUS** | M protein **< 30 g/L** · plasma cells **< 10%** · no CRAB | Observe |
+| **Smouldering myeloma** | M protein **> 30 g/L** or plasma cells **10–60%** · no CRAB | **Surveillance only** |
+| **Multiple myeloma** | Plasma cells **> 60%**, or **10–60% + ≥1 CRAB** | Treat |
+| **Solitary plasmacytoma** | One biopsy-proven bone lesion · no systemic disease · marrow **< 60%** (TO — verify: usual criterion is normal marrow / < 10% clonal plasma cells) | **RT** |
+
 ### Pathophysiology (RANKL, osteoblast suppression)
 
 **Osteolysis** — myeloma cells bind marrow stromal cells → **↑ RANKL**, M-CSF, **IL-6, IL-11**, MIP-1α → osteoclast activation · **OPG ↓** (decoy receptor for RANKL)
 
-**Osteoblast suppression** — **TNF** and **DKK-1** ↓ osteoblast function → **no sclerotic rim**, **cold bone scan**
+**Osteoblast suppression** — **TNF** and **DKK-1** ↓ osteoblast function → **no sclerotic rim**, **cold bone scan** · **ALP normal** despite severe destruction — key clue (TO)
+
+**Renal failure (TO)** — **light-chain (Bence Jones) nephropathy** → tubular obstruction → glomerular damage · Bence Jones = early renal clue
 
 **Lytic lesions (mets + myeloma)** — **RANK ligand acting on osteoclasts** (RANKL secreted by osteoblasts → RANK receptor; OPG = decoy)\
 ✗ Wrong options: RANKL on neoplastic cells · OPG on osteoclasts
@@ -43,7 +52,15 @@
 
 **Poor prognosis genetics** — **del 13**, **t(4;14)**, t(14;16)
 
+**Genetics list (TO)** — hyperdiploidy · **13q14 deletion** · **t(11;14)**, t(4;14), t(14;16) · **N-RAS, K-RAS, B-RAF** mutations
+
+**Blood (TO)** — **rouleaux** on smear · circulating plasma cells **> 2,000/mm³ → plasma cell leukaemia** · **reversed A:G ratio** · ↑ LDH, ↑ uric acid · M spike in **gamma** region
+
+**Marrow cytology (TO)** — perinuclear halo, clock-face chromatin · **Mott cells, Russell bodies** (immunoglobulin inclusions)
+
 ## 3 Presentation
+
+**Uncommon features (TO)** — hyperviscosity · hepatosplenomegaly · **cord compression (plasmacytoma)** · pleural effusion
 
 **Localized bone pain** (**spine, ribs**) · **pathologic fracture** (low-energy vertebral compression) · **fatigue** (anaemia, renal failure, hypercalcaemia) · radiculopathy, fevers
 
@@ -54,6 +71,15 @@
 **X-ray** — **multiple "punched-out" lytic lesions**, **no sclerotic border** · visible only after **>50% destruction** · diffuse osteopenia, moth-eaten · marrow-packing process
 
 ![Punched-out lytic lesions](../../Orthobullets/attachments/ob8024-case-b-femur-xray-parsons-moved.jpg)
+
+| Skull lesion (TO) | Disease |
+|---|---|
+| **Punched out, no bevelling** | **Myeloma** |
+| **Double bevelled** | **EG / LCH** |
+| **Salt and pepper** | **Hyperparathyroidism** |
+| **Cotton wool** | **Paget** |
+
+**Spine** — **vertebra plana** may occur (also plasmacytoma) (TO)
 
 **Skeletal survey** — **preferred screen** · **bone scan cold in ~30%** (30–50%) — no osteoblastic activity\
 ✗ Wrong options: bone scan ideal
@@ -126,7 +152,13 @@ Plasma cell disorder
 
 **Very radio- and chemosensitive** — RT may be primary for impending lesions · surgery shouldn't delay induction / transplant
 
-**Bisphosphonates** — ↓ skeletal events
+**Bisphosphonates** — ↓ skeletal events · **zoledronic acid IV q4 wk × 2 yr**, **avoid in renal failure** (TO)
+
+**Denosumab (TO)** — **120 mg SC** (TO lists weeks 0, 1, 2 then q4 wk) · **safe in renal failure** → preferred
+
+**Systemic agents (TO)** — **melphalan + prednisolone/dexamethasone** · IMiDs: thalidomide, lenalidomide, pomalidomide · **proteasome inhibitors: bortezomib**, carfilzomib, ixazomib · anti-CD38: **daratumumab**, isatuximab · elotuzumab · **BCMA**: belantamab (ADC), **teclistamab** (bispecific CD3–BCMA), **CAR-T** (idecabtagene, ciltacabtagene) · **autologous SCT** best < 65 yr, not curative
+
+**Ortho rules (TO)** — **IM nail spanning whole bone** · periarticular → arthroplasty / megaprosthesis · **post-op RT at \~3 weeks** (radiosensitive) · plasmacytoma → **RT**, fix if **Mirels > 8**, kyphoplasty for vertebrae · treat hypercalcaemia aggressively
 
 **Surgery** — complete or impending fracture, **life expectancy >3 months** · whole-bone protection, immediate stability · **post-op RT**
 
@@ -195,6 +227,11 @@ Plasma cell disorder
 
 **"Myeloma femoral neck fracture after debating prophylaxis — true?"** → **prophylactic fixation was indicated to avoid delaying systemic therapy**\
 ✗ Wrong options: press-fit stem · radio/chemo-insensitive · poor healing · bone scan ideal
+
+**"Bone-protecting agent in myeloma with renal failure?"** → **denosumab** (TO)\
+✗ Wrong options: zoledronic acid
+
+**"Normal ALP despite extensive lytic lesions?"** → **multiple myeloma** (TO)
 
 **"Kahler disease?"** → **multiple myeloma** **(TO)**
 

@@ -14,9 +14,26 @@
 
 **Bilateral** — **10%**
 
+**Eponyms (TO)** — **König 1888** = OCD knee · **Kappis 1922** = applied to ankle · **Berndt & Harty 1959** = "**transchondral fracture**" + radiographic classification (TO)
+
+**Sprain association (TO)** — **50% of acute ankle sprains** have an OLT (TO) · 70% (Orthobullets) — read the options
+
+**Clinical clue (TO)** — **pain + effusion + locking = think OLT** · delayed recovery after "sprain" (TO)
+
 **Medial vs lateral frequency** — **medial more common**: \~**68%** (OB) · 50–56% vs lateral 34–44% · paediatric medial **53–73%** · most lesions actually **medial + central** on MRI (classic teaching: posteromedial / anterolateral)
 
 **Chronic lateral ankle instability (CLAI)** — **32–56%** develop OLTs · repetitive talar tilt + translation → **impaction on medial dome**
+
+**Medial vs lateral (TO)** — medial **\~65–70%** · lateral **\~30–35%** (TO)
+
+**Aetiology (TO)** — **trauma commonest (85%)**: **98% of lateral, 70% of medial** lesions traumatic · also chronic microtrauma / instability · **osteonecrosis** · systemic vasculopathy / endocrine · **malalignment → kissing / bipolar lesions** · genetic (laxity, collagen) (TO)
+
+| Zone (Berndt & Harty 9-zone grid, TO) | Frequency |
+|---|---|
+| **Zone 4 (centromedial)** | **Most common (65–70%)** |
+| **Zone 6 (centrolateral)** | **2nd most common** — answer if zone 4 not offered |
+
+**Zones 4 + 6 (TO MRI lecture)** — lesions here **often need repair** (TO)
 
 ### Diagnosis & aetiology – medial vs lateral lesions
 
@@ -29,6 +46,7 @@
 | Frequency | **More common** | Less common |
 | Spontaneous healing | Better | **Lower** → harder with nonop |
 | Behaviour | Less symptomatic | **More often displaced + symptomatic** |
+| **Shape / force (TO)** | **Deep, cup-shaped** · **impaction** · usually **non-displaced** | **Shallow, wafer-like** · **shearing** · often **displaced** |
 
 ### Anatomy
 
@@ -91,6 +109,10 @@
 **Persistent pain 6 mo after sprain, no instability, normal X-ray** — **MRI of ankle**\
 ✗ Wrong options: continue PT · CAM boot 2 wk · steroid injection · diagnostic arthroscopy
 
+**Imaging (TO)** — X-ray: **oblique + plantarflexion views** improve visualisation · "**plantarflexion view crucial for anterolateral lesions**" (TO — verify: plantarflexed mortise usually shows **posteromedial**, dorsiflexed shows anterolateral) · **Tc bone scan** = subtle early lesions · **CT 2 mm cuts** = size, displacement, cysts · MRI / MR arthrography = cartilage, oedema, cysts (TO)
+
+**Grade 1 lesions (TO)** — marrow oedema / cartilage delamination **invisible on X-ray** (TO)
+
 ![AP ankle – lateral talar dome osteochondral lesion](../../Orthobullets/attachments/ob7034-osteochondral-lesion.jpg)
 
 ### Juvenile lesions – nonoperative care & prognostic MRI features
@@ -117,6 +139,8 @@
 | **3** | **Complete detachment, not displaced** | |
 | **4** | **Displaced fragment** | |
 
+**Berndt & Harty on MRI (TO)** — **I** subchondral compression (marrow oedema) · **IIa subchondral cyst** · **IIb incomplete separation** · **III** complete, undisplaced · **IV** displaced / inverted (TO)
+
 ### Ferkel and Sgaglione (CT)
 
 | Stage | Description |
@@ -126,6 +150,7 @@
 | **2b** | **Open articular surface** lesion with overlying nondisplaced fragment |
 | **3** | Nondisplaced lesion **with lucency** |
 | **4** | **Displaced fragment** |
+| **5 (TO)** | **Radiolucent cystic lesion on CT** (TO — verify: Ferkel usually stages 1–4) |
 
 ### Hepple (MRI)
 
@@ -137,6 +162,17 @@
 | **3** | **Detached, nondisplaced** fragment |
 | **4** | **Displaced** fragment |
 | **5** | **Subchondral cyst** formation |
+
+### Cheng (arthroscopic, TO)
+
+| Grade (TO) | Arthroscopic finding |
+|---|---|
+| **A** | Smooth, intact, **soft** cartilage |
+| **B** | Rough surface |
+| **C** | Fibrillation / fissuring |
+| **D** | Flap or bone exposed |
+| **E** | Loose, undisplaced fragment |
+| **F** | Displaced fragment |
 
 ## 5 Management
 
@@ -150,6 +186,10 @@ OLT
 ```
 
 **Treatment depends on** — **age, activity demands, lesion size, stability** · surgery if nonop fails after **6 months**
+
+**Nonop (TO)** — **PTB brace = brace of choice** (avoids axial loading on talus) **4–6 wk** · restricted WB · NSAIDs, physio · **children stage 2–3 nondisplaced → immobilise** (TO)
+
+**Operative indications (TO)** — symptomatic displaced · **acute stage 3–4 → early surgery** · **large / cystic > 1.5 cm² → surgery** (TO)
 
 ### Operative criteria
 
@@ -199,6 +239,8 @@ OLT
 
 **Complication** — **violation of intact cartilage cap**
 
+**Percutaneous arthroscopic drilling (TO)** — **early lesions**, mild osteosclerosis, intact cartilage, stable fragment · **avoids medial malleolar osteotomy** (TO)
+
 ![Retrograde drilling from the sinus tarsi beneath an intact cap](../../Orthobullets/attachments/ob7034-retrograde-drilling.jpg)
 
 ### Displaced fragments – fixation
@@ -223,6 +265,18 @@ OLT
 **Fresh osteochondral allograft** — failed prior arthroscopic cartilage procedures · **large cystic component** · contained > 1.5 cm² · uncontained shoulder · **knee OA / prior knee infection** · patient fears knee donor morbidity · comparable to femoral autograft
 
 **ACI** — **two-stage**: arthroscopic chondrocyte harvest (ankle or knee) → culture → implant via osteotomy under **tibial periosteal patch** (fibrin glue) · > 1 cm², ± cyst, shoulder, primary or revision · **MACI** = equivalent, may avoid osteotomy
+
+| Graft option (TO) | Indication / key fact |
+|---|---|
+| **OATS** | Defects **> 5 mm** (TO) · single plug, usually **femoral condyle** · hyaline surface · > 1–1.5 cm² (Orthobullets) — read the options |
+| **Mosaicplasty** | **Multiple small plugs** for irregular large lesions |
+| **Mega-OATS / allograft** | **> 12 mm** defects · **fresh talar allograft within 7 days of harvest** · demanding, costly |
+| **ACI** | Culture **2–5 wk** · stage 3–4, **large contained**, failed prior surgery · **age 15–55** · **contraindicated: malalignment, arthritis, instability, kissing lesions** |
+| **MACI** | Collagen **type I–III membrane** preloaded with cells, **fibrin glue** |
+| **CACI** | **Porcine collagen membrane** over cultured chondrocytes |
+| **Hyalograft (Hylofast)** | Synthetic membrane, defects **≤ 10 mm**, **no periosteal flap** |
+
+**Rehab (TO)** — 0–4 wk NWB immobilised → 4–8 wk partial WB, ROM → 8–12 wk loading, proprioception → > 12 wk sport · **full recovery 4–6 months** (TO)
 
 **Approach** — **medial malleolar osteotomy** for **medial + posterior** lesions (2 parallel K-wires aim at lateral extent of OLT; predrill 2 holes) · lateral lesions → **lateral malleolar osteotomy or ATFL / CFL release**
 
@@ -260,6 +314,12 @@ OLT
 | Pitfall | Delamination | **Breach of cap** | Proud plug, donor site |
 
 ## How it's asked
+
+**"Most common zone for talar OLT?"** → **zone 4 (centromedial)**; next zone 6 (TO)
+
+**"Brace of choice for nonop OLT?"** → **PTB brace** (TO)
+
+**"Talar defect > 12 mm?"** → **mega-OATS / fresh talar allograft** (TO)
 
 **"Dancer, pain 6 mo after sprain, stable ankle, normal X-ray — next step?"** → **MRI of the ankle**
 

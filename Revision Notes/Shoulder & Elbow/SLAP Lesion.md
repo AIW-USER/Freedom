@@ -14,11 +14,17 @@
 
 **Associations** — internal impingement · GIRD · **articular-sided** cuff tears · (subtle) instability · scapular dyskinesis · paralabral cyst · sublabral clefts, Buford complex
 
+**History (TO)** — **Andrews (1985)**: superior labral tears with **partial cuff tears in pitchers** · **Snyder (1990)** coined "**SLAP lesion**"
+
+**Age (TO)** — usually **<40 y** athletes/throwers · isolated SLAP uncommon; often with **articular-sided supraspinatus tear**
+
 ### Anatomy – biceps anchor, Buford complex & vascularity
 
 **LHB attachment** — **~50% to supraglenoid tubercle, ~50% to labrum** (predominantly posterior labrum) · tubercle **>6 mm medial** to glenoid surface
 
 **Posterior / posterior-dominant attachment** — **~70%** of shoulders (✗ Wrong options: 15% · 30% · 100%) · most common: **posterior to 12 o'clock** (✗ Wrong options: "anchored anteriorly")
+
+**Biceps origin (Habermeyer, TO)** — **posterosuperior labrum 48% (commonest)** · **supraglenoid tubercle only 20%** · both **28%** · predominantly posterosuperior labrum, **10–2 o'clock**
 
 | Tuoheti type | Biceps attachment | Share |
 |---|---|---|
@@ -53,6 +59,10 @@
 
 **Consequence** — SLAP **↑ strain on anterior band IGHL** → ↓ stability
 
+**Disabled throwing shoulder (Burkhart 2003) (TO)** — repetitive throwing → posterior capsular stretch → **posterior capsular fibrosis/contracture** → **GIRD (>25°)** → head shifted **posterosuperiorly** in ABER → **internal impingement** → **SLAP + PASTA**
+
+**Internal impingement complex (TO)** — **SLAP + articular-sided supraspinatus tear**
+
 ## 3 Presentation
 
 **History** — "pop" during overhead activity or trauma · **lag** between injury + symptoms
@@ -67,6 +77,16 @@
 |---|---|
 | Biceps provocation | **Speed's**, **Yergason's**, Kim biceps load |
 | SLAP | **O'Brien (active compression)**, **crank** (full abduction, load + rotate), **dynamic labral shear**, Kibler anterior slide |
+
+| SLAP test (TO) | Manoeuvre | Positive |
+|---|---|---|
+| **O'Brien** | 90° flexion, **10° adduction**, thumb down → resist | Deep pain in IR not ER = SLAP · superficial = AC |
+| **Biceps load I** | **90° abduction**, ER, supination → resisted elbow flexion | TO: **pain relief = positive** |
+| **Biceps load II** | Supine, **120° abduction**, ER, supination → resisted elbow flexion | **Pain ↑** = positive |
+| **Uppercut** | Elbow 90°, supinated, punch to chin vs resistance | Pain = SLAP |
+| **Modified dynamic labral shear** | Standing, 120° abduction scapular plane, ER → lower to 90° | Posterior click/pain · **most specific / confirmatory test** (TO) |
+
+**Speed / Yergason (TO)** — may be positive in early biceps tendinitis or evolving SLAP
 
 ### Related topics (distal clavicle excision, biceps dislocation)
 
@@ -97,6 +117,10 @@
 **Overdiagnosis** — concern (↑ SLAP repairs in ABOS case logs)
 
 **Arthroscopic peel-back test** — labrum peels back at **90° abduction + ER**
+
+**Arthroscopic SLAP criteria (TO)** — **superior labral excursion >5 mm** · sublabral granulation/fraying · **peel-back sign** → **confirms type II**
+
+**Plain MRI (TO)** — limited for typing · **MR arthrography = investigation of choice** · arthroscopy = gold standard for classification
 
 ### SLAP classification
 
@@ -158,6 +182,17 @@ SLAP lesion
 
 **Age thresholds** — tenodesis consensus **>40 y** (Orthobullets, OB) · repair failure **>36 y** (Orthobullets, OB) · stiffness risk **>35 y** (OB) — read the options
 
+| TO treatment by type | Plan |
+|---|---|
+| **I** | Exhaust nonop → **debridement** if mechanical symptoms or **paralabral cyst** |
+| **II** | **Low-demand → nonop** · high-demand athlete → **arthroscopic repair** |
+| **III** | **Resect** bucket-handle fragment |
+| **IV** | Biceps **<50% → leave** · **>50% → tenodesis / tenotomy** |
+
+**Type IV biceps threshold** — **>1/3 (>30%)** (Orthobullets) · **>50%** (TO) — read the options
+
+**Tenodesis vs tenotomy (TO)** — **<40 y → tenodesis · >40 y → tenotomy** · similar long-term outcomes · tenotomy cosmetic deformity **~20%**
+
 **Tenodesis in young** — viable even **<25 y** athletes (recent studies)
 
 **Repair failure factor** — **age >36**\
@@ -181,6 +216,17 @@ SLAP lesion
 
 **Tenodesis** — all-arthroscopic or mini-open; tenotomise near labrum
 
+| SLAP repair portal (TO) | Use |
+|---|---|
+| Posterior | Viewing |
+| Anterior (above coracoid) | Instrumentation |
+| **Anterolateral** (acromial edge) | **Anchor insertion** |
+| **Neviaser** (superior) | **Suture shuttling** to superior labrum |
+
+**Repair steps (TO)** — confirm tear → debride + prepare bed → **anchor posterior to biceps** (posterosuperior labrum = main attachment) → shuttle via Neviaser → tie · usually **1–2 anchors**
+
+**Rehab (TO)** — sling **3 wk** · passive ROM after 3 wk (avoid ER stress) · strengthening **6–8 wk** · overhead sport **4–6 months** (Orthobullets ~6 months) — read the options
+
 ### Postoperative rehabilitation after SLAP repair
 
 | Period | Allowed | Avoid |
@@ -201,6 +247,8 @@ SLAP lesion
 ### Stiffness
 
 **Most common** after SLAP repair (~78%, Orthobullets) · risk: incidental SLAP repaired in **>45 y** during cuff repair · **post-surgical adhesive capsulitis**
+
+**Stiffness rate (TO)** — **up to 75%** · prevented by rehab compliance
 
 **Treatment** — early pendulum/AAROM from wk 1 → **capsular release** if fails >6 months PT
 
@@ -293,3 +341,7 @@ SLAP lesion
 **"Arthroscopic DCE advantage?"** → **evaluation of GH joint**
 
 **"Medial biceps dislocation cause?"** → **subscapularis tear**
+
+**"Who coined the term SLAP?"** → **Snyder (1990)** (TO)
+
+**"Arthroscopic sign confirming type II SLAP?"** → **peel-back** (TO)

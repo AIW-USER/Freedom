@@ -58,3 +58,233 @@
 {"t":"2026-09-28T16:30:33.874Z","module":"acetabular-fractures::Elderly – acute THA with/without ORIF","id":"OB219485","result":-1,"session":15}
 {"t":"2026-09-28T16:39:57.655Z","module":"acetabular-fractures::Elderly – acute THA with/without ORIF","id":"OB218000","result":1,"session":15}
 {"t":"2026-09-28T16:44:12.891Z","module":"acetabular-fractures::Elderly – acute THA with/without ORIF","id":"OB219178","result":1,"session":15}
+{"t":"2026-10-08T05:38:32.475Z","module":"acute-subclavian-artery-thrombosis::Arterial thromboembolism – treatment & anticoagulation","id":"OB211754","result":-1,"rating":2,"day":20734}
+{"t":"2026-10-08T05:40:10.676Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"TO17138105","result":0,"rating":0,"day":20734}
+{"t":"2026-10-08T05:50:34.308Z","module":"ain-compressive-neuropathy::AIN motor distribution (FPL, FDP index)","id":"OB9008","result":1,"rating":2,"day":20734}
+{"t":"2026-10-08T05:55:42.074Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"OB217917","result":1,"rating":2,"day":20734}
+{"t":"2026-10-08T06:01:44.507Z","module":"acute-subclavian-artery-thrombosis::Arterial thromboembolism – treatment & anticoagulation","id":"OB5818","result":0,"rating":0,"day":20734}
+{"t":"2026-10-08T06:02:59.507Z","module":"ain-compressive-neuropathy::AIN motor distribution (FPL, FDP index)","id":"OB9008","result":1,"rating":2,"day":20734}
+{"t":"2026-10-08T06:06:19.157Z","module":"acute-subclavian-artery-thrombosis::Arterial thromboembolism – treatment & anticoagulation","id":"OB211754","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T06:16:05.673Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"OB220078","result":-1,"rating":1,"day":20734}
+{"t":"2026-10-08T06:25:41.225Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB219850","result":0,"rating":0,"day":20734}
+{"t":"2026-10-08T07:09:01.120Z","module":"apert-syndrome::FGFR2 mutation & clinical features","id":"OB4611","result":0,"rating":0,"day":20734}
+{"t":"2026-10-08T07:25:41.571Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"OB725","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T07:42:38.299Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB218061","result":0,"rating":2,"day":20734}
+{"t":"2026-10-08T07:43:49.865Z","module":"apert-syndrome::FGFR2 mutation & clinical features","id":"OB3346","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T07:46:06.833Z","module":"atypical-mycobacterium-infections::Mycobacterium marinum","id":"OB215457","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T07:47:55.333Z","module":"atypical-mycobacterium-infections::Compound palmar ganglion (TB tenosynovitis)","id":"TO17141298","result":-1,"rating":1,"day":20734}
+{"t":"2026-10-08T08:41:52.667Z","module":"atypical-mycobacterium-infections::Fishmonger's disease (erysipeloid)","id":"TO17124709","result":0,"rating":0,"day":20734}
+{"t":"2026-10-08T08:45:37.850Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB219850","result":1,"rating":2,"day":20734}
+{"t":"2026-10-08T08:46:11.384Z","module":"atypical-mycobacterium-infections::Compound palmar ganglion (TB tenosynovitis)","id":"TO17734747","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T08:46:22.084Z","module":"atypical-mycobacterium-infections::Fishmonger's disease (erysipeloid)","id":"TO17743621","result":1,"rating":3,"day":20734}
+{"t":"2026-10-08T08:55:04.502Z","module":"base-of-thumb-fractures::Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre","id":"OB218133","result":-1,"rating":0,"day":20734}
+{"t":"2026-10-09T07:27:59.129Z","module":"base-of-thumb-fractures::Bennett fragment – anterior oblique ligament attachment","id":"OB213993","result":1,"rating":1,"day":20735}
+{"t":"2026-10-09T11:12:20.681Z","module":"base-of-thumb-fractures::Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre","id":"OB211270","result":-1,"rating":2,"day":20735}
+{"t":"2026-10-09T11:13:48.396Z","module":"base-of-thumb-fractures::Bennett fragment – anterior oblique ligament attachment","id":"OB213993","result":1,"rating":2,"day":20735}
+{"t":"2026-10-09T11:18:41.146Z","module":"ain-compressive-neuropathy::AIN motor distribution (FPL, FDP index)","id":"OB9008","result":1,"rating":3,"day":20735}
+{"t":"2026-10-09T11:22:56.380Z","module":"base-of-thumb-fractures::Rolando fracture","id":"TO17137145","result":1,"rating":2,"day":20735}
+{"t":"2026-10-09T11:35:14.545Z","module":"base-of-thumb-fractures::Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre","id":"OB218041","result":1,"rating":3,"day":20735}
+{"t":"2026-10-09T11:42:54.479Z","module":"base-of-thumb-fractures::Bennett fragment – anterior oblique ligament attachment","id":"OB213993","result":1,"rating":3,"day":20735}
+{"t":"2026-10-09T11:43:24.961Z","module":"base-of-thumb-fractures::Rolando fracture","id":"TO17736583","result":1,"rating":3,"day":20735}
+{"t":"2026-10-09T11:56:02.261Z","module":"basilar-thumb-arthritis::Nonoperative care – splinting & injections","id":"OB218057","result":1,"rating":2,"day":20735}
+{"t":"2026-10-09T12:07:12.294Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB753","result":-1,"rating":1,"day":20735}
+{"t":"2026-10-09T12:07:57.611Z","module":"basilar-thumb-arthritis::Nonoperative care – splinting & injections","id":"OB2935","result":-1,"rating":1,"day":20735}
+{"t":"2026-10-09T17:36:00.108Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB3669","result":-1,"rating":1,"day":20735}
+{"t":"2026-10-09T18:24:21.229Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB220552","result":0,"rating":1,"day":20735}
+{"t":"2026-10-09T18:38:07.079Z","module":"basilar-thumb-arthritis::Nonoperative care – splinting & injections","id":"OB218057","result":1,"rating":3,"day":20735}
+{"t":"2026-10-09T18:55:53.679Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB4730","result":1,"rating":2,"day":20735}
+{"t":"2026-10-09T19:08:24.363Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB214670","result":0,"rating":1,"day":20735}
+{"t":"2026-10-09T19:13:09.862Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB6422","result":1,"rating":2,"day":20735}
+{"t":"2026-10-09T19:17:35.662Z","module":"basilar-thumb-arthritis::CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)","id":"OB217857","result":-1,"rating":1,"day":20735}
+{"t":"2026-10-09T19:27:51.646Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB214671","result":0,"rating":0,"day":20735}
+{"t":"2026-10-09T19:33:35.230Z","module":"basilar-thumb-arthritis::CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)","id":"OB220054","result":1,"rating":2,"day":20735}
+{"t":"2026-10-10T05:33:12.619Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB211182","result":-1,"rating":2,"day":20736}
+{"t":"2026-10-10T05:40:40.735Z","module":"basilar-thumb-arthritis::CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)","id":"OB218141","result":-1,"rating":2,"day":20736}
+{"t":"2026-10-10T05:47:01.719Z","module":"basilar-thumb-arthritis::STT arthritis – STT arthrodesis","id":"OB211336","result":1,"rating":3,"day":20736}
+{"t":"2026-10-10T06:13:29.236Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB214671","result":-1,"rating":1,"day":20736}
+{"t":"2026-10-10T06:15:20.170Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB218061","result":1,"rating":2,"day":20736}
+{"t":"2026-10-10T06:19:06.752Z","module":"blood-supply-to-hand::Vascular anatomy – deep palmar arch & digital neurovascular relationship","id":"OB694","result":-1,"rating":0,"day":20736}
+{"t":"2026-10-10T06:22:55.803Z","module":"blood-supply-to-hand::Allen test","id":"TO17732554","result":1,"rating":3,"day":20736}
+{"t":"2026-10-10T06:25:26.569Z","module":"blood-supply-to-hand::Vascular anatomy – deep palmar arch & digital neurovascular relationship","id":"OB1191","result":-1,"rating":1,"day":20736}
+{"t":"2026-10-10T06:29:43.586Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB753","result":1,"rating":3,"day":20736}
+{"t":"2026-10-10T08:41:27.315Z","module":"boutonniere-deformity::Pathophysiology – central slip injury & lateral band relocation","id":"TO25178258","result":1,"rating":2,"day":20736}
+{"t":"2026-10-10T12:22:40.085Z","module":"blood-supply-to-hand::Vascular anatomy – deep palmar arch & digital neurovascular relationship","id":"OB694","result":1,"rating":3,"day":20736}
+{"t":"2026-10-10T12:24:02.868Z","module":"boutonniere-deformity::Pathophysiology – central slip injury & lateral band relocation","id":"OB1176","result":1,"rating":2,"day":20736}
+{"t":"2026-10-10T12:32:42.852Z","module":"camptodactyly::Treatment – stretching & extension splinting","id":"OB5724","result":1,"rating":2,"day":20736}
+{"t":"2026-10-10T16:22:47.210Z","module":"camptodactyly::Diagnosis","id":"TO17141286","result":1,"rating":2,"day":20736}
+{"t":"2026-10-10T16:28:31.077Z","module":"camptodactyly::Treatment – stretching & extension splinting","id":"OB8931","result":1,"rating":3,"day":20736}
+{"t":"2026-10-10T16:29:16.693Z","module":"carpal-instability-nondissociative-cind::Midcarpal instability – diagnosis","id":"TO25178985","result":0,"rating":0,"day":20736}
+{"t":"2026-10-10T16:38:17.127Z","module":"carpal-instability-nondissociative-cind::Radiocarpal (ulnar translocation) instability","id":"TO25178988","result":-1,"rating":1,"day":20736}
+{"t":"2026-10-16T10:15:19.261Z","module":"carpal-instability-nondissociative-cind::Midcarpal instability – diagnosis","id":"TO25178984","result":0,"rating":3,"day":20742}
+{"t":"2026-10-16T10:15:47.028Z","module":"camptodactyly::Diagnosis","id":"TO17141286","result":-1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:15:59.261Z","module":"carpal-instability-nondissociative-cind::Radiocarpal (ulnar translocation) instability","id":"TO25178988","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:17:21.895Z","module":"carpal-tunnel-syndrome::Anatomy – tunnel contents, TCL attachments, recurrent motor branch & anastomoses","id":"OB218149","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:18:35.312Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB7768","result":-1,"rating":1,"day":20742}
+{"t":"2026-10-16T10:18:53.895Z","module":"carpal-tunnel-syndrome::Diagnosis – provocative tests, CTS-6 & electrodiagnostics","id":"TO17138100","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:21:43.128Z","module":"basilar-thumb-arthritis::CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)","id":"OB217857","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T10:24:25.262Z","module":"carpal-tunnel-syndrome::Nonoperative care – splint position & steroid injection","id":"OB211512","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:25:00.712Z","module":"boutonniere-deformity::Pathophysiology – central slip injury & lateral band relocation","id":"OB2893","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:26:58.962Z","module":"carpal-tunnel-syndrome::Surgical release – indications, guidelines, open vs endoscopic & prognosis","id":"TO17138101","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:54:12.406Z","module":"acute-subclavian-artery-thrombosis::Arterial thromboembolism – treatment & anticoagulation","id":"OB5818","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T10:55:02.807Z","module":"carpal-tunnel-syndrome::Perioperative care & complications (infection prevention, nerve injury, analgesia)","id":"OB4693","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T12:06:19.068Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"TO17138105","result":-1,"rating":1,"day":20742}
+{"t":"2026-10-16T12:09:11.868Z","module":"carpal-tunnel-syndrome::Secondary causes – inflammatory mass","id":"OB4650","result":-1,"rating":1,"day":20742}
+{"t":"2026-10-16T12:10:26.468Z","module":"apert-syndrome::FGFR2 mutation & clinical features","id":"OB803","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T12:10:44.135Z","module":"carpal-tunnel-syndrome::Associated conditions","id":"TO17138099","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T12:14:06.203Z","module":"atypical-mycobacterium-infections::Mycobacterium marinum","id":"OB215457","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T12:15:11.785Z","module":"cleft-hand::Inheritance","id":"OB214071","result":0,"rating":1,"day":20742}
+{"t":"2026-10-16T12:15:21.052Z","module":"carpal-tunnel-syndrome::Secondary causes – inflammatory mass","id":"OB4650","result":1,"rating":3,"day":20742}
+{"t":"2026-10-16T12:16:22.585Z","module":"atypical-mycobacterium-infections::Compound palmar ganglion (TB tenosynovitis)","id":"TO17141302","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T12:25:48.269Z","module":"cleft-hand::Classification (Manske) & management","id":"TO17138272","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T12:25:54.302Z","module":"cleft-hand::Inheritance","id":"OB214071","result":1,"rating":2,"day":20742}
+{"t":"2026-10-16T12:26:38.635Z","module":"atypical-mycobacterium-infections::Fishmonger's disease (erysipeloid)","id":"TO17124709","result":-1,"rating":1,"day":20742}
+{"t":"2026-10-16T12:30:08.919Z","module":"congenital-clasped-thumb::First-line treatment – serial splinting","id":"OB1110","result":1,"rating":2,"day":20742}
+{"t":"2026-10-19T05:11:10.111Z","module":"base-of-thumb-fractures::Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre","id":"OB477","result":-1,"rating":2,"day":20745}
+{"t":"2026-10-19T05:34:08.762Z","module":"cleft-hand::Classification (Manske) & management","id":"TO17905824","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T05:34:20.346Z","module":"cleft-hand::Inheritance","id":"OB214071","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:34:57.912Z","module":"congenital-clasped-thumb::First-line treatment – serial splinting","id":"OB1110","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:35:53.796Z","module":"congenital-radial-head-dislocation::Diagnosis (bilateral, vs traumatic) & management – observation vs late excision","id":"OB8457","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:38:07.178Z","module":"congenital-radial-ulnar-synostosis::Aetiology & associations (failure of segmentation, XXY)","id":"OB5937","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:40:02.278Z","module":"base-of-thumb-fractures::Bennett fragment – anterior oblique ligament attachment","id":"OB213993","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:42:21.430Z","module":"congenital-radial-ulnar-synostosis::Management – observation vs osteotomy/mobilisation indications","id":"OB5472","result":-1,"rating":1,"day":20745}
+{"t":"2026-10-19T05:48:59.111Z","module":"congenital-radial-ulnar-synostosis::Cleary & Omer classification","id":"TO17138246","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T05:51:11.195Z","module":"congenital-radial-ulnar-synostosis::Management – observation vs osteotomy/mobilisation indications","id":"OB5706","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:51:59.661Z","module":"base-of-thumb-fractures::Rolando fracture","id":"TO17137145","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:52:08.828Z","module":"congenital-trigger-thumb::Diagnosis (Notta's node) & A1 pulley release timing","id":"TO21733098","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:53:29.894Z","module":"constrictive-ring-syndrome-streeters-dysplasia::Associated conditions (clubfoot, cleft lip/palate) & sporadic inheritance","id":"TO17905813","result":0,"rating":1,"day":20745}
+{"t":"2026-10-19T05:53:55.161Z","module":"basilar-thumb-arthritis::Nonoperative care – splinting & injections","id":"OB2935","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:59:46.360Z","module":"constrictive-ring-syndrome-streeters-dysplasia::Treatment – band release & Z-plasty","id":"OB3431","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T05:59:58.994Z","module":"congenital-radial-ulnar-synostosis::Cleary & Omer classification","id":"TO17913087","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T06:05:36.277Z","module":"constrictive-ring-syndrome-streeters-dysplasia::Associated conditions (clubfoot, cleft lip/palate) & sporadic inheritance","id":"TO17138141","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T06:08:57.927Z","module":"ain-compressive-neuropathy::AIN motor distribution (FPL, FDP index)","id":"OB9008","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T06:12:28.244Z","module":"cubital-tunnel-syndrome::Anatomy & compression sites (Osborne's ligament, anconeus epitrochlearis, cubital tunnel floor)","id":"OB218229","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T06:13:44.461Z","module":"cubital-tunnel-syndrome::Clinical signs (Wartenberg, Froment)","id":"TO17138097","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T06:18:52.511Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB219850","result":1,"rating":1,"day":20745}
+{"t":"2026-10-19T17:16:51.906Z","module":"cubital-tunnel-syndrome::In situ decompression vs anterior transposition (subluxation, snapping)","id":"OB217789","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:21:45.606Z","module":"cubital-tunnel-syndrome::Anatomy & compression sites (Osborne's ligament, anconeus epitrochlearis, cubital tunnel floor)","id":"OB1851","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:22:25.906Z","module":"cubital-tunnel-syndrome::Clinical signs (Wartenberg, Froment)","id":"OB3551","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:26:30.639Z","module":"cubital-tunnel-syndrome::Medial antebrachial cutaneous nerve injury","id":"OB217923","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:27:29.356Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB214671","result":-1,"rating":1,"day":20745}
+{"t":"2026-10-19T17:30:44.406Z","module":"cubital-tunnel-syndrome::Ulnar tunnel (Guyon's canal) compression","id":"OB220010","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:34:14.639Z","module":"basilar-thumb-arthritis::STT arthritis – STT arthrodesis","id":"OB211336","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:36:50.908Z","module":"cubital-tunnel-syndrome::Tardy ulnar nerve palsy","id":"TO21733204","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:37:52.791Z","module":"de-quervains-tenosynovitis::Anatomy – APL/EPB & injection site","id":"OB395","result":-1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:38:30.358Z","module":"blood-supply-to-hand::Vascular anatomy – deep palmar arch & digital neurovascular relationship","id":"OB1191","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:41:47.875Z","module":"de-quervains-tenosynovitis::Recurrence – unreleased EPB subsheath","id":"OB4613","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:43:02.108Z","module":"cubital-tunnel-syndrome::Ulnar tunnel (Guyon's canal) compression","id":"OB220010","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:47:05.775Z","module":"de-quervains-tenosynovitis::Intersection syndrome/differential","id":"OB219569","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:47:18.375Z","module":"cubital-tunnel-syndrome::Tardy ulnar nerve palsy","id":"TO21733204","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:49:01.775Z","module":"blood-supply-to-hand::Allen test","id":"TO17141497","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:51:06.343Z","module":"de-quervains-tenosynovitis::Anatomy – APL/EPB & injection site","id":"OB220036","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:52:48.827Z","module":"de-quervains-tenosynovitis::Diagnosis in bowlers & typists","id":"TO17907843","result":0,"rating":2,"day":20745}
+{"t":"2026-10-19T17:55:13.877Z","module":"camptodactyly::Treatment – stretching & extension splinting","id":"OB5724","result":1,"rating":1,"day":20745}
+{"t":"2026-10-19T17:57:14.544Z","module":"deep-space-and-collar-button-infections::Collar-button abscess drainage","id":"OB210196","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:57:52.994Z","module":"deep-space-and-collar-button-infections::Ulnar & radial bursae communications","id":"TO17124500","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:58:39.794Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB215508","result":0,"rating":1,"day":20745}
+{"t":"2026-10-19T17:59:31.561Z","module":"digital-artery-aneurysm::Treatment – surgical exploration","id":"OB219","result":1,"rating":3,"day":20745}
+{"t":"2026-10-19T17:59:40.944Z","module":"de-quervains-tenosynovitis::Diagnosis in bowlers & typists","id":"TO17141322","result":1,"rating":2,"day":20745}
+{"t":"2026-10-19T17:59:46.177Z","module":"deep-space-and-collar-button-infections::Ulnar & radial bursae communications","id":"TO17732286","result":1,"rating":3,"day":20745}
+{"t":"2026-10-20T04:43:54.350Z","module":"digital-collateral-ligament-injury::Index MCP radial collateral ligament – repair","id":"OB212029","result":-1,"rating":1,"day":20746}
+{"t":"2026-10-20T04:48:10.383Z","module":"camptodactyly::Diagnosis","id":"TO17141286","result":1,"rating":2,"day":20746}
+{"t":"2026-10-20T04:49:55.618Z","module":"digital-collateral-ligament-injury::Bowler's thumb (ulnar digital nerve neuropathy)","id":"TO17731924","result":1,"rating":2,"day":20746}
+{"t":"2026-10-20T04:52:32.750Z","module":"digital-collateral-ligament-injury::Index MCP radial collateral ligament – repair","id":"OB212029","result":1,"rating":3,"day":20746}
+{"t":"2026-10-20T04:55:27.734Z","module":"carpal-instability-nondissociative-cind::Midcarpal instability – diagnosis","id":"OB3475","result":1,"rating":3,"day":20746}
+{"t":"2026-10-20T04:56:54.001Z","module":"dip-and-pip-joint-arthritis::Mucous cyst – excision with osteophyte removal","id":"OB711","result":-1,"rating":1,"day":20746}
+{"t":"2026-10-20T05:00:40.718Z","module":"dip-and-pip-joint-arthritis::PIP arthroplasty (silicone, pyrocarbon) vs arthrodesis – indications & outcomes","id":"OB211391","result":1,"rating":3,"day":20746}
+{"t":"2026-10-20T05:00:54.734Z","module":"digital-collateral-ligament-injury::Bowler's thumb (ulnar digital nerve neuropathy)","id":"TO17138092","result":1,"rating":3,"day":20746}
+{"t":"2026-10-22T08:35:34.571Z","module":"carpal-instability-nondissociative-cind::Radiocarpal (ulnar translocation) instability","id":"TO25178988","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T08:37:18.903Z","module":"dip-and-pip-joint-arthritis::Mucous cyst – excision with osteophyte removal","id":"OB6677","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T08:40:05.953Z","module":"dip-and-pip-joint-arthritis::DIP arthrodesis complication – screw length","id":"OB219970","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T08:41:14.470Z","module":"dog-and-cat-bites::Pasteurella multocida","id":"OB6633","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T08:41:50.670Z","module":"carpal-tunnel-syndrome::Anatomy – tunnel contents, TCL attachments, recurrent motor branch & anastomoses","id":"OB6180","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T08:44:59.770Z","module":"dog-and-cat-bites::Cat bite flexor tenosynovitis – drainage","id":"OB210115","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T08:48:41.637Z","module":"dog-and-cat-bites::Cat-scratch disease (Bartonella) – epitrochlear lymphadenitis","id":"OB7563","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T08:50:13.487Z","module":"carpal-tunnel-syndrome::Diagnosis – provocative tests, CTS-6 & electrodiagnostics","id":"TO17904041","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T08:50:54.204Z","module":"dupuytrens-disease::Pathogenesis & diathesis (Garrod's pads)","id":"TO17141377","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T08:51:33.671Z","module":"dog-and-cat-bites::Cat bite flexor tenosynovitis – drainage","id":"OB210115","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T08:56:12.038Z","module":"carpal-tunnel-syndrome::Nonoperative care – splint position & steroid injection","id":"OB214822","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T08:56:59.421Z","module":"dupuytrens-disease::Cord anatomy – spiral cord, neurovascular displacement & natatory ligament","id":"TO17141375","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T09:01:21.104Z","module":"dupuytrens-disease::Collagenase & needle fasciotomy – mechanism, complications & outcomes","id":"OB5638","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T09:03:37.854Z","module":"dog-and-cat-bites::Cat-scratch disease (Bartonella) – epitrochlear lymphadenitis","id":"OB7516","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T10:03:25.391Z","module":"dupuytrens-disease::Pathogenesis & diathesis (Garrod's pads)","id":"TO17141333","result":-1,"rating":2,"day":20748}
+{"t":"2026-10-22T10:07:58.423Z","module":"dupuytrens-disease::Cord anatomy – spiral cord, neurovascular displacement & natatory ligament","id":"TO21733289","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T10:51:34.425Z","module":"dupuytrens-disease::Collagenase & needle fasciotomy – mechanism, complications & outcomes","id":"OB219934","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T10:52:16.142Z","module":"dupuytrens-disease::Cord anatomy – spiral cord, neurovascular displacement & natatory ligament","id":"OB1372","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T10:54:27.926Z","module":"carpal-tunnel-syndrome::Surgical release – indications, guidelines, open vs endoscopic & prognosis","id":"OB8850","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T10:56:32.976Z","module":"dupuytrens-disease::Fasciectomy – indications, technique & complications","id":"TO17141379","result":0,"rating":2,"day":20748}
+{"t":"2026-10-22T10:57:18.759Z","module":"carpal-tunnel-syndrome::Perioperative care & complications (infection prevention, nerve injury, analgesia)","id":"OB219882","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T10:58:18.126Z","module":"dupuytrens-disease::Misfiled – adhesive capsulitis risk factor","id":"TO17141367","result":-1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:00:21.410Z","module":"epidermal-inclusion-cyst::Differential – pyogenic granuloma","id":"OB211677","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:03:40.610Z","module":"carpal-tunnel-syndrome::Secondary causes – inflammatory mass","id":"OB4650","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:04:09.709Z","module":"extensor-tendon-compartments::Dorsal compartment contents","id":"OB3522","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:04:23.459Z","module":"carpal-tunnel-syndrome::Associated conditions","id":"TO17731917","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:04:46.426Z","module":"extensor-tendon-compartments::Number of compartments","id":"TO17141702","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:05:16.726Z","module":"extensor-tendon-injuries::EPL rupture – EIP transfer","id":"TO17141705","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:08:32.926Z","module":"cleft-hand::Classification (Manske) & management","id":"TO17138272","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:11:17.093Z","module":"dupuytrens-disease::Fasciectomy – indications, technique & complications","id":"TO17141362","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:11:43.710Z","module":"dupuytrens-disease::Misfiled – adhesive capsulitis risk factor","id":"TO17141367","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:12:58.127Z","module":"extensor-tendon-injuries::ECU tendinitis/subluxation","id":"OB7338","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:14:04.594Z","module":"de-quervains-tenosynovitis::Diagnosis in bowlers & typists","id":"TO17732638","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:22:24.644Z","module":"extensor-tendon-injuries::Central slip injury – Elson test & PIP extension splinting","id":"TO21733235","result":-1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:22:33.627Z","module":"extensor-tendon-compartments::Number of compartments","id":"TO17141703","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:25:06.944Z","module":"extensor-tendon-injuries::Extensor laceration rehabilitation – relative motion splint","id":"OB210121","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:28:27.661Z","module":"ain-compressive-neuropathy::AIN syndrome – diagnosis & observation (neuritis)","id":"OB220078","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:32:37.645Z","module":"extensor-tendon-injuries::Extrinsic extensor tightness","id":"OB220022","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T11:34:45.345Z","module":"extensor-tendon-injuries::Central slip injury – Elson test & PIP extension splinting","id":"OB211644","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T11:34:57.411Z","module":"atypical-mycobacterium-infections::Fishmonger's disease (erysipeloid)","id":"TO17743621","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:35:50.561Z","module":"extensor-tendon-injuries::Rheumatoid extensor ruptures (Vaughan-Jackson, EDM)","id":"TO17903466","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:37:21.361Z","module":"extremity-flap-reconstruction::Gastrocnemius flap – sural artery supply; knee & tibia coverage","id":"OB213948","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T11:41:26.661Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB210180","result":0,"rating":0,"day":20748}
+{"t":"2026-10-22T11:41:45.294Z","module":"extensor-tendon-injuries::Extrinsic extensor tightness","id":"OB220022","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:43:01.011Z","module":"extremity-flap-reconstruction::Upper-extremity flaps – lateral arm, radial forearm, latissimus & groin flaps (pedicles)","id":"TO17137948","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:43:12.044Z","module":"extremity-flap-reconstruction::Gastrocnemius flap – sural artery supply; knee & tibia coverage","id":"OB40","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:44:49.244Z","module":"extensor-tendon-injuries::Central slip injury – Elson test & PIP extension splinting","id":"OB9007","result":1,"rating":2,"day":20748}
+{"t":"2026-10-22T11:46:05.711Z","module":"extensor-tendon-injuries::Rheumatoid extensor ruptures (Vaughan-Jackson, EDM)","id":"TO17141544","result":1,"rating":3,"day":20748}
+{"t":"2026-10-22T11:49:00.778Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB3669","result":-1,"rating":1,"day":20748}
+{"t":"2026-10-22T11:49:42.445Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB210180","result":1,"rating":2,"day":20748}
+{"t":"2026-10-28T08:41:43.294Z","module":"extremity-flap-reconstruction::Free fibula flap – peroneal artery","id":"OB211699","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T08:43:19.327Z","module":"basilar-thumb-arthritis::MP hyperextension – MP fusion/capsulodesis with CMC reconstruction","id":"OB7768","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T08:43:52.060Z","module":"cleft-hand::Inheritance","id":"OB214071","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T08:44:31.610Z","module":"congenital-clasped-thumb::First-line treatment – serial splinting","id":"OB1110","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T08:53:14.144Z","module":"extremity-flap-reconstruction::Moberg flap limitations in the thumb","id":"OB4875","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T08:58:53.074Z","module":"congenital-radial-head-dislocation::Diagnosis (bilateral, vs traumatic) & management – observation vs late excision","id":"OB4778","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:00:33.508Z","module":"congenital-radial-ulnar-synostosis::Aetiology & associations (failure of segmentation, XXY)","id":"OB2261","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:02:32.841Z","module":"congenital-radial-ulnar-synostosis::Management – observation vs osteotomy/mobilisation indications","id":"OB526","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:04:55.192Z","module":"extremity-flap-reconstruction::Ray transposition after digit amputation","id":"OB4518","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:05:00.158Z","module":"extremity-flap-reconstruction::Moberg flap limitations in the thumb","id":"OB4875","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:08:00.991Z","module":"congenital-radial-ulnar-synostosis::Cleary & Omer classification","id":"TO17138246","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:08:55.275Z","module":"congenital-trigger-thumb::Diagnosis (Notta's node) & A1 pulley release timing","id":"TO21733291","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T09:09:28.091Z","module":"extremity-flap-reconstruction::Negative pressure wound therapy settings","id":"OB7711","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:10:36.274Z","module":"constrictive-ring-syndrome-streeters-dysplasia::Associated conditions (clubfoot, cleft lip/palate) & sporadic inheritance","id":"TO17138143","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:13:10.558Z","module":"constrictive-ring-syndrome-streeters-dysplasia::Treatment – band release & Z-plasty","id":"OB3431","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:18:36.388Z","module":"cubital-tunnel-syndrome::Anatomy & compression sites (Osborne's ligament, anconeus epitrochlearis, cubital tunnel floor)","id":"OB219430","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:18:42.738Z","module":"extremity-flap-reconstruction::Ray transposition after digit amputation","id":"OB4518","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:24:20.107Z","module":"extremity-flap-reconstruction::Flap failure as infection predictor","id":"OB219153","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:24:25.222Z","module":"extremity-flap-reconstruction::Negative pressure wound therapy settings","id":"OB7711","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:25:13.123Z","module":"cubital-tunnel-syndrome::Clinical signs (Wartenberg, Froment)","id":"OB7825","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:27:08.439Z","module":"cubital-tunnel-syndrome::In situ decompression vs anterior transposition (subluxation, snapping)","id":"OB7874","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:28:35.790Z","module":"felon::Incision & drainage technique","id":"OB5677","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T09:44:24.555Z","module":"cubital-tunnel-syndrome::Medial antebrachial cutaneous nerve injury","id":"OB216867","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:46:12.790Z","module":"cubital-tunnel-syndrome::Ulnar tunnel (Guyon's canal) compression","id":"OB220010","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T09:49:25.474Z","module":"cubital-tunnel-syndrome::Tardy ulnar nerve palsy","id":"TO21733204","result":1,"rating":2,"day":20754}
+{"t":"2026-10-28T10:50:53.796Z","module":"felon::Diabetic hand infection – renal failure & amputation","id":"OB6627","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T10:54:20.930Z","module":"de-quervains-tenosynovitis::Anatomy – APL/EPB & injection site","id":"OB211303","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T10:55:35.614Z","module":"de-quervains-tenosynovitis::Recurrence – unreleased EPB subsheath","id":"OB7453","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T10:56:45.980Z","module":"felon::Epidemiology – paronychia","id":"TO17141521","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T10:57:02.164Z","module":"de-quervains-tenosynovitis::Intersection syndrome/differential","id":"OB219569","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T10:57:31.697Z","module":"deep-space-and-collar-button-infections::Collar-button abscess drainage","id":"OB210196","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T10:58:07.680Z","module":"deep-space-and-collar-button-infections::Ulnar & radial bursae communications","id":"TO17124500","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T11:00:17.664Z","module":"fingertip-amputations-and-finger-flaps::Fingertip amputation – healing by secondary intention (children, small defects)","id":"OB4546","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T11:00:29.680Z","module":"digital-artery-aneurysm::Treatment – surgical exploration","id":"OB219","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T11:01:15.214Z","module":"dog-and-cat-bites::Cat-scratch disease (Bartonella) – epitrochlear lymphadenitis","id":"OB7563","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T11:01:26.314Z","module":"felon::Diabetic hand infection – renal failure & amputation","id":"OB6627","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T11:03:32.998Z","module":"fingertip-amputations-and-finger-flaps::Advancement flaps – V-Y & volar (Moberg) advancement","id":"OB3334","result":-1,"rating":2,"day":20754}
+{"t":"2026-10-28T11:04:20.081Z","module":"dupuytrens-disease::Pathogenesis & diathesis (Garrod's pads)","id":"TO21733097","result":-1,"rating":1,"day":20754}
+{"t":"2026-10-28T11:04:44.864Z","module":"dupuytrens-disease::Collagenase & needle fasciotomy – mechanism, complications & outcomes","id":"OB218089","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:16:06.832Z","module":"dupuytrens-disease::Fasciectomy – indications, technique & complications","id":"TO17141382","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:18:32.899Z","module":"fingertip-amputations-and-finger-flaps::Advancement flaps – V-Y & volar (Moberg) advancement","id":"OB25","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:21:49.549Z","module":"fingertip-amputations-and-finger-flaps::Cross-finger & reverse cross-finger flaps","id":"OB5733","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:25:06.766Z","module":"extensor-tendon-injuries::Central slip injury – Elson test & PIP extension splinting","id":"OB8810","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:25:49.066Z","module":"ain-compressive-neuropathy::Martin-Gruber anastomosis","id":"OB218061","result":1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:28:16.666Z","module":"basilar-thumb-arthritis::Trapeziectomy ± LRTI – equivalence, technique & complications","id":"OB220552","result":-1,"rating":3,"day":20754}
+{"t":"2026-10-28T13:28:31.300Z","module":"fingertip-amputations-and-finger-flaps::First dorsal metacarpal artery (Kite) flap for thumb defects","id":"OB1170","result":1,"rating":3,"day":20754}

@@ -41,6 +41,10 @@
 
 **Immunostains** — **CD99 / MIC2 + (95%)** · vimentin + · **PAS +** (glycogen) · NSE +, S-100 +, Leu7 (CD57) + · **cytokeratin −**, **reticulin −** (+ in lymphoma), neurofilament − (+ neuroblastoma), myoglobin − (+ embryonal rhabdo)
 
+**NKX2.2 +** — **highly specific** for Ewing (TO)
+
+**Lymphoma vs Ewing (TO)** — lymphoma **PAS −, reticulin +** · Ewing PAS +, reticulin −
+
 **CD45 (LCA)** — listed **+** in Orthobullets chart · TO/OB: **lymphoma is LCA +**, Ewing LCA − (OB calls LCA "CD34") — read the options
 
 ## 3 Presentation
@@ -69,6 +73,8 @@
 
 **Bone marrow biopsy** — **required for Ewing** (marrow mets), **not routine for OS**\
 ✗ Wrong options: MRI · CT · bone scan · protein electrophoresis (done for both or neither)
+
+**PET-CT (TO)** — staging + response · **SUV fall >50% = good response** · if **bone scan + CT chest** used instead → **must add bone marrow aspiration**
 
 **Order** — X-ray → **MRI** → staging (CT chest, bone scan, **bone marrow biopsy**) → **biopsy by treating surgeon**
 
@@ -134,6 +140,10 @@ Ewing sarcoma (chemo needed in ALL — presume micromets)
 **Reconstruction** — vascularized/non-vascularized autograft (fibula, scapula, iliac crest, rib, clavicle), allograft, APC, endoprosthesis, rotationplasty
 
 **Radiation** — **radiosensitive** (most radio- + chemosensitive bone tumour) but trend **away** from RT · field = tumour + **2–3 cm**, **56–60 Gy** · standard = hyperfractionated · indications: **unresectable**, positive margins, poor chemo response, **all pulmonary mets**
+
+**RT indications (TO)** — **positive margins** · **poor chemo response (<90% necrosis)** · **unresectable** · surgery with **major morbidity (e.g. sacrum)**
+
+**Pathological fracture** — **not an absolute contraindication** to limb salvage (TO)
 
 **Extensive pelvic disease + lung mets** — **chemo + radiation**
 
@@ -264,3 +274,5 @@ Ewing sarcoma (chemo needed in ALL — presume micromets)
 ✗ Wrong options: predominantly diaphyseal · grade prognostic · appendicular worse
 
 **"True of extraskeletal Ewing?"** → **histology same as skeletal** **(TO)**
+
+**"Ewing with pathological fracture — limb salvage contraindicated?"** → **No, not an absolute contraindication** (TO)

@@ -87,6 +87,10 @@
 
 **Mulcahy alignment check** — AP: 2nd MT–middle cuneiform, 3rd MT–lateral cuneiform, 1st MT–medial cuneiform · oblique: middle cuneiform–2nd MT, lateral cuneiform–3rd MT · lateral: talus–2nd MT axis, medial cuneiform–5th MT, dorsal TMT surfaces
 
+**Normal X-rays do not rule out Lisfranc (TO)** — **CT in all suspected midfoot injuries** · WB views show subtle instability · **piano key sign intra-op → Lisfranc ligament rupture** (TO)
+
+**Chopart vs Lisfranc biomechanics (TO)** — Chopart: **lateral column rigid, medial mobile** · Lisfranc: **reverses — medial rigid, lateral flexible** → rigid medial fixation, **semirigid K-wires laterally** (TO)
+
 ![Fleck sign in the 1st intermetatarsal space](../../Orthobullets/attachments/ob7030-ap-moved.jpg)
 
 ### Diagnosis – weight-bearing/stress radiographs, MRI & plantar ecchymosis

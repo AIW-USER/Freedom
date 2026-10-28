@@ -52,6 +52,8 @@
 
 **Dimensions** — **32 mm long** (22–41 mm) × **7–12 mm wide** · 31–38 mm (TO) · **narrowest at mid-substance**; insertions **> 3.5×** larger (TO)
 
+**Dimensions (TO, primary-ACLR notes)** — **31 mm** (29–35) long × **9 mm** (7–11) wide
+
 **Tibial insertion (TO)** — **broader than femoral (\~120%)**, fibres fan out · fibres pass under transverse intermeniscal ligament, blend with anterior horn LM · **stronger than femoral** → **avulsion on tibial side**, substance tear femoral side
 
 **Course (TO)** — **intra-articular but extrasynovial** (intracapsular) · origin **posteromedial LFC (medial wall of LFC)** → runs inferomedially → tibia between spines
@@ -74,6 +76,8 @@
 ✗ Wrong options: explains female tears · explains poor healing
 
 **Notch (TO)** — narrower in women · **notch width index** (epicondylar : notch width) small → ↑ ACL tear · notch roof = **Blumensaat's line**; notch roof angle **37°** (23–60°)
+
+**Notch width index (Souryal & Freeman, TO)** — normal **0.231** · narrow notch → ACL tear
 
 **PCL contrast (TO)** — bundles named for **femoral** footprint · **AL 55%**, bulkier, tight in **flexion** · **PM 45%**, tight in **extension** · 38 mm long, 10–11 mm diameter · tibial insertion wider than femoral\
 ✗ Wrong options: "ACL named for femoral, PCL for tibial"
@@ -106,6 +110,8 @@
 **Dynamic imaging** — **anterior shift + IR of tibia at low flexion** = **ACL** · posterior shift = PCL · ↑ IR + posterior translation = PCL + MCL · ↑ valgus + slight IR = MCL · ↑ ER = PLC (LCL, popliteus, arcuate)
 
 **Consequence** — abnormal loading → **post-traumatic OA**, meniscal + osteochondral injury
+
+**ACL-deficient OA (TO)** — up to **3×** higher frequency · **anteromedial compartment** most affected
 
 ## 2 Mechanism
 
@@ -313,6 +319,16 @@ Tibial eminence fracture
 **Treatment (TO)** — **arthroscopic debulking / debridement**\
 ✗ Wrong options: ACL reconstruction · CKC → OKC rehab · PCL reconstruction
 
+| Mucoid ACL type (TO, MRI) | Features |
+|---|---|
+| **Cystic (ganglion)** | Cysts in front of / behind ACL footprint; may track into **anterior root LM** (shared footprint) |
+| **Diffuse ("celery stalk")** | Thick lax ACL, mucoid material between **intact** fibres → stuffs notch, **block to flexion** / locking |
+| Mixed | Both |
+
+**Mucoid ACL — who (TO)** — usually **> 40 yr**; younger → dysplastic knee (trochlear dysplasia, high slope) · **US-guided fenestration** via medial gastrocnemius belly, 16–18 G needle, then steroid + LA
+
+![Celery-stalk ACL: diffuse mucoid degeneration](../../TO notes/attachments/TOn-notes-interesting-cases-review-knee-joint-mri-aug-2026-p05-f014.jpg)
+
 ## 5 Management
 
 ```
@@ -346,6 +362,11 @@ Acute ACL tear
 
 **Pre-hab** — **regain full ROM + quad strength before ACLR**; wait for swelling / inflammatory phase to settle · acute ACLR in stiff, weak knee → **arthrofibrosis + weakness**
 
+| Timing (TO) | Risk |
+|---|---|
+| **Early < 3 weeks** | **Arthrofibrosis** |
+| **Late > 1 year** | **Meniscal + chondral damage** |
+
 **Stiff acute knee** — e.g. ROM 5–70°, can't SLR → **PT for ROM** · Segond + ROM 10–75° + dial 5° → **ACL; PT to optimise ROM** (dial < 10–15° asymmetry = no PLC)
 
 **Adolescent with deep sulcus sign** — **PT, then early reconstruction** (delay → instability, secondary meniscal damage, degeneration)\
@@ -372,6 +393,18 @@ Loss of motion after ACLR (most common complication)
 
 **Cyclops lesion** — fibroproliferative nodule **blocks extension**, **"click" at terminal extension** · anterior tibial tunnel → cyclops (TO) · not graft-related (OB)
 
+| (TO) | Lesion | Key feature |
+|---|---|---|
+| **Cyclops** | **Hard** fibrovascular nodule at anterior tibial insertion | **Extension block**, **1–10%** |
+| **Cyclopoid** | **Soft** nodule | **Asymptomatic**, no extension loss |
+| Arthrofibrosis | Diffuse scarring | Loss of flexion + extension; after prolonged immobilisation |
+
+**Shelbourne — TO revision notes** — III = flexion loss **< 25°** + ↓ patellar mobility · IV = flexion loss **> 25°** + **patella infera** · vs table above (III > 25°, IV > 30°) — read the options
+
+**Cyclops on MRI (TO)** — nodular heterogeneous tissue **anterior to an intact graft** · **3–9 months** post-op with loss of extension → **excision** · posterior cyclops possible after PCL revision (GRE no blooming → not PVNS) · ACL graft **ligamentises over \~1–1.5 yr** (some signal acceptable) · **LET → expected ITB defect** at harvest, not a tear
+
+**Arthroscopic arthrolysis sequence (TO)** — suprapatellar pouch → medial / lateral gutters → **anterior interval** (fat pad; restores extension) → retinacular release → notch clearance (cyclops) → **MUA only after arthrolysis** · **extension loss less tolerated → correct first**
+
 **Infrapatellar contracture syndrome** — uncommon · **↓ patellar mobility**, **patella infera (baja)** — poor prognostic sign · loss of extension + **active AND passive** flexion\
 ✗ Wrong options: "active but not passive"
 
@@ -380,6 +413,25 @@ Loss of motion after ACLR (most common complication)
 **Goal** — anatomic restoration of AP + rotational stability · arthroscopic · clear remnant to see bony landmarks (remnant kept vs removed — no difference)
 
 **Single vs double bundle** — no patient-reported difference · single most common · double may restore kinematics, ↓ laxity · no definitive clinical benefit
+
+**Double bundle (TO)** — separate AM + PL grafts → ↑ rotational stability, ↓ pivot shift · name: **Freddie Fu**
+
+**Karlsson principles of anatomical ACLR (TO)** — restore native insertion sites · recreate **two bundles** (AM + PL) · appropriate graft tension · correct graft diameter + type
+
+**Remnant preservation (TO)** — **SAMBBA** concept · keeps native stump → proprioception + biological healing · in revision preserve stumps → ↓ tunnel dilatation
+
+**Internal brace augmentation (TO)** — **FiberTape** protects graft in remodelling phase · ↓ dynamic elongation **50%**, ↑ peak load **64%**
+
+**PRP gel (TO)** — faster MRI graft incorporation (**\~179 vs 369 days**) · **no proven clinical difference**
+
+| History of ACL surgery (TO) | Contribution |
+|---|---|
+| **Hey Groves 1917** | ACL repair + **ITB** reinforcement |
+| Campbell 1936 | Patellar tendon graft sutured to periosteum |
+| **Macey 1939** | **Semitendinosus** graft, distal attachment preserved |
+| **Kenneth Jones 1963** → Clancy 1982 | **BPTB** graft |
+| MacIntosh, Lemaire, Lipscomb 1970s–80s | Extra- → intra-articular |
+| 2000s | Anatomical + double-bundle (trend: extra-articular → arthroscopic → anatomical) |
 
 **Horizontal graft (TO)** — **prevents pivoting** · femoral tunnel **obliquity** sets rotational stability · isometric (vertical) graft → translation only · 10 o'clock also avoids PCL impingement in flexion\
 ✗ Wrong options: vertical · roof-top · 11 o'clock
@@ -397,6 +449,10 @@ Loss of motion after ACLR (most common complication)
 **Tensioning** — pre-conditioning ↓ stress relaxation **up to 50%** · 20 N vs 40 N → no difference · **fix in 20–30° flexion** · initial tension falls soon after fixation
 
 **Fixation** — **aperture** (interference screw) vs **suspensory** (cortical button, screw + washer post, staple) · alone or combined
+
+**Preferred site (TO)** — **femur → suspensory** (EndoButton) · **tibia → aperture** (interference screw; ↓ tunnel widening)
+
+**Tibial tunnel landmarks (TO)** — **15 mm** behind anterior tibial edge · **7 mm** anterior to PCL · in line with **posterior horn LM** (TO — verify: usual landmark = posterior edge of **anterior** horn LM) · fix graft at **30°** flexion
 
 **No effect on outcome** — graft type, one vs two incisions (OB) · tunnel position **does** (anterior to LIR = definitive adverse effect)
 
@@ -437,6 +493,14 @@ Loss of motion after ACLR (most common complication)
 
 **Most used allograft (TO)** — **BPTB** · allograft integrates more slowly than autograft
 
+**Synthetic grafts (TO)** — **LARS, Gore-Tex, Dacron** → **high failure + synovitis** · allograft (Achilles, fascia lata) → infection, delayed healing
+
+| Graft (TO table) | Ultimate load (N) | Stiffness (N/mm) |
+|---|---|---|
+| **Quadrupled hamstring (STG)** | **4090** | **776** |
+| BPTB | 2977 | 620 |
+| Quadriceps tendon | **2352** (TO) · 2185 (above) — read the options | 463 |
+
 **Allograft vs autograft in young athletes** — **↑ graft failure / re-rupture + revision**, mostly in first year · autograft better even in adolescents\
 ✗ Wrong options: infection · growth disturbance · arthrofibrosis · OA · cyclops (no difference)
 
@@ -463,6 +527,15 @@ Loss of motion after ACLR (most common complication)
 
 **Tendon–bone healing (TO)** — **fibrovascular interface at 12 weeks (3 months)** · continuous fibrous interface \~**6 months** · Sharpey-like fibres mature after **10 months**\
 ✗ Wrong options: 3 wk · 6 wk · 6 months
+
+| Graft incorporation (TO) | Process | Time |
+|---|---|---|
+| Inflammatory | Partial graft **necrosis** | 3–6 wk |
+| Proliferative | **Neovascularisation** | 6–8 wk |
+| Matrix synthesis | Collagen formation | 8–12 wk |
+| Remodelling | Tendon–bone healing | 6–9 months |
+
+**Weakest graft (TO)** — **8–12 weeks** post-op · autografts heal faster
 
 ### All-inside, BEAR & fixation devices (TO)
 
@@ -600,6 +673,17 @@ ACL + MCL injury
 
 **Return to sport** — no accepted criteria · historic **≥ 9 months** · pass hop / jump tests · **dynamic valgus → ↑ ipsilateral + contralateral rupture** · RTS before clearance → ↑ re-rupture · RTS at 11 months not a risk factor
 
+| Return-to-play criteria (TO) | Requirement |
+|---|---|
+| Time since surgery | **> 8–12 months** (TO) · historic ≥ 9 months (above) — read the options |
+| **Isokinetic quadriceps strength** | **≥ 85%** of contralateral |
+| **One-leg hop test** | **≥ 85%** of contralateral |
+| Vertical jump / drop test | **No dynamic valgus** |
+| Lachman + pivot shift | Negative / grade I |
+| Effusion, pain | None |
+
+**Revision ACLR rehab (TO)** — brace in **full extension 0–2 wk** · WBAT + isometrics 2–4 wk · full ROM (0–120°) by **8 wk** · weights + VMO 8–12 wk · jogging **3 months** · **RTS \~9 months** (later than primary)
+
 **RTS decision** — **psychological + lifestyle factors** dominate; **fear of re-injury** = commonest reason not to return · prior ACLR, poor hop symmetry → not returning\
 ✗ Wrong options: surgeon advice · pain · sport duration · graft type
 
@@ -623,6 +707,31 @@ ACL + MCL injury
 **Revision technique** — find cause of failure · **high-strength autograft** (quad, hamstring) · allograft **> 2×** re-rupture · **re-harvest BPTB contraindicated** · **dual fixation** (suspension + screw) · bone graft dilated tunnels (**15 mm**) · LET (STABILITY trial: ↓ rupture + rotatory laxity) · conservative rehab
 
 **Revision technique (TO)** — **most common cause = tunnel malposition** (✗ Wrong options: graft selection) · tunnel **> 15 mm → stage 1 bone graft** (✗ Wrong options: 10 mm) · **remove hardware only if necessary** (✗ Wrong options: "femoral screw must come out") · bioabsorbable PLA screw still present ≥ 2 yr → leave or ream through · prosthetic ligament out en bloc · reuse incisions, **skin bridge ≥ 7 cm** · generous revision notchplasty
+
+| Failure category (TO) | Picture | Causes |
+|---|---|---|
+| **Recurrent instability** | Laxity, giving way, pivot shift | Malplaced tunnels (**vertical femoral**), missed **ALL / PLC**, re-rupture |
+| **Loss of motion** | Nutcracker / captured knee | Anterior tunnels, cyclops, arthrofibrosis |
+| **Extensor dysfunction** | Extensor lag | BPTB harvest, reflex quads inhibition, VMO weakness |
+| **Degenerative (OA)** | Early arthritis | Abnormal kinematics — **Rosenberg view** (45° flexion WB PA) **most sensitive** for early change |
+
+**Tunnel malposition (TO)** — **> 50%** of failures · **ALL = most commonly missed** associated injury, then PLC · re-rupture with **slope > 12°** → consider HTO
+
+**Single- vs two-stage (TO)** — tunnels **< 8 mm**, correct position → single-stage (reuse) · **> 8 mm**, malpositioned or merged → two-stage, graft then revise at **3–6 months** · threshold **> 15 mm** (above) vs **> 8 mm** (TO) — read the options
+
+**Revision tunnel planning (TO)** — new tibial tunnel **more lateral + posterior** · **outside-in drilling** (avoids merging) · femoral tunnel on lateral X-ray: **posterior ¼ of condyle** · tibial tunnel posterior to Blumensaat line, exits between spines
+
+| Revision graft (TO) | Preference |
+|---|---|
+| **Contralateral hamstrings** | **1st choice** |
+| Ipsilateral quadriceps tendon (bone plug) | **2nd** · multiligament / PLC cases |
+| **Peroneus longus** | Alternative · strong but bulky (notch impingement) |
+| BPTB | Rare now (if prior hamstring) |
+| Allograft / synthetic | Selected cases |
+
+**Revision fixation (TO)** — **hybrid (cortical + aperture) preferred** · cortical (EndoButton / TightRope) femur → high pull-out, **low BMD** · aperture tibia near joint line → ↓ synovial seepage, ↓ widening
+
+**Tunnel widening (TO)** — synovial seepage + graft micromotion · **bungee cord effect = longitudinal** motion · **windshield wiper effect = transverse** motion · prevent: screw near joint line, preserve tibial stump, snug tunnel
 
 ```
 Failed ACLR, revision planned
@@ -1061,3 +1170,15 @@ Septic arthritis after ACLR
 **"Fibrovascular graft–bone interface (TO)?"** → **12 weeks**
 
 **"Commonest arthroscopy complication (TO)?"** → **haemarthrosis**
+
+**"Weakest period of an ACL graft (TO)?"** → **8–12 weeks post-op**
+
+**"Preferred fixation femur / tibia (TO)?"** → **suspensory femur, aperture tibia**
+
+**"Name behind double-bundle ACLR (TO)?"** → **Freddie Fu**
+
+**"Cyclops vs cyclopoid (TO)?"** → **cyclops is hard and symptomatic**
+
+**"Revision graft of first choice (TO)?"** → **contralateral hamstrings**
+
+**"Most sensitive view for early OA after failed ACLR (TO)?"** → **Rosenberg view**

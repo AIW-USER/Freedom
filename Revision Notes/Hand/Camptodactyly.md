@@ -121,6 +121,8 @@ Camptodactyly
 | Trigger digit | Triggering; affects **MCP** |
 | Congenital absent extensor mechanism | Affects **MCP**, not PIP |
 
+**Clinodactyly (TO)** — radial/ulnar curvature, usually small finger, **Down syndrome** · symptomatic → closing/opening wedge osteotomy
+
 ## How it's asked
 
 **"3-y-old, bilateral asymmetric fixed little-finger PIP flexion, painless, no trauma, normal DIP/MCP"** → **camptodactyly** ("compatodactyly" in TO)\

@@ -115,6 +115,8 @@ Osteoid osteoma
 
 **RFA** — **CT-guided** electrode into nidus · **90°C for 4–6 min** → **1 cm** necrosis zone · **90% success in 1–2 sessions** (95% one procedure — OB) · **10–15% recurrence** · least invasive, fastest resolution, least morbidity
 
+**CT-guided percutaneous drilling** — alternative to RFA (TO) · **"vessel sign"** around nidus on CT (TO)
+
 **RFA distances** — **>1 cm from skin** · **>1 cm from articular surface** · **1–1.5 cm from neurovascular** structures · spine safe with motor response testing
 
 **RFA after failed NSAIDs** — hip, tibia, femur → **RFA**\

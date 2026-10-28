@@ -12,6 +12,12 @@
 
 **Commonest cause** — **upper limb = trauma** · **lower limb = vascular disease**
 
+**Indications – 3 Ds (TO)** — **dead** limb (crush, gangrene) · **deadly** disease (gas gangrene, malignancy) · **dis-useful** limb (congenital deficiency) · advanced PVD
+
+**MESS inputs (TO)** — skeletal + soft-tissue injury · **limb ischaemia** · **age** · **blood pressure (shock)**
+
+**Closed vs open (guillotine) (TO)** — closed = stump skin-covered · **guillotine** = left open, closed later (infection / contamination)
+
 ### Wound healing predictors & level selection
 
 | Predictor | Threshold for healing |
@@ -51,6 +57,8 @@
 | **Transfemoral — vascular** | **100%** |
 | AKA + BKA | 118% |
 | AKA + AKA | > 200% |
+| **Medium BKA (TO)** | **\~25%** |
+| **Hip disarticulation (TO)** | **\~100%** |
 
 **Rule** — energy ↑ with **more proximal** level; inversely proportional to residual length → amputate at **lowest possible level**
 
@@ -75,6 +83,44 @@
 | **Myoplasty** | Muscle sewn to **opposing muscle** over bone end | **Bursa, crepitus, pain** → not recommended alone |
 | **Myodesis** | Muscle attached **directly to bone / periosteum** | Recommended; **contraindicated in severe ischaemia** (wound breakdown) |
 | **Tenodesis** | Tendon fixed to bone | **Most secure + most physiologic**; **used in disarticulations** (knee: patellar tendon → cruciate origin) |
+
+**Muscle closure choice** — myodesis recommended, avoid in severe ischaemia; myoplasty not recommended alone (Orthobullets) · **myodesis preferred except PVD**, **myoplasty preferred in PVD** (poor bone vascularity) (TO) — read the options
+
+**Skin flaps (TO)** — **skewed / long posterior flap "most preferred"** (weight-bearing surface) · **Scandinavian (equal) flaps in PVD** (better vascularity) · conflicts with other TO note (equal flaps non-ischaemic, long posterior ischaemic) — read the options
+
+### Neurovascular handling (TO)
+
+**Vessels (TO)** — **double ligation**
+
+**Nerves (TO)** — **stretch + cut sharply** → retracts away (↓ symptomatic neuroma)
+
+**Sciatic nerve (TO)** — **ligate first, then cut** (bleeding from **vasa nervorum**)
+
+**Tourniquet (TO)** — generally used; **no exsanguination** in **infection or malignancy**
+
+### Amputation nomenclature (TO)
+
+**Krukenberg (TO)** — forearm **radius + ulna split** → functional **pincer** (sensate)
+
+**Ray amputation (TO)** — complete digit removal (with metacarpal)
+
+| Syme variant (TO) | Technique |
+|---|---|
+| **Syme** | Through ankle; **talus removed**; malleoli retained (TO) · malleoli removed flush with plafond (Orthobullets) — read the options |
+| **Sarmiento** | Bone cut **1.3 cm above malleoli** |
+| **Boyd** | **Talectomy** + **calcaneus shifted forward + fused to tibia** |
+| **Pirogoff** | **Vertical section of calcaneus rotated + fused to tibia** |
+
+**Gritti-Stokes (TO)** — through distal femur; **prepatellar tissues** for closure
+
+**Disarticulation preferred when possible (TO)** — **end-bearing stump**
+
+| Ideal stump length (TO) | Value |
+|---|---|
+| **BK** | **15 cm below knee** |
+| **AK** | **20 cm above knee** (TO) · cut \~12 cm above joint (Orthobullets) — read the options |
+| **BE (transradial)** | **15 cm below olecranon** |
+| **AE (transhumeral)** | **18–20 cm** (TO) · 4–5 cm above elbow (Orthobullets) — read the options |
 
 ### Landmine / blast zones (TO)
 
@@ -305,7 +351,22 @@
 
 ![Terminal bone overgrowth after paediatric transosseous amputation](../../Orthobullets/attachments/ob1052-overgrowth.jpg)
 
+**Krajbich principles – children (TO)** — **preserve physes** · **prefer disarticulation** · prevent overgrowth with **epiphyseal caps**
+
 ### Phantom & neuroma pain
+
+**Phantom sensation (TO)** — **telescoping** (phantom part feels progressively closer to stump)
+
+**Neuroma (TO)** — best treatment **excision** · best conservative option **TENS**
+
+**Prosthesis timing (TO)** — **pylon** = temporary endoskeletal prosthesis immediately post-op · **final prosthesis at \~3 months**
+
+| Level (TO) | Prosthesis |
+|---|---|
+| **Above knee** | **Quadrilateral socket** |
+| **Below knee** | **PTB** |
+| **Syme** | **Canadian Syme prosthesis** |
+| Partial foot / hand | Cosmetic fillers |
 
 **Mirror therapy** — for **phantom pain**: visual feedback corrects proprioceptive mismatch\
 ✗ Wrong options: proprioception training · flexor tendon · plumbism · ACL
@@ -421,3 +482,7 @@
 **"Commonest osseointegration complication?"** → **low-grade infection managed without surgery**
 
 **"Return to work after UE amputation — recommend?"** → **psychological counselling**
+
+**"Calcaneus shifted forward and fused to tibia after talectomy?"** → **Boyd** (TO)
+
+**"Lowest energy expenditure amputation?"** → **long BKA (\~10%)** (TO)

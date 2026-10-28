@@ -10,6 +10,10 @@
 
 **Associated** — generalised laxity · **gastrocsoleus contracture (25%)** · rotational problems · accessory navicular (controversial)
 
+**Lever arm dysfunction (TO)** — planus + **hindfoot valgus** + **forefoot abduction** → foot CORA shifts medially, ↓ plantarflexion lever arm, ↑ energy at push-off
+
+**Developmental (TO)** — infant fat pad + laxity · **arch develops by \~6 yr** · Staheli: "flatfeet are usual in infants, common in children, unusual in adults" · flatfoot in **90% of infants, 25% of adults** (TO)
+
 ### Types
 
 | Type | Note |
@@ -26,9 +30,23 @@
 
 ![Arch reconstitutes on toe standing](../../Orthobullets/attachments/ob4069-20171003-135410.jpg)
 
+**History clues (TO)** — morning stiffness → inflammatory · activity pain → coalition / accessory navicular · recurrent sprains · family: familial flatfoot, **hereditary spastic paraplegia** · progressive → neurological · **progressive unilateral flatfoot = red flag for tethered cord** (spread buttocks: sacral dimple/sinus)
+
+**Exam (TO)** — **toe-walking test** + **Jack's (great-toe dorsiflexion) test** restore the arch in flexible feet · subtalar inversion-eversion normal **20–30°** · **Silfverskiöld**: ↓ DF **> 10°** with knee extended = gastrocnemius tightness · **lock the subtalar joint** (avoid pseudo-DF)
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
+
+| Paediatric foot angle (TO, weight-bearing) | View | Normal | Meaning |
+|---|---|---|---|
+| **Talus–1st MT** | AP | **0 to \~7–10°** | Negative = adductus · > 10° = abduction |
+| **Talocalcaneal (Kite)** | AP | **25–40°** (20–40° < 5 yr) | > 40° hindfoot valgus · < 20–25° varus |
+| Calcaneus–4th MT | AP | — | Midfoot abduction |
+| **Calcaneal pitch** | Lateral | **10–15°** | High = cavus / calcaneus · low/negative = equinus, flatfoot, CVT |
+| **Meary (talus–1st MT)** | Lateral | **0–4°** | Apex dorsal = cavus · apex plantar = planus |
+
+**Principles (TO)** — standing AP + lateral ("one view is no view") · exam first · **most foot ossification centres by \~5 yr** · **1st MT physis at its BASE**, other MT physes at heads
 
 **Indications** — **painful** flatfoot or **rigid** flatfoot only\
 ✗ Wrong options: painless flexible
@@ -55,6 +73,14 @@
 
 **Short-foot exercises** — intrinsics, medial arch (TO)
 
+**Painful flexible flatfoot (TO)** — causes: **obesity**, **tight TA** → weight loss + TA stretching with subtalar locked · asymptomatic: reassurance, **no orthotics**, shoes don't change natural history
+
+**Age-based (TO)** — **0–3 yr: supervised neglect** · **3–12 yr: orthotics + physiotherapy** · adolescents / adults: guided by clinical + radiological findings · only symptomatic feet need surgery (TO)
+
+**Orthotics in childhood** — **do not change natural history; no orthotics if asymptomatic** (Orthobullets) · **3–12 yr: orthotics + physiotherapy** (TO) — read the options
+
+**EOTTS / sinus tarsi stent (TO)** — extra-osseous talotarsal stabilisation · corrects **talar plantarflexion + inversion** · for **selected adolescent flexible flatfeet** (TO)
+
 ### Operative criteria
 
 | Indication | Procedure |
@@ -76,6 +102,10 @@
 ✗ Wrong options: persistent heel valgus
 
 ![Evans calcaneal lengthening](../../Orthobullets/attachments/ob4069-evans.jpg)
+
+**Mosca procedure (TO)** — **Evans-modified calcaneal lengthening** with **tricortical iliac crest graft** · restores lateral column, corrects lever-arm dysfunction
+
+**Triple C osteotomy (TO)** — **cuboid opening wedge + medial cuneiform closing wedge + calcaneal sliding** osteotomy
 
 ## X vs Y
 

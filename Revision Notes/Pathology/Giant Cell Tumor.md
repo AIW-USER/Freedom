@@ -10,7 +10,9 @@
 
 **Demographics** — **females** (unlike most bone tumours) · **30–50** (Orthobullets) · 20–40 / 22–40 (OB, TO) · **skeletally mature, closed physes** (immature → metaphyseal)
 
-**Multicentric** — **1–2%** **(TO)**
+**Multicentric** — **1–2%** **(TO)**  · synchronous or metachronous (TO)
+
+**Population** — more common in **Indian and Chinese** populations (TO)
 
 ### Anatomic distribution
 
@@ -106,6 +108,14 @@
 
 **ABC** — fluid levels, USP6 · **UBC** — no cortical destruction
 
+**ABC vs GCT (TO)** — ABC: **younger**, fluid levels **without solid component** · GCT: **solid component** ± secondary ABC (fluid levels)
+
+**Clear cell chondrosarcoma** — epiphyseal GCT mimic · sclerotic rim possible (TO)
+
+**MRI (TO)** — epi-metaphyseal, eccentric · **T1 hypointense**, **T2 hyper / mixed** · solid component · **whole-bone MRI** for skip lesions
+
+**"Giant-cell-rich lesion" report (TO)** — **not = GCT** · insist on definite diagnosis (exclude **giant-cell-rich OS**, ABC, brown tumour) · **biopsy before curettage**, target solid part
+
 ## 5 Management
 
 ```
@@ -127,6 +137,33 @@ Giant cell tumour of bone
 **Technique** — **large cortical window (≥ lesion size)** — no curetting under overhanging ridges · head lamp, dental mirror, angled curettes · **high-speed burr 1–2 cm** in all directions · pulsatile lavage · don't perforate subchondral plate
 
 **Most important step** — **aggressive curettage with high-speed burr** (no adjuvant proven superior)
+
+**Burr depth** — **1–2 cm** (Orthobullets) · **1–2 mm** of peripheral bone (TO) — read the options
+
+**Burr (TO)** — **prerequisite, not an adjuvant** · "never curette without a burr" · adjuvants do not significantly improve control when curettage + burr done well
+
+**Exposure (TO)** — muscle-preserving (lift **vastus lateralis off septum**) · isolate with **H₂O₂-soaked mops** · remove soft-tissue component **en bloc** · **start small window, enlarge** after debulking (avoid spillage) · headlight + loupes
+
+**C-arm (TO)** — before curettage, after gross curettage, after burring · **pulsed lavage before + after adjuvants**
+
+| Adjuvant (TO) | Penetration | Note |
+|---|---|---|
+| **Liquid nitrogen** | **14 mm** (maximal) | **Fracture, nerve injury** |
+| **Phenol** | **< 1 mm** | Wash with **ethanol** · soft-tissue irritation |
+| **Argon beam** | **4 mm** | Thermal coagulation · expensive |
+| **Hydrogen peroxide** | Contact only | Always used, cheap |
+
+**Workflow before reconstruction (TO)** — **change gloves, drapes, instruments** · separate trolley · **harvest graft before curettage** (iatrogenic donor-site implantation reported)
+
+| Filling (TO) | For | Against |
+|---|---|---|
+| **Bone graft** | Biological · subchondral protection | Donor morbidity · delayed WB · **hard to detect recurrence** |
+| **PMMA cement** | Immediate · **early WB** · **easier recurrence detection** · heat kills residual cells | — |
+| **Sandwich** (subchondral graft + cement) | Minimal subchondral bone | **Subchondral collapse** |
+
+**Cement and OA (TO)** — cement **not proven to cause arthritis** · **loss of subchondral bone** is the risk factor
+
+**Recurrence on X-ray (TO)** — **lysis around cement / graft** · progressive lucency · new soft-tissue shadow
 
 **Adjuvants** — **phenol**, **liquid nitrogen (cryo)**, **hydrogen peroxide**, **argon beam**, electrocautery, ethanol (= phenol) · burr alone recurrence **12%**
 
@@ -153,6 +190,15 @@ Giant cell tumour of bone
 ✗ Wrong options: curettage · structural allograft · denosumab (high recurrence) · observation
 
 **Knee** — hemicondylar osteoarticular allograft or rotating-hinge endoprosthesis · **distal radius** aggressive → resection + proximal fibular autograft (arthroplasty or arthrodesis) · distal ulna/clavicle → resection alone
+
+**Resection indications (TO)** — **path fracture with deformity** · **recurrence with joint destruction** · **insufficient residual / subchondral bone** · **expendable bones** (distal ulna, proximal fibula, proximal radius) · massive soft-tissue extension · en bloc in **one piece**
+
+**Path fracture / recurrence (TO)** — fracture **not an absolute indication** for resection (curettage + cement in many) · recurrent GCT → curettage often still possible; resect if joint destroyed
+
+| Distal radius reconstruction (TO) | Advantages | Disadvantages |
+|---|---|---|
+| **Fibular arthroplasty** | **Wrist motion**, cosmesis | **Unstable**, incongruent joint, donor morbidity |
+| **Ulnar translocation** | **Stable**, vascularised, no donor morbidity → preferred when stability needed | Cosmetic deformity (**hour-glass wrist**) |
 
 **Spine** — total en bloc spondylectomy (± staged anterior/posterior, cage/cement) → 10-yr disease-free up to 100%
 
@@ -186,6 +232,10 @@ Giant cell tumour of bone
 
 **Side effects** — hypocalcaemia (contraindication: severe hypocalcaemia), nasopharyngitis, arthralgia
 
+**Denosumab extras (TO)** — **hard shell** eases dissection · **inform pathologist** (mimics low-grade sarcoma) · **not an adjuvant** after curettage · **single preop dose** → ↓ vascularity where no tourniquet (pelvis, proximal humerus) · "masks, does not kill stromal cells"
+
+**Zoledronic acid (TO)** — **4 mg monthly** · osteoclast apoptosis · may ↓ recurrence · inoperable tumours
+
 **Bisphosphonates** — osteoclast inhibitors · postop → **↓ recurrence 25–30%** **(TO: used to prevent recurrence)** · zoledronic acid stabilises inoperable disease · denosumab > bisphosphonate\
 ✗ Wrong options: calcitonin · teriparatide · methotrexate
 
@@ -193,7 +243,7 @@ Giant cell tumour of bone
 
 **Radiation** — only inoperable / multiply recurrent (sacrum, large vertebral) · **~15% malignant transformation** (megavoltage)
 
-**Embolization** — unresectable sacral/pelvic GCT, monthly until palliation · preop to ↓ blood loss
+**Embolization** — unresectable sacral/pelvic GCT, monthly until palliation · preop to ↓ blood loss · **definitive for inoperable** pelvis/sacrum/spine, combined with **zoledronic acid** (TO) · **pelvic GCT → embolization + limited resection + curettage** (TO)
 
 **Not used** — chemotherapy · RFA
 
@@ -295,6 +345,14 @@ Giant cell tumour of bone
 ✗ Wrong options: adamantinoma · FD · osteochondroma · parosteal OS
 
 **"Lateral condyle GCT with subchondral collapse + fracture?"** → **condylar resection + osteoarticular allograft**
+
+**"Cement after GCT curettage causes arthritis?"** → **No — loss of subchondral bone does** (TO)
+
+**"Adjuvant with deepest penetration?"** → **liquid nitrogen (14 mm)** (TO)\
+✗ Wrong options: phenol (<1 mm) · argon beam (4 mm) · H₂O₂
+
+**"Distal radius resection — stable reconstruction?"** → **ulnar translocation** (TO)\
+✗ Wrong options: fibular arthroplasty (mobile but unstable)
 
 **"Proximal fibula GCT with peroneal palsy?"** → **en bloc resection + LCL/biceps repair to tibia**
 

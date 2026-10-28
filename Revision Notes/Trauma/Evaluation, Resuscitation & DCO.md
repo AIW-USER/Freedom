@@ -14,6 +14,10 @@
 
 **Golden hour** — \~60% of preventable deaths
 
+**Trimodal timing – TO lecture (TO)** — immediate **< 1 h** · early **1–4 h** · late **> 24 h** (MOF, sepsis) → ATLS ↓ immediate + early deaths; late deaths remain
+
+**Trauma triad of death (TO)** — **coagulopathy + hypothermia + acidosis**
+
 **Airbags (head-on)** — ↓ head injury, facial fractures, thoraco-abdominal injury (splenic rupture, flail chest), extraction · **pelvic ring injuries NOT reduced**
 
 **Psychological** — **PTSD \~50%** after orthopaedic trauma (**females 4×**; LE / pelvic injuries 2× UE) · depression 33%
@@ -209,6 +213,17 @@ Polytrauma with long-bone / pelvic fractures
 
 **DCO (2000)** — temporary stabilisation (ex-fix, traction, splints, I&D) → definitive once physiology improves
 
+**First vs second hit (TO)** — first hit = injury → SIRS · second hit = **extensive early surgery, transfusion, hypoxia, pain** → ARDS / MODS
+
+| Phase (TO) | Response | Mediators |
+|---|---|---|
+| Early | **SIRS** (hyperinflammation) | **TNF-α, IL-1, IL-6** |
+| Late | **CARS** (immunoparalysis → sepsis) | **IL-4, IL-10, IL-13** |
+
+**DCO phases (TO)** — 1 life-saving (haemorrhage, airway, chest tube, binder) → 2 temporary stabilisation **≤ 48 h** (splints, ex-fix, damage-control laparotomy) → 3 ICU monitoring (MODS / ARDS) → 4 definitive fixation
+
+**Early fixation criteria – TO (TO)** — **pH > 7.25**, **BD > −5.5**, **lactate < 4.0**, normotensive · **not met within 8 h → DCO**
+
 **EAC (2013)** — definitive fixation of **spine, pelvis, acetabulum, femur within 36 h** once **any ONE** of: **lactate < 4.0 mmol/L**, **pH ≥ 7.25**, **base excess ≥ −5.5 (BD ≤ 5.5)** → ↓ delay, ↓ complications (ARDS, MOF, death), ↓ LOS, ↑ revenue; main delay = surgeon decision
 
 ### Operative criteria – DCO indications
@@ -237,6 +252,48 @@ Polytrauma with long-bone / pelvic fractures
 
 **Ex-fix → nail at 7 d** — **equal union + infection rates**\
 ✗ Wrong options: higher infection / nonunion / ARDS / mortality
+
+| Day (TO) | Physiological state | Surgery |
+|---|---|---|
+| **1–2** | Hyperinflammatory | **Life-saving only** |
+| 2–4 | Borderline / resuscitating | Second look, temporary fixation |
+| **5–10** | **Window of opportunity** | **Definitive fixation** |
+| **10–20** | **Immunosuppression** | **Avoid surgery** |
+| > 21 | Recovery | Secondary reconstruction |
+
+### ATLS 10th edition updates (TO)
+
+**Fluids (TO)** — initial **1 L warm isotonic crystalloid** (reduced from 2 L) → then **blood products early** · children **20 mL/kg** crystalloid once → 10–20 mL/kg blood
+
+**Massive transfusion (TO)** — **> 10 U PRBC / 24 h or > 4 U / 1 h** · **1:1:1** · TEG / ROTEM guided
+
+**TXA – CRASH-2 (TO)** — **1 g IV over 10 min + 1 g over 8 h**, **within 3 h** of injury
+
+| Urine output target (TO) | mL/kg/h |
+|---|---|
+| **Adult / teen** | **≥ 0.5** |
+| Child (> 1 yr) | **1–1.5** |
+| **Infant** | **1–2** |
+
+**Tension pneumothorax (TO)** — adult needle at **4th / 5th ICS, anterior to mid-axillary line** (new) · child: **mid-clavicular** (2nd ICS)
+
+**Airway (TO)** — **needle cricothyroidotomy contraindicated < 12 yr** (subglottic stenosis) → tracheostomy definitive · suspected **tracheobronchial injury** (haemoptysis + surgical emphysema) → **fibre-optic intubation / bronchoscopy** · burns / inhalation → **pre-emptive intubation**
+
+**GCS updates (TO)** — record **best motor** · **"NT" items score 0** · **GCS-P** = GCS − pupil score (both non-reactive = 2; range **1–15**) · GCS-PACT adds age + CT
+
+**C-spine imaging rules (TO)** — **NEXUS**: no midline tenderness, not intoxicated, alert, no focal deficit, no distracting injury → no imaging · **Canadian C-spine**: high risk (**age ≥ 65**, dangerous mechanism, paraesthesia) → image; low risk + **45° active rotation** → no imaging
+
+**Log-roll (TO)** — ideal **5-person** team (minimum 4)
+
+**Pregnancy (TO)** — **15–30° left lateral tilt** · fetal Doppler > 10 wk, continuous CTG > 20–24 wk · indicated imaging should not be withheld
+
+**Limb haemorrhage ladder (TO)** — direct pressure → pressure dressing → proximal pressure → **tourniquet** · pneumatic tourniquet **UL \~250 mmHg · LL \~400 mmHg**
+
+**Urethral injury (TO)** — perineal / scrotal ecchymosis, blood at meatus → **retrograde urethrogram before Foley** (prostate exam no longer relied on)
+
+**Paediatric access (TO)** — **intra-osseous** (proximal tibia / distal femur) if IV fails
+
+**Mass vs multiple casualty (TO)** — multiple (capacity adequate) → treat life-threatening first · mass → **greatest chance of survival with least resource use**
 
 ### DCO scenarios
 
@@ -513,3 +570,9 @@ Polytrauma with long-bone / pelvic fractures
 **"Max delay for vascular repair (TO)?"** → **6 h warm ischaemia**
 
 **"NOT true of stove-in chest (TO)?"** → **penetrating injury**
+
+**"TXA dosing per CRASH-2?"** → **1 g over 10 min + 1 g over 8 h, within 3 h** (TO)
+
+**"Adult needle decompression site (ATLS 10)?"** → **4th / 5th ICS anterior to mid-axillary line** (TO)
+
+**"Window of opportunity for definitive fixation?"** → **days 5–10** (TO)

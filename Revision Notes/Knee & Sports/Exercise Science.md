@@ -25,6 +25,12 @@
 
 **Overstretched muscle** — sarcomeres generate little active tension → **< 30% maximal force**
 
+**Rule of 10 (TO, isometrics)** — **10 s contraction × 10 reps × 10 times/day** · isometrics **contraindicated in hypertensive / cardiac patients** (BP spikes) · **kinetic-chain classification = Steindler 1955** · early rehab closed chain (safe) → late open chain (targeted)
+
+**Mobility vs flexibility (TO)** — **mobility** = available ROM, set by **capsuloligamentous** structures → ROM / mobilisation · **flexibility** = beyond ROM, **musculotendinous** stretchability → static / PNF stretching · **ballistic stretching obsolete** (tears) · **PNF most effective** for flexibility
+
+**Physical activity vs exercise (TO)** — activity = any movement spending energy · **exercise = planned, structured, repetitive** · proprioception = joint position sense; **kinesia** = sense of movement · hydrotherapy: buoyancy + hydrostatic pressure → early PWB ROM · biofeedback with isokinetic machines
+
 **Isokinetic in tennis (TO)** — **slow + fast speed isokinetic** → maximal resistance at every point of ROM, uniform strength, concentric + eccentric · add **core strengthening (lower back + hip)** → kinetic-chain power transfer\
 ✗ Wrong options: ballistic · plyometric (power, added once baseline strength exists) · fartlek (trains energy systems, not muscle)
 
@@ -169,6 +175,28 @@
 | Non-functional overreaching | Short-term decrement ± maladaptation | **Days–weeks** |
 | **Overtraining syndrome** | **Long-term** decrement (unbalanced training / non-training stress / rest) | **Weeks–months** |
 
+**Continuum recovery (TO, Meeusen 2006)** — **FOR: days to \~2 weeks** (supercompensation; e.g. pre-season camp) · **NFOR: weeks–months**, full recovery with rest · **OTS: months or longer**, may end a career · no improvement after **2 weeks of rest** → think OTS
+
+**OTS hallmark (TO)** — **inability to sustain intense exercise + ↓ sport-specific performance despite maintained / ↑ load** ("unexplained underperformance syndrome") · commonest in **high-volume endurance sports** (swimming, triathlon, cycling, rowing)
+
+| OTS type (TO) | Sport | Features |
+|---|---|---|
+| **Parasympathetic** | **Aerobic / endurance** | Fatigue, depression, **bradycardia**, ↑ HRV, low catecholamines |
+| **Sympathetic** | **Anaerobic** (sprint, jumps, throws) | Restlessness, irritability, insomnia, **tachycardia, hypertension** |
+
+**OTS diagnosis (TO)** — **clinical diagnosis of exclusion** · **no diagnostic biomarker** (HRV, CK, glutamine, cortisol only supportive) · needs: ↓ performance for weeks–months **despite rest** + **mood disturbance** + other causes excluded (anaemia, thyroid, infection, asthma, diabetes) · cannot diagnose without a rest period · biggest risk = **load–recovery imbalance**, monotonous training
+
+| OTS hypothesis (TO) | Mechanism |
+|---|---|
+| Glycogen | Depletion → fatigue, catabolic state, ↓ IGF-1 |
+| **Central fatigue** | Low glycogen → ↑ FFA displace **tryptophan** from albumin → competes with **BCAA** → ↑ brain **5-HT** |
+| **Glutamine** | Falls after > 2 h / repeated exercise → **immunosuppression, infections** |
+| Oxidative stress | ROS → ↓ citrate synthase, mitochondrial dysfunction |
+| HPA axis | **↓ testosterone : cortisol ratio** · blunted ACTH, GH, LH, FSH |
+| Cytokine | IL-1β, IL-6, TNF systemic inflammation |
+
+**OTS management (TO)** — no proven drug · **rest ≥ 2 weeks** → reassess → very low volume (5–10 min/day), **↑ volume before intensity** · training diary (RPE Borg 6–20, resting HR, sleep, mood) · prevention: periodisation, tapering, **> 6 h between bouts**, **≥ 1 rest day / week** · **soreness > 72 h = DOMS, not OTS**
+
 ### Strength training in children
 
 **Safety** — age-appropriate, supervised **weight training + plyometrics are safe** · no ↑ injury, **no growth-plate damage**, no ↑ OCD
@@ -289,6 +317,42 @@
 | **Ventilatory threshold** (TO) | **Ventilation rises disproportionately to O2 uptake** · **55–75%** of max aerobic capacity · H+ buffered by HCO3− → extra CO2 · synonyms: lactate threshold, OBLA, HR deflection point, maximal lactate steady state |
 | Low intensity 30–50% (TO) | Ventilation coupled to O2 (depth, diaphragm) · ageing blunts maximal ventilation |
 
+**Lactate balance (TO)** — blood lactate = **appearance vs disappearance**, not production alone · produced **even at rest** (\~20 mmol/kg/day) · **LDH: pyruvate + NADH → lactate + NAD⁺** (regenerates NAD⁺ so glycolysis continues) · \~99% dissociated → lactate + H⁺ · lactate = fuel, gluconeogenic precursor, signal · **fatigue multifactorial** (H⁺, Pi, ↓ PCr), not lactate alone
+
+**Lactate shuttle (TO)** — **MCT4 exports** lactate from glycolytic muscle · **MCT1 imports** into oxidative muscle, **heart, brain** (→ pyruvate → TCA) and liver / kidney (**Cori cycle**) · proton co-transport 1:1 · active recovery speeds clearance
+
+| Lactate zone (TO) | Fibres | Blood lactate |
+|---|---|---|
+| Below LT1 | **Type I**; fat; production = clearance | **0.5–2 mmol/L** |
+| **LT1 = aerobic threshold** | **Type IIa** join | First systematic rise (\~2–2.5) · = **VT1** |
+| LT1–LT2 | More IIa | Rises, stabilises; sustainable \~30–45 min |
+| **LT2 = anaerobic threshold / OBLA** | **Type IIx** | Exponential rise, **\~4 mmol/L** · = **VT2 (respiratory compensation point)** |
+
+| | **OBLA** | **MLSS** |
+|---|---|---|
+| Definition | Workload at **fixed 4 mmol/L** | **Highest constant workload** with lactate steady |
+| Found by | Incremental test | Several constant-load tests |
+| Nature | Same for everyone ("4 mmol trap") | Individual, true steady state |
+| Training | Definition unchanged | **Workload ↑** (↑ mitochondria + MCT1 uptake, not ↓ production) |
+
+![Ventilation and blood lactate vs VO2: LT, VT, OBLA, respiratory compensation](../../TO notes/attachments/TOn-notes-energy-systems-to-exercise-intensity-lactate-threshold-p04-f010.jpg)
+
+**Training effect (TO)** — lactate curve **shifts right** (lower lactate at same workload) · trained reach OBLA at higher % VO2max · graph stem "lactate stable → rises → steep" = **progressive fibre recruitment + glycolytic flux, set by production / transport / removal**\
+✗ Wrong options: abrupt aerobic → anaerobic switch · lactate only when O2 delivery stops · lactate = O2 debt
+
+**RER (TO)** — \~0.7 rest / fat · 1.0 CHO · **> 1.0 near maximal** (HCO₃⁻ buffering adds CO₂)
+
+| CPET normal (TO) | Value |
+|---|---|
+| Peak VO2 | **> 84% predicted** |
+| Ventilatory AT | **> 40%** of peak VO2 (40–80%) |
+| Max HR | > 90% age-predicted · HR reserve < 15 |
+| BP | < 220/90 |
+| Ventilatory reserve | MVV − VEmax > 11 L or VEmax/MVV < 85% |
+| VE/VCO2 at AT | **< 34** |
+
+**Field tests (TO)** — VO2max: CPET, **1.5-mile Cooper test**, **Yo-Yo intermittent recovery** · lactate from earlobe / fingertip · training zones from LT2: Z1 < 55% (< 2 mmol) → Z2 55–75 → Z3 75–90 → **Z4 threshold 90–105%** → Z5 VO2max 105–120% (> 8 mmol)
+
 | Test (TO) | Fact |
 |---|---|
 | **Bruce protocol** | **Most common treadmill test** (Robert A Bruce) · speed + incline ↑ **every 3 min** · **7 stages** · stop at **85% max HR** or HR > 115 for two stages |
@@ -338,6 +402,49 @@ Choosing the exercise
 
 **Aquatic exercise** — **buoyancy ↓ vertical ground reaction force** → ↓ joint stress · prevents secondary lower-limb injury · **less abrupt HR rise** (lower max HR) · **↑ O2 consumption** vs land\
 ✗ Wrong options: ↑
+
+| FITT exercise prescription (TO) | Aerobic | Resistance |
+|---|---|---|
+| **Frequency** | **5 days/week** | **3 days/week** |
+| **Intensity** | **55–70% HRmax** (HRmax = **220 − age**) | **50–75% RM** (beginner 50–60, intermediate 60–75, advanced > 75) |
+| **Time** | **20–30 min/day** | 2–5 sets × 2–5 reps / muscle |
+| **Type** | Aerobic | Isometric / isotonic / isokinetic |
+
+**Fuel by duration (TO, rehab lecture)** — < 1 min **creatine phosphate** · 1–20 min **glycolysis** · > 20 min **fats** (Krebs)
+
+| Rehab ladder after ACLR (TO, Mohindra) | Time | Focus |
+|---|---|---|
+| Immediate | 0–2 days | Brace, pain control, gentle isometrics |
+| Early | 2–3 wk | Isometrics + passive / active-assisted ROM |
+| Late | 3–8 wk | Isotonic (closed → open chain), cardio, balance |
+| Advanced | 2–6 months | Plyometrics, PNF, agility, sport drills |
+| **RTS** | **\~6 months** | **≥ 85% strength vs contralateral on isokinetic testing** |
+
+### Taping – rigid, McConnell, Mulligan, Low-Dye & kinesiology (TO)
+
+| Tape (TO) | Description | Use |
+|---|---|---|
+| **Rigid / athletic** | Non-elastic **zinc oxide** | Stabilisation (ankle, thumb, wrist) · ankle: anchors → stirrups (medial → lateral) → figure-of-eight → **heel lock** · ↓ inversion sprain recurrence **50–70%** · **loses effect after 20–30 min** |
+| **McConnell** | Rigid brown tape over **Fixomull** underlay · **Jenny McConnell** | **PFPS / patellar maltracking** — corrects glide, tilt, rotation (pull medially) · max **18–24 h** |
+| **Mulligan** | Rigid tape during pain-free glide (**mobilisation with movement**) · **Brian Mulligan** | Tennis elbow, PFPS, impingement, ankle instability |
+| **Low-Dye** | Non-elastic arch support, strips lateral → medial | **Plantar fasciitis**, pes planus, MTSS · 24–48 h |
+| **Kinesiology (K-tape)** | Elastic cotton, **140–180%** stretch · **Kenzo Kase 1970s**, popular Beijing 2008 | Pain, swelling, proprioception |
+
+**K-tape properties (TO)** — 100% cotton, \~0.3 mm, **heat-activated acrylic** glue (rub after applying), latex-free, wave pattern · lasts **3–5 days** · **colour has no functional effect** · apply **30 min before activity** · **no doping risk** · aids proprioception, **does not strengthen**
+
+**K-tape mechanism (TO)** — **lifts skin** → decompresses **nociceptors + lymphatics** → ↓ pain + swelling · ↓ dorsal-horn input → ↓ reflex hypertonus · anchor + tail **no tension**, only **therapeutic zone** stretched · **under-stretch preferred**
+
+| K-tape application (TO) | Direction | Stretch |
+|---|---|---|
+| **Weak muscle → facilitation** | **Origin → insertion** | **15–25%** (e.g. weak VMO) |
+| **Tight muscle → inhibition** | **Insertion → origin** | **10–15%** (e.g. tight ITB) |
+| Ligament / tendon support | Centre outward | **50–75%** |
+| **Lymphatic drainage** | **Fan / web** cut | 0–15% |
+| Trigger point | Star / cross | \~10% |
+
+**Cuts (TO)** — I strip (linear) · **Y** two heads (deltoid) · **X** large muscle (hamstrings) · fan (oedema) · star (trigger points)
+
+**Contraindications (TO)** — open wounds, dermatitis / eczema, unhealed scars, acrylic allergy, **DVT / thrombophlebitis**, malignancy, active infection, fragile skin · patch test 24 h · remove along hair growth, re-tape after 24 h gap · K-tape fits **POLICE / PEACE & LOVE**, rigid fits PRICE
 
 ### Stretching (PNF, gastrocnemius) (TO)
 
@@ -512,3 +619,19 @@ Choosing the exercise
 **"Commonest treadmill stress protocol (TO)?"** → **Bruce protocol**
 
 **"VO2 max units (TO)?"** → **ml/kg/min**
+
+**"Hallmark of overtraining syndrome (TO)?"** → **inability to sustain intense exercise, ↓ sport-specific performance despite maintained load**
+
+**"Performance drop for weeks with mood change, recovers after rest (TO)?"** → **non-functional overreaching**
+
+**"Fixed 4 mmol/L lactate workload (TO)?"** → **OBLA (vs MLSS = highest steady-state workload)**
+
+**"Lactate transporter exporting lactate from muscle (TO)?"** → **MCT4 (MCT1 imports)**
+
+**"Rule of 10 in isometrics (TO)?"** → **10 s × 10 reps × 10 times/day**
+
+**"Target HR for moderate aerobic exercise (TO)?"** → **55–70% of (220 − age)**
+
+**"K-tape direction to inhibit a tight muscle (TO)?"** → **insertion → origin, 10–15% stretch**
+
+**"Taping for patellofemoral pain / maltracking (TO)?"** → **McConnell taping**

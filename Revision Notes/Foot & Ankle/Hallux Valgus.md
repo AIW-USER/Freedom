@@ -29,6 +29,7 @@
 | **Extrinsic** | **Narrow toe box + high heel** = most significant environmental factor (TO) |
 | **Systemic (TO)** | **RA** (synovitis destroys medial capsule + collaterals) · **CP, poliomyelitis** (muscle imbalance) · **EDS, Marfan** (laxity) |
 | **Not a risk factor** | **Pes cavus** (TO) · flexible cavovarus (OB) |
+| **Miscellaneous (TO)** | **Obesity** · **plantar fasciitis** · degenerative arthritis · **2nd toe amputation** · **space-occupying lesion in 1st web space** · **gastrocnemius tightness** (Silfverskiöld) (TO) |
 
 **Pes planus** — associated with **progression** · elevation + functional lengthening of 1st MT\
 ✗ Wrong options: cross-over toe · tarsal coalition · hammer toe · 1st MT supination
@@ -68,6 +69,12 @@
 **Triplanar deformity (OB)** — valgus + **dorsiflexion** + **pronation** of 1st ray → offloads 1st MT head → load to lesser MTs
 
 **Bunion (TO)** — **medial eminence** = normally covered medial MT head now uncovered · **not an exostosis** · **adventitious bursa** → painful bursitis · osteophytes later
+
+**No muscle inserts on 1st MT head (TO)** — head vulnerable to deforming forces (narrow shoes) · progression: sesamoids sublux · **crista eroded** · flexors + extensors shift laterally → **pronation** · abductor hallucis loses mechanical advantage (TO)
+
+**Sesamoid direction (TO lecture)** — "sesamoids sublux **medially**" (TO — verify: usual teaching = sesamoids lie **lateral** to the MT head, which drifts medially) — read the options
+
+**Metatarsus primus varus (TO)** — set by **orientation of the MC joint** · **medial inclination up to 8° = normal** (TO)
 
 **Windlass mechanism** — less effective → **transfer metatarsalgia**
 
@@ -331,6 +338,7 @@ Add-ons to any correction
 | MTP joint | **Flexible** (↑ deformity) | not rigid in juvenile |
 | Foot | **Flexible flatfoot** | — |
 | Commonest complication | **Recurrence > 50%** | Recurrence 10–47% |
+| **TO features** | **Hypermobile 1st MC joint** · **higher IMA, lower HVA** · **less pronation** · **bursal thickening uncommon** · **open physis** (TO) | — |
 
 **Timing** — nonop **until physis closes** · surgery for symptoms with **IMA > 10° + HVA > 20°**
 
@@ -533,6 +541,10 @@ Iatrogenic hallux varus
 | Congruent joint | ✓ (DMAA < 10°) | ✓ | No (creates incongruency) |
 
 ## How it's asked
+
+**"Key indicator of hallux valgus severity?"** → **sesamoid position** (TO)
+
+**"Juvenile vs adult HV angles?"** → **higher IMA, lower HVA, less pronation** (TO)
 
 **"NOT a risk factor for hallux valgus?"** → **pes cavus** (TO)
 

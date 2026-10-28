@@ -74,6 +74,14 @@
 
 **Water vs depth (TO)** — as PG ↑ from superficial → deep, **water ↓**
 
+**Mechanical descriptors (TO)** — **anisotropic** (varies with direction of load) · **biphasic** (solid + fluid) · **viscoelastic** (deforms under load, recovers on release)
+
+**Coefficient of friction** — **\~0.003** · smoother than lubricated metal (TO)
+
+**Minor collagens (TO)** — **type IX cross-links type II** · **type XI regulates fibril diameter** · **type X near calcified / hypertrophic zone**
+
+**Composition per TO** — water **74%** · collagen 15% · PG 10% · chondrocytes **1%** (TO)
+
 ### Nourishment, growth factors
 
 **Avascular** — fed by **synovial fluid** (surface) + **subchondral bone** (base) · ATP by **glycolysis**

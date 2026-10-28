@@ -8,6 +8,8 @@
 
 **Traumatic** — 15–30% of cervical injuries at the occipitocervical junction · in **19% of fatal** cervical injuries
 
+**OCD epidemiology (TO)** — **5–12% of traffic fatalities** · OC region in **10–25%** of cord injuries in fatal RTAs · mortality **up to 80%** (brainstem / vertebral artery) · **commoner in children** (flatter condyles, ligament laxity)
+
 **Acquired** — commonest in **Down syndrome** · usually asymptomatic, found on screening (surgery, Special Olympics)
 
 **Synonyms** — atlanto-occipital dissociation (AOD), occipitocervical dislocation
@@ -37,6 +39,8 @@
 
 **C1-2 joint (TO)** — near-horizontal facets → **60% of cervical rotation**
 
+**Motion (TO)** — C0–C1 **"YES" joint**: \~25° flex-ext (30–40% of neck flex-ext), 5° rotation · C1–C2 **"NO" joint**: \~**50% of rotation** · stability is **ligamentous, not bony** · key stabilisers: **alar → C0–C1**, **transverse → C1–C2**
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -50,6 +54,7 @@
 | **CT** | **Gold standard for bone** · midsagittal reconstruction |
 | CT angiogram | Vertebral artery injury; anatomy before fusion |
 | **MRI** | Ligament injury with preserved alignment, occult injury, deficits · AOD with normal CT measurements → **MRI** |
+| **Basion–dens interval (TO)** | **> 2 mm → AOD** ("Pang criterion", TO — verify: Harris BDI > 12 mm; Pang uses CCI ≥ 4 mm in children) |
 
 ![Powers ratio](../../Orthobullets/attachments/ob2014-powers-ratio-ct-scan.jpg)
 
@@ -60,6 +65,8 @@
 | I | **Anterior** occiput |
 | II | **Longitudinal** (distraction) |
 | III | **Posterior** occiput |
+
+**Traynelis (TO)** — I anterior = **flexion** · II vertical = **axial load / distraction (> 2 mm)** · III posterior = **extension** · **IV complex** (combined)
 
 ### Harborview classification (instability)
 
@@ -94,6 +101,8 @@ Occipitocervical instability
 **Traumatic OC dissociation (intubated polytrauma)** — **instrumented occipitocervical fusion**\
 ✗ Wrong options: Philadelphia collar · halo 12 wks as definitive · ACDF
 
+**AOD principles (TO)** — **traction contraindicated** · **halo/collar avoided** (can distract) · **occiput → C2 rigid arthrodesis** (plate, occipital bolts, C2/C3 screws) · most die before hospital
+
 ### Occipitocervical fusion technique
 
 **Set-up** — prone, **Mayfield**, set **O-C2 angle** on lateral fluoroscopy before draping · Occiput–**C3** instrumentation
@@ -110,6 +119,29 @@ Occipitocervical instability
 ✗ Wrong options: vertebral · basilar · spinal arteries
 
 **C2** — pars, pedicle, transarticular or translaminar · **C3** lateral mass aimed cephalad + lateral · complications: **nonunion**, bleeding (internal carotid, vertebral artery)
+
+**Anchors (TO)** — **C1 lateral mass screw** · **C2 pars screw = standard** · **high-riding vertebral artery → C2 translaminar screw** · bone graft essential
+
+### Occipital condyle fractures (TO)
+
+**Mechanism** — axial load ± lateral bending, direct blow · **> 90% unilateral** · often incidental on head-injury CT · **X-ray misses → thin-slice CT gold standard** (TO)
+
+**Cranial nerves** — lower CN palsy **\~30%** · **Collet-Sicard syndrome = CN IX–XII palsy** (dysphagia, hoarseness, scapular winging, tongue deviation) · **hypoglossal canal → XII palsy** · Wallenberg syndrome (TO)
+
+| Anderson & Montesano (TO) | Pattern | Stability | Treatment |
+|---|---|---|---|
+| **I** | **Comminuted impaction** (axial load) | Stable | Rigid collar 6–8 wks |
+| **II** | **Basilar skull fracture** extending into condyle | Stable | Rigid collar 6–8 wks |
+| **III** | **Avulsion at alar ligament** attachment | **Unstable** | **Halo 12 wks** (Vishnu) · **posterior occipitocervical fixation** (Mohindra) — read the options |
+
+| Tuli (TO) | Pattern | Stability |
+|---|---|---|
+| I | Basilar skull + condyle | Stable |
+| II | Ring fracture of foramen magnum | Potentially unstable |
+| III | Isolated condylar compression | Stable |
+| IV | Alar avulsion with distraction | **Unstable** |
+
+**Tuli scheme (TO — verify: Tuli 1997 is usually 1 non-displaced, 2A displaced stable, 2B displaced unstable)**
 
 ### Atlantoaxial subluxation – Fielding & Hawkins (TO)
 
@@ -136,3 +168,7 @@ Occipitocervical instability
 **"Intubated MVC, OC dissociation — definitive treatment?"** → **occipital-cervical fusion with instrumentation**
 
 **"10-yr, trivial fall, transient quadriparesis?"** → **congenital atlantoaxial instability** (TO)
+
+**"Collet-Sicard syndrome?"** → **CN IX–XII palsy from occipital condyle fracture / AOD** (TO)
+
+**"Unstable occipital condyle fracture?"** → **Anderson-Montesano III (alar avulsion)** (TO)

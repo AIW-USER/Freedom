@@ -53,6 +53,8 @@
 
 **Rockwood (OB)** — reduce ± fix if **>50% displaced in >11 yr**
 
+**Acceptable (TO)** — **1–5 yr: 70°, 100%** · **5–12 yr: 50°, 50%** · **> 12 yr: 30°** — read the options · sling or sugar-tong splint
+
 **Non-op** — sling ± swathe, immobiliser, coaptation splint · 7-yr Neer-Horowitz IV → **sling + PT** · 9-yr displaced → **sling + follow-up X-rays**\
 ✗ Wrong options: CRPP · ORIF (higher complications)
 

@@ -8,6 +8,10 @@
 
 **Ankle OA** — typically **post-traumatic** · less frequent than hip / knee OA · nonop: gauntlet brace, PT, steroid injection, NSAIDs
 
+**Indications (TO)** — primary OA · **post-traumatic (commonest in India)** · **RA with stable, well-aligned hindfoot = best indication** (TO)
+
+**Classification factors (TO)** — cemented vs uncemented · **2 vs 3 components** · constrained / semi- / unconstrained · congruent vs incongruent · anatomic vs non-anatomic · **fixed vs mobile bearing** (TO)
+
 ### Implant generations
 
 | Generation | Design | Problem / feature |
@@ -15,6 +19,8 @@
 | **1st** | Highly **constrained / semi-constrained, two-component**, **cemented** both sides | **High loosening**, wide osteolysis, subsidence, mechanical failure |
 | **2nd** | **Two-component fixed-bearing**, **polyethylene bearing** built into talar or tibial component | Conservative bone cuts · **cementless press-fit, porous coating** for ingrowth |
 | **3rd** | Adds a third component: **independent polyethylene mobile-bearing meniscus** | Ligaments for stability · anatomic balancing · minimal resection |
+
+**Current standard (TO)** — **3-component, uncemented, mobile-bearing** = best kinematics, technically demanding (TO) · no clear design superiority; clinical results similar (TO)
 
 **Three vs two components** — **no evidence three-component designs are better**
 
@@ -108,6 +114,24 @@ End-stage ankle OA, failed nonop
        └─ Supple hindfoot, PTT strong, no forefoot deformity → TAA + realignment
 ```
 
+### TAR vs arthrodesis criteria (TO)
+
+| Criterion (TO) | **Arthrodesis** | **TAR** |
+|---|---|---|
+| Age / demand | **< 50 yr**, high demand | **> 50 yr**, low demand (walking, golf, cycling) |
+| Aetiology | Post-traumatic (young), neuromuscular | **Rheumatoid**, degenerative, **haemophilic** |
+| **ROM** | **< 10°** | **> 15°** |
+| Bilateral disease | No | **Yes** |
+| Adjacent joint arthritis | Absent | **Present** |
+| Deformity / instability | **> 15°**, severe | **< 10°**, mild, correctable |
+| Minor: soft tissue · BMI · DM · compliance | Poor · **> 25** · uncontrolled · low | Good · **< 25** · controlled · high |
+
+**TO contraindications** — absolute: active infection · **skeletal immaturity** · poor bone stock · **Charcot** · deformity **> 15°** · relative: previous infection · **smoking** · DM / vascular disease · neuromuscular imbalance · comorbidities · **AVN or infection → avoid TAR** (TO)
+
+**If in doubt / all borderline → arthrodesis** (TO)
+
+**Pre-op (TO)** — WB AP + lateral · **CT for adjacent joint arthritis** · **MRI for osteonecrosis + ligaments** · record ROM with **Iowa ROM device** / goniometer (TO)
+
 ### Patient selection & outcomes vs arthrodesis (deformity, flatfoot)
 
 **49-yo construction worker, isolated tibiotalar OA, no subtalar pain** — **tibiotalar arthrodesis through direct anterior or arthroscopic approach** → allows **later conversion to TAA**\
@@ -146,9 +170,15 @@ End-stage ankle OA, failed nonop
 
 **Survivorship** — **70–90% at 10 yr** · **> 80% at 5 yr if < 50 yo** (Orthobullets) · **70–98% at 3–6 yr, 80–95% at 8–12 yr** (OB, Easley) · **5-yr survival up to 60%, reoperation up to 30%** — worse than TKA / THA (OB) — read the options
 
+**Outcomes (TO)** — **90% survivorship at 5 yr** (1105 cases; range 68–100%) · revision > THR / TKR (small bone stock, thin soft tissue) · **success = pain-free, mobile, plantigrade, ≥ 15° ROM** (TO)
+
 ### Surgical technique
 
 **Approach** — **anterior, between tibialis anterior + EHL**
+
+**Lateral approach (TO)** — **oblique fibular osteotomy**, fibula refixed · specific deformities · position supine, pad under hip, foot vertical, fluoroscopic check of cuts (TO)
+
+**Balance (TO)** — balanced ligament tension (**especially deltoid**) · failure → **early loosening or instability** (TO)
 
 **Goal** — restore **mechanical alignment** (guides for tibia, talus ± fibula cuts) · **ligament balancing** · **stable, neutral, plantigrade** ankle + hindfoot · may need ligament reconstruction, tendon transfer, osteotomy, **heel cord lengthening**, arthrodesis
 
@@ -236,11 +266,19 @@ Failed TAA
 | **Subsidence** | → convert to fusion |
 | **Osteolysis** | **Polyethylene wear** → large expansive cysts in tibia / talus · **CT metal artifact reduction** |
 | **Heterotopic ossification** | **3.8–82%** (TO) |
+| **Chronic anteromedial pain** (TO) | Impingement / **oversized implant** |
+| **Gutter (malleolar) pain** (TO) | Malposition / residual osteophytes |
+| Infection (TO) | Thin soft tissue — **Staph aureus** |
+| Instability (TO) | Inadequate ligament balance |
 
 ### Intraoperative malleolar fracture – prevention
 
 **Most frequent intra-op complication (TO)** — **fracture of the medial or lateral malleolus**\
 ✗ Wrong options: fracture of the talus dome
+
+**Hallmark intra-op complication (TO lecture)** — **medial malleolar stress fracture** from saw misplacement → **avoid notching** (TO)
+
+**Most common complication (TO lecture)** — **wound problems + loosening** (TO lecture) · TO question marks wound dehiscence as not most common — read the options
 
 **Commonest cause of revision (TO)** — **aseptic loosening** (most series) · **arthrofibrosis / impingement** (some series) · **debridement of heterotopic bone** = commonest reoperation (some series)
 
@@ -302,6 +340,10 @@ Failed TAA
 | Nonunion | Lower | **Higher (subtalar)** |
 
 ## How it's asked
+
+**"ROM cut-off TAR vs arthrodesis?"** → **< 10° arthrodesis · > 15° TAR** (TO)
+
+**"Best indication for TAR?"** → **rheumatoid arthritis with stable hindfoot** (TO)
 
 **"9 yr after TAA, talar subsidence into STJ, infection negative — next?"** → **TTC arthrodesis with structural allograft**
 

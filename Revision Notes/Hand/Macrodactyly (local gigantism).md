@@ -63,6 +63,15 @@
 | **Static** | Present at birth; grows **linearly** with other digits | Asymmetry **does not worsen** |
 | **Progressive** | Less obvious at birth; **disproportionate growth** | Asymmetry **worsens** |
 
+| Flatt (TO) | Type |
+|---|---|
+| I | Gigantism + **lipofibromatosis** |
+| II | Gigantism + **neurofibromatosis** |
+| III | Gigantism + **digital hyperostosis** |
+| IV | Gigantism + **hemihypertrophy** |
+
+**Incidence \~0.2/1000 (TO)** · thumb: **MP arthrodesis** if unstable · ray amputation last resort (TO)
+
 ## 5 Management
 
 ```

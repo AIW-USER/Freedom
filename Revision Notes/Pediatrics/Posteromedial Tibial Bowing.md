@@ -25,6 +25,8 @@
 
 **At birth** — short, bowed leg · dorsum of foot may rest on anterior shin
 
+**Exam (TO)** — **skin dimple over apex** · **underdeveloped calf** · **↓ ankle plantarflexion** · apex **posterior on lateral, medial on AP** · differentiate from positional calcaneovalgus
+
 **Apex** — posteromedial bowing apex in **distal tibia** · calcaneovalgus apex at **ankle** (Orthobullets) / heel (TO)
 
 **Calcaneovalgus vs vertical talus** — **plantar-flexion lateral foot X-ray**: in CVT the talar axis stays plantar to (not collinear with) the 1st MT
@@ -49,6 +51,8 @@
 ✗ Wrong options: osteotomy · bracing / clamshell KAFO · serial casting (no effect; casting only for severe unresolving contracture) · genetic testing
 
 **LLD = main problem** — proportional, ↑ with growth · ∝ amount of bow
+
+**Remodelling (TO)** — **rapid in first year** · mainly by **physeal reorientation** · growth inhibition persists → predictable LLD · average **3.5 cm** (TO) · **no corrective osteotomy for the bow** · Rx LLD: contralateral epiphysiodesis or ex-fix lengthening
 
 | Source | Residual LLD |
 |---|---|

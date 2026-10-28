@@ -8,6 +8,8 @@
 
 **Cause** — failure of differentiation of the **apical ectodermal ridge** in the 1st trimester
 
+**Incidence** — **1 in 500** (Orthobullets) · **\~2 per 1000** (TO) · **most common isolated congenital foot anomaly** (TO) · mainly cosmetic / footwear problem
+
 ### Inheritance & associations
 
 **Inheritance** — **autosomal dominant** (family history)\
@@ -22,6 +24,8 @@
 | **Postaxial** (lateral) | **Y** metatarsal · **T** metatarsal · wide MT head · complete duplication |
 | Central (added) | Duplicated 2nd, 3rd or 4th toe |
 | **Preaxial** (medial) | Short block 1st MT · wide MT head |
+
+**Y vs T metatarsal (TO)** — **Y = equal** duplication · **T = unequal** duplication
 
 ![Venn-Watson classification](../../Orthobullets/attachments/ob4078-poly.jpg)
 
@@ -41,6 +45,8 @@
 | Cosmesis / shoe wear | Elective, any age per family wishes (OB) |
 
 **Natural history** — shoe-fitting problems, angular toe deformity
+
+**Excision (TO)** — supernumerary toe + **capsular reconstruction** · **modified Farmer procedure** for duplicated hyperplastic toe: remove extra ray, rotational flap, **reinsert adductor hallucis**
 
 ## How it's asked
 

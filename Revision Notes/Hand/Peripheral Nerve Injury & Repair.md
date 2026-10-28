@@ -33,6 +33,16 @@
 
 ![Nerve cross-section with fascicles](../../MCQ/attachments/q5434-illa-with-fascicel.jpg)
 
+### Anatomical rules & nerve identity (TO)
+
+**Rule 1 (TO)** — every nerve **changes compartment at coracobrachialis insertion**
+
+**Rule 2 (TO)** — every nerve **enters the forearm between two heads of a muscle**
+
+**Nerve identity (TO)** — **ulnar = musician's nerve** (fine movements) · **median = labourer's nerve** (power grip) · radial = extensor nerve
+
+**Radial nerve (TO)** — **maximum motor loss, minimal sensory disability**
+
 ### Fibre types
 
 | Fibre | Diameter | Myelin | Speed | Carries |
@@ -42,6 +52,17 @@
 | B | <3 µm | Moderate | Medium | Autonomic |
 | **C** | <1.3 µm | None | Slow | Pain — dull, delayed (TO) |
 
+| Fibre (TO) | Function | Diameter (µm) | Velocity (m/s) |
+|---|---|---|---|
+| **A alpha** | Proprioception, motor | 12–20 | 70–120 |
+| **A beta** | Pressure, touch | 5–12 | 30–70 |
+| A gamma | Muscle spindle (motor) | 3–6 | 15–30 |
+| **A delta** | Touch, cold, **fast pain** | 2–5 | 12–30 |
+| B | Autonomic | < 3 | 3–15 |
+| **C** | Autonomic, **slow pain** | 0.3–1.3 | 0.7–2.3 |
+
+**Mnemonic (TO)** — "Prime Minister Pressurized To Sign The Contract Fast"
+
 ### Sensory receptors
 
 | Receptor | Adaptation | Senses | Test |
@@ -50,6 +71,15 @@
 | Meissner | Rapid | Light touch | Moving 2PD |
 | Pacinian | Rapid | **High-freq vibration**, rapid indentation (~1 mm ovoid) | Vibration |
 | Ruffini | Slow | Skin stretch | |
+
+| Sensory test (TO) | Receptor / meaning |
+|---|---|
+| **Light moving touch (Ten test)** | Patient grades 0–10 vs normal side · A-beta · **excellent screening**; limited in polyneuropathy / bilateral compression |
+| **Vibration threshold** | **Fast-adapting** (Meissner, Pacinian) · high frequencies affected first |
+| **Semmes-Weinstein** (cutaneous pressure threshold) | **Slow-adapting** (Merkel, Ruffini) |
+| **Static 2PD** / moving 2PD | Slow / fast adapting · pins **perpendicular** to digit · **> 8 mm = non-functional** · useful after **nerve repair**; **not useful in mild chronic compression** |
+
+**Quality vs quantity (TO)** — **thresholds = quality** of innervation (demyelination) · **2PD = quantity** (receptor density, axonal loss)
 
 ## 2 Mechanism
 
@@ -94,6 +124,16 @@
 ## 3 Presentation
 
 **Diagnosis** — clinical (injury + deficit); EMG/NCS mainstay; exploration confirms traumatic injury
+
+**High vs low palsy (TO)** — high = proximal to major motor branches → more paralysis but **less deformity** (antagonists lost) · low = fewer muscles, **more deformity** → **ulnar paradox**: high ulnar palsy claws less than low
+
+**Claw hand causes (TO)** — ulnar palsy · median palsy · combined palsy · **Volkmann ischaemic contracture** · **leprosy** · mechanism: intrinsic loss → EDC hyperextends MCP, FDS/FDP flex IP
+
+| Nerve | Autonomous sensory zone (TO) |
+|---|---|
+| **Median** | **Tip of index finger** |
+| **Ulnar** | **Tip of little finger** |
+| **Radial** | **First dorsal web space** |
 
 **Radial palsy (Holstein-Lewis) last to recover** — **wrist extension**\
 ✗ Wrong options: elbow extension: spared at this level
@@ -172,6 +212,18 @@ Gap after resecting to healthy fascicles
 
 ### Surgical repair
 
+| Repair timing (TO) | Window |
+|---|---|
+| **Primary** | **Within 1 week** |
+| **Delayed primary** | **2–4 weeks** |
+| **Secondary** | **> 1 month** |
+
+**Gold standard technique (TO)** — **epineural repair** · fascicular in select cases · **grouped fascicular**: median + ulnar in distal ⅓ forearm, sciatic in thigh — no proven benefit over epineural
+
+**Grafting (TO, median lectures)** — gap **> 2.5 cm** → reversed autograft (**sural** commonest; saphenous, LABC) · **collagen conduit = only synthetic with good results** · no distal end → **direct muscular neurotisation** (less than normal function)
+
+**Graft threshold** — gap **> 2–3 cm** (TO) · **> 5 cm** for autograft (Orthobullets) — read the options
+
 **Repair window** — best **7–14 d**; unpredictable after **6 mo**; reinnervation by **18 mo** goal; time limit **18 mo**
 
 **Epineurial repair** — resect proximal neuroma + distal glioma to **"mushrooming" fascicles**; align with epineurial vessels; **tension-free**; gain length by transposition/neurolysis
@@ -208,6 +260,8 @@ Gap after resecting to healthy fascicles
 
 **Favourable** — **younger age (most important)**, **distal level (2nd)**, sharp / stretch injuries
 
+**Prognostic factors (TO)** — age · level · time to repair · **associated vascular injury** · sharp vs crush
+
 **Unfavourable** — older age, proximal level, crush/blast, delay, **ulnar nerve**, concomitant bone/soft-tissue injury, graft length
 
 **Best motor recovery after graft (<6 mo)** — **radial**\
@@ -240,6 +294,11 @@ Gap after resecting to healthy fascicles
 | Shoulder abduction + ER | **Spinal accessory → suprascapular** |
 | Shoulder abduction | **Medial triceps branch (radial) → axillary** (Leechavengvong) |
 | Elbow flexion | **Oberlin**: FCU fascicle (ulnar) → biceps branch (MC); double Oberlin adds FCR/FDS fascicle (median) → brachialis |
+| **Radial (TO)** | **Median → radial**: spare **FDS / FCR fascicles → PIN + ECRB branch** · **preserve PT branch + AIN** · intra-op stimulator / wide-awake |
+| Radial sensory (TO) | Median / ulnar web-space fascicles → radial sensory · **LABC → superficial radial n.** (↓ painful neuroma, not full sensation) |
+| Median motor (TO) | **Brachialis branch (MC) → median n.** (arm fascicles: lateral sensory, medial motor) · **ECRB branch (radial) → AIN** |
+| Median sensory (TO) | **Dorsal ulnar sensory fascicles → median digital territory** |
+| FDS / ECRB (TO) | **Median nerve** runs close to nerve to ECRB → basis of **ECRB-to-FDS and FDS-to-ECRB** transfers |
 | Ulnar intrinsics | **Terminal AIN (from PQ) → deep motor ulnar, supercharged end-to-side (SETS)** |
 
 **SETS purpose** — **maintain finger abduction/adduction** (interossei) while repaired ulnar nerve regrows; **motor only**\
@@ -257,6 +316,8 @@ Gap after resecting to healthy fascicles
 ✗ Wrong options: cortical re-education
 
 ### Tendon transfers for irreparable palsy (radial, ulnar claw, peroneal)
+
+**Tendon transfer = salvage, not primary treatment (TO)** — nerve recovery unlikely · late presentation · failed nerve repair · needs supple joints, **adequate sensation**, expendable donor
 
 **Principles** — supple joints first; synergistic; similar power (cross-sectional area); straight line of pull; one tendon one function; **lose one MRC grade**; better <30 y, distal
 
@@ -388,6 +449,14 @@ Gap after resecting to healthy fascicles
 **"Radial palsy 2 yr after humerus ORIF?"** → **PT → ECRB, FCU → EDC, PL → EPL**
 
 **"Persistent foot drop after THA, brace intolerant?"** → **tibialis posterior transfer**
+
+**"Autonomous sensory zone of radial nerve?"** → **first dorsal web space** (TO)
+
+**"High ulnar palsy claws less than low palsy?"** → **ulnar paradox** (TO)
+
+**"Semmes-Weinstein monofilaments test which receptors?"** → **slowly adapting (Merkel, Ruffini)** (TO)
+
+**"2PD reflects quality or quantity of innervation?"** → **quantity (axonal loss)** (TO)
 
 **"Fibres for pain + temperature?"** → **A delta** (TO)
 

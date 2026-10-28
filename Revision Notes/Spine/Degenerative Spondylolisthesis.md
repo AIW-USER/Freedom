@@ -136,6 +136,30 @@ Symptomatic L4-5 DS failing 6 months non-op
 | Dural tear | — |
 | **In-hospital complications** | **Age** (strongest), ≥ 3 comorbidities, blood loss, operative time, levels fused (✗ Wrong options: gender, race, hospital size) |
 
+**Pseudarthrosis (TO)** — no solid fusion **> 1 yr** · **5–35%** · recurrent pain after pain-free interval, screw loosening/back-out · **CT = gold standard** · risks: smoking, diabetes, steroids/**NSAIDs** (avoid post-fusion), osteoporosis, uninstrumented PLF, sagittal imbalance
+
+| Heggeness & Esses (TO) | Pattern |
+|---|---|
+| **Atrophic** | No bone formation (biological failure) |
+| **Transverse** | Fusion mass with transverse cleft |
+| **Shingle** | Oblique cleft / overlap |
+| **Complex** | Multiple defects |
+
+| CT after fusion (TO) | Finding |
+|---|---|
+| 3 months | Lucency around cage, mild subsidence (normal) |
+| 6 months | Early trabeculation lateral to cage |
+| **12 months** | **Solid fusion expected** |
+| 24 months | Persistent defect → pseudarthrosis confirmed |
+
+| Failed fusion (TO) | Revision |
+|---|---|
+| Uninstrumented PLF | Add pedicle screws ± TLIF/PLIF |
+| Instrumented PLF failed | **Add interbody fusion** |
+| Failed interbody | **Convert to ALIF** |
+| Failed after ALIF | **360° fusion** |
+| Infected | Debride + antibiotics + stabilise |
+
 **Adjacent-level symptoms not matching MRI (vague radicular pain, L5/S1 weakness, L3-4 degeneration)** — **EMG** before surgery
 
 ## X vs Y
@@ -148,6 +172,8 @@ Symptomatic L4-5 DS failing 6 months non-op
 | Root | **Traversing L5** (+ exiting L4 foraminal) | Exiting L5 |
 | Canal | **Narrowed** | Widened |
 | Grade | ≤ II | Can be high |
+
+**MRI (TO)** — degenerative: **central canal stenosis**, traversing root, **autostabilises** (rarely > grade 1–2) → decompression + stabilisation · lytic: **canal wide open**, **exiting root (foraminal)**, fibrocartilage at pars, may progress to III–IV in growth → foraminal decompression + fusion
 
 ## How it's asked
 

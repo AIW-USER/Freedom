@@ -51,6 +51,8 @@
 
 **Views** — AP, **lateral (best view)**, oblique
 
+**MCP volar plate (TO)** — attached to **P1, not the metacarpal** → displaced dorsally · collaterals taut in flexion · **tendon noose round MC neck** blocks reduction · complex: P1 **not markedly hyperextended**
+
 **Complex signs** — **joint space widening** (volar plate interposed) · **sesamoid in joint = diagnostic of complex**
 
 ![Lateral X-ray: dorsal MCP dislocation](../../Orthobullets/attachments/ob6115-lat-moved.jpg)

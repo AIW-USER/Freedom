@@ -101,6 +101,14 @@
 
 **Types** — standard · **trochanteric slide** · **extended trochanteric osteotomy (ETO)**
 
+| Trochanteric osteotomy (TO) | Feature |
+|---|---|
+| **Standard** | Cut below **vastus lateralis tubercle at 45°**, lifted proximally · **difficult reattachment** |
+| **Trochanteric slide** | **Abductors proximally + vastus lateralis distally stay attached** → easier reduction/fixation, **less abductor lurch** |
+| **ETO** | Longer distal cut → canal exposure · **stuck / broken stem removal** |
+
+**Fixation (TO)** — **Harris 4-wire** (two vertical + two horizontal at 90°) · **Dall-Miles cable** system
+
 **Pros** — excellent acetabular exposure · component removal · difficult primary/revision
 
 **Complications** — nonunion · HO · trochanteric bursitis · abductor weakness · ✓ **fracture of osteotomy fragment = most common** · **ETO needs a diaphyseal-engaging stem**

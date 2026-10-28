@@ -16,6 +16,12 @@
 
 **Site** — **metaphysis** of long bones (10% diaphyseal, <1% epiphyseal) · **distal femur > proximal tibia > proximal humerus > axial** (spine/sacrum) · fastest-growing physes
 
+**Diaphyseal OS** — **10%** (Orthobullets) · **7–9% (\~8%)** (TO) — read the options
+
+**Incidence** — \~**1 per million per year** (TO) · **male preponderance in all types except parosteal** (female) (TO)
+
+**Hallmark** — **malignant osteoid** made by tumour cells defines OS (TO)
+
 **Childhood tumour facts (TO)** — commonest tumour of infancy / extracranial / abdominal: **neuroblastoma** · commonest **solid tumour** of childhood: **brain tumour** · commonest **malignancy**: **leukaemia (ALL)** · commonest benign bone lesion: **NOF** · commonest benign bone tumour: **osteochondroma** · commonest malignant bone tumour: **osteosarcoma**
 
 ### Genes & lab markers
@@ -63,6 +69,26 @@
 
 **FNB 2024 image (Codman triangle, distal femur)** — "least likely appearance?" — answer not given · **onion peel** (Ewing) and **stippled calcification** (chondroid) don't fit OS · sunburst + Codman do **(TO)**
 
+### X-ray on 7 parameters (TO)
+
+| Parameter | Conventional OS |
+|---|---|
+| Age | **Skeletally immature** (physis open) |
+| Location | **Metaphyseal** (distal femur) |
+| Type (pattern of destruction) | **Permeative**, lytic + sclerotic |
+| Matrix (what lesion makes) | **Bone-forming / sclerotic (osteoid)** → first differential = OS |
+| Zone of transition | **Wide** (hallmark of malignancy) |
+| Periosteal reaction | **Codman triangle + sunburst** (both may coexist) |
+| Soft-tissue component | Yes, often **mineralised** |
+
+![Distal femur OS read on 7 parameters](../../TO notes/attachments/TOn-notes-osteosarcoma-jan-2026-p02-f004.jpg)
+
+**Physis** — classically respected, but OS **can cross the physis** (esp. long-standing) (TO)
+
+**Skip vs satellite lesion (TO)** — **satellite** lies in the **reactive zone** · **skip** has **normal bone between** it and tumour → worse prognosis, resected → **MRI of the whole bone** (whole femur, not distal femur)
+
+**PET-CT (TO)** — staging + **chemo response**: scan before and after 2 cycles · **>50% fall in SUV = good response**
+
 ### Staging work-up
 
 **Local** — **MRI of whole involved bone** (e.g. knee + tibia) · **Systemic** — **CT chest + whole-body bone scan**
@@ -85,7 +111,7 @@
 | Conventional subtype | Matrix | Mimic |
 |---|---|---|
 | **Osteoblastic (commonest)** | Abundant **lace-like osteoid**, plasmacytoid cells **(TO)** | — |
-| Chondroblastic | Malignant hyaline cartilage + **focal osteoid** | Chondrosarcoma (any osteoid → OS) |
+| Chondroblastic | Malignant hyaline cartilage + **focal osteoid** · **"whorled" pattern on MRI** · responds **less to chemo** (TO) | Chondrosarcoma (any osteoid → OS) |
 | Fibroblastic | Herringbone/storiform collagen, sparse osteoid | Fibrosarcoma, UPS |
 | Giant-cell-rich | Many giant cells | **GCT** (no atypia/osteoid) |
 
@@ -102,14 +128,28 @@
 | Location | Grade | Subtype | Key feature |
 |---|---|---|---|
 | **Intramedullary** | High | **Conventional** (this topic) | Mixed tissues |
-| | High | **Telangiectatic** | Purely lytic, **ABC-like** blood lakes · **malignant cells in septa** |
-| | High | **Small cell** | OS + Ewing look · **SATB2 +, CD99 − / focal**, no EWSR1 |
+| | High | **Telangiectatic** | Purely lytic, **ABC-like** blood lakes · **malignant cells in septa** · **3–10%** of OS, fluid levels on MRI (TO) |
+| | High | **Small cell** | OS + Ewing look · **SATB2 +, CD99 − / focal**, no EWSR1 · treated with **Ewing-protocol chemo** (TO) |
 | | Low | **Low-grade central** (FD-like, desmoplastic-fibroma-like) | Mimics **fibrous dysplasia** · **MDM2/CDK4** amplification |
 | **Surface** | Low | **Parosteal** | **Posterior distal femur**, "stuck-on" · **middle-aged females (3rd–4th decade)** · MDM2/CDK4 |
 | | Intermediate | **Periosteal** | **Diaphysis femur/tibia** · **chondroblastic** lobules, sunburst |
-| | High | High-grade surface | Like conventional, on surface · medullary involvement common |
+| | High | High-grade surface | Like conventional, on surface · medullary involvement common · **least common** subtype (TO) |
 | **Intracortical** | — | Rarest bony type | — |
 | **Extraskeletal** | High | Soft-tissue OS | <5% · treat like STS |
+
+**Chemo rule (TO)** — **low grade** (low-grade intramedullary, parosteal) → **surgery alone** · anything not low grade, **incl. intermediate periosteal** → chemo
+
+**Fluid levels on MRI** — not only ABC → think **telangiectatic OS** (TO)
+
+![Telangiectatic OS vs ABC — both show fluid levels](../../TO notes/attachments/TOn-notes-osteosarcoma-jan-2026-p03-f007.jpg)
+
+### Secondary osteosarcoma (TO)
+
+**Who** — **elderly** (2nd peak) · causes: **Paget (commonest)**, post-radiation, **bone infarct**, **chronic osteomyelitis**, **fibrous dysplasia**
+
+**Prognosis** — **worse** than conventional, partly because elderly **tolerate chemo poorly**
+
+**Arlen latency** — usually **≥5 yr** (up to 30 yr) · no strict cut-off but **not months**
 
 ### Differential
 
@@ -145,6 +185,17 @@ High-grade intramedullary OS (stage IIB)
 **MAP** — **high-dose Methotrexate (leucovorin rescue) + Adriamycin (doxorubicin) + cisPlatin** (US standard) · ± ifosfamide · 3-drug > 2-drug (AP) by ~10% survival despite toxicity **(TO)** · **EURAMOS-1**: adding ifosfamide + etoposide (MAPIE) for poor responders → no benefit\
 ✗ Wrong options: vincristine/carboplatin regimens (Ewing)
 
+**Cycles (TO)** — neoadjuvant **2–3** → limb salvage → adjuvant **3–4** · **total 6** (3 + 3 or 2 + 4) · **IAP** (ifosfamide, Adriamycin, cisplatin) alternative · 2-drug: AP or ifosfamide + Adriamycin · dose by **BSA**
+
+| Drug (TO) | Dose |
+|---|---|
+| **Adriamycin** (backbone of sarcoma chemo) | **75 mg/m²** over 3 days |
+| **Cisplatin** | **100 mg/m²** over 2 days |
+| **High-dose methotrexate** | **12 g/m²** over 4 h (vs 15 mg/week in RA) |
+| **Ifosfamide** | **9 g/m²** over 5 days (1.8 g/m²/day) |
+
+**MAP cycle (TO)** — **5 weeks (35 days)** · day 1–3 Adriamycin · day 1–2 cisplatin · **day 21 + day 28 HD-MTX** · day 35 next cycle
+
 | Agent | Mechanism | Toxicity |
 |---|---|---|
 | **Methotrexate** | Dihydrofolate reductase inhibitor | Myelosuppression, mucositis |
@@ -156,6 +207,19 @@ High-grade intramedullary OS (stage IIB)
 
 **Radiation** — **radio-resistant** (NF-κB inhibits JNK-mediated apoptosis) · only palliation, unresectable sites, close margins (pelvis/spine) · **ECRT** — extracorporeal 50 Gy single fraction to sterilise and re-implant bone **(TO)** · **extraskeletal OS radiosensitive** (exception)\
 ✗ Wrong options: curative for sacral OS **(TO)**
+
+**Biopsy rules (TO)** — **needle (core) after imaging** · **several cores through the same entry point** · sample the **soft-tissue component** (representative, no decalcification, quicker report) · **FNAC has no role** · open only if pathologist cannot report a core · **"giant-cell-rich lesion" ≠ GCT** → curettage of giant-cell-rich OS is disastrous
+
+```
+Pathological fracture through a bone lesion (TO)
+├─ Young → X-RAY → MRI → NEEDLE BIOPSY OF TUMOUR (not haematoma), SPLINT
+│      (no plating / nailing "for biopsy"; PET-CT while waiting)
+└─ Elderly > 50 (mets, myeloma, lymphoma) → PET-CT FIRST
+       ├─ Known / obvious primary → MAY FIX UPFRONT
+       └─ Solitary lesion → BIOPSY FIRST
+```
+
+**Metastatic fracture fixation (TO)** — assume **last surgery for that bone** · must **bear weight next day**
 
 **Pathologic fracture** — limb salvage still possible if stabilised (ex-fix/cast) and good chemo response (healing, ↓ pain/swelling, ↑ ossification, loss of tumour blush on angiogram)
 
@@ -198,6 +262,26 @@ High-grade intramedullary OS (stage IIB)
 
 ![Van Nes rotationplasty](../../MCQ/attachments/q3495-illa-rotationplasty-1.jpg)
 
+**Rotationplasty function (TO)** — patient functions as a **below-knee** rather than above-knee amputee · longer lever arm, better socket tolerance, improves with time · drawback **cultural stigma** (foot faces backwards)
+
+### Reconstruction options (TO)
+
+| Non-biological | Biological |
+|---|---|
+| **Megaprosthesis** (commonest) · **expandable** in children | **Allograft** (rarely available in India) |
+| **Nail–cement spacer** (palliative) | Autograft: **ECRT** or **cryotherapy** · **vascularised fibula** |
+| | **Rotationplasty** · **Canadell procedure** |
+
+**ECRT** — resected tumour bone → **50 Gy single fraction** (15–20 min) → soft tissue stripped → **canal augmented with cement** (devascularised) → refixed with plates (TO)
+
+**Cryotherapy** — tumour bone in **liquid nitrogen at −196 °C**, re-implanted (TO)
+
+**Pedicled cryotherapy** — **proximal osteotomy only**, tumour debulked and dipped without distal cut → **distal blood supply preserved** → **lower graft fracture risk** · saves \~22–24 cm of native bone (TO)
+
+**Canadell procedure (TO)** — child, tumour **close to open physis**, epiphysis salvageable · step 1 **ex-fix physeal distraction 10–15 days** · step 2 **resection through the physis** → **ECRT** → reimplant · keeps epiphysis + growth potential
+
+![Pedicled cryotherapy](../../TO notes/attachments/TOn-notes-osteosarcoma-jan-2026-p08-f020.jpg)
+
 ### Megaprosthesis outcomes
 
 **Modular endoprosthesis** — gold standard reconstruction · rotating hinge (ligaments sacrificed) · cemented if poor bone or early chemo · press-fit for long survivorship
@@ -233,6 +317,18 @@ High-grade intramedullary OS (stage IIB)
 | II | 51–90% | Poor (e.g. 88% → continue MAP) |
 | III | 91–99% | Good |
 | IV | 100% | Complete |
+
+**Huvos pass mark (TO)** — **90% necrosis, not 50%** · alt. reporting: **≤10% viable cells = good**, >10% = poor
+
+| Picci grade (TO) | Finding | Response |
+|---|---|---|
+| 1 | **Macroscopic** viable tumour | Poor |
+| 2 | **Microscopic** viable tumour | Poor |
+| 3 | **No viable tumour** | Good |
+
+**Bone vs lung mets (TO)** — **bone mets worse** (lung = first filter, so reaching bone = more aggressive tumour)
+
+**Ranking (TO)** — **stage > grade > size** · **size: volume >200 mL** poor · grade prognostic in OS but **not in Ewing** (always high grade)
 
 **Poor prognosis** — mets · skip lesions · **<90% necrosis** · **age >40** · male · axial/pelvic site · **large size (≥5 cm)** · **MDR / P-glycoprotein** (25% primary, 50% mets) · **VEGF** · **↑ ALP / ↑ LDH** · vascular involvement · **positive margins** · radiation-induced or Paget OS
 
@@ -361,7 +457,15 @@ High-grade intramedullary OS (stage IIB)
 **"Most common tumour in children?"** → **brain tumour** **(TO)**\
 ✗ Wrong options: neuroblastoma · OS
 
-**"Most common primary malignant bone tumour?"** → **multiple myeloma** **(TO)**
+**"Most common primary malignant bone tumour?"** → **multiple myeloma** **(TO)**\
+✗ Wrong options: metastasis (commonest bone malignancy, but secondary) · osteosarcoma (2nd overall, 1st in children)
+
+**"Marker separating low-grade intramedullary OS from fibrous dysplasia?"** → **MDM2 / CDK4** (TO)
+
+**"Good response to neoadjuvant chemo?"** → **≥90% necrosis (Huvos 3–4)** (TO)\
+✗ Wrong options: 50% necrosis
+
+**"Child, distal femur OS near open physis, joint salvageable — biological option preserving growth?"** → **Canadell procedure** (TO)
 
 **"45-yr-old, proximal humeral path fracture, moth-eaten?"** → **lymphoma** **(TO)**\
 ✗ Wrong options: OS · Ewing · chordoma

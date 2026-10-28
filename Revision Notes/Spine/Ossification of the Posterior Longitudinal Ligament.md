@@ -60,6 +60,10 @@
 
 **Myelopathy risk** — **mixed + continuous** progress most · **occupancy ratio (OPLL ÷ canal AP) 30–60%** predicts myelopathy (TO)
 
+**MRI (TO)** — **dark band behind the vertebral bodies** (not only at disc level) · **confirm with CT** · may run from skull base into thoracic spine → **whole-spine screening** · OPLL/OLF surgery → ↑ risk of neuro worsening
+
+**OPLL vs disc (TO)** — OPLL: dense ossified line **above/below disc** · disc: focal bulge at disc level · OPLL → **myelopathy, not radiculopathy**
+
 ![OPLL types and occupancy ratio](../../MCQ/attachments/TO17736767-2.png)
 
 ## 5 Management

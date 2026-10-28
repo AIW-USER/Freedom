@@ -34,6 +34,16 @@
 
 ### Apophyseal avulsion fractures
 
+| Avulsion site (TO) | Muscle | Frequency |
+|---|---|---|
+| **Ischial tuberosity** | Hamstrings | **Most common** |
+| AIIS | Rectus femoris | Common |
+| ASIS | Sartorius | Common |
+| Pubic symphysis / iliac crest | Abdominals | Rare |
+| **Lesser trochanter** | Iliopsoas | **Least common** |
+
+**Child pelvis (TO)** — elastic, cartilaginous · more single-bone fractures than ring disruptions · **less haemorrhage** (vasoconstriction, mobile vessels) · **visceral injury without obvious fracture** · complications: **premature triradiate closure** → acetabular dysplasia, LLD
+
 | Site | Muscle | % |
 |---|---|---|
 | **Ischial tuberosity** | **Hamstrings + adductors** | **54%** |

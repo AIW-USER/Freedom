@@ -16,6 +16,16 @@
 
 **Juncturae tendinum** — link adjacent EDC → partial/temporary extension despite zone V cut (masks injury)
 
+**Retraction (TO)** — extensor tendons **flat distally** · retract less when juncturae + sagittal bands intact → cut end found at wound
+
+**Extensor hood (TO)** — over P1; receives **interossei + lumbricals** volarly → MCP flexion + IP extension · vincula supply from volar side
+
+| Retinacular ligament (TO) | Function | If damaged |
+|---|---|---|
+| **ORL (Landsmeer)** — P1 + flexor sheath → lateral bands / terminal tendon | Links PIP + DIP: **PIP extension tightens it → helps DIP extension** | Tight → contributes to **boutonnière** |
+| **TRL** — flexor sheath at PIP → lateral band edges | **Stops lateral bands shifting dorsally** | **Lax / torn** (laceration, RA synovitis) → **swan neck** · tight + torn triangular → boutonnière |
+| **Triangular** — dorsal, between lateral bands over P2 | Holds bands together; prevents volar subluxation | **Attenuated → boutonnière** · contracture → swan neck |
+
 ![Juncturae tendinum](../../Orthobullets/attachments/ob6028-junctura.jpg)
 
 ## 2 Mechanism
@@ -160,6 +170,12 @@ Extensor tendon injury
 
 ### Repair technique & reconstruction
 
+**Technique by level (TO)** — distal (flat) tendons: **horizontal mattress** (most used) or **figure-of-8** · proximal (rounder): **modified Bunnell / modified Kessler** · **4-0 non-absorbable** (nylon / Prolene) · bury knots · check tension by **tenodesis effect**
+
+**Splint zones V–VIII (TO)** — EPL repair: thumb full extension · fingers IP straight, MP neutral, wrist mild extension (counteract stronger flexors)
+
+**Zone V fight bite (TO)** — dirty wound → debride, explore, repair sagittal band, cover
+
 **Strength** — **number of strands crossing repair** > grasping loops; 4–6 strands → early active motion; epitendinous optional
 
 **Weakest** — **post-op day 6–12**; fails at **knots**
@@ -217,5 +233,9 @@ Extensor tendon injury
 **"↓ PIP flexion with MCP flexed, improves with MCP extension — Dx & Rx?"** → **extrinsic tightness → tenolysis / fractional lengthening**
 
 **"Most common tendon rupture in RA hand?"** → **EDM** (TO)
+
+**"Lax / torn transverse retinacular ligament causes?"** → **swan neck (lateral bands sublux dorsally)** (TO)
+
+**"Extensor repair technique for flat distal tendon?"** → **horizontal mattress / figure-of-8, 4-0 non-absorbable** (TO)
 
 **"Vaughan-Jackson first tendon & direction?"** → **EDQ, ulnar → radial** (TO)

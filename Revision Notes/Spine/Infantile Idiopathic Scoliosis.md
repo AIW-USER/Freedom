@@ -35,6 +35,26 @@
 
 **Thoracic insufficiency syndrome** — ↓ thoracic growth + lung volume → pulmonary hypertension, **cor pulmonale** · PFT impairment > 60°, cardiopulmonary issues > 90°
 
+| Feature (TO) | EOS | AIS |
+|---|---|---|
+| Onset | **< 10 yrs** | > 10 yrs |
+| Spinal height | **< 50%** developed | > 50% |
+| Lung development | **< 80%** | > 80% |
+| Respiratory capacity | ↓ | Normal |
+| Mortality / complications | **High** | Low |
+
+**"AIS changes appearance, EOS changes physiology" (TO)** — **alveoli ↑ 10× birth → 4 yrs** · deformity **< 5 yrs → irreversible restrictive pattern** · golden period **birth–8 yrs**
+
+**Age definitions (TO)** — James: infantile **0–3**, juvenile **4–9**, adolescent > 10 · **Dickson: early < 5, late > 5** · GSSG/CSSG: **any deformity < 10 yrs** · GSSG introduced **annual progression rate (APR)**
+
+**Thoracic height (TO)** — **11 cm** birth (TO) vs 12 cm (Orthobullets) · 18 cm at 5 · **22 cm at 10** · 50% lung development by 10
+
+**Before non-growth-friendly fusion (TO)** — weight **> 40 kg** · **vital capacity > 50%** · thoracic spine **22 cm** · **T1–S1 30 cm**
+
+**Normal curves (TO)** — thoracic + sacral kyphosis at birth · **cervical lordosis 3–4 months** (head holding) · **lumbar lordosis 9–12 months** (sitting/walking) · infant right-turning tendency → mild **left thoracic** curve
+
+**EOS work-up (TO)** — C-M-S-I aetiology · MRI spine mandatory before surgery · **Sanders** hand staging, olecranon apophysis · CT chest for thoracic volume · teratogens: maternal diabetes, **CO**, valproate, hyperthermia
+
 ## 3 Presentation
 
 **History** — age noticed, progression, perinatal, milestones; **drooling** → neuro cause
@@ -62,6 +82,8 @@
 **Mehta predictors** — **Cobb > 20° · RVAD > 20° · phase 2 rib**\
 ✗ Wrong options: age · sex · family history
 
+**Intervention triggers (TO)** — Cobb **> 25°** · RVAD > 20° · phase 2 · progression **> 10° in 6 months or > 20°/yr** (Vishnu) · **> 5°** (Shah) — read the options
+
 **MRI (whole spine)** — **first**, before treatment: tether, cyst, tumour, **syrinx** · abnormal abdominal reflexes or < 10 yrs with significant curve → **MRI spinal axis**\
 ✗ Wrong options: PT · brace · observe · fusion
 
@@ -80,6 +102,10 @@ Infantile idiopathic scoliosis (MRI normal)
 
 **Elongation-derotation-flexion (EDF) casting** — corrects in 3D while allowing growth · **start early**: before 18 months–4 yrs → better chance of curve < 15° (worse if started > 4 yrs) · smaller initial Cobb + good first in-cast correction predict success · may cure idiopathic infantile curves; in **syndromic EOS → delays surgery, curve may still progress** but spine keeps growing · complications: skin necrosis, infection
 
+**EDF details (TO)** — under **GA + traction**, axilla → pelvis, changed **every 6 months** · pressure on **rib hump** derotates · **25–40° curves** (Vishnu) · **Cobb > 35° or RVAD > 20°** (Shah) · window **6 months–5 yrs** (from 1 yr, Shah) · **ineffective for apex above T9 / T1–T5**
+
+**Brace after casting (TO)** — **Milwaukee (CTLSO) for apex ≥ T5 / above T8** · Boston TLSO for lower apex · Charleston night brace · until Risser 4–5
+
 **1-yr-old, 35°, RVAD > 20°, phase 2** — **serial derotational casting**\
 ✗ Wrong options: TLSO · observe · fusion · VBT
 
@@ -97,6 +123,8 @@ Infantile idiopathic scoliosis (MRI normal)
 ✗ Wrong options: "pelvic anchors make infant use difficult" (EXCEPT answer)
 
 **Growth-friendly classes (Skaggs)** — **distraction**: TGR, VEPTR, MCGR · **compression**: vertebral body stapling, VBT · **guided growth**: Luque trolley, Shilla
+
+**Growth-friendly details (TO)** — growth rods: dual, submuscular, **1–1.5 cm every 6 months**, **law of diminishing returns**, avoid in **kyphotic** deformity · **MCGR**: outpatient, risk **metallosis** · **VBT: girls < 13, boys < 15**, flexible curves · VBS = convex epiphysiodesis · **Luque trolley** (sublaminar wires slide) · **Shilla**: apical fusion + sliding ends · fusionless for **> 40°** · **avoid posterior fusion < 10 yrs**
 
 ## 6 Complications
 
@@ -136,3 +164,7 @@ Infantile idiopathic scoliosis (MRI normal)
 **"Lungs and spinal deformity — EXCEPT?"** → **"volumetric growth until 8 then alveolar increase"** (TO — reverse)
 
 **"EOS definition?"** → **scoliosis developing before age 10** (TO)
+
+**"EOS definition (GSSG)?"** → **any spinal deformity before 10 years** (TO)
+
+**"Mehta EDF casting least effective for?"** → **proximal thoracic apex (above T9)** (TO)

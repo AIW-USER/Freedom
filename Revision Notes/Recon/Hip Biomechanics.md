@@ -62,6 +62,16 @@
 
 ## 5 Management
 
+### Normal values & offsets (TO)
+
+| Parameter | Value (TO) |
+|---|---|
+| **Femoral anteversion** | **~15°** (neck tilted anterior to coronal plane) |
+| **Acetabular anteversion** | **15–20°** |
+| **Acetabular inclination** | **~45°** |
+| **Vertical offset** | Head centre → collar / lesser trochanter = **leg length** |
+| **Horizontal offset** | Head centre → stem (shaft) axis · neck-shaft-angle dependent |
+
 ### Joint reactive force – cane, medialization, offset
 
 | ↓ JRF (↑ A/B ratio) | ↑ JRF |

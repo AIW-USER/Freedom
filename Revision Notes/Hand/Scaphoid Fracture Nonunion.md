@@ -56,7 +56,9 @@
 |---|---|
 | X-ray | PA, lateral, 45° semi-pronated oblique, **scaphoid view**; cysts, sclerosis, resorption, hardware failure, **humpback on lateral**, SNAC |
 | **CT** | **Best to evaluate nonunion & plan surgery**; **1 mm cuts in scaphoid plane**; gap, angulation, prior technical error, SNAC cysts |
-| MRI | **Osteonecrosis**: ↓ T1 signal **proximal fragment** (different signal between fragments); inconsistent utility, gadolinium helps |
+| MRI | **Osteonecrosis**: ↓ T1 signal **proximal fragment** (different signal between fragments); inconsistent utility, gadolinium helps · distal-fragment oedema also dark on T1 → compare FS images (TO) |
+| **Perfusion (dynamic contrast) MRI** (TO) | **Zero proximal-pole enhancement = necrosis** → dead pole not simply fixed · viable pole → freshen + compression screw |
+| CT vs MRI (TO) | Weeks-old fracture with pain: **CT for union, MRI for viability** |
 
 **Intra-op punctate bleeding** — **highly predictive** of vascular proximal pole; absent → vascularised graft
 

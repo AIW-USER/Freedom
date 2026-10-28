@@ -16,6 +16,8 @@
 
 **Syndromic** — **30–44%** associated with syndromes
 
+**Bilateral = usually syndromic · unilateral often idiopathic (TO)** · mesenchymal defect: radius, thumb, thenar muscles, radial vessels, **radial half of median nerve**, radial forearm muscles (TO)
+
 ### Aetiology – apical ectodermal ridge defect
 
 **Embryology** — **defect of apical ectodermal ridge**\
@@ -58,7 +60,7 @@
 
 **Exam** — hand perpendicular to forearm, **absent thumb**, short forearm; **examine elbow** (flexion, biceps)
 
-**Thumb predicts radius** — **thumb hypoplasia severity = greatest predictor of RLD severity** → Blauth V thumb → **Bayne-Klug IV (absent radius)**
+**Thumb predicts radius** — **thumb hypoplasia severity = greatest predictor of RLD severity** → Blauth V thumb → **Bayne-Klug IV (absent radius)** (Orthobullets) · **severity of radial deficiency does NOT correlate with thumb hypoplasia** (TO) — read the options
 
 **Subtle (TO)** — mild hypoplastic thumb, missing/fused carpals · **severe** — total radial absence, short humerus, hypoplastic glenoid
 
@@ -132,6 +134,14 @@ Radial clubhand
 
 **Thumb** — reconstruction ~**18 mo** (Orthobullets) · pollicization **after 2 y** (TO)
 
+**Riordan casting (TO)** — first 6 mo · Ponseti-like · lift **2nd metacarpal**, ulnar-deviate with pressure over distal ulna · above-elbow casts
+
+**Distraction ex-fix (TO)** — after 6 mo · uniplanar · **2 metacarpal + 2 ulnar pins** · **1 mm/day**
+
+**Procedures (TO)** — **Buck-Gramcko tendon transfers** (milder) · **centralisation (Sayre 1893)** — ulna into carpal notch, overcorrect · **radialisation** — ulna under radial carpus, ↓ recurrence · **ulnarisation (Paley)** — **FCU transfer** augments wrist extension · **centralisation = stability · radialisation = mobility** (TO)
+
+**Pollicisation (TO)** — ideal **12–18 mo** (lecture A) · up to **3 yr** (brain plasticity, lecture B) · after 2 y (existing TO) — read the options · shorten + **derotate 160°** + extend · **EIP → EPL · EDC → APL · 1st dorsal interosseous → APB · 1st palmar interosseous → adductor pollicis** · **index MP joint becomes thumb CMC** · above-elbow splint 4–5 wk, K-wires out 4–6 wk
+
 **Adolescents (TO)** — wrist flexion needed → **no wrist fusion**; otherwise **fusion + partial correction**
 
 ### Operative criteria
@@ -153,6 +163,8 @@ Radial clubhand
 | Thumb | **Absent** | **Present** | Normal |
 | Gene | Sonic hedgehog / spontaneous | AR | **SHOX** |
 | Blood | Fanconi: pancytopenia | **Thrombocytopenia (transient)** | — |
+
+**Phocomelia (TO)** — intercalated deficiency, long bones absent, hand present ("seal limb") · **thalidomide**, **Roberts syndrome** · orthotics / prosthesis · **ulnar longitudinal deficiency = rarest**; stiff elbow treated first
 
 ## How it's asked
 

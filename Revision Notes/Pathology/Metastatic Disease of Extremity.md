@@ -58,6 +58,7 @@
 |---|---|
 | **Lytic** | **Kidney, thyroid, lung** (also GI, melanoma) |
 | **Blastic** | **Prostate (90%)**, seminoma, carcinoid, medulloblastoma · breast 60% (OB) |
+| **Sclerotic (TO list)** | Prostate, **bladder**, carcinoid, **medullary thyroid carcinoma** · lytic: **myeloma, RCC, thyroid, lung** (TO) |
 | **Mixed** | **Breast** — lytic, blastic or mixed ("all of the above") **(TO)** · commoner lytic (TO) |
 
 **Pulsatile metastases** — **follicular thyroid + RCC** (most pulsatile tumours are mets > ABC > GCT) **(TO)**
@@ -75,6 +76,11 @@
 | ALP | Paget, bone turnover |
 | Urinalysis | Renal cell |
 | Acid phosphatase · urine hydroxyproline | Prostate · massive destruction **(TO)** |
+| **β2-microglobulin**, immunoglobulins (TO) | Myeloma |
+| **Calcitonin** (TO) | **Medullary thyroid** carcinoma |
+| **CEA** (TO) | Breast, pancreas, gallbladder |
+| **Thyroglobulin** (TO) | Thyroid cancer |
+| LDH (TO) | Myeloma, lymphoma |
 
 **Histology IHC** — **keratin**, **CK7** (breast, lung), **TTF-1** (lung) · RCC: **clear cell change, pseudoalveolar** pattern
 
@@ -137,6 +143,12 @@ New painful/destructive bone lesion, >40 yr
 | **Bone scan** | Other skeletal lesions · **cold in myeloma + thyroid** → **skeletal survey** · **investigation of choice for occult blastic mets** **(TO)** |
 | **PET-CT** | Investigation of choice for **occult lytic** mets **(TO)** · PET alone 30% specificity |
 | Indium scan | Infection (✗ Wrong options: tumour) |
+
+**Bone scan pitfalls (TO)** — **false negative: RCC, myeloma** · **false positive: trauma, infection** · PET-CT also used for **response assessment**
+
+**Clinical hunt for primary (TO)** — tobacco, urinary symptoms, non-healing ulcer, weight loss, bleeding from orifices · exam: **nodes, breast, thyroid, per-rectal (prostate)**
+
+**"Never assume metastasis — prove it" (TO)** — biopsy only after **complete systemic evaluation** · core needle · **reaming biopsy only \~60% diagnostic** (crushed tissue)
 
 ![Acral metastasis to the hand from lung carcinoma](../../Orthobullets/attachments/ob8045-case-d-hand-lung-xray-parsons-moved.png)
 
@@ -212,6 +224,10 @@ New painful/destructive bone lesion, >40 yr
 
 **Others** — Bauer, Linden, Rades, Douglas, Katagiri scores **(TO)**
 
+**Katagiri (TO)** — **primary growth rate** · **visceral mets** · **ECOG** · **prior chemo** · **multiple bone mets** → higher score = poorer survival
+
+**Modified Bauer (TO)** — visceral mets · primary site · **palsy** · bone-only / multiple sites
+
 ## 5 Management
 
 ### General principles
@@ -225,6 +241,12 @@ New painful/destructive bone lesion, >40 yr
 **Bisphosphonates** — lytic, blastic, mixed · ↓ skeletal-related events + hypercalcaemia · oral clodronate, IV pamidronate/**zoledronic acid** · not for acute impending fracture · complication **ONJ**
 
 **Denosumab** — solid-tumour mets + myeloma · **superior to zoledronic acid** for SRE prevention · SC · ONJ
+
+**Doses (TO)** — **denosumab 120 mg SC monthly** · **zoledronic acid 4 mg IV monthly**
+
+**RT protocols (TO)** — **8 Gy single fraction** or **30 Gy in 10 fractions**
+
+**Surgery indications (TO)** — pathological fracture · impending fracture · **solitary metastasis** (resectable) · **IM nail + cement augmentation** common
 
 **Radiation** — palliation + local control · **pain ↓ in 70% at 2 wk**, complete relief ~30% · **RCC + thyroid radioresistant** (✓ breast, prostate, lymphoma, myeloma radiosensitive) · post-RT bone weakens first → fracture risk ~1 yr · radiating a high-risk lesion first ↑ fracture risk
 
@@ -284,6 +306,15 @@ New painful/destructive bone lesion, >40 yr
 ## 6 Complications
 
 **Pathologic fracture healing** — **65% nonunion** overall · prostate **42%**, RCC **44%** (comparable across carcinomas)
+
+| Fracture healing by primary (TO) | Rate |
+|---|---|
+| **Myeloma** | **67%** |
+| **RCC** | **44%** |
+| **Breast** | **27%** |
+| **Lung** | **0%** |
+
+**Highest pathological fracture risk (TO)** — **lung, kidney, myeloma**
 
 **Prostate mets** — **blastic (90%)**, **radiosensitive**, **fewer SREs**, **better survival**, comparable fracture healing
 
@@ -370,6 +401,11 @@ New painful/destructive bone lesion, >40 yr
 **"Breast metastases are?"** → **lytic, blastic, or mixed — all of the above** **(TO)**
 
 **"Distal to elbow/knee / acral mets from?"** → **lung**
+
+**"Metastatic pathological fracture least likely to heal?"** → **lung (0%)** (TO)\
+✗ Wrong options: myeloma (67%) · RCC (44%) · breast (27%)
+
+**"Bone scan false negative?"** → **RCC, myeloma** (TO)
 
 **"Breast cancer pathology guiding medical therapy?"** → **HER2/neu** (ER, PR)
 

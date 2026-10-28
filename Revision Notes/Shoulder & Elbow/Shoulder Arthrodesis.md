@@ -74,6 +74,8 @@
 | Rühmann range (OB) | 20–60° | 20–40° (anteversion) | 0–50°; **no ER** |
 | Orthobullets GH anatomy note | 15–20° | 20–25° | 40–50° |
 
+**TO (arthrodesis as final bail-out after failed RSA/TSA)** — **20° abduction · 30° forward flexion · 40° IR** ("20-30-40") → hand to mouth — read the options
+
 **Positions conflict** — 30-30-30 (Orthobullets) · 40-35-20 (OB) — read the options
 
 ![Arthrodesis position: reach mouth, head, back](../../Orthobullets/attachments/ob3128-shoulder-arthodesis.jpg)

@@ -12,6 +12,8 @@
 
 **Cause** — interrupted **embryonic subclavian supply** (subclavian, internal thoracic or suprascapular) · Poland = subclavian interruption proximal to internal thoracic, distal to vertebral
 
+**Embryology (TO)** — arrest of descent between **9th–12th weeks** · hypoplasia of **trapezius, rhomboids, serratus anterior**
+
 **Omovertebral connection** — cartilage/fibrous/bony bar from superomedial scapula to **lower cervical spine** · **30–50%** (Orthobullets) · ~30% (OB) · ~½ (TO) · limits abduction to ~90°
 
 **Associations** — **Klippel-Feil** (most common associated finding: **cervical spine anomalies**) · congenital scoliosis · fused/cervical ribs · torticollis · diastematomyelia · myelomeningocele · kidney disease · UE anomalies · iniencephaly (TO)
@@ -42,6 +44,13 @@
 **Cavendish** — 4-grade **cosmetic** classification of **congenital elevation of scapula**\
 ✗ Wrong options: torticollis · radial head dislocation · clavicle pseudarthrosis
 
+| Cavendish (TO) | Severity |
+|---|---|
+| I | Very mild |
+| II | Mild |
+| III | Moderate |
+| IV | Severe — scapula **near the occiput** |
+
 | Rigault (TO) | Superomedial angle |
 |---|---|
 | 1 | Below T2, above T4 transverse process |
@@ -61,6 +70,8 @@
 **Operate** — severe cosmesis or **abduction <110–120°** · ideal **age 3–8** (soon after 3) · **>8 yr → brachial plexus risk**\
 ✗ Wrong options: defer until after 8 (TO false statement) · wait for maturity
 
+**Surgical age** — **3–8 yr** (Orthobullets) · **3–6 yr** (TO lecture) — read the options · **Woodward preferred** (TO) · omovertebral bar excision · **partial scapulectomy**
+
 | Procedure | Essence |
 |---|---|
 | **Woodward** | Detach + reattach medial parascapular muscles (**trapezius + rhomboid origins shifted distally at spinous processes**) → scapula descends, rotates to abduction · modified: + superomedial border resection |
@@ -72,6 +83,8 @@
 **Outcome** — **abduction +40–50°** (Orthobullets) · ~40° (TO) · +38° (Farsetti)
 
 **Complication** — **brachial plexus palsy = most severe and most common** (TO) · SSEP monitoring
+
+**Other complications (TO)** — **keloid** · shoulder stiffness · one TO lecture names **radial nerve** as the most commonly affected nerve (TO — verify: brachial plexus palsy is the standard answer)
 
 ## How it's asked
 

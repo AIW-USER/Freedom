@@ -144,8 +144,10 @@ Osteochondroma
 
 | Setting | Risk |
 |---|---|
-| **Solitary osteochondroma** | **<1%** |
+| **Solitary osteochondroma** | **<1%** (Orthobullets) · **1%** (TO) |
 | **MHE** | **5–10%** (Orthobullets) · 3–10% · 0.57–8.3% · ~10% · "1 in 10,000" (one OB) — read options |
+
+**MHE (TO)** — **5%** malignant transformation
 
 **Risk factors** — **pelvic/central (proximal) location** (highest), **sessile**, MHE, **EXT1**, **older age**, cap >2 cm in adult
 

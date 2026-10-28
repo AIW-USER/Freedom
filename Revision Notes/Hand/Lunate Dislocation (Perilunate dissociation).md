@@ -83,6 +83,8 @@
 
 **Radial styloid fracture** — avulsion of radiocarpal ligaments
 
+**Subacute lesser arc case (TO)** — **overlapping carpal bones** · **scaphoid ring sign + SL gap** · **lunate rotated 90°** · capitate dorsal to lunate → ORIF + ligament reconstruction (dorsal approach)
+
 ![Lateral: spilled teacup](../../Orthobullets/attachments/ob6045-spilled-teecup-sign.jpg)
 
 ### Mayfield classification
@@ -140,6 +142,8 @@ Perilunate / lunate dislocation
 | Dorsal (Lister's) | Proximal row + midcarpal exposure, SL/LT repair | not for CTR |
 | Volar (extended CT) | **CTR**, close space of Poirier rent, volar ligaments | — |
 | Combined | Easier reduction, distal scaphoid, CTR | Swelling, devascularisation, ↓ flexion/grip |
+
+**Case-based approach choice (TO)** — trans-scaphoid trans-styloid dorsal perilunate → ORIF scaphoid + perilunate fixation · **volar approach if palmar comminution** or **volar perilunate dislocation** · dorsal perilunate without fracture **not reducible closed → open reduction + SL anchor repair** · combined trans-styloid + SL gap + DISI → ORIF + K-wires across SL, LT, scaphocapitate
 
 **Steps** — fix fractures (scaphoid headless screw) · **SL repair with suture anchors** · protect with K-wires (SL, LT, scaphocapitate) or cerclage · LT repair optional
 

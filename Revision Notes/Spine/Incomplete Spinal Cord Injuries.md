@@ -49,6 +49,10 @@
 
 ![Brown-Séquard: ipsilateral motor, contralateral pain/temperature](../../Orthobullets/attachments/ob2008-bs-syndrome.jpg)
 
+**Prognosis ranking (TO)** — **central cord = commonest + "best"** (Vishnu) · **Brown-Séquard best** (Orthobullets) — read the options · **anterior cord worst** · posterior cord good · **conus medullaris poor** (T12–L1, areflexic bladder/bowel)
+
+**Brown-Séquard in TO** — ipsilateral motor + **vibration/proprioception** loss, contralateral pain/temperature
+
 ## 5 Management
 
 ### Central cord syndrome

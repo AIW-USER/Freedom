@@ -93,6 +93,19 @@ Acute atraumatic LBP, no red flags
 **Chronic non-specific pain, non-surgical (smoker, depression, narcotics)** — **cognitive intervention + exercise + smoking cessation**\
 ✗ Wrong options: discography · EMG · myelogram
 
+### Spinal injections (TO)
+
+**Rationale** — **inflammation (TNF-α) > compression** drives radicular pain · steroid ↓ inflammation, washes out cytokines
+
+| Injection (TO) | Target / use |
+|---|---|
+| **SNRB** | Acute radicular pain (< 6 wks) without major deficit, **level localisation** before surgery · oblique **"Scottie dog" — needle at the neck** · 1 mL 0.5% bupivacaine + 40–80 mg triamcinolone · relief 2–3 wks |
+| **Epidural (caudal / interlaminar / transforaminal)** | Diffuse / bilateral pain · caudal via **sacral hiatus** · transforaminal for unilateral · **repeat ≥ 12 wks** apart · avoid severe stenosis, infection, coagulopathy |
+| **Facet** | Localised LBP worse on extension/rotation · diagnostic LA alone, therapeutic LA + steroid |
+| **Medial branch block → RFA** | Target **SAP–TP junction** · block **level + level above** (dual innervation) |
+| **SI joint** | Pain to buttock, not below knee · FABER, Gaenslen · inject **lower 1/3 (true synovial)** · innervation **L5–S3 dorsal rami** (TO) |
+| Discography | Concordant pain · two-needle, iohexol · rarely used now |
+
 ### Coccydynia (TO)
 
 **Cause** — commonest **direct trauma**; childbirth, surgery, epidural

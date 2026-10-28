@@ -20,6 +20,10 @@
 
 **Overloaded cartilage (runner)** — chondropenia, chondrocyte apoptosis, subchondral bruising, sclerosis, fracture, necrosis; cartilage volume ↑ linearly with loading until a threshold
 
+**Focal lesion (TO)** — localised defect **< 10 cm²**, often **< 5 cm²** · precursor of OA → treat while focal
+
+**Pathogenesis (TO)** — insult → **MMPs** degrade collagen → exposed collagen acts as **antigen** → synovitis → **IL-1, IL-6, TNF-α** → **NF-κB + Ras** pathways → further breakdown
+
 ### Genes & lab markers (collagen type of each repair tissue)
 
 | Tissue / procedure | Collagen | Note |
@@ -34,6 +38,8 @@
 | Elastic cartilage | — | Ear, epiglottis, larynx |
 
 **Labs** — only to rule out inflammatory disease
+
+**Composition (TO)** — **water 70–80%** · **type II collagen** (tensile strength) · **proteoglycans** (aggrecan, chondroitin sulphate, HA) resist compression · **aggrecan = main functional molecule** · cartilage type II vs meniscus type I
 
 ## 3 Presentation
 
@@ -72,6 +78,8 @@
 | **IV** | **Exposed subchondral bone** | **Erosion to bone** |
 
 **II / III cut-off** — **1.5 cm diameter** (Orthobullets) · **0.5 inch area** (TO) — read the options
+
+**Modified Outerbridge — TO lecture** — I softening · II fibrillation **< 50% depth** · III fissuring **> 50% depth** · IV exposed subchondral bone · **most practical / widely cited** system (ICRS detailed, less used)
 
 **Outerbridge grade IV** — **indication** for cartilage restoration, not a failure risk factor
 
@@ -140,6 +148,17 @@ Patellofemoral defect (after correcting maltracking)
 | **OCA** | **> 2 cm²** (OB) · > 4 cm² (Orthobullets, OB) · > 6 cm² (OB, OCD chapter) |
 | Threshold debate | **4 cm²** usual; some use **2 cm²** (OB) — read the options |
 
+| Depth / demand / size (TO, Mohindra) | Procedure |
+|---|---|
+| **< 50% depth** (grade I–II) | **Debridement + lavage + chondroplasty** (palliative) |
+| > 50%, **low demand** | **Microfracture** |
+| > 50%, high demand, **< 2.5 cm** | **OATS (autograft)** |
+| > 50%, high demand, **2.5–5 cm** | **OATS (allograft) / mosaicplasty** |
+| > 50%, high demand, **2.5–10 cm** | **ACI / BMAC** |
+| **> 10 cm** | **UKA / HTO** |
+
+**Kissing lesions (TO)** — both condyles → **contraindication** to cartilage restoration
+
 ### Operative criteria
 
 | Indication | Detail |
@@ -167,6 +186,8 @@ Patellofemoral defect (after correcting maltracking)
 ✗ Wrong options: more holes per area · small awls · 90° entry · calcified layer removal
 
 **Awl size** — smaller (**1.0 mm**) better than **1.2 mm** in some studies
+
+**Microfracture (TO)** — awl holes **1 mm** wide, **3 mm deep, 3 mm apart** · any lesion size · fibrocartilage → elderly / low-demand
 
 **Drilling steps** — debride **sclerotic bone** → trim unstable cartilage edges → drill **past subchondral plate (\~4 mm)** → enough coverage between holes for a **mesenchymal clot**
 
@@ -197,6 +218,17 @@ Patellofemoral defect (after correcting maltracking)
 **1st-stage harvest (TO)** — **200–300 mg** cartilage · cells expanded **2–3 wk** (TO) · implanted after **3–6 wk** (TO) — read the options
 
 **Collagen membrane (TO)** — replaced periosteum → avoids **patch hypertrophy + harvest morbidity**
+
+**Generation limitations (TO, Mohindra)** — 1st: **periosteal hypertrophy** · 2nd: **uneven cell distribution** · 3rd (mechanically stimulated): cost · modified 3rd **CAIS**: minced cartilage, **no culture, single-stage**, up to **10 cm²** · culture time **3–6 weeks**
+
+**BMAC (TO)** — **iliac crest** aspirate → centrifuge → **buffy coat** (stem cells + growth factors) → paste over defect · **single-stage**, cheap, low morbidity · hyaline-like aim · long-term data lacking
+
+| Chondroprotective agent (TO) | Mechanism / note |
+|---|---|
+| **Diacerein** | **IL-1 blocker** · **50 mg OD–BD × 3 months**, pause 2–3 months, repeat · a **drug** (others = supplements) |
+| Glucosamine + chondroitin sulphate | Anabolic + anti-catabolic · mild relief |
+| SAMe | Proteoglycan synthesis · limited evidence |
+| **Undenatured type II collagen** | **Oral tolerance** → ↓ immune response to cartilage |
 
 | ACI generation (TO) | Features |
 |---|---|
@@ -261,6 +293,10 @@ Patellofemoral defect (after correcting maltracking)
 ✗ Wrong options: scaffold · replaced by fibrocartilage
 
 **Benefits** — autologous, cheap, **single-stage**, arthroscopic possible · **limits** — size + **donor-site morbidity**, curvature matching
+
+**OATS technique (TO)** — dowels **6, 8 or 10 mm** (Arthrex) · depth **15–25 mm**, donor **1–2 mm longer** (graft kept "proud") · up to **3 dowels (\~2.5 cm)** · **NWB 6 wk** (TO) vs delay WB 3 months (below) — read the options · donor: medial / lateral **trochlear edge**, not central trochlea
+
+**OATS vs mosaicplasty (TO)** — same principle · **mosaicplasty = multiple small 2–4 mm dowels** (Smith & Nephew) · OATS = fewer, thicker dowels · autograft up to 2.5 cm, allograft up to 5 cm
 
 **Fixation strength** — **initially decreases in early healing, then increases with subchondral bone healing** → **delay WB 3 months**; early non-WB motion
 
@@ -446,3 +482,7 @@ Patellofemoral defect (after correcting maltracking)
 
 **"Crab meat lesions on MRI (TO)?"** → **grade III chondromalacia patellae**\
 ✗ Wrong options: tram track (PCL mucoid degeneration)
+
+**"Diacerein mechanism (TO)?"** → **IL-1 blocker**
+
+**"Treatment of high-demand > 50%-depth defect < 2.5 cm (TO)?"** → **OATS (autograft)**

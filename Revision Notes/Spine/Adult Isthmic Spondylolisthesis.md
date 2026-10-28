@@ -13,6 +13,8 @@
 **Prevalence** — spondylolysis **4–6%** of North American adults · 4.4% at age 6 → 6% adult (Beutler)\
 ✗ Wrong options: < 2% · 8–10%
 
+**Epidemiology (TO)** — listhesis \~**5%** of population · rare < 5 yrs · \~**6% progress** · **never seen in paraplegics** (needs erect posture)
+
 **Sex** — **male** (2/3 of defects); **slip progression** commoner in **females**
 
 **Level** — **L5-S1** **82%** (Orthobullets) · 86–90% (OB) · L4-5 11%\
@@ -106,6 +108,20 @@
 | **Lumbosacral angle** | L5 **upper** endplate vs perpendicular to upper sacrum | **> 10°** predicts progression |
 | Lumbar index | Anterior ÷ posterior L5 height | L5 wedging |
 
+| Normal (TO) | Value |
+|---|---|
+| **PI** | **45–55°** (fixed) |
+| **PT** | **5–20°** (↑ retroversion) |
+| **SS** | **35–45°** (↓ retroversion) |
+
+**Slip angle cut-off** — **> 30°** (Orthobullets) · **> 45–50°** (OB, paediatric) · **> 55°** (TO) — read the options
+
+**Compensation for positive imbalance (TO)** — ↑ lumbar lordosis → **pelvic retroversion** → hip extension → knee flexion · normal C7 plumb within **± 2 cm** of posterosuperior S1 · **high PI = more compensatory capacity but predisposes to listhesis**; low PI = compact, little compensation
+
+**Pelvic muscles (TO)** — anterior tilt: **iliopsoas, rectus femoris** · retroversion: **hamstrings, rectus abdominis** → chronic retroversion = **hamstring tightness**
+
+**High vs low dysplastic (Marchetti-Bartolozzi, TO)** — high: **vertical sacrum, high slip angle, rapid progression** · low: horizontal sacrum, parallel endplates, slow
+
 ![PI = PT + SS](../../Orthobullets/attachments/ob2038-shows-pi-pt-ss.jpg)
 
 **PI values** — normal **55° ± 10°** (TO) · \~47° childhood → ↑ in adolescence → \~57° adult, then constant\
@@ -192,6 +208,10 @@ Isthmic spondylolisthesis failing 6 months non-op
 **Strain biomechanics** — **71% of L5 strain in the second half** of complete reduction (non-linear after > 50%) → **partial reduction** · ↑ disc height and ↑ lordosis protect L5
 
 **Reduction goal** — correct **slip angle / lumbosacral kyphosis** first; slip % second
+
+**High-grade techniques (TO)** — **delta fixation** (S1 screw angled into L5 body + L5 pedicle screws → triangle) · **Bohlman**: **fibular strut sacrum → L5** · reduction screws (long-head) pull L5 back · **lordosis restoration > full anatomic reduction** · high PI favours reduction, low PI → in-situ
+
+**Low-grade (TO)** — decompression + pedicle screws + PLF/interbody · **instrumented PLF = gold standard** · **TLIF preferred over PLIF** (less root traction) · **MIS-TLIF**: less muscle damage, preserves dorsolumbar fascia · non-op: flexion exercises, **avoid extension initially**, injections in acute phase
 
 ```
 High-grade slip (SDSG)
@@ -280,3 +300,7 @@ High-grade slip (SDSG)
 **"Deficit after reduction + fusion of L5-S1 slip?"** → **L5 root → great-toe extension weakness**
 
 **"Most L5 strain during reduction occurs?"** → **second half of complete reduction (71%)**
+
+**"Spondylolisthesis never seen in?"** → **paraplegics (non-ambulant)** (TO)
+
+**"Bohlman technique?"** → **fibular strut graft from sacrum into L5 for high-grade slip** (TO)

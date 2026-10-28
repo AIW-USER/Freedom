@@ -46,6 +46,8 @@
 **Hypermobility** — **≥5/9** (threshold varies: >3, 5, 6/9) · used for **EDS / joint laxity**\
 ✗ Wrong options: CP · myelodysplasia · arthrogryposis · Kniest
 
+**Beighton cut-off (TO)** — adults **≥ 5** · children **≥ 6**
+
 | Thumb apposition to forearm | 5th finger hyperextension |
 |---|---|
 | ![Thumb apposition to forearm](../../Orthobullets/attachments/ob4111-ehlers-danlos-thumb-apposition.jpg) | ![5th finger hyperextension](../../Orthobullets/attachments/ob4111-eds-small-finger-dorsiflexion.jpg) |

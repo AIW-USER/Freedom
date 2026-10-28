@@ -10,6 +10,8 @@
 
 **Who** — **women**, **6th decade** (50s–60s), obese, middle-aged
 
+**Flatfoot types (TO)** — congenital: inherited, hyperlaxity, **CVT**, physiological · adolescent: inherited, **tarsal coalition (common)** · **adult acquired: PTTD = most common** (TO)
+
 **Risk factors** — **obesity**, **hypertension**, **diabetes**, ↑ age, **corticosteroid use** (incl. repeated injections), **seronegative inflammatory** disorders
 
 **Associated conditions** — **inflammatory arthropathy** · **tarsal coalition** (young, rigid pes planus ± recurrent ankle sprains) · acute onset after **pronation–external rotation** ankle fracture
@@ -140,6 +142,12 @@
 
 **Meary in stems** — 8°, 12°, 30° = pes planus · collapse sometimes reported as **"negative" Meary angle**
 
+**Flatfoot X-ray signs (TO)** — **TN uncoverage = classic sign** · **talonavicular sag** · **naviculocuneiform sag** · forefoot abduction · ↑ Meary · **hindfoot alignment (Saltzman) view** · MRI for PTT · **CT for rigid foot / suspected coalition** (TO)
+
+**Four angles (TO)** — **Hibb's · Meary's · calcaneal pitch · tibiotalar** — assess every flat / cavus foot (TO)
+
+**PTT function tests (TO)** — single + double heel raise · **resisted inversion** · **hopping sign** · too-many-toes = **hindfoot valgus + forefoot abduction** · exam: medial ankle fullness, **subfibular tenderness**, **talar head callosity** (TO)
+
 ### Diagnostic criteria
 
 | Finding | Threshold / meaning |
@@ -192,6 +200,10 @@
 **Stage 2 (TO)** — inflammatory signs + **flexible hindfoot valgus** · flattened arch **returns on single-leg raise** · forefoot **abducted + supinated** · yet usually **can't do an unsupported single heel rise** (TO) — Orthobullets: (−) single-leg heel raise — read the options
 
 **Stage 3–4 (TO)** — **subtalar arthropathy**, deformity fixed · stage 4 = **tibiotalar degeneration** · X-rays diagnostic · treatment = **arthrodesis** (TO)
+
+**Stage 2A vs 2B (TO lecture)** — **2A = heel raise present · 2B = heel raise absent** (TO) · Orthobullets / Myerson: 2A vs 2B by **forefoot abduction / TN uncoverage** — read the options
+
+**Stage 2 treatment (TO lecture)** — **2A → tibialis posterior debridement (open or tendoscopic)** · **2B → gastroc recession + MDCO + LCL + FDL → navicular** ± (rare) **cuneiform plantarflexion (Cotton) osteotomy** (TO) · Orthobullets: IIA = FDL + MDCO — read the options
 
 ### Four-stage AAFD with surgical treatment (Myerson)
 
@@ -512,6 +524,10 @@ Rigid flatfoot (stage III–IV)
 | Sign | Numb lateral plantar midfoot | ↓ hallux flexion |
 
 ## How it's asked
+
+**"Classic radiographic sign of flatfoot?"** → **talonavicular uncoverage** (TO)
+
+**"Stage 2B PTTD (TO lecture)?"** → **cannot do single-leg heel raise** (TO)
 
 **"Heel rise difficult, heel stays in valgus — failure of?"** → **inversion of the hindfoot that locks the transverse tarsal joints** (TO)
 

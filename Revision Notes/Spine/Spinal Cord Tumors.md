@@ -10,6 +10,8 @@
 
 **Compartments** — **intradural extramedullary** (60–70%) · **intradural intramedullary** (20–30% adults, **50% children**) · extradural
 
+**Compartments, all spinal tumours (TO)** — **extradural 55%** (metastasis commonest overall) · **intradural extramedullary 40%** · **intramedullary 5%** · most primary spinal tumours **benign**, symptoms from **compression** not invasion · intramedullary: **ependymoma \~45%, astrocytoma \~40%**
+
 ![Spinal tumour compartments](../../Orthobullets/attachments/ob2072-spinal-tumor.jpg)
 
 ## 3 Presentation
@@ -33,6 +35,19 @@
 | Histology | **Antoni A (hypercellular) + B (hypocellular)**, **S-100+** | Lobulated, **meningothelial whorls** |
 | Treatment | Resection ± RT if malignant | Resection (curative if complete); RT for recurrence |
 
+**Meningioma (TO)** — F:M **4:1** (1:1 lumbar) · **82% thoracic**, 15% cervical, 2% lumbar · **enlarges in pregnancy (progesterone)** → acute deficit in pregnancy · **calcified**, **dural tail** · recurrence \~7% after complete excision
+
+**Imaging signs (TO)** — **dural tail + broad dural base = meningioma** · **"ice-cream cone" CP-angle mass into internal acoustic meatus = acoustic schwannoma** · intramedullary: cord expansion (ependymoma commonest in cervical cord) · **punctate flow voids in an epidural/intramedullary bleed = spinal AVM**
+
+| | Schwannoma (TO) | Neurofibroma (TO) |
+|---|---|---|
+| NF | **NF2** | **NF1** |
+| Consistency | Cystic areas | Solid |
+| Plane | **Separable from root** | **Arises in root → may sacrifice root** |
+| Malignancy | Very rare | **MPNST** possible |
+
+**Dumbbell tumour (TO)** — intraspinal + foraminal + extraforaminal → **widened foramen** on X-ray · **Asazuma**: I intra + extradural · II extradural ± paravertebral · III dural + foraminal constriction · IV–VI bone invasion · I/IIa/IIIa → posterior laminectomy ± facetectomy · IIb/IIc/IIIb → combined A + P · IV–VI → + reconstruction
+
 ![Schwannoma from dorsal root](../../Orthobullets/attachments/ob2072-schwannoma.jpg)
 
 ### Intramedullary
@@ -47,6 +62,16 @@
 | Histology | **Rosettes + pseudorosettes** | Hypercellular, mitoses, **eosinophilic granules** |
 | Treatment | **Gross total resection** — good prognosis (clean plane) | GTR difficult → **RT** ± chemo |
 
+**Ependymoma (TO)** — encapsulated, sharply demarcated, enhancing, **cystic 50%** · **NF2** · **drop metastases → whole-neuraxis MRI** · **filum: whiter colour + squiggly surface vessel** · best prognosis
+
+**Astrocytoma (TO)** — commonest **paediatric** intramedullary · thoracic > cervical · eccentric, infiltrative · low:high grade **3:1** · cystic \~40% · no plane → biopsy / limited excision + RT ± chemo
+
+**Others (TO)** — **haemangioblastoma: VHL (33%)**, highly vascular · lipoma with dysraphism / tether · dermoid/epidermoid at conus
+
+**CSF (TO)** — **↑ protein in 95%** · **Froin syndrome** (xanthochromia + clotting below complete block) · **Queckenstedt**: no pressure rise = block
+
+**Surgery (TO)** — midline/paramedian myelotomy (avoid posterior median vein) · ultrasonic debulking from within · **stop if MEP ↓ ≥ 50%** · asymptomatic → MRI every 6–12 months
+
 **TO** — paediatric ependymoma intracranial (**4th ventricle**); adult spinal
 
 ![Ependymoma polar cyst](../../Orthobullets/attachments/ob2072-polar-cyst.jpg)
@@ -58,6 +83,8 @@
 **GBM drop metastasis (TO)** — **intradural extramedullary** · 1–2% of GBM · CSF spread (debulking ↑ seeding) · lag \~8.5 months · steroids for rapid cord compression
 
 **Lymphoma** — image whole neuraxis · T2 ill-defined hyperintense, marked homogeneous enhancement, little cord enlargement · **cervical** · **methotrexate**
+
+**Spinal metastasis (TO)** — commonest spinal tumour · > 40 yrs · **thoracic > lumbar > cervical** · multiple levels **\~90%** · pain in **95% malignant vs 76% benign** tumours · **Batson valveless plexus** (Valsalva) · lytic except **prostate (blastic)** · X-ray needs **30–40% bone loss** · MRI best · children: **neuroblastoma, Ewing** · **posterior elements → benign** (osteoid osteoma, osteoblastoma); **body → malignant** · steroids for incomplete deficit · surgery if survival **> 6 wks** (TO) · examine breast + thyroid (even in men)
 
 ## 5 Management
 
@@ -98,3 +125,7 @@
 **"Brainstem glioma first presents with?"** → **cranial neuropathies** (TO)
 
 **"Commonest arachnoid cyst location?"** → **Sylvian fissure** (TO)
+
+**"Spinal tumour that enlarges in pregnancy?"** → **meningioma** (TO)
+
+**"Haemangioblastoma association?"** → **von Hippel-Lindau** (TO)

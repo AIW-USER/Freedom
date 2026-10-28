@@ -101,6 +101,8 @@
 |---|---|
 | OA, septic + **TB** arthritis, AVN, **central fracture-dislocation**, fibrous dysplasia, **THA** (migrating prosthesis) | **RA**, **osteomalacia**, **ankylosing spondylitis**, **Paget**, renal osteodystrophy, rickets, osteoporosis, **Marfan** |
 
+**Secondary causes (TO notes)** — RA, Paget, post-traumatic, **old hemiarthroplasty (Austin Moore / Thompson)**
+
 **Otto pelvis (arthrokatadysis)** — **primary** protrusio · **bilateral** · **younger women** · early pain + stiffness · ✓ **not caused by osteomalacia** (that is secondary)
 
 ## 5 Management
@@ -170,6 +172,8 @@ Symptomatic hip OA
 
 **Technique** — ream **periphery first** with larger reamers (1–2 sizes below final cup), **preserve subchondral bone** · medial floor: curette geodes, drill sclerotic bone with K-wires · **morselized graft** impacted on floor (none at rim) · cup **1–2 mm larger** than last reamer · ≥**50% host-bone contact**
 
+**THA strategy (TO)** — difficult dislocation (head incarcerated) → remove posterior wall osteophytes · **double femoral neck osteotomy** (divergent cuts) to extract head · restore centre with **Köhler + Shenton** lines · rebuild medial wall: **morselized head autograft ± wire mesh / tantalum chips** · **antiprotrusio cage** for large defects · **reverse reaming** over graft · **err toward lateralization** (keep horizontal offset, avoid over-medialization)
+
 ![Protrusio reaming technique](../../MCQ/attachments/TO17099994-1.png)
 
 ## X vs Y
@@ -214,3 +218,5 @@ Symptomatic hip OA
 **"Not true about Otto pelvis?"** → **osteomalacia** (it is bilateral, primary, young women) (TO)
 
 **"Steroid dose linked to RPOA?"** → **>80 mg**, multiple injections
+
+**"THA in protrusio — cup position?"** → **err toward lateralization** (TO)

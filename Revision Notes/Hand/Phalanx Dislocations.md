@@ -22,6 +22,10 @@
 
 **Collaterals** — resist radial/ulnar deviation
 
+**Ligament box (TO)** — proper collateral (**primary stabiliser**, inserts volar ⅓ of P2) + accessory collateral + volar plate → **at least 2 sides must fail for PIP dislocation** · PIP collateral fails **proximally**, volar plate avulses **distally** · volar plate taut in extension resists dorsal displacement
+
+**P1 head asymmetry (TO)** — slight condylar asymmetry → **\~9° supination** during flexion
+
 ## 3 Presentation
 
 **Skin puckering** — soft-tissue interposition
@@ -38,7 +42,11 @@
 
 **Views** — AP, lateral, oblique
 
-**Dorsal "V sign"** — dorsal joint widening = **subtle dorsal subluxation of P2** → unstable
+**Dorsal PIP types (TO)** — **I** hyperextension, surfaces still touching · **II** bayonet · **III** fracture-dislocation
+
+**Complex dorsal PIP (TO)** — volar plate interposed + soft-tissue **"tendon noose"** round P1 → open reduction
+
+**Dorsal "V sign"** — dorsal joint widening = **incomplete reduction** (TO) · = **subtle dorsal subluxation of P2** → unstable
 
 ![V sign](../../Orthobullets/attachments/ob6038-v-sign.jpg)
 
@@ -89,6 +97,18 @@
 | **<25%** + reduces in flexion → EBS; **>25%** or incomplete reduction → surgery; **>50%** → open/VPA | OB |
 | Stable <30% buddy · tenuous 30–50% EBS if reduced in <30° flexion · unstable >50% surgery | OB (Hastings) |
 
+**Stability threshold (TO)** — **< 40% volar articular surface → usually stable** · **> 40% or comminution → unstable** (proper collateral detaches with volar fragment)
+
+**EBS indications (TO)** — no incongruity · **stable in ≤ 30° flexion** · collaterals intact · start 30°, **extend 10°/wk** · avoid in **short swollen fingers** (→ extension block pinning)
+
+**Extension block pinning (TO)** — K-wire **obliquely between central slip and lateral bands** → early motion
+
+**Dynamic traction (Suzuki frame, TO)** — pilon / multifragment **30–50%** surface, reducible joint · **proximal–distal hook distance ≤ 2.5 cm** (avoid over-distraction)
+
+**Cerclage wiring (TO)** — severe pilon with central impaction when ORIF impossible
+
+**Pilon (TO)** — axial compression → dorsal + volar fragments separate, **central cartilage depression**, P2 base widening → dynamic traction or arthroplasty
+
 **Extension block splint (EBS)** — stable reduced dorsal **fracture**-dislocation <40%; block **~40°**, reduce **10°/wk** over 3 wk, active flexion within splint
 
 **Redislocates only in full extension, <25% involvement** — **EBS 3 wk**
@@ -115,10 +135,14 @@ Dorsal PIP fracture-dislocation
 
 **VPA must release** — **collateral ligaments** (else hinging)
 
+**VPA technique (TO)** — transverse trough at P2 base · mobilise volar plate **4–6 mm distally** · release accessory collaterals · **central exit hole mandatory** (avoids tethering lateral bands) · flex DIP during suture passage
+
 **Volar exposure** — resect **proximal C2, entire A3, distal C1** pulleys
 
 **Hemi-hamate** — **non-vascularised osteochondral autograft with hyaline cartilage** from **hamate**; young, ~50% P2 base, chronic/irreducible\
 ✗ Wrong options: MFC, iliac crest, fibula, distal radius
+
+**Hemi-hamate graft (TO)** — from **dorsal distal hamate centred over 4th/5th CMC joints** · half dorsal-volar thickness + half radial-ulnar width · orientation restores volar buttress
 
 **Older sedentary chronic** — **PIP arthrodesis**
 
@@ -172,6 +196,10 @@ Dorsal PIP fracture-dislocation
 ## How it's asked
 
 **"Commonest osseous injury with dorsal PIP fracture-dislocation"** → **P2 volar lip fracture**
+
+**"How many sides of the PIP ligament box must fail to dislocate?"** → **two** (TO)
+
+**"Suzuki dynamic traction — maximum hook distance?"** → **≤ 2.5 cm** (TO)
 
 **"Which X-ray best treated by dorsal extension block splint?"** → **stable reduced dorsal PIP fracture-dislocation <40%**
 

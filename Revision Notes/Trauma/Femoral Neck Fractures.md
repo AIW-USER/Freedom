@@ -12,15 +12,27 @@
 
 **Associated** — **ipsilateral femoral shaft fracture: 6–9% of shaft fractures** (\~10%, OB) → fix **neck first**
 
+**Burden (TO)** — **> 300,000** hip fractures/yr in USA · **> 6 million worldwide by 2050** · **55–59% of hip fractures are intracapsular**
+
+**Risk factors (TO)** — secondary: **HIV**, **primary hyperparathyroidism**, chronic liver disease, spinal injury · drugs: **PPIs**, anti-epileptics, **aromatase inhibitors**, inhaled corticosteroids, **thiazolidinediones**, GnRH inhibitors · modifiable: low weight, smoking, alcohol, inactivity
+
 ### Healing biology
 
 **Intracapsular** — **bathed in synovial fluid, no periosteum, limited callus** → poor healing; anatomic reduction essential
+
+**"Unsolved fracture" (TO)** — MFCA dependence · **no cambium layer → endosteal healing only** · **angiogenesis-inhibiting factors in synovial fluid** · revascularisation by creeping substitution + vascular ingrowth
 
 ### Anatomy
 
 **Neck-shaft angle 130 ± 7°** · **anteversion 10 ± 7°**
 
 **Head supply** — **MFCA (lateral epiphyseal artery) = main** · LFCA anterior / inferior head · inferior gluteal · ligamentum teres insignificant
+
+**Retinacular arteries (TO)** — superior + anterior often torn · **inferior retinacular artery usually preserved** in displaced fractures
+
+**Calcar femorale (TO)** — dense posteromedial bone plate → stability
+
+**Angles – TO lecture (TO)** — neck-shaft **130° men, 128° women** · anteversion **15–25°** (TO) vs 10 ± 7° (Orthobullets) — read the options
 
 **Displacement** — disrupts retinacular vessels + **intracapsular haematoma (tamponade, effect debated)**
 
@@ -39,11 +51,17 @@
 
 **Cyclic load** — single-leg stance compression \~4× body weight → superior-neck tension fractures
 
+**Mechanism (TO)** — axial load in flexion + abduction · sideways fall on greater trochanter · **external rotation** tensions anterior capsule + iliofemoral ligament → **posterior comminution**
+
 ## 3 Presentation
 
 **Impacted / stress** — mild groin or medial thigh / knee pain, no deformity, pain at ROM extremes, **pain on percussion of greater trochanter**
 
 **Displaced** — leg **shortened, externally rotated, abducted**; pain with log-roll
+
+**Intra- vs extracapsular (TO)** — intracapsular: **ER < 45°**, shortening **< 1 inch**, minimal bruising · extracapsular: **marked ER** (near 90°), more bruising
+
+**X-ray signs (TO)** — break in medial cortex · **prominent lesser trochanter** (ER) · overriding greater trochanter · broken trabeculae + **Shenton's line**
 
 ## 4 Diagnosis & Classification
 
@@ -60,6 +78,8 @@
 | **Thin-slice MDCT (TO)** | **Second-line after X-ray for occult fracture (TO)** — sensitivity + specificity 100% with experienced reader |
 | Bone scan | Occult fracture **after 72 h** if MRI contraindicated |
 | Duplex | **DVT if delayed presentation (> 2 days)** |
+| **Bone scan / PET-CT (TO)** | **Early prediction of AVN** |
+| **MRI (TO)** | 100% sensitivity + specificity for occult fracture; dynamic MRI → head vascularity |
 
 **Occult fracture next step** — **MRI hip + pelvis** (Orthobullets, OB) · **thin-slice MDCT** (TO) — read the options\
 ✗ Wrong options: stress views · bone scan at 7 d · repeat CT at 48 h · WBAT
@@ -85,6 +105,17 @@
 | **I** | **< 30°** | Compression |
 | **II** | **30–50°** | — |
 | **III** | **> 50°** | **Shear; most unstable; highest nonunion + AVN** |
+
+**AO/OTA (TO)** — **31B1 subcapital** · **31B2 transcervical** · **31B3 basicervical**
+
+### Femoral neck stress fractures (TO)
+
+| Type (TO) | X-ray | Treatment |
+|---|---|---|
+| **Tension (type A)** | **Superolateral** lucent crack → displaces | **Always internal fixation** |
+| **Compression (type B)** | **Inferomedial** sclerosis / callus | **Nonop if < 50% neck width**; **fix if > 50%** |
+
+**Stress fracture complications (TO)** — varus malunion · displacement · **AVN up to 42%**
 
 ## 5 Management
 
@@ -125,6 +156,22 @@ Femoral neck fracture
 
 **Approaches** — **Smith-Petersen** (sartorius–TFL, protect LFCN) · **Watson-Jones** (TFL–gluteus medius; capsulotomy **anterior to lesser trochanter** to spare MFCA)
 
+**Approach extras (TO)** — **Hueter modification**: incision over TFL → ↓ LFCN injury; Smith-Petersen needs a 2nd incision for screws · **Watson-Jones**: reduction + fixation through one approach, **best for basicervical**
+
+| Closed reduction (TO) | Manoeuvre |
+|---|---|
+| **Whitman** (extension) | Traction, abduction + **internal rotation** (to 45°), full extension |
+| **Leadbetter** (flexion) | Hip **flexed 90°**, slight adduction + IR, gradual extension |
+| **Flynn** (atraumatic) | Flexion 90°, **lateral traction** to disimpact, IR + extension |
+
+**Reduction attempts** — **2 only, then open** (TO, Shetty) · avoid > 3–4 (TO, Upadhyay) — read the options
+
+**Check reduction (TO)** — **Garden alignment index 160° AP / 180° lateral** (medial trabeculae vs medial femoral cortex) · **Lowell lines** = smooth S / reverse-S curves
+
+**Varus (TO)** — **even 1° varus unacceptable** → ↑ nonunion
+
+**Pre-op (TO)** — skin traction: **no benefit** for reduction or pain, ↑ sores · **capsulotomy**: ↓ pressure, **no proven ↓ AVN** · ideal fixation in young **< 24 h**
+
 **Reduction** — joysticks (A→P K-wires), evacuate haematoma; **length-stable / compression** to avoid neck shortening (shortening → ↓ SF-36, QoL)
 
 **Ipsilateral neck + shaft** — **lag screws for neck first, then retrograde femoral nail** (✗ Wrong options: shaft first · plate shaft · proximal plate) · in unresuscitated patient (lactate 6, BE −8) → **delay until resuscitated** (EAC), but still early (✗ Wrong options: ex-fix + 1 wk · immediately after IR · single implant proven better · THA)
@@ -135,6 +182,18 @@ Femoral neck fracture
 ✗ Wrong options: central
 
 **Union by screw–cortex contact (Lindequist)** — posterior + inferior contact **89%** · one site **59%** · none **0%**
+
+**Screw rules (TO)** — inferior + posterior screws **within 3 mm of cortex** · tips **5–10 mm below subchondral bone** · **4 screws for calcar comminution** · **DHS + derotation screw for basicervical** / posterior comminution · **Moore / Knowles pins in children**
+
+**Pauwels III (TO)** — simple screws fail → **primary valgus osteotomy** converts shear to compression
+
+**Newer implants (TO)** — **medial buttress plate** (anti-varus) · **biplane double-supported screw fixation (BDSF)** (osteoporotic) · **Femoral Neck System** (small footprint + anti-rotation screw) · **Targon FN** (limits telescoping / shortening) · Tronzo screw
+
+**Head viability on MRI, young (TO)** — viable → **abduction / McMurray osteotomy**, **Meyer muscle-pedicle graft** (also Bakshi), FVFG · non-viable → hemi / THA
+
+**Undisplaced but arthroplasty preferred (TO)** — **pre-existing OA**, **CRF**, **RA**, steroid-induced osteoporosis
+
+**Conversion to THA after fixation (TO)** — 10% at 2 yr · 20% at 12 yr · **65% at 14 yr** (TO — verify: steep late rise; likely cohort-specific figure)
 
 **Improve success** — **screws abutting posterior + inferior neck cortex**\
 ✗ Wrong options: titanium · start below LT · DHS for transcervical · alignment guide for parallelism
@@ -195,7 +254,7 @@ Femoral neck fracture
 
 ### Perioperative care
 
-**Timing** — **as soon as medically optimised, ideally < 24–48 h**; **< 24 h of admission ↓ 30-d, 90-d, 1-yr mortality**; **delay > 4 days ↑ 1-yr mortality**; delay > 48 h acceptable **only to optimise multiple comorbidities**
+**Timing** — **as soon as medically optimised, ideally < 24–48 h**; **delay > 4 days → mortality × 2.25** (TO); **regional anaesthesia ↓ DVT, PE, pneumonia, transfusion** (TO); **< 24 h of admission ↓ 30-d, 90-d, 1-yr mortality**; **delay > 4 days ↑ 1-yr mortality**; delay > 48 h acceptable **only to optimise multiple comorbidities**
 
 **> 3 comorbidities** — **pre-op medical optimisation** matters more than speed
 
@@ -253,6 +312,12 @@ Femoral neck fracture
 ### Nonunion / malunion – valgus intertrochanteric osteotomy
 
 **Concept** — turns **vertical shear** line into **horizontal compression**; corrects varus; works even with **non-collapsed AVN**
+
+**Nonunion causes (TO)** — **posterior comminution** · initial displacement · imperfect reduction · non-compressive fixation
+
+**Osteotomy options (TO)** — **McMurray displacement** · Schanz angulation · **Pauwels (Müller) reorientation = best accepted** · template on **normal side**, wedge **\~25°**
+
+**AVN rates (TO)** — **5–8% undisplaced** · **20–45% displaced** · causes: inadequate / delayed reduction, displacement, **associated dislocation** · young → osteotomy or arthrodesis; elderly → arthroplasty
 
 **Valgus osteotomy indication** — **young nonunion with viable head**\
 ✗ Wrong options: collapsed AVN → arthroplasty · retroversion / cross-over → PAO · high dysplasia → subtroch osteotomy + THA · metastases → cemented arthroplasty
@@ -432,3 +497,9 @@ Femoral neck fracture
 **"NOT in FRAX?"** → **spine T-score**
 
 **"AIIMS box technique (TO)?"** → **neglected fracture neck of femur**
+
+**"Garden alignment index for acceptable reduction?"** → **160° AP, 180° lateral** (TO)
+
+**"Tension-side femoral neck stress fracture?"** → **internal fixation** (TO)
+
+**"Artery usually preserved in displaced neck fracture?"** → **inferior retinacular** (TO)

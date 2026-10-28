@@ -37,6 +37,8 @@
 
 **Normal CC distance** — **11–13 mm** (top of coracoid → undersurface of clavicle)
 
+**AC joint type (TO)** — **atypical synovial** with fibrocartilaginous disc · **AC ligament = horizontal**, **CC = vertical** stability · conoid = medial/central, trapezoid = lateral · conoid–trapezoid gap **~1.5 cm** · CC distance **>25% increase = disruption** (TO)
+
 ## 2 Mechanism
 
 **Mechanism** — **direct blow to the shoulder** (fall onto **adducted** shoulder); bike falls, contact sport
@@ -89,6 +91,8 @@
 **Penetration** — AC joint needs **1/3–1/2** of glenohumeral exposure → standard AP **over-penetrates (dark)** AC joint
 
 **Zanca tilt** — **10–15°** (Orthobullets, OB) · **15°** (one OB explanation)
+
+**TO views** — AP routine · **15° cephalic tilt (Zanca)** clears thoracic shadow · **stress view with 5 kg hanging** → subtle AC separation · axillary lateral → anterior/posterior displacement
 
 ![Zanca view technique](../../Orthobullets/attachments/ob3047-shows-zanca-view.jpg)
 
@@ -145,6 +149,8 @@ AC joint injury (Rockwood)
 ```
 
 ### Low-grade injuries – sling & early motion
+
+**TO nonop** — sling **3–4 wk** → early motion · **persistent pain at 2–3 months → distal clavicle excision (1–2.5 cm)** · type III **controversial**: nonop generally, **operative for young / athletes / manual workers** · IV–VI operative
 
 **Nonop regimen** — brief sling (**2–4 wk** for I–III, OB), ice, activity modification, **early ROM**, PT; ± steroid injection
 
@@ -210,6 +216,16 @@ AC joint injury (Rockwood)
 ![Hook plate fixation](../../Orthobullets/attachments/ob3047-hook-plate.jpg)
 
 **Post-op rehab** — sling **6 wk, no ROM** · full activity at **6 months**
+
+| Technique (TO) | Concept |
+|---|---|
+| Phemister K-wire | **Obsolete** (migration) |
+| **Hook plate** | Hook **under posterior acromion** (anterior placement → impingement) · **remove 8–10 wk** |
+| Bosworth screw | CC screw · **remove 8–10 wk** (vs 8–12 wk above) |
+| **TightRope / Endobutton** | FiberWire suspensory CC fixation keeping **~1.2 cm** CC distance |
+| Suture anchor | Coracoid + clavicle tunnels at **3 cm (trapezoid) + 4.5 cm (conoid)** |
+| Weaver-Dunn | CA ligament transfer + distal clavicle excision — chronic |
+| **Hamstring autograft / Mazzocca** | **Anatomic conoid + trapezoid reconstruction → gold standard for chronic** (TO) |
 
 ### AC joint cyst (Geyser sign) (TO)
 
@@ -326,3 +342,7 @@ AC joint injury (Rockwood)
 **"Commonest AC cyst type?"** → **type 2 — chronic cuff tear** (TO)
 
 **"Geyser sign, severe pain, irreparable cuff, elderly?"** → **arthroplasty (RSA > hemi)** (TO)
+
+**"Correct hook-plate position?"** → **hook under the posterior acromion** (anterior → impingement) (TO)
+
+**"Gold standard for chronic AC dislocation?"** → **anatomic CC tendon-graft reconstruction** (TO)

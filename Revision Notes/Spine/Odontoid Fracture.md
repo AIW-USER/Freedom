@@ -12,9 +12,15 @@
 
 **Displacement** — anterior (hyperflexion) → TAL failure + AAI · posterior (hyperextension) → C1 anterior arch strikes dens
 
+**Axis fractures (TO)** — **\~20% of cervical fractures** · neuro injury **< 10%** (canal widens) · dens mean length **\~15 mm** · pathological: metastases
+
+**Steel's rule of thirds (TO)** — at C1: **dens, free space, cord = ⅓ each**
+
 ### Anatomy
 
 **Ossification** — **5 centres**: body, 2 neural arches, odontoid, **secondary (tip) centre** · **subdental (basilar) synchondrosis fuses \~6 yrs** (5–7) · secondary centre **appears \~3, fuses \~12 yrs** → fused synchondrosis + unfused tip = **8–10 yrs**
+
+**Ossification timing (TO)** — 2 neural arches **7–8 wks** fetal · body **4–5 months** · 2 dens centres **6–7 months** · tip appears **3–6 yrs**, fuses \~12 yrs
 
 **Ligaments** — **transverse = primary atlantoaxial stabiliser** (limits anterior C1 translation) · **alar + apical limit rotation**
 
@@ -36,6 +42,12 @@
 ### Os odontoideum
 
 **Cause** — likely **old trauma** (not failed fusion) · looks like a type II fracture · **observe** if no deficit/instability · **C1-2 fusion** if deficit or instability
+
+| Feature (TO) | Os odontoideum | Type II fracture |
+|---|---|---|
+| Margins | **Smooth, corticated** | **Sharp, uncorticated** |
+| Motion | **Moves with C1** | Static |
+| Shape | Rounded | Irregular |
 
 ## 3 Presentation
 
@@ -130,6 +142,8 @@ Type II odontoid
 
 **Pros** — **preserves C1-2 rotation**, fewer infections than posterior · single screw adequate
 
+**Odontoid screw criteria (TO)** — acute type II / cephalad type III (**< 6 months**) + **intact TAL** · contraindicated: TAL rupture, **osteoporosis**, large gap, **chronic > 18 months**, pathological, unfavourable oblique line
+
 **Cons** — **higher failure than posterior C1-2 fusion** · not for transverse, posterior oblique, type I/III
 
 ![Anterior oblique fracture line suits odontoid screw](../../Orthobullets/attachments/ob2016-anterior-oblique-fracture-line-amenable-to-odontoid-screw.jpg)
@@ -144,6 +158,17 @@ Type II odontoid
 **C2** — **pars (commonest)**, pedicle, laminar · Gallie/Brooks wiring needs halo (rare)
 
 **Transarticular C1-2 screws** — **contraindicated with aberrant vertebral artery**
+
+| Posterior C1-2 technique (TO) | Note |
+|---|---|
+| **Gallie** | Midline graft + wire · **least rotational stability** |
+| **Brooks-Jenkins** | Bilateral sublaminar wires + grafts · \~**93% fusion** |
+| Sonntag | Interspinous wiring |
+| **Goel-Harms / Magerl** | C1 lateral mass–C2 pedicle / transarticular screws · **most stable** |
+
+**Biomechanical order (TO)** — **transarticular > pedicle > intralaminar** · pre-op **CT angiogram** for vertebral artery course · flexion-extension **ADI > 5 mm** = instability
+
+**Halo in elderly (TO)** — **avoid** (aspiration) · hard collar for elderly type II → **fibrous union acceptable**
 
 **Transoral odontoidectomy** — severe posterior dens displacement + cord compression + deficit · rarely; C1 laminectomy usually enough · combine with posterior fusion
 
@@ -229,3 +254,5 @@ Type II odontoid
 **"Paediatric odontoid fracture?"** → **almost always at the basilar synchondrosis**
 
 **"5-yr unstable synchondrosis fracture?"** → **closed reduction + Minerva cast or halo**
+
+**"Os odontoideum vs type II fracture?"** → **smooth corticated margins, moves with C1** (TO)

@@ -32,6 +32,12 @@
 
 **Cells** — **fibroblasts (tenocytes)**: spindle-shaped, parallel rows along load · make type I (85%) + type III (5%) collagen · drive healing
 
+**Tendon composition (TO, tendinopathy lecture)** — **70% water**, 30% solids · collagen **86%** of dry mass (type I; small III, IV, V, VI, IX) · cells **90–95% tenocytes** · elastin 2%, proteoglycans 1–2%
+
+**Metabolism (TO)** — aerobic + anaerobic · **O₂ consumption 7–8× lower than skeletal muscle** → slow healing · intrinsic (myotendinous + osteotendinous junctions) + extrinsic (paratenon / sheath) supply · **GTOs + unmyelinated nociceptors**
+
+**Tendinopathy causes (TO)** — intrinsic: age, obesity, **diabetes**, thyroid, menopause, genetic collagen defects · extrinsic: training errors, footwear / surface, **fluoroquinolones, corticosteroids**
+
 **Blood supply** — musculotendinous junction · osseotendinous junction · surrounding tissue (paratenon, mesotenon, **vincula**)
 
 ### Enthesis
@@ -154,3 +160,5 @@
 ✗ Wrong options: M2 (remodelling) · type I deposition
 
 **"Jersey finger with fragment at A2 — vascular structure injured?"** → **vincula brevia to FDP**
+
+**"Tendon oxygen consumption vs skeletal muscle?"** → **7–8× lower** (TO)

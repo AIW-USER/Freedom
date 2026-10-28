@@ -31,6 +31,38 @@
 | Klippel-Feil | — |
 | **Charcot joint** | **< 5%**, usually **shoulder** |
 
+### Chiari malformation (TO)
+
+**Definition** — **cerebellar tonsils herniate through foramen magnum** → medulla/cord compression ± hydrocephalus, syrinx (TO)
+
+**Syrinx rule** — **any syrinx → look for Chiari** (commonest cause) (TO)
+
+**Two mechanisms of deficit** — direct **medulla/cord compression** at foramen magnum · **CSF flow obstruction** → syrinx/syringobulbia (TO)
+
+**Hydrodynamic theory** — pressure difference across foramen magnum → CSF pulses into canal (**"water-hammer"**) → syrinx expands (TO)
+
+**Aetiology** — primary: **hypoplastic posterior fossa** (underdeveloped occipital bone) · secondary: premature suture closure, calvarial dysplasia, **chromosome 1, 22** · Chiari II: **open NTD** → collapsed 4th ventricle (TO)
+
+| Type | Feature (TO) |
+|---|---|
+| **0** | Syringomyelia **without** hindbrain herniation |
+| **I** | Tonsils **> 5 mm below foramen magnum** (McRae line) · commonest · adolescents/adults · **0.5–3.5%** of population · F:M **1.3:1** |
+| **1.5** | Progression of I · ↑ descent + mild brainstem involvement |
+| **II** | Brainstem + cerebellum + **vermis** · **always with myelomeningocele** + hydrocephalus · **0.44/1000 births** (↓ with maternal folate) |
+| **III** | Hindbrain herniation through high cervical/**occipital encephalocele** · 1–4.5% of Chiari |
+| IV | Cerebellar hypoplasia/agenesis · lethal, obsolete |
+| V | Cerebellar agenesis + **occipital lobe herniation** · non-viable |
+
+| Feature | Chiari I | Chiari II |
+|---|---|---|
+| Age | Adolescent / adult | Neonatal / in utero |
+| Cause | **Small posterior fossa** | **Neural tube defect** |
+| Hydrocephalus | Rare | **Common** |
+| Associated anomaly | **Syringomyelia** | **Myelomeningocele** |
+| Prognosis | **Excellent** | Poor — **3% neonatal, 15% 3-yr mortality** |
+
+**Chiari II signs** — respiratory distress, feeding difficulty, brainstem signs (TO)
+
 ## 3 Presentation
 
 **Symptoms** — **occipital headache worse with Valsalva** (cough, sneeze — tussive, dural stretch), back + radicular pain · **central cord syndrome** picture
@@ -45,6 +77,12 @@
 
 **Chiari brainstem signs (TO)** — nystagmus, hoarseness, swallowing/speech problems, sleep apnoea, imbalance
 
+**Commonest Chiari I symptom** — **suboccipital headache worse with Valsalva** · cerebellar signs (ataxia, dysmetria, nystagmus) · CN IX–XII (dysphagia, hoarseness, sleep apnoea) · diplopia, vertigo, tinnitus (TO)
+
+**Syrinx motor pattern** — **LMN hand weakness / claw hand** + **UMN LL spasticity** · **Horner's** with cervical syrinx · scoliosis from paraspinal atrophy (TO)
+
+**Left-sided scoliosis + absent reflexes** — MRI to rule out Chiari (TO)
+
 ![Cervical syringomyelia](../../Orthobullets/attachments/ob2011-syringomyelia.jpg)
 
 ## 4 Diagnosis & Classification
@@ -56,6 +94,10 @@
 | X-ray | **Lack of thoracic apical lordosis** suggests syrinx · scoliosis series |
 | **MRI** | **Diagnostic** · **gadolinium** to exclude tumour |
 | CT myelogram | Post-traumatic syrinx / arachnoid webs — shows obstruction (TO) |
+| **Cine MRI (CSF flow study)** | Confirms **flow obstruction at foramen magnum** · **MRI + cine MRI = gold standard** (TO) |
+| CT / X-ray | Bony anomalies — basilar invagination, atlas assimilation (TO) |
+| Myelography | When MRI contraindicated (TO) |
+| **Fetal US (Chiari II)** | **Lemon sign** (frontal bone flattening) · **banana sign** (curved cerebellum, obliterated cisterna magna) (TO) |
 
 ### Diagnostic criteria – MRI in scoliosis
 
@@ -88,6 +130,12 @@ Syrinx ± Chiari
 
 **Chiari decompression (TO)** — suboccipital craniectomy to uncover tonsils + **C1 laminectomy** + intradural inspection ± tonsil reduction + **duraplasty**
 
+**Chiari surgical indications (TO)** — symptomatic Chiari I with **> 5 mm** descent · progressive deficit or syrinx · hydrocephalus / brainstem compression · asymptomatic descent → **observe**
+
+**Adjuncts (TO)** — tonsillar cauterisation · arachnoid lysis · persistent syrinx → **syringo-subarachnoid / -pleural / -peritoneal shunt**
+
+**Timing (TO)** — surgery **< 2 yrs from symptom onset** → better outcome · pre-op deficit → poorer recovery · syrinx often regresses + scoliosis may stabilise after decompression
+
 **Primary spinal syringomyelia (TO)** — shunting (pleura/peritoneum) has **high failure** (cavity collapses on tube) → **resect focal obstruction**
 
 **Scoliosis** — decompression alone may improve curve but large curves / **> 8 yrs** still progress
@@ -95,6 +143,8 @@ Syrinx ± Chiari
 ## 6 Complications
 
 **Undiagnosed syrinx + fusion** — **↑ neurological deterioration / paralysis**
+
+**Chiari decompression complications (TO)** — CSF leak / **pseudomeningocele** · meningitis · brainstem dysfunction · **vertebral artery injury** · shunt blockage
 
 ## How it's asked
 
@@ -109,3 +159,7 @@ Syrinx ± Chiari
 **"5-yr, 20° left thoracic, hand pinprick loss?"** → **MRI of the entire spine**
 
 **"12-yr left thoracic curve + Valsalva headaches — MRI?"** → **syrinx + tonsillar herniation (Chiari I)**
+
+**"Chiari I cut-off?"** → **tonsils > 5 mm below foramen magnum (McRae line)** (TO)
+
+**"Fetal US signs of Chiari II?"** → **lemon + banana signs** (TO)

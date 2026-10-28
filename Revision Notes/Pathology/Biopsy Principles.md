@@ -14,6 +14,18 @@
 
 **Golden rule** — all tissue exposed, and any **haematoma**, is **contaminated** → must be resected at definitive surgery
 
+**Timing (TO)** — **only after complete imaging** (X-ray, MRI, CT/PET) → imaging picks the site, solid vs cystic part, soft-tissue extension · biopsy **confirms** a differential, not finds one
+
+**Biopsy = separate, planned procedure (TO)** — never combined with curettage, excision, nailing or arthroscopic excision · **path fracture → splint, wait 5–7 days** for report before fixation
+
+**Mankin "Hazards of biopsy, revisited" (TO)** — JBJS 1996, 597 patients · **diagnostic error 17.8%** · errors, complications, change in outcome **2–12× higher** when biopsy done **outside a treatment centre** · 18 unnecessary amputations · same as 1982 study → **refer before biopsy**
+
+**Pathologist (TO)** — whole specimen to **one musculoskeletal pathologist** · report not fitting → send **same slides + blocks** for review · long descriptive report ("cannot be ruled out") = uncertain → call pathologist
+
+### "Touch-me-not" lesions — no biopsy (TO)
+
+**Classic radiology → no biopsy** — **NOF** · **FD (ground glass)** · **osteochondroma** · **enchondroma** · **calcaneal lipoma (cockade sign)** · **bone infarct** · biopsy if atypical features (TO)
+
 ## 4 Diagnosis & Classification
 
 ### Indications for biopsy (criteria)
@@ -37,6 +49,12 @@
 ![Principle of Tru-cut core biopsy](../../Orthobullets/attachments/ob8082-principle-of-trucut-biopsy.jpg)
 
 **Open vs needle** — open → more contamination → **higher local recurrence after definitive surgery** **(TO)**
+
+**Needle vs open (TO)** — needle **as accurate as open**, fewer complications · core preferred (cost-effective, minimal contamination) · open only if more tissue needed or pathologist cannot report a core
+
+**Reamings (TO)** — **not reliable** for histology · diagnosis in only **\~60%** (90 cases) → never rely on reamings
+
+**Excision biopsy criteria (TO)** — **all** of: **superficial (above fascia) on MRI** · **< 3 cm** · **MRI before surgery** · **en bloc** with good margins · piecemeal removal ≠ excision biopsy
 
 **Never divide the sample** — heterogeneous tumours → discordant grades · for second opinion, review slides/blocks **(TO)**
 
@@ -85,6 +103,29 @@ Suspected sarcoma / aggressive lesion
 
 **Repeat core** — allowed but **not in a new direction** (contaminates another compartment)
 
+### Needle technique & lesion type (TO)
+
+| Lesion | Technique (TO) |
+|---|---|
+| **Solid** | J-needle into **solid, enhancing** part · rotate, suction, press over tract |
+| **Cystic (fluid levels)** | **Heparinised** needle + syringe under C-arm → empty into heparinised bowl → **scrape cyst walls** → sieve through mop · under **spinal / GA** (scraping painful) |
+| **Bone + soft-tissue component** | Sample the **soft-tissue part** · **biopsy gun** = most atraumatic · no decalcification |
+| **Intra-articular / notch lesion** | **US- or CT-guided needle** · **never arthroscopic** (contaminates joint; synovial sarcoma misread as PVNS) |
+
+![Isolating tumour tissue from a cystic lesion](../../TO notes/attachments/TOn-notes-pitfalls-in-bone-biopsy-p07-f019.jpg)
+
+**Single entry point (TO)** — angle the needle in **different directions through the same entry** · two sites = twice the skin + muscle to excise
+
+**Fluid levels + solid areas (TO)** — **secondary ABC** (e.g. **GCT with secondary ABC**) → biopsy the **solid** part · cystic part gives "cyst wall, haemorrhage, fibrin" = non-diagnostic
+
+![Fluid-fluid levels with solid areas — GCT with secondary ABC](../../TO notes/attachments/TOn-notes-pitfalls-in-bone-biopsy-p01-f002.jpg)
+
+**Knee tract (TO)** — distal femur **medial or lateral** · proximal tibia **medial or lateral to patellar tendon** · **never anterior (rectus femoris) or posterior (NV bundle)** · midline TKR-type incision contaminates rectus · mark the incision for the radiologist · tibia: anteromedial preferred
+
+**Closure (TO)** — **3-0 / 4-0, small bites** · no large hatch marks · avoid drains unless needed
+
+**Sclerotic lesion in a child (TO)** — **OS until proven otherwise** even without periosteal reaction · FD is ground glass, not ivory · "no malignant osteoid seen" may be sampling error
+
 **Chronic destructive monoarthritis** (endemic TB region) — **open biopsy** of joint + bone for **histology (granulomas) + AFB/fungal culture**\
 ✗ Wrong options: empirical antibiotics · steroid trial · fusion first
 
@@ -99,7 +140,20 @@ Suspected sarcoma / aggressive lesion
 
 **Radiation** — no: osteosarcoma is radio-resistant
 
+**Unplanned surgery examples (TO)** — clear cell CS curetted as "ABC" → amputation · OS debrided as Brodie abscess → wide resection · giant-cell-rich OS curetted as GCT → soft-tissue recurrence · UPS nailed, reamings sent → hindquarter amputation
+
+**Consequences (TO)** — ↑ morbidity · wider excision / amputation · local recurrence · flaps + grafts (e.g. hemisoleus flap after open Ewing tibia biopsy) · **delayed chemo**
+
 ## How it's asked
+
+**"Diagnostic yield of reamings sent from a pathological-fracture nailing?"** → **\~60% — unreliable** (TO)
+
+**"Excision biopsy acceptable when?"** → **superficial, < 3 cm, MRI done, en bloc** (TO)\
+✗ Wrong options: piecemeal excision · deep lesion
+
+**"Mankin — complications when biopsy done outside a tumour centre?"** → **2–12× higher** (TO)
+
+**"Classic NOF / FD / cockade lipoma on X-ray — next?"** → **no biopsy ("touch-me-not")** (TO)
 
 **"True statement about bone tumour biopsy?"** → **open biopsy → higher local recurrence than needle** **(TO)**\
 ✗ Wrong options: divide sample · raise flaps · FNAC preferred

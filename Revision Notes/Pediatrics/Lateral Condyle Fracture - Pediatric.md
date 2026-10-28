@@ -87,6 +87,20 @@
 
 **Prognosis (TO)** — type 3 complications **>3×** type 2 · type 3 = **highest nonunion risk** (✓ even after K-wires)
 
+### Jakob & Song classifications (TO)
+
+| Jakob (TO) | Feature |
+|---|---|
+| **I** | **< 2 mm**, intact hinge |
+| **II** | **> 2 mm**, no rotation |
+| **III** | Displaced **with rotation** |
+
+**Song (TO)** — **most useful** · uses the **internal oblique view** · stages **1–5** by stability + displacement · **stage 3 = complete and unstable even if minimally displaced**
+
+**Milch (TO)** — not predictive of treatment or outcome · **arthrogram** via lateral soft spot or posterior olecranon fossa assesses the cartilage hinge → CRPP vs ORIF · large metaphyseal fragment in older child → **screw** · pins out at union (\~4–6 wk)
+
+**Other TO lecture** — **< 2 mm cast · 2–4 mm CRPP · > 4 mm or rotated → ORIF** · \~15% of elbow fractures · ↑ nonunion and AVN
+
 ### Pediatric elbow injury frequency
 
 | Injury | % | Peak age | Needs OR |

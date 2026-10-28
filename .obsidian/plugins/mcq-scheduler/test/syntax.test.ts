@@ -4,16 +4,54 @@ import { describe, expect, it } from "vitest";
 import { parseModules } from "../src/modules";
 import { parseMcq } from "../src/parser";
 
-const README = "/Users/phaneendra/Freedom/MCQ syntax.md";
+const README = "/Users/phaneendra/Freedom/README.md";
 
-/** The worked example: the first ```markdown block in the README. */
+/**
+ * The worked example from the former MCQ syntax.md, kept here since that
+ * note left the vault, so the documented syntax stays under test.
+ */
+const MCQ_EXAMPLE = `# MY001
+
+#MY #kneesports #acltear
+Topic: [[acl-tear]]
+Exam: Mock exam 2026 | Question 1
+Source: https://www.orthobullets.com/knee-and-sports/3008/acl-tear
+Chapter: Sports Medicine MCQs — ACL Tear
+
+## Question
+
+During ACL reconstruction, a graft that is tight in flexion but lax in extension is most likely due to which error?
+
+![[my001-question.png]]
+
+## Options
+
+1. Femoral tunnel too posterior
+2. Femoral tunnel too anterior
+3. Tibial tunnel too anterior
+4. Tibial tunnel too medial
+
+## Correct option
+
+**2. Femoral tunnel too anterior**
+
+## Answer explanation
+
+An anterior femoral tunnel tightens the graft in flexion because of the cam effect of the femoral condyle.
+
+Answer: 2
+
+## Illustrations
+
+![[my001-illustration.png]]
+*Illustration A*
+`;
+
 function readmeExample(): string {
-	const m = /```markdown\n([\s\S]*?)```/.exec(readFileSync(README, "utf8"));
-	expect(m, "no ```markdown example in MCQ syntax.md").not.toBeNull();
-	return m![1];
+	return MCQ_EXAMPLE;
 }
 
-describe("MCQ syntax.md", () => {
+describe("MCQ syntax worked example", () => {
 	it("has a worked example that the plugin parses", () => {
 		const mcq = parseMcq("MCQ/MY001.md", readmeExample());
 		expect(mcq.id).toBe("MY001");
@@ -109,11 +147,11 @@ describe("the parser's error messages", () => {
 	});
 });
 
-describe("MCQ module syntax.md", () => {
+describe("README.md, MCQ module syntax", () => {
 	it("has a worked example that the modules parser reads as documented", () => {
-		const text = readFileSync("/Users/phaneendra/Freedom/MCQ module syntax.md", "utf8");
-		const m = /```markdown\n([\s\S]*?)```/.exec(text);
-		expect(m, "no ```markdown example in MCQ module syntax.md").not.toBeNull();
+		const text = readFileSync(README, "utf8");
+		const m = /```markdown\n(# OB Concept Modules[\s\S]*?)```/.exec(text);
+		expect(m, "no module-syntax ```markdown example in README.md").not.toBeNull();
 		const defs = parseModules(m![1]);
 		expect(defs.map((d) => [d.key, d.section, d.topicLabel, d.ids])).toEqual([
 			["acl-tear::Graft choice & tunnel placement", "Trauma", "ACL Tear", ["OB1", "OB2", "TO17099138"]],

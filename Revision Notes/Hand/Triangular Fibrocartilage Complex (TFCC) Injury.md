@@ -27,6 +27,26 @@
 
 **UL / UT / ECU subsheath** — stabilise carpus to ulna; minimal DRUJ stability
 
+| Functional zone (TO) | Role | Components |
+|---|---|---|
+| **Distal** | Ulnocarpal stability | TFC, meniscus homologue, UL, UT |
+| **Proximal** | **DRUJ stability** | Radioulnar ligaments |
+| **Functional UCL** | Dynamic stabiliser | **ECU sheath** + thickened ulnar capsule |
+
+**Reciprocal RULs (TO)** — **supination → palmar RUL tight** · **pronation → dorsal RUL tight** · UL/UT tighten reciprocally in radio-ulnar deviation
+
+| Ulnocarpal ligament (TO) | Origin → insertion | Key feature |
+|---|---|---|
+| **Ulnocapitate** | Fovea → palmar-ulnar capitate | **Most superficial** |
+| Ulnotriquetral | Palmar RUL + styloid → triquetrum | Oblique |
+| **Ulnolunate** | TFC disc → palmar lunate | **Motion coupling, not stability** |
+
+**Ligamentum subcruentum (TO)** — vascular connective tissue between RUL limbs at styloid → **aids healing**
+
+**Meniscus homologue (TO)** — C-shaped, **highly vascular + elastic**, round styloid tip · **prestyloid recess** between MH + TFC: type 1 narrow-long, type 2 wide-short, type 3 no ulnocarpal opening (connects DRUJ)
+
+**ECU sheath (TO)** — **taut in pronation → prevents dorsal dislocation of ulnar head** · relaxes in supination
+
 **Volar RUL injury** → **dorsal subluxation of ulna** · dorsal RUL injury → volar subluxation of ulna
 
 **Secondary DRUJ stabiliser** — dorsal oblique band of IOM
@@ -60,6 +80,18 @@
 
 **Fovea sign** — tender **soft spot between ulnar styloid and FCU**, volar ulnar head → pisiform; **95% sensitive, 87% specific** for foveal / UT injury
 
+**Fovea sign interpretation (TO)** — positive = **foveal avulsion (DRUJ unstable)** · negative with ulnar pain = **UT ligament tear (DRUJ stable)**
+
+**Dimple sign (TO)** — hand flat, ulnar head shifts palmarly → dorsal dimple = **multidirectional DRUJ instability**
+
+| Palpation (TO) | Site | Condition |
+|---|---|---|
+| Full pronation | Dorsal radial metaphysis | EDC tenosynovitis |
+| Full pronation | Proximal-ulnar corner of lunate | Ulnocarpal impaction / Kienböck |
+| Full pronation | Dorsal ulnar head | DRUJ arthritis |
+| **Full supination** | **Ulnar snuffbox / fovea** | **TFCC tear / DRUJ instability** |
+| Palmar | Pisiform, FCU, hook of hamate | ECU tendinopathy / pisotriquetral OA |
+
 **Provocation** — pain with **ulnar deviation** (compression) or radial deviation (tension), resisted ulnar deviation
 
 **Piano key sign (TO)** — ballotable distal ulna = **DRUJ instability**: **TFCC tear, Galeazzi (nonunion), Madelung**; **not isolated ulnar styloid fracture**
@@ -74,7 +106,11 @@
 
 **Arthrography** — extravasation (largely replaced by MRI)
 
+**MRI clues (TO)** — **DRUJ effusion** · **fluid in prestyloid recess** · **"floppy" disc** · read **coronal** (axials poor) · small tears missed at 1.5 T → 3 T or MR arthrography
+
 **MRI / MR arthrogram** — **sensitivity 74–100%**; lunate ulnar-side tear = ulnocarpal impaction
+
+**CT (TO)** — best for **DRUJ subluxation** + bony detail · **MR arthrography** = highest sensitivity for perforations (TO)
 
 **Arthroscopy** — **gold standard / most accurate**; after several months failed splinting
 
@@ -103,6 +139,8 @@
 
 **Need for surgery ↑ (TO)** — associated fractures, instability, DRUJ injury; most isolated tears no early surgery
 
+**Ulnar wrist pain differential (TO)** — TFCC · ulnocarpal impaction · ECU · hook of hamate · LT instability · ulnar styloid impaction · **TILT (triquetral impingement ligament tear)** · DRUJ OA
+
 **Differentials** — ulnocarpal abutment, ulnar styloid impaction, ECU tendonitis, hook of hamate fracture, ulnar tunnel, pisotriquetral OA
 
 ## 5 Management
@@ -122,6 +160,20 @@ TFCC injury
 
 **Acute 1B, DRUJ stable, 5 days** — **immobilisation + NSAIDs**\
 ✗ Wrong options: arthroscopy yet · repair · shortening · wafer
+
+**Conservative (TO)** — **above-elbow cast 4–6 wk**, NSAIDs, steroid or **PRP** injection, proprioceptive + grip PT
+
+| Surgery (TO) | Procedure |
+|---|---|
+| Central 1A | Arthroscopic debridement |
+| Peripheral 1B / 1C | Suture anchor / transosseous repair |
+| **Ulnar styloid nonunion** | **Excision + TFCC reattachment** |
+| **Chronic DRUJ instability** | **Foveal reattachment of RUL** / ulnar shortening |
+| Approach | **Palmar for UL/UT** tears · **dorsal for RUL / foveal** repair |
+
+**6U portal (TO)** — soft spot between **UT ligament and ECU sheath** → ulnar recess, **foveal repair**
+
+**Rehab (TO)** — 0–4 wk immobilise neutral rotation · 4–8 wk ROM + pronosupination · 8–12 wk strengthening · full recovery **3–4 months**
 
 **Debridement** — 1A; 3-4 + 6R portals; **keep 2 mm peripheral rim**; 80% pain relief; **not effective with ulnar-positive variance**
 
@@ -181,6 +233,10 @@ TFCC injury
 **"Acute 1B, stable DRUJ, 5 days?"** → **immobilization with NSAIDs**
 
 **"Defect adjacent to ulna, stable DRUJ — Palmer?"** → **Class 1B** (TO)
+
+**"Tight radioulnar ligament in supination?"** → **palmar RUL** (TO)
+
+**"Positive foveal sign indicates?"** → **TFCC foveal avulsion, DRUJ unstable** (TO)
 
 **"Iceberg concept given by?"** → **Atzei & Luchetti** (TO)\
 ✗ Wrong options: Palmer & Werner · Nakamura

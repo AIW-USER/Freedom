@@ -10,6 +10,14 @@
 
 **Genetics** — **HLA-DR4**, HLA-DW4 · ~**15%** monozygotic twin concordance · trigger: infection or HLA locus
 
+**Twin concordance** — \~**15%** (Orthobullets) · **15–30%** (TO) — read the options
+
+**Sex** — **F:M 3:1** · peak 30s–50s (TO)
+
+**Genes (TO)** — **HLA-DRB1 shared epitope (DR4)** · PTPN22 · CTLA4 · STAT4 · TNFAIP3 · CCL21 · **PADI4** (Japanese)
+
+**Triggers (TO)** — **smoking** · **gingivitis (Porphyromonas gingivalis)**, Aggregatibacter, EBV · gut microbiota · triggering sites lung, mouth, gut
+
 ### Pathophysiology & serology (RF, anti-CCP, synovium)
 
 **Immunology** — **IgM cell-mediated (T cell–MHC class II)** response → soft tissue (early) → cartilage, bone (later) \
@@ -32,6 +40,16 @@
 **Bone erosion** — ✓ **TNF + IL-6 (+ IL-1) blockade slows erosion** · TNF mobilises osteoclast precursors · **M-CSF + RANKL** drive **osteoclast** differentiation · **denosumab** slows erosion, not inflammation · TNF ↑ **Dkk-1** → blocks **Wnt** → ↓ repair (Wnt interference ↑ erosion) · erosion ∝ synovitis · steroids, MTX, leflunomide bone-sparing via ↓ synovitis\
 ✗ Wrong options: "synovial fibroblasts resorb"
 
+**Citrullination (TO)** — **PAD enzyme** converts **arginine → citrulline** (filaggrin, fibrinogen) → neoantigens → MHC II T cells → B cells → **ACPA** · epitope spreading in maturation stage
+
+**Stages (TO)** — triggering → maturation (lymphoid tissue, marrow) → targeting (synovium) → fulminant (fibroblast-like synoviocytes lose contact inhibition, resist apoptosis)
+
+**Synovial lining (TO)** — **type A (macrophage-like)** + **type B (fibroblast-like)** synoviocytes · CD4/CD8 lymphoid follicles with germinal centres
+
+**Enzymes (TO)** — **MMP-3 most linked to cartilage destruction** (also MMP-1, 8, 9, ADAMTS) · **cathepsin B → subchondral bone destruction** (cathepsin K too) · IL-1, IL-17 → chondrocyte apoptosis
+
+**Bare-area erosions (TO)** — where synovium inserts into periosteum → characteristic of RA
+
 ### Genes & lab markers
 
 **Rheumatoid factor** — ✓ **IgM antibody against Fc of native IgG** · immune complexes deposit (kidney)\
@@ -41,6 +59,10 @@
 
 **Anti-CCP** — ✓ **most sensitive + specific** · sensitivity **50–75%**, specificity **90–95%** · as sensitive as, more specific than RF · **high levels → erosive disease** · may precede arthritis · anti-CCP ⊂ **ACPA** · ACPA bind citrullinated vimentin on osteoclasts → TNF → osteoclastogenesis · **independently predicts erosion**\
 ✗ Wrong options: "synovitis but not erosion"
+
+**RF / anti-CCP figures (TO)** — RF **75–85%** · may turn positive within 2 yr · high titre → extra-articular disease, poor prognosis · false + in Sjögren, SLE, vasculitis, chronic infection, liver disease, malignancy · anti-CCP **sensitivity 65%, specificity 95%** (TO) — read the options
+
+**Seropositive vs seronegative (TO)** — seropositive (RF / anti-CCP +) → more severe, more erosive · seronegative → usually milder
 
 **Other** — **anti-MCV** · ↑ ESR · ↑ CRP · **ANA in 30–40%** · joint fluid: **↓ complement**, ± RF
 
@@ -65,6 +87,29 @@
 | **Felty** | RA + **splenomegaly + leukopenia** |
 | **Still's** | Acute RA + **fever, rash, splenomegaly** |
 | **Sjögren** | Exocrine glands → ↓ saliva + tears · lymphoid proliferation |
+
+| Joint involvement (TO) | Frequency |
+|---|---|
+| MCP / PIP / MTP | **90%** |
+| Knee, ankle, wrist | 80% |
+| Shoulder | 60% |
+| Elbow | 50% |
+| TMJ, AC, SC | 30% |
+
+**Spared (TO)** — **DIP**, **thoracolumbar spine**, **SI joints** · **MCP = commonest joint** · morning stiffness **> 1 h**
+
+**Extra-articular (TO)** — **30–40%** · markers: high RF / anti-CCP, HLA-DR4, **male**, smoking · eyes: sicca, episcleritis, scleritis · lung: ILD, effusion, nodules · heart: pericarditis · blood: anaemia, thrombocytosis, Felty · nerve: mononeuritis multiplex, myelopathy · vasculitis, digital gangrene
+
+**Nodule sites (TO)** — olecranon, extensor tendons, occiput, heels, ischial tuberosity
+
+**Palindromic rheumatism (TO)** — episodic arthritis hours–days · normal between attacks · **no erosions** · equal sex · Guerne–Weismann 1992: 6-mo history, ≥1 attack seen by physician, ≥3 joints in separate attacks, no erosions, exclude RA/SLE/gout
+
+| ACR 1991 functional class (TO) | Limitation |
+|---|---|
+| I | None |
+| II | Leisure only |
+| III | Work + leisure |
+| IV | Self-care |
 
 ## 4 Diagnosis & Classification
 
@@ -137,6 +182,32 @@
 | Cyclosporine | Calcineurin inhibitor |
 
 **TNF blockers** — revolutionised RA (also JRA, SpA, CRMO, histiocytosis X) · ↓ pannus, cartilage loss, osteoclastic resorption · risks: **latent TB reactivation**, infection, **lymphoma**
+
+| Drug (TO) | Dose / fact |
+|---|---|
+| **Methotrexate** | **7.5–25 mg weekly** · hepatotoxicity, marrow suppression, pulmonary fibrosis · first-choice anchor DMARD · ineffective in axial SpA |
+| **Leflunomide** | Load **100 mg × 3 d** → 10–20 mg/d · diarrhoea, alopecia, neuropathy, HTN · avoid in pregnancy |
+| Sulfasalazine | 2 g/d · GI upset, rash, marrow suppression, (male) infertility |
+| Hydroxychloroquine | 200 mg bd × 3 mo → daily · **retinopathy** → eye exam baseline, at 5 yr, then yearly |
+| **Infliximab** | **3 mg/kg IV wk 0, 2, 6 → q8 wk** · **must combine with MTX** · infusion reaction, TB reactivation |
+| Etanercept | 25 mg SC twice weekly |
+| Adalimumab | 40 mg SC every 2 wk · fully human |
+| **Tofacitinib** | **JAK1/JAK3** · 5 mg bd oral · **herpes zoster** (vaccinate first) |
+| Baricitinib · filgotinib | JAK1/2 · selective JAK1 |
+| Tocilizumab | IL-6R · 4–8 mg/kg IV monthly · monitor lipids |
+| Secukinumab · belimumab · mavrilimumab | IL-17 · BLyS · GM-CSF |
+
+**Steroids (TO)** — flares + extra-articular disease · bridge **6–8 wk** · maintenance **≤ 10 mg prednisolone** · usable in pregnancy
+
+**Pregnancy (TO)** — safe: **HCQ, sulfasalazine** (+ steroids) · avoid: **MTX, leflunomide, biologics, JAK inhibitors** · RA often improves in pregnancy
+
+**Screening / monitoring (TO)** — **TB, HBV, HCV (± HIV)** before DMARD/biologic · CBC + LFT monthly × 3 mo then q2–3 mo · annual renal function
+
+**Treat-to-target (TO)** — DAS28: low → monotherapy · moderate-high → combination + short steroid · active > 3 mo → biologic (TNF or non-TNF) or JAK inhibitor · relapse common if stopped
+
+**Synovectomy (TO)** — rarely · persistent **wrist synovitis with tendon-rupture risk**
+
+**Perioperative (TO)** — hold biologics until their half-life has passed before surgery
 
 ![Ulnar drift at the MCP joints](../../Orthobullets/attachments/ob9085-ulnar-drift.jpg)
 
@@ -403,3 +474,10 @@ Ulnar drift at MCP
 **"False about 2010 RA criteria?"** → **score >8 needed** (✓ ≥6) **(TO)**
 
 **"18 mo post-chikungunya small-joint arthritis — treatment?"** → **MTX + sulfasalazine + HCQ** **(TO)**
+
+**"Antibody more specific than RF and predicting erosions?"** → **anti-CCP (spec 95%)** (TO)
+
+**"DMARDs safe in pregnancy?"** → **hydroxychloroquine + sulfasalazine** (TO)\
+✗ Wrong options: methotrexate · leflunomide · biologics
+
+**"JAK inhibitor adverse effect needing prior vaccination?"** → **herpes zoster** (TO)

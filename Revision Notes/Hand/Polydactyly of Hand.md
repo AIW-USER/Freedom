@@ -65,6 +65,10 @@
 **Ulnar-side scar after resection** — **ulnar (valgus) MCP instability**, weak pinch\
 ✗ Wrong options: dorsal/volar/radial instability · EPL loss
 
+**Principles (TO)** — use parts of both digits · repair collateral ligament · reinsert tendons · adequate web · cover articular surfaces
+
+**Triphalangeal thumb (TO)** — five-fingered hand, **delta phalanx**, unstable MCP → web creation, delta excision, **pollicisation**
+
 ### Central polydactyly
 
 **Rx** — **early** osteotomy + ligament reconstruction → prevent angular growth deformity

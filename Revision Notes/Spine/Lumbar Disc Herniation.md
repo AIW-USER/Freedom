@@ -43,6 +43,8 @@
 
 **Posture** — **leans away** from the radiculopathy side (opens foramen) · **sciatic scoliosis** (list)
 
+**Sciatic list (TO)** — **shoulder (lateral) disc → leans away** from pain · **axillary disc → leans toward** pain · **leg pain > back pain = hallmark** · relieved supine with hips + knees flexed
+
 **Cauda equina** — 1–10% (central disc): bilateral leg pain, weakness, saddle anaesthesia, bowel/bladder → **emergent discectomy within 48 h**
 
 ### Root localisation
@@ -94,6 +96,7 @@
 | Test | Fact |
 |---|---|
 | **Straight leg raise** | Reproduces leg pain at **30–70°** hip flexion · **L4, L5, S1** tension · **most predictive finding for a good surgical candidate** · false positive in hip disease (TO) |
+| SLR range (TO) | **35–75°** · tests: bowstring (popliteal pressure), **sitting SLR / slump**, femoral stretch (L2–L4) |
 | **Laségue** | Orthobullets: = SLR · **TO: two-step — SLR, then flex the knee → sciatic pain disappears (hip pain doesn't)** · "Laségue = SLR" is the **incorrect statement** (TO) — read the options |
 | **Bragard (reinforcement)** | SLR to pain, lower slightly, **dorsiflex ankle** → pain returns · makes SLR **specific for nerve compression** (TO answer over crossed SLR) |
 | **Crossed (well-leg) SLR** | **Less sensitive, more specific** · large **central** disc indenting thecal sac (TO) |
@@ -114,6 +117,14 @@
 | **MRI with gadolinium** | Revision: **scar enhances**, **recurrent disc doesn't** |
 | **CT myelogram** | Can't have MRI (pacemaker) · 93% accurate · **misses foraminal/extraforaminal** discs |
 
+**Read every slice (TO)** — foraminal/extraforaminal discs invisible on mid-sagittal cut · check **parasagittal "keyhole" foramen** (root dot in bright fat; **lost fat = compression**) · 3 axial cuts per level: **disc, foraminal, pedicle** · sequestrated fragment may sit **behind the pedicle**
+
+**Whole-spine screening (TO)** — **\~30% have a second lesion** (tandem stenosis, skip TB, metastases) · **1.5 T** standard, avoid low-field 0.2–0.5 T
+
+**Disc location (TO)** — sagittal 3: **at disc, up-migrated, down-migrated** · axial 4: **central, paracentral, foraminal, far lateral** · commonest **L4-5 > L5-S1 > L3-4** · new terms "right/left central"
+
+**Migrated fragment (TO)** — **down-migrated → axilla** of root (between dura and root) · **up-migrated → shoulder** · hook, don't pull · markedly up-migrated disc may hit the root above
+
 ### Red flags → MRI (TO)
 
 **Red flags** — **unexplained fever**, IVDU, **age < 20**, **significant trauma**, cancer history, CES \
@@ -128,6 +139,10 @@
 | **Protrusion** | Eccentric bulge, **annulus intact** |
 | **Extrusion** | Through annulus, **still continuous** with disc space |
 | **Sequestered (free)** | Through annulus, **no continuity**; migrates up/down |
+
+**Protrusion vs extrusion (TO)** — protrusion: **base wider than dome**, < 25% circumference · extrusion: **dome wider than base** or migrates on sagittal · sequestration: no connection (may lie behind pedicle / next level)
+
+**Bulge vs protrusion (TO)** — **bulge > 90°** (> 25%) of circumference · **protrusion < 90°**, base wider · extrusion: neck narrower, **subligamentous (PLL lifted)** · anterior herniation: usually no root
 
 | Containment | Definition |
 |---|---|
@@ -148,6 +163,12 @@ Lumbar disc herniation
 │      (mild non-progressive weakness still non-op)
 ├─ Failed ~6 wks, severe pain → TRANSFORAMINAL SELECTIVE ROOT INJECTION
 └─ Persistent disabling pain > 6 wks / progressive weakness → MICRODISCECTOMY
+
+**Natural history (TO)** — **\~60% recover within 6 wks** · rest 2–7 days · NSAIDs, pregabalin · MRI if **> 6 wks**, deficit, red flags · surgery after **6–8 wks** failed care · ideal candidate: leg > back pain, **MRI matches clinical**, single level
+
+**Microlumbar discectomy (TO)** — **gold standard** · prone, flexed hips + knees (**"French" position**) · \~2.5 cm midline incision · flavectomy → root → fragment · not for instability / multilevel disease · endoscopic (transforaminal/interlaminar) for contained discs
+
+**Degeneration sequence (TO)** — **endplate sclerosis → ↓ diffusion → desiccation → annular fissure → prolapse** · peak 30–50 yrs · recurrence \~**5%** (TO) vs **5–15%** (Orthobullets)
        ├─ Paracentral → MIDLINE LAMINOTOMY + LIMITED DISCECTOMY
        └─ Far lateral → PARASPINAL (WILTSE) APPROACH
 ```
@@ -219,6 +240,18 @@ Lumbar disc herniation
 ### Endoscopic anatomy (TO)
 
 **Kambin's triangle** — answer not keyed by source · options: exiting root / superior endplate / traversing root vs alternatives — the commonly taught boundaries are **exiting root (hypotenuse), superior endplate of the lower vertebra (base), traversing root / dural sac (height)**
+
+**Kambin's triangle (TO definition)** — **anterior: exiting root** · **inferior: superior endplate of lower vertebra** · **posterior: SAP of lower vertebra** · **medial: traversing root + dural sac**
+
+| Endoscopic approach (TO) | Use |
+|---|---|
+| **Transforaminal** (Kambin's triangle) | **Foraminal / far-lateral** discs, recurrent discs, facet cysts, discitis, high-risk patients (**local + sedation**) |
+| **Interlaminar** | **Central / paracentral, esp. L5–S1** (iliac crest blocks transforaminal) · over-the-top contralateral decompression |
+| **UBE (biportal)** | Two portals, arthroscopy instruments, cheaper, less radiation |
+
+**Transforaminal technique (TO)** — **outside-in preferred** over inside-out (sees root) · entry **8 cm (L1-2), 10 cm (L3-4), 12 cm (L4-5/L5-S1)** from midline · needle stops at **medial pedicular line** · root pulsation = decompressed · history: **Kambin & Sampson 1986**, Hijikata 1989
+
+**Endoscopy limits (TO)** — dural repair not feasible · difficult with dorsal / highly migrated fragments · residual fragments, epidural haematoma, fluid overload
 
 ### Recurrent herniation & postoperative course
 
@@ -391,3 +424,7 @@ Lumbar disc herniation
 **"Day-3 leg weakness after TLIF?"** → **haematoma** (TO)
 
 **"Red flags all EXCEPT?"** → **lack of family support** (TO)
+
+**"Inferiorly migrated L4-5 fragment lies at?"** → **axilla of the traversing L5 root** (TO)
+
+**"Kambin's triangle — anterior boundary?"** → **exiting nerve root** (TO)

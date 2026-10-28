@@ -71,6 +71,27 @@
 
 **Polytrauma threshold** — **ISS > 15** (major trauma; **10% mortality**) (Orthobullets, TO, OB) · **ISS ≥ 18** polytrauma / transfer (OB) — read the options
 
+**Berlin definition of polytrauma (2014) (TO)** — **≥ 2 injuries with AIS ≥ 3** + **≥ 1** of: **SBP ≤ 90** · **GCS ≤ 8** · **BD ≤ −6.0** · **PTT ≥ 40 s or INR ≥ 1.4** · **age ≥ 70**
+
+| ISS (TO) | Severity |
+|---|---|
+| 1–8 | Minor |
+| 9–15 | Moderate |
+| 16–24 | Severe |
+| **≥ 25** | Very severe |
+
+| Age (TO) | ISS for **LD50** |
+|---|---|
+| 15–44 yr | **40** |
+| 45–64 yr | **29** |
+| > 65 yr | **20** |
+
+**AIS (TO)** — **AAAM 1971**; 6-point ordinal; **7 body regions** (external, head / face, neck, thorax, abdomen / pelvis, spine, extremities) · non-linear vs mortality · **ISS = Baker 1974** · **NISS = Osler 1997**, always **≥ ISS**
+
+**Anatomic Profile (TO)** — 4 regions (brain, spinal cord, thorax, neck); modified AP counts only **AIS ≥ 3**
+
+**Ideal score (TO)** — anatomical injury + physiological derangement + patient reserve (TRISS combines)
+
 | Worked example | ISS |
 |---|---|
 | **Chest 4, liver 4, open tibia 3**, radius 2, scalp 1 (TO) | 16 + 16 + 9 = **41** |
@@ -100,6 +121,8 @@
 **Cut-off** — **≥ 7** (TO; original designers) · **> 7** (Orthobullets; OB) predicts amputation — read the options
 
 **Accuracy** — **high specificity, low sensitivity** (lower scores may still need amputation) · not the sole criterion · MESS more accurate than LSI · doesn't predict function after salvage
+
+**MESS limitation (TO)** — assumes **vascular injury**; poor for **non-ischaemic** limbs → **Ganga score** · other scores: LSI, PSI, **Hannover Fracture Scale-97**, OTA-OFC
 
 ### SIRS
 
@@ -163,3 +186,7 @@
 **"Men vs women after polytrauma?"** → **men higher QoL**
 
 **"RTS — true (TO)?"** → **improves appropriateness of treatment**
+
+**"ISS giving 50% mortality in a 70-year-old?"** → **20** (TO)
+
+**"Berlin polytrauma — physiological criteria?"** → **SBP ≤ 90, GCS ≤ 8, BD ≤ −6, INR ≥ 1.4 / PTT ≥ 40, age ≥ 70** (TO)

@@ -8,6 +8,10 @@
 
 **Incidence** — overlooked; **15–30% of outpatient LBP**
 
+**TO figures** — SI joint = source of **\~25%** of LBP · **32–37% after lumbosacral fusion** · women (more translation) · pain **below L5**, non-midline, unilateral · aggravated sitting, stairs, lying on side
+
+**Innervation (TO)** — posterior **L4–S3** dorsal rami, anterior L2–S2 · **L5 dorsal ramus** important · RFA targets **L5–S2 dorsal rami** · strongest ligament: **interosseous** · anterior SI ligament thin + nociceptive
+
 **Risk factors** — **previous lumbar fusion, especially > 3 levels** (≈ adjacent segment disease) · **pregnancy + vaginal delivery** (3rd-trimester oestrogen/relaxin → hypermobility) · pelvic trauma · **iliac crest graft harvest** \
 ✗ Wrong options: age > 65 · male sex · THA · prior SI injection
 
@@ -68,6 +72,8 @@
 | **> 75% pain relief after a single injection** | **Confirms diagnosis** |
 | > 50% relief after **two** injections | Diagnostic |
 | Injection response | Does **not** predict pain relief after fusion |
+
+**IASP criteria (TO)** — pain in **3 × 10 cm area inferior to PSIS** · reproduced by provocative tests · relieved by LA injection · **> 75% relief = SI origin**, 50–75% = partial · algorithm: diagnostic block → > 50–70% relief → PT + NSAIDs 4 wks → therapeutic injection → RFA / arthrodesis (after **6 months** failed care)
 
 **Guidance** — fluoroscopy/US (blind injection reaches joint only **22%**) · max **3 in 6 months / 4 per year**
 

@@ -117,6 +117,8 @@
 
 ![Sagittal MRI — ganglion cyst in the tarsal tunnel](../../Orthobullets/attachments/ob7042-6a-moved.jpg)
 
+**Accessory muscle (TO)** — tingling in medial sole after ATFL repair (modified Broström) → **accessory flexor digitorum accessorius longus** in tarsal tunnel on MRI (TO)
+
 ### Diagnostic criteria
 
 | EMG / NCS (posterior TTS) | Positive finding |

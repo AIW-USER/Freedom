@@ -10,6 +10,12 @@
 
 **Genetics** — no known inheritance (mostly sporadic) · linked to **sonic hedgehog** · AD/AR/X-linked reported (TO)
 
+**Bilateral** — **9–52%** (TO)
+
+**Embryology (TO)** — limb bud **4–8 wk** · AER drives longitudinal growth · ossification centres in all long bones by **12 wk** · **vascular theory: absent anterior tibial artery**
+
+**Intramedial bowing (TO)** — fibula absent → loss of lateral tether → tibia drifts **anteromedially**
+
 ### Three types of tibial bowing
 
 | Bowing | Association |
@@ -59,6 +65,26 @@
 
 **Birch classification** — by LLD + foot function · **directs treatment**
 
+**Coventry & Johnson (TO)** — 1 short fibula · 2 absent fibula · 3 bilateral · **Stanitski (TO)** — fibular length + ankle (normal / valgus / ball-and-socket) + coalition + number of rays
+
+| Birch % LLD (TO) | Implication |
+|---|---|
+| **< 6%** | Minor reconstruction |
+| **6–10%** | Limited lengthening |
+| **11–30%** | Multiple lengthenings |
+| **> 30%** | Consider amputation |
+
+### Paley classification (TO)
+
+| Paley type (TO) | Ankle | Procedure |
+|---|---|---|
+| **1** | **Stable** ankle | Lengthening |
+| **2** | **Dynamic valgus** ankle | **SHORDT** (SHortening Osteotomy Realignment Distal Tibia) |
+| **3** | **Fixed equinovalgus** | **SUPERankle** — release, excise fibular anlage, tibial osteotomy, stabilise ankle |
+| **4** | **Equinovarus** | Specific reconstruction |
+
+**Birch = prognosis / counselling · Paley = surgical planning** (TO)
+
 ![Achterman-Kalamchi types](../../MCQ/attachments/q218919-illa-achterman-kalamchi-classification.jpg)
 
 ## 5 Management
@@ -69,6 +95,10 @@
 
 **Proportional growth inhibition** — LLD **increases slowly, limb stays in proportion** (same % at maturity) → **Paley multiplier** predicts final LLD early\
 ✗ Wrong options: stays 2 cm · equalises · 2 cm/yr · complete failure
+
+**Prediction (TO)** — **Moseley straight-line graph** · **Green-Anderson** charts · **Paley multiplier** · e.g. 4-yr boy, 4 cm, multiplier \~2 → **\~8 cm** at maturity
+
+**Lengthening (TO)** — ex-fix · over nail · hexapod · magnetic IM nail · **assess ankle + knee stability first** · guided growth for genu valgum
 
 ### Operative criteria
 
@@ -81,6 +111,8 @@
 | **LLD >30%** / **>5 cm at birth** / **nonfunctional unstable foot** (≥3 absent rays) / can't cope with lengthenings | **Syme amputation (~1 yr)** + prosthesis |
 
 **Syme > Boyd** — Boyd bulbous, only ~1 cm longer · satisfaction **88% amputation vs 55% lengthening**
+
+**Amputation (TO)** — LLD **> 30%** · non-reconstructable foot (**≤ 2 rays**) · multiple high-risk surgeries · **Syme or Boyd** · **avoid if significant upper-limb deficiency**
 
 ```
 Fibular deficiency
@@ -118,3 +150,5 @@ Fibular deficiency
 **"12-month-old, 2 cm tibial shortening — natural history?"** → **increases slowly, staying proportional**
 
 **"Palovarotene treats?"** → **fibrodysplasia ossificans progressiva** (TO)
+
+**"Classification for surgical planning in fibular hemimelia?"** → **Paley** (Birch = prognosis) (TO)

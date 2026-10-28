@@ -1,8 +1,904 @@
-# OB Concept Modules
+# Modules
 
 Every MCQ in the vault – 9,786 Orthobullets (OB) and 2,742 Target Ortho (TO) questions across 761 topics – grouped by the key concept it tests (2,981 Modules). Topics follow the section order below. Each group shows its OB and TO counts; groups that hold only TO questions were added for concepts the Orthobullets bank does not test.
 
 [[#Trauma]] · [[#Shoulder & Elbow]] · [[#Knee & Sports]] · [[#Foot & Ankle]] · [[#Hand]] · [[#Spine]] · [[#Pediatrics]] · [[#Recon]] · [[#Pathology]] · [[#Basic Science]]
+
+## Hand
+
+*103 topics · 865 questions (OB 677 · TO 188)*
+
+### [[acute-subclavian-artery-thrombosis|Acute Subclavian Artery Thrombosis]] (OB 2)
+- **Arterial thromboembolism – treatment & anticoagulation** (OB 2): [[OB5818]], [[OB211754]]
+
+### [[ain-compressive-neuropathy|AIN Compressive Neuropathy]] (OB 6 · TO 1)
+- **AIN syndrome – diagnosis & observation (neuritis)** (OB 3 · TO 1): [[OB725]], [[OB217917]], [[OB220078]], [[TO17138105]]
+- **AIN motor distribution (FPL, FDP index)** (OB 1): [[OB9008]]
+- **Martin-Gruber anastomosis** (OB 2): [[OB218061]], [[OB219850]]
+
+### [[apert-syndrome|Apert Syndrome]] (OB 3)
+- **FGFR2 mutation & clinical features** (OB 3): [[OB803]], [[OB3346]], [[OB4611]]
+
+### [[atypical-mycobacterium-infections|Atypical Mycobacterium Infections]] (OB 1 · TO 7)
+- **Mycobacterium marinum** (OB 1): [[OB215457]]
+- **Compound palmar ganglion (TB tenosynovitis)** (TO 5): [[TO17141298]], [[TO17141302]], [[TO17141312]], [[TO17731880]], [[TO17734747]]
+- **Fishmonger's disease (erysipeloid)** (TO 2): [[TO17124709]], [[TO17743621]]
+
+### [[base-of-thumb-fractures|Base of Thumb Fractures]] (OB 5 · TO 2)
+- **Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre** (OB 4): [[OB477]], [[OB211270]], [[OB218041]], [[OB218133]]
+- **Bennett fragment – anterior oblique ligament attachment** (OB 1): [[OB213993]]
+- **Rolando fracture** (TO 2): [[TO17137145]], [[TO17736583]]
+
+### [[basilar-thumb-arthritis|Basilar Thumb Arthritis]] (OB 17)
+- **Nonoperative care – splinting & injections** (OB 2): [[OB2935]], [[OB218057]]
+- **Trapeziectomy ± LRTI – equivalence, technique & complications** (OB 5): [[OB753]], [[OB211182]], [[OB214670]], [[OB214671]], [[OB220552]]
+- **MP hyperextension – MP fusion/capsulodesis with CMC reconstruction** (OB 6): [[OB3669]], [[OB4730]], [[OB6422]], [[OB7768]], [[OB210180]], [[OB215508]]
+- **CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)** (OB 3): [[OB217857]], [[OB218141]], [[OB220054]]
+- **STT arthritis – STT arthrodesis** (OB 1): [[OB211336]]
+
+### [[blood-supply-to-hand|Blood Supply to Hand]] (OB 2 · TO 2)
+- **Vascular anatomy – deep palmar arch & digital neurovascular relationship** (OB 2): [[OB694]], [[OB1191]]
+- **Allen test** (TO 2): [[TO17141497]], [[TO17732554]]
+
+### [[boutonniere-deformity|Boutonniere Deformity]] (OB 2 · TO 1)
+- **Pathophysiology – central slip injury & lateral band relocation** (OB 2 · TO 1): [[OB1176]], [[OB2893]], [[TO25178258]]
+
+### [[camptodactyly|Camptodactyly]] (OB 2 · TO 1)
+- **Treatment – stretching & extension splinting** (OB 2): [[OB5724]], [[OB8931]]
+- **Diagnosis** (TO 1): [[TO17141286]]
+
+### [[carpal-instability-nondissociative-cind|Carpal Instability Nondissociative (CIND)]] (OB 2 · TO 3)
+- **Midcarpal instability – diagnosis** (OB 2 · TO 2): [[OB3475]], [[OB220102]], [[TO25178984]], [[TO25178985]]
+- **Radiocarpal (ulnar translocation) instability** (TO 1): [[TO25178988]]
+
+### [[carpal-tunnel-syndrome|Carpal Tunnel Syndrome]] (OB 29 · TO 7)
+- **Anatomy – tunnel contents, TCL attachments, recurrent motor branch & anastomoses** (OB 6): [[OB420]], [[OB6180]], [[OB210259]], [[OB218149]], [[OB219958]], [[OB219978]]
+- **Diagnosis – provocative tests, CTS-6 & electrodiagnostics** (OB 5 · TO 4): [[OB716]], [[OB941]], [[OB210192]], [[OB218117]], [[OB218209]], [[TO17138100]], [[TO17138102]], [[TO17904041]], [[TO19356185]]
+- **Nonoperative care – splint position & steroid injection** (OB 4): [[OB253]], [[OB3688]], [[OB211512]], [[OB214822]]
+- **Surgical release – indications, guidelines, open vs endoscopic & prognosis** (OB 10 · TO 1): [[OB1315]], [[OB5666]], [[OB5760]], [[OB6392]], [[OB7750]], [[OB7852]], [[OB8850]], [[OB211919]], [[OB211996]], [[OB213987]], [[TO17138101]]
+- **Perioperative care & complications (infection prevention, nerve injury, analgesia)** (OB 3): [[OB4693]], [[OB212018]], [[OB219882]]
+- **Secondary causes – inflammatory mass** (OB 1): [[OB4650]]
+- **Associated conditions** (TO 2): [[TO17138099]], [[TO17731917]]
+
+### [[cleft-hand|Cleft Hand]] (OB 1 · TO 2)
+- **Inheritance** (OB 1): [[OB214071]]
+- **Classification (Manske) & management** (TO 2): [[TO17138272]], [[TO17905824]]
+
+### [[congenital-clasped-thumb|Congenital Clasped Thumb]] (OB 1)
+- **First-line treatment – serial splinting** (OB 1): [[OB1110]]
+
+### [[congenital-radial-head-dislocation|Congenital Radial Head Dislocation]] (OB 3)
+- **Diagnosis (bilateral, vs traumatic) & management – observation vs late excision** (OB 3): [[OB4778]], [[OB5359]], [[OB8457]]
+
+### [[congenital-radial-ulnar-synostosis|Congenital Radial Ulnar Synostosis]] (OB 5 · TO 2)
+- **Aetiology & associations (failure of segmentation, XXY)** (OB 2): [[OB2261]], [[OB5937]]
+- **Management – observation vs osteotomy/mobilisation indications** (OB 3): [[OB526]], [[OB5472]], [[OB5706]]
+- **Cleary & Omer classification** (TO 2): [[TO17138246]], [[TO17913087]]
+
+### [[congenital-trigger-thumb|Congenital Trigger Thumb]] (OB 6 · TO 2)
+- **Diagnosis (Notta's node) & A1 pulley release timing** (OB 6 · TO 2): [[OB4757]], [[OB5443]], [[OB6152]], [[OB6425]], [[OB217410]], [[OB219838]], [[TO21733098]], [[TO21733291]]
+
+### [[constrictive-ring-syndrome-streeters-dysplasia|Constrictive Ring Syndrome (Streeter's Dysplasia)]] (OB 7 · TO 3)
+- **Associated conditions (clubfoot, cleft lip/palate) & sporadic inheritance** (OB 6 · TO 3): [[OB2259]], [[OB5263]], [[OB5267]], [[OB211468]], [[OB215531]], [[OB219779]], [[TO17138141]], [[TO17138143]], [[TO17905813]]
+- **Treatment – band release & Z-plasty** (OB 1): [[OB3431]]
+
+### [[cubital-tunnel-syndrome|Cubital Tunnel Syndrome]] (OB 17 · TO 2)
+- **Anatomy & compression sites (Osborne's ligament, anconeus epitrochlearis, cubital tunnel floor)** (OB 6): [[OB1851]], [[OB2814]], [[OB212955]], [[OB218229]], [[OB218953]], [[OB219430]]
+- **Clinical signs (Wartenberg, Froment)** (OB 2 · TO 1): [[OB3551]], [[OB7825]], [[TO17138097]]
+- **In situ decompression vs anterior transposition (subluxation, snapping)** (OB 5): [[OB2837]], [[OB7874]], [[OB210265]], [[OB212933]], [[OB217789]]
+- **Medial antebrachial cutaneous nerve injury** (OB 3): [[OB6205]], [[OB216867]], [[OB217923]]
+- **Ulnar tunnel (Guyon's canal) compression** (OB 1): [[OB220010]]
+- **Tardy ulnar nerve palsy** (TO 1): [[TO21733204]]
+
+### [[de-quervains-tenosynovitis|De Quervain's Tenosynovitis]] (OB 6 · TO 4)
+- **Anatomy – APL/EPB & injection site** (OB 3): [[OB395]], [[OB211303]], [[OB220036]]
+- **Recurrence – unreleased EPB subsheath** (OB 2): [[OB4613]], [[OB7453]]
+- **Intersection syndrome/differential** (OB 1): [[OB219569]]
+- **Diagnosis in bowlers & typists** (TO 4): [[TO17141318]], [[TO17141322]], [[TO17732638]], [[TO17907843]]
+
+### [[deep-space-and-collar-button-infections|Deep Space & Collar Button Infections]] (OB 1 · TO 2)
+- **Collar-button abscess drainage** (OB 1): [[OB210196]]
+- **Ulnar & radial bursae communications** (TO 2): [[TO17124500]], [[TO17732286]]
+
+### [[digital-artery-aneurysm|Digital Artery Aneurysm]] (OB 1)
+- **Treatment – surgical exploration** (OB 1): [[OB219]]
+
+### [[digital-collateral-ligament-injury|Digital Collateral Ligament Injury]] (OB 1 · TO 4)
+- **Index MCP radial collateral ligament – repair** (OB 1): [[OB212029]]
+- **Bowler's thumb (ulnar digital nerve neuropathy)** (TO 4): [[TO17138091]], [[TO17138092]], [[TO17731924]], [[TO17735229]]
+
+### [[dip-and-pip-joint-arthritis|DIP and PIP Joint Arthritis]] (OB 11)
+- **Mucous cyst – excision with osteophyte removal** (OB 4): [[OB711]], [[OB3354]], [[OB6677]], [[OB7885]]
+- **PIP arthroplasty (silicone, pyrocarbon) vs arthrodesis – indications & outcomes** (OB 6): [[OB211391]], [[OB211435]], [[OB211974]], [[OB218081]], [[OB218205]], [[OB218838]]
+- **DIP arthrodesis complication – screw length** (OB 1): [[OB219970]]
+
+### [[dog-and-cat-bites|Dog and Cat Bites]] (OB 4)
+- **Pasteurella multocida** (OB 1): [[OB6633]]
+- **Cat bite flexor tenosynovitis – drainage** (OB 1): [[OB210115]]
+- **Cat-scratch disease (Bartonella) – epitrochlear lymphadenitis** (OB 2): [[OB7516]], [[OB7563]]
+
+### [[dupuytrens-disease|Dupuytren's Disease]] (OB 15 · TO 14)
+- **Pathogenesis & diathesis (Garrod's pads)** (OB 2 · TO 7): [[OB1238]], [[OB9033]], [[TO17141333]], [[TO17141359]], [[TO17141363]], [[TO17141369]], [[TO17141377]], [[TO17730778]], [[TO21733097]]
+- **Cord anatomy – spiral cord, neurovascular displacement & natatory ligament** (OB 4 · TO 2): [[OB1372]], [[OB4605]], [[OB5506]], [[OB6238]], [[TO17141375]], [[TO21733289]]
+- **Collagenase & needle fasciotomy – mechanism, complications & outcomes** (OB 5): [[OB5638]], [[OB211567]], [[OB211776]], [[OB218089]], [[OB219934]]
+- **Fasciectomy – indications, technique & complications** (OB 4 · TO 4): [[OB3204]], [[OB219890]], [[OB219898]], [[OB220114]], [[TO17141362]], [[TO17141365]], [[TO17141379]], [[TO17141382]]
+- **Misfiled – adhesive capsulitis risk factor** (TO 1): [[TO17141367]]
+
+### [[epidermal-inclusion-cyst|Epidermal Inclusion Cyst]] (OB 1)
+- **Differential – pyogenic granuloma** (OB 1): [[OB211677]]
+
+### [[extensor-tendon-compartments|Extensor Tendon Compartments]] (OB 1 · TO 2)
+- **Dorsal compartment contents** (OB 1): [[OB3522]]
+- **Number of compartments** (TO 2): [[TO17141702]], [[TO17141703]]
+
+### [[extensor-tendon-injuries|Extensor Tendon Injuries]] (OB 7 · TO 6)
+- **EPL rupture – EIP transfer** (OB 1 · TO 2): [[OB6471]], [[TO17141705]], [[TO17730947]]
+- **ECU tendinitis/subluxation** (OB 1): [[OB7338]]
+- **Central slip injury – Elson test & PIP extension splinting** (OB 3 · TO 1): [[OB8810]], [[OB9007]], [[OB211644]], [[TO21733235]]
+- **Extensor laceration rehabilitation – relative motion splint** (OB 1): [[OB210121]]
+- **Extrinsic extensor tightness** (OB 1): [[OB220022]]
+- **Rheumatoid extensor ruptures (Vaughan-Jackson, EDM)** (TO 3): [[TO17141544]], [[TO17903466]], [[TO25178262]]
+
+### [[extremity-flap-reconstruction|Extremity Flap Reconstruction]] (OB 15 · TO 1)
+- **Gastrocnemius flap – sural artery supply; knee & tibia coverage** (OB 5): [[OB12]], [[OB40]], [[OB211141]], [[OB213948]], [[OB220576]]
+- **Upper-extremity flaps – lateral arm, radial forearm, latissimus & groin flaps (pedicles)** (OB 5 · TO 1): [[OB5468]], [[OB7443]], [[OB7843]], [[OB212941]], [[OB213986]], [[TO17137948]]
+- **Free fibula flap – peroneal artery** (OB 1): [[OB211699]]
+- **Moberg flap limitations in the thumb** (OB 1): [[OB4875]]
+- **Ray transposition after digit amputation** (OB 1): [[OB4518]]
+- **Negative pressure wound therapy settings** (OB 1): [[OB7711]]
+- **Flap failure as infection predictor** (OB 1): [[OB219153]]
+
+### [[felon|Felon]] (OB 2 · TO 1)
+- **Incision & drainage technique** (OB 1): [[OB5677]]
+- **Diabetic hand infection – renal failure & amputation** (OB 1): [[OB6627]]
+- **Epidemiology – paronychia** (TO 1): [[TO17141521]]
+
+### [[fingertip-amputations-and-finger-flaps|Fingertip Amputations & Finger Flaps]] (OB 21)
+- **Fingertip amputation – healing by secondary intention (children, small defects)** (OB 3): [[OB2861]], [[OB4546]], [[OB218786]]
+- **Advancement flaps – V-Y & volar (Moberg) advancement** (OB 4): [[OB25]], [[OB3334]], [[OB4508]], [[OB210263]]
+- **Cross-finger & reverse cross-finger flaps** (OB 5): [[OB977]], [[OB1020]], [[OB5438]], [[OB5733]], [[OB211853]]
+- **First dorsal metacarpal artery (Kite) flap for thumb defects** (OB 4): [[OB1170]], [[OB4573]], [[OB8837]], [[OB214007]]
+- **Homodigital retrograde island flap** (OB 1): [[OB219858]]
+- **Z-plasty principles** (OB 2): [[OB2878]], [[OB219790]]
+- **Nail bed injury – germinal matrix** (OB 1): [[OB218904]]
+- **Complications – digital neuroma** (OB 1): [[OB218839]]
+
+### [[flexor-carpi-radialis-tendinitis|Flexor Carpi Radialis Tendinitis]] (OB 1)
+- **FCR sheath injection** (OB 1): [[OB219438]]
+
+### [[flexor-pulley-system|Flexor Pulley System]] (OB 7)
+- **Pulley anatomy – annular/cruciform sequence, A2 & A4, thumb oblique pulley** (OB 4): [[OB660]], [[OB6232]], [[OB7423]], [[OB7484]]
+- **Pulley rupture – climbers, grading & sequelae** (OB 3): [[OB5681]], [[OB219822]], [[OB219918]]
+
+### [[flexor-tendon-injuries|Flexor Tendon Injuries]] (OB 24 · TO 3)
+- **Partial lacerations – trimming vs epitendinous repair** (OB 4): [[OB121]], [[OB2910]], [[OB5713]], [[OB212040]]
+- **Repair biomechanics – core strands, suture purchase, FDS slip & rehab protocol strength** (OB 4): [[OB285]], [[OB3263]], [[OB4542]], [[OB4860]]
+- **Anatomy & tendon nutrition** (OB 2): [[OB551]], [[OB613]]
+- **Diagnosis – disrupted tenodesis cascade** (OB 2): [[OB8820]], [[OB210258]]
+- **Paediatric flexor tendon injuries** (OB 2): [[OB989]], [[OB7208]]
+- **Wide-awake (WALANT) repair** (OB 3): [[OB5475]], [[OB5773]], [[OB211666]]
+- **Late reconstruction – two-stage grafting, FDS transfer & failed repair** (OB 4): [[OB4710]], [[OB5550]], [[OB6557]], [[OB6593]]
+- **Jersey finger – FDP avulsion** (OB 1): [[OB6920]]
+- **Attritional ruptures (rheumatoid, prominent plate)** (OB 2 · TO 1): [[OB7796]], [[OB213077]], [[TO17141545]]
+- **Flexor zones (no man's land)** (TO 2): [[TO17141707]], [[TO17731889]]
+
+### [[frostbite|Frostbite]] (OB 6)
+- **Prevention – insulated footwear** (OB 2): [[OB3829]], [[OB8044]]
+- **Acute treatment – blister care & thrombolysis** (OB 2): [[OB4386]], [[OB219990]]
+- **Delayed debridement/amputation after demarcation** (OB 2): [[OB5743]], [[OB6712]]
+
+### [[ganglion-cysts|Ganglion Cysts]] (OB 13 · TO 1)
+- **Pathology & origin (no epithelial lining, SL ligament, mucin)** (OB 5 · TO 1): [[OB4424]], [[OB6239]], [[OB7564]], [[OB8790]], [[OB211116]], [[TO17141306]]
+- **Paediatric ganglia – observation & spontaneous resolution** (OB 3): [[OB2880]], [[OB211160]], [[OB217981]]
+- **Treatment – recurrence after excision** (OB 1): [[OB211501]]
+- **Special locations – retinacular cyst, mucous cyst, Guyon's canal, proximal tibiofibular joint** (OB 4): [[OB6355]], [[OB211446]], [[OB214244]], [[OB214992]]
+
+### [[giant-cell-tumor-of-tendon-sheath|Giant Cell Tumor of Tendon Sheath]] (OB 7)
+- **Diagnosis & histology** (OB 4): [[OB3852]], [[OB6295]], [[OB7500]], [[OB7518]]
+- **Local recurrence after excision** (OB 3): [[OB8067]], [[OB213042]], [[OB219922]]
+
+### [[gymnasts-wrist-distal-radial-physeal-stress-syndrome|Gymnast's Wrist (Distal Radial Physeal Stress Syndrome)]] (OB 2)
+- **Distal radial physeal stress – growth arrest & Madelung deformity** (OB 2): [[OB2198]], [[OB218664]]
+
+### [[high-pressure-injection-injuries|High-Pressure Injection Injuries]] (OB 8)
+- **Injected substance & amputation risk** (OB 2): [[OB7727]], [[OB213980]]
+- **Management – urgent debridement, antibiotics & decompression** (OB 6): [[OB3191]], [[OB4683]], [[OB7761]], [[OB215459]], [[OB218859]], [[OB219902]]
+
+### [[hook-of-hamate-fracture|Hook of Hamate Fracture]] (OB 12)
+- **Diagnosis – carpal tunnel view/CT, ulnar nerve symptoms & Guyon's canal** (OB 5): [[OB409]], [[OB1425]], [[OB6441]], [[OB213978]], [[OB218157]]
+- **Treatment – fragment excision & return to play** (OB 6): [[OB132]], [[OB3553]], [[OB7826]], [[OB8702]], [[OB218177]], [[OB218900]]
+- **Complication – flexor tendon rupture from nonunion** (OB 1): [[OB5788]]
+
+### [[human-bite|Human Bite]] (OB 2)
+- **Microbiology – polymicrobial & Eikenella** (OB 2): [[OB213074]], [[OB220126]]
+
+### [[hypothenar-hammer-syndrome|Hypothenar Hammer Syndrome]] (OB 5)
+- **Pathology – true aneurysm vs thrombosis & recurrence** (OB 3): [[OB217889]], [[OB219946]], [[OB219966]]
+- **Treatment – resection & arterial reconstruction** (OB 2): [[OB4672]], [[OB5485]]
+
+### [[intersection-syndrome|Intersection Syndrome]] (OB 3)
+- **Second dorsal compartment (ECRL/ECRB) – injection & release** (OB 3): [[OB896]], [[OB213017]], [[OB218840]]
+
+### [[intrinsic-minus-hand-claw-hand|Intrinsic Minus Hand (Claw Hand)]] (OB 2 · TO 5)
+- **Mechanism – strong extrinsics & deficient intrinsics** (OB 2): [[OB94]], [[OB4236]]
+- **Ulnar nerve palsy – claw, ulnar paradox & Bouvier test** (TO 5): [[TO17138095]], [[TO17138096]], [[TO17736606]], [[TO17747014]], [[TO21733274]]
+
+### [[intrinsic-plus-hand|Intrinsic Plus Hand]] (OB 3)
+- **Intrinsic tightness (Bunnell test) & posture** (OB 3): [[OB624]], [[OB213016]], [[OB217357]]
+
+### [[jersey-finger|Jersey Finger]] (OB 7 · TO 7)
+- **Diagnosis, retraction level & urgency** (OB 3 · TO 5): [[OB1132]], [[OB8755]], [[OB211732]], [[TO17141388]], [[TO17141391]], [[TO17905795]], [[TO17905800]], [[TO25178992]]
+- **Acute repair technique – advancement limit & anchor placement** (OB 2 · TO 1): [[OB218846]], [[OB220082]], [[TO25178993]]
+- **Chronic injury – two-stage grafting** (OB 2): [[OB163]], [[OB217833]]
+- **Differential – central slip injury** (TO 1): [[TO19356235]]
+
+### [[kienbocks-disease|Kienbock's Disease]] (OB 18 · TO 5)
+- **Aetiology & risk factors (ulnar negative variance, vascular pattern)** (OB 3 · TO 1): [[OB211127]], [[OB217977]], [[OB218097]], [[TO17141400]]
+- **Staging (Lichtman) & imaging** (OB 2): [[OB905]], [[OB211457]]
+- **Early stages – radial shortening, core decompression & vascularised bone graft** (OB 8 · TO 2): [[OB3149]], [[OB3162]], [[OB3567]], [[OB7412]], [[OB211402]], [[OB211633]], [[OB218065]], [[OB218093]], [[TO17141401]], [[TO17907777]]
+- **Advanced disease – STT fusion/pinning** (OB 1): [[OB3535]]
+- **Paediatric Kienböck – conservative care** (OB 1): [[OB219954]]
+- **Other carpal osteonecrosis (capitate) – salvage** (OB 3): [[OB212117]], [[OB217386]], [[OB217997]]
+- **Definition – lunate osteonecrosis** (TO 2): [[TO17141398]], [[TO17736579]]
+
+### [[ligaments-of-the-fingers|Ligaments of the Fingers]] (OB 1)
+- **PIP contracture release sequence** (OB 1): [[OB7485]]
+
+### [[lumbrical-plus-finger|Lumbrical Plus Finger]] (OB 1)
+- **Cause – amputation at DIP level** (OB 1): [[OB447]]
+
+### [[lunate-dislocation-perilunate-dissociation|Lunate Dislocation (Perilunate dissociation)]] (OB 12 · TO 4)
+- **Mechanism – Mayfield progression** (OB 3 · TO 4): [[OB7800]], [[OB211688]], [[OB217929]], [[TO17137143]], [[TO17747192]], [[TO25178986]], [[TO25178989]]
+- **Acute management – urgent reduction, neurological exam & missed diagnosis** (OB 3): [[OB3040]], [[OB211622]], [[OB211798]]
+- **Definitive ORIF ± carpal tunnel release** (OB 2): [[OB6929]], [[OB219974]]
+- **Chronic/late injuries – proximal row carpectomy & RSC ligament** (OB 3): [[OB6192]], [[OB7713]], [[OB211842]]
+- **Post-operative lunate ischaemia – observation** (OB 1): [[OB211578]]
+
+### [[lunotriquetral-ligament-injury-and-visi|Lunotriquetral Ligament Injury & VISI]] (OB 1 · TO 1)
+- **LT ligament – volar fibres strongest** (OB 1): [[OB211204]]
+- **Rocking lunate** (TO 1): [[TO17913096]]
+
+### [[macrodactyly-local-gigantism|Macrodactyly (local gigantism)]] (OB 1 · TO 3)
+- **Epiphysiodesis** (OB 1 · TO 1): [[OB601]], [[TO17141421]]
+- **Associations & growth pattern (lipofibromatous hamartoma)** (TO 2): [[TO17141418]], [[TO17141420]]
+
+### [[madelungs-deformity|Madelung's Deformity]] (OB 3 · TO 2)
+- **Aetiology – volar-ulnar physis & SHOX (Léri-Weill)** (OB 3 · TO 2): [[OB476]], [[OB3147]], [[OB219332]], [[TO17141446]], [[TO17905699]]
+
+### [[mallet-finger|Mallet Finger]] (OB 8 · TO 6)
+- **Nonoperative – continuous DIP extension splinting (bony & tendinous, delayed, residual lag)** (OB 5 · TO 4): [[OB4445]], [[OB6521]], [[OB213107]], [[OB218189]], [[OB218821]], [[TO17141450]], [[TO17141474]], [[TO17736581]], [[TO17907829]]
+- **Operative indications – volar subluxation & pinning; swan-neck risk** (OB 3 · TO 2): [[OB4362]], [[OB218113]], [[OB219900]], [[TO17141447]], [[TO17730959]]
+
+### [[mcp-dislocations|MCP Dislocations]] (OB 11)
+- **Complex dorsal MCP dislocation – volar plate interposition & reduction manoeuvre** (OB 8): [[OB6435]], [[OB7410]], [[OB8827]], [[OB211655]], [[OB215453]], [[OB217825]], [[OB218847]], [[OB219826]]
+- **CMC fracture-dislocations – fixation** (OB 3): [[OB7900]], [[OB217949]], [[OB217957]]
+
+### [[mcp-joint-arthritis|MCP Joint Arthritis]] (OB 4)
+- **Rheumatoid MCP arthroplasty** (OB 1): [[OB3613]]
+- **Thumb MCP arthrodesis position** (OB 2): [[OB217909]], [[OB219810]]
+- **Implant contraindications (pyrocarbon vs silicone)** (OB 1): [[OB218201]]
+
+### [[metacarpal-fractures|Metacarpal Fractures]] (OB 18 · TO 3)
+- **Acceptable angulation & shortening; extensor lag** (OB 5 · TO 1): [[OB5700]], [[OB7838]], [[OB215455]], [[OB218173]], [[OB218213]], [[TO17137094]]
+- **Rotational deformity – scissoring as fixation indication** (OB 2): [[OB219433]], [[OB220002]]
+- **Nonoperative care – buddy taping & early return** (OB 3): [[OB213040]], [[OB218836]], [[OB219916]]
+- **Operative fixation – multiple fractures, ORIF & intramedullary screws** (OB 4): [[OB3441]], [[OB6977]], [[OB218101]], [[OB219846]]
+- **Fifth CMC fracture-dislocation – deforming forces & pinning** (OB 4): [[OB211369]], [[OB211424]], [[OB211523]], [[OB217865]]
+- **Boxer's fracture** (TO 2): [[TO17137087]], [[TO17731950]]
+
+### [[nail-bed-injury|Nail Bed Injury]] (OB 2)
+- **Repair technique – tissue adhesive & Seymour fracture** (OB 2): [[OB2827]], [[OB3497]]
+
+### [[nerve-conduction-studies|Nerve Conduction Studies]] (OB 2)
+- **Demyelination – increased latency** (OB 1): [[OB5959]]
+- **Interpreting NCS in carpal tunnel syndrome** (OB 1): [[OB218903]]
+
+### [[peripheral-nerve-injury-and-repair|Peripheral Nerve Injury & Repair]] (OB 28 · TO 11)
+- **Nerve microanatomy (epineurium, perineurium, endoneurium)** (OB 3): [[OB1362]], [[OB5434]], [[OB212899]]
+- **Injury classification (Seddon/Sunderland) & regeneration physiology** (OB 5 · TO 6): [[OB952]], [[OB4570]], [[OB4659]], [[OB7147]], [[OB214026]], [[TO17138126]], [[TO17138129]], [[TO17745740]], [[TO17747051]], [[TO19356208]], [[TO21733202]]
+- **Repair options – conduit, allograft & autograft by gap length** (OB 5): [[OB3081]], [[OB4644]], [[OB215611]], [[OB219234]], [[OB220018]]
+- **Prognosis – nerve, level & order of recovery** (OB 4 · TO 1): [[OB416]], [[OB4406]], [[OB213051]], [[OB220418]], [[TO21733231]]
+- **Timing of repair after ballistic injury** (OB 1): [[OB212912]]
+- **Nerve transfers – AIN to ulnar motor (SETS)** (OB 3): [[OB211743]], [[OB217969]], [[OB219802]]
+- **Tendon transfers for irreparable palsy (radial, ulnar claw, peroneal)** (OB 3 · TO 1): [[OB217973]], [[OB220094]], [[OB220941]], [[TO17138127]]
+- **Sensory receptors & electrodiagnostics** (OB 2 · TO 3): [[OB1353]], [[OB211347]], [[TO17125097]], [[TO17907801]], [[TO21733207]]
+- **Metabolic neuropathy – vitamin B12** (OB 1): [[OB1104]]
+- **Neuroma after digital amputation** (OB 1): [[OB219746]]
+
+### [[phalanx-dislocations|Phalanx Dislocations]] (OB 17 · TO 1)
+- **Dorsal PIP dislocation/fracture-dislocation – extension block splinting** (OB 6): [[OB3007]], [[OB4663]], [[OB5673]], [[OB6415]], [[OB214830]], [[OB214831]]
+- **Unstable/chronic fracture-dislocations – volar plate arthroplasty, hemi-hamate & ORIF** (OB 5): [[OB306]], [[OB6944]], [[OB7880]], [[OB218169]], [[OB220420]]
+- **Irreducible dislocations – volar plate interposition** (OB 2): [[OB685]], [[OB215458]]
+- **Volar PIP dislocation – central slip injury & reduction/splinting** (OB 4 · TO 1): [[OB879]], [[OB6973]], [[OB217389]], [[OB218837]], [[TO17137102]]
+
+### [[phalanx-fractures|Phalanx Fractures]] (OB 21)
+- **Deforming forces – interossei & central slip (apex volar)** (OB 3): [[OB4409]], [[OB211831]], [[OB216263]]
+- **Operative indications (rotation, angulation, instability) & fixation methods** (OB 7): [[OB3486]], [[OB4449]], [[OB6898]], [[OB211138]], [[OB217387]], [[OB217925]], [[OB218073]]
+- **Nonoperative care – immobilisation & early motion** (OB 2): [[OB6894]], [[OB214377]]
+- **Malunion & shortening – PIP extensor lag** (OB 3): [[OB217355]], [[OB217901]], [[OB218185]]
+- **Paediatric phalangeal neck/condylar fractures** (OB 1): [[OB7864]]
+- **Intra-articular fractures & avulsions (pilon, volar lip)** (OB 5): [[OB212084]], [[OB216675]], [[OB217945]], [[OB219806]], [[OB220098]]
+
+### [[physical-exam-of-the-hand|Physical Exam of the Hand]] (OB 2 · TO 2)
+- **Intrinsic tightness test** (OB 1): [[OB7432]]
+- **Digital nerve anatomy** (OB 1): [[OB218045]]
+- **Functional position of the hand** (TO 2): [[TO17137106]], [[TO17747065]]
+
+### [[pin-compression-syndrome|PIN Compression Syndrome]] (OB 6)
+- **Anatomy – arcade of Frohse, innervated muscles & recovery order** (OB 4): [[OB4634]], [[OB6246]], [[OB213050]], [[OB219286]]
+- **Differential – radial tunnel syndrome & rheumatoid extensor rupture** (OB 2): [[OB211589]], [[OB212095]]
+
+### [[pisiform-fracture|Pisiform Fracture]] (OB 2)
+- **Symptomatic nonunion – pisiform excision** (OB 2): [[OB763]], [[OB6939]]
+
+### [[poland-syndrome|Poland Syndrome]] (OB 5)
+- **Associations – syndactyly & absent pectoralis major** (OB 5): [[OB1257]], [[OB4551]], [[OB8836]], [[OB214241]], [[OB220963]]
+
+### [[polydactyly-of-hand|Polydactyly of Hand]] (OB 6)
+- **Preaxial (thumb) duplication – Wassel classification & reconstruction** (OB 3): [[OB2867]], [[OB5914]], [[OB218085]]
+- **Postaxial polydactyly – ethnicity & syndromic work-up** (OB 3): [[OB2959]], [[OB3239]], [[OB219005]]
+
+### [[preisers-disease-scaphoid-avn|Preiser's Disease (Scaphoid AVN)]] (OB 1)
+- **Diagnosis** (OB 1): [[OB220553]]
+
+### [[pronator-syndrome|Pronator Syndrome]] (OB 3 · TO 1)
+- **Diagnosis, compression sites & decompression** (OB 3): [[OB210154]], [[OB219445]], [[OB219866]]
+- **Median-ulnar anastomoses (Berrettini)** (TO 1): [[TO21733273]]
+
+### [[pyogenic-flexor-tenosynovitis|Pyogenic Flexor Tenosynovitis]] (OB 10 · TO 5)
+- **Kanavel signs & diagnosis** (OB 3 · TO 5): [[OB242]], [[OB217417]], [[OB219962]], [[TO17141695]], [[TO17141696]], [[TO17141697]], [[TO17732606]], [[TO17743855]]
+- **Microbiology – MRSA in IV drug users** (OB 1): [[OB3506]]
+- **Surgical drainage – indications, technique & stiffness risk** (OB 4): [[OB4768]], [[OB218843]], [[OB220006]], [[OB220110]]
+- **Spread – thenar space & Parona's space** (OB 2): [[OB6201]], [[OB7778]]
+
+### [[quadriga-effect|Quadriga Effect]] (OB 8 · TO 2)
+- **FDP over-advancement or tethering – quadriga** (OB 7 · TO 2): [[OB1202]], [[OB7866]], [[OB211215]], [[OB211710]], [[OB217849]], [[OB217961]], [[OB219910]], [[TO17141710]], [[TO17736798]]
+- **Lumbrical-plus vs quadriga after amputation** (OB 1): [[OB695]]
+
+### [[radial-clubhand-radial-deficiency|Radial Clubhand (radial deficiency)]] (OB 13 · TO 5)
+- **Associated syndromes & work-up (TAR, Fanconi, Holt-Oram, VACTERL)** (OB 8): [[OB405]], [[OB2965]], [[OB3566]], [[OB217411]], [[OB217527]], [[OB218077]], [[OB219542]], [[OB220086]]
+- **Aetiology – apical ectodermal ridge defect** (OB 1): [[OB7598]]
+- **Treatment – centralisation indications, contraindications & thumb reconstruction** (OB 4 · TO 3): [[OB2254]], [[OB3572]], [[OB6142]], [[OB219767]], [[TO17138160]], [[TO17735471]], [[TO17905803]]
+- **Differential – Madelung (SHOX)** (TO 2): [[TO17138161]], [[TO17737179]]
+
+### [[radial-tunnel-syndrome|Radial Tunnel Syndrome]] (OB 5 · TO 6)
+- **Diagnosis & compression site (arcade of Frohse, posterior cord origin)** (OB 4 · TO 6): [[OB407]], [[OB7483]], [[OB217845]], [[OB219914]], [[TO17138107]], [[TO17138111]], [[TO17138112]], [[TO17138113]], [[TO17730517]], [[TO17903886]]
+- **First-line treatment – therapy & activity modification** (OB 1): [[OB213021]]
+
+### [[radiocarpal-fracture-dislocation|Radiocarpal Fracture Dislocation]] (OB 1)
+- **Ligament injury – short radiolunate** (OB 1): [[OB212958]]
+
+### [[raynauds-syndrome|Raynaud's Syndrome]] (OB 6)
+- **Botulinum toxin – mechanism, outcomes & pre-treatment testing** (OB 4): [[OB8895]], [[OB211479]], [[OB219862]], [[OB220038]]
+- **Topical vasodilator mechanism** (OB 1): [[OB213982]]
+- **Periarterial sympathectomy indications** (OB 1): [[OB213041]]
+
+### [[replantation|Replantation]] (OB 17 · TO 4)
+- **Indications & contraindications by level (thumb, multiple digits, zone)** (OB 6 · TO 1): [[OB276]], [[OB640]], [[OB918]], [[OB4375]], [[OB5513]], [[OB8994]], [[TO17137982]]
+- **Prognostic factors – mechanism & ischaemia time** (OB 3): [[OB156]], [[OB1079]], [[OB4495]]
+- **Postoperative monitoring – arterial vs venous insufficiency, leeches & antibiotics** (OB 2): [[OB1125]], [[OB213078]]
+- **Reperfusion injury – allopurinol** (OB 1): [[OB182]]
+- **Surgical sequence & major limb replantation** (OB 2 · TO 2): [[OB1156]], [[OB3589]], [[TO17137980]], [[TO17731780]]
+- **Ray resection vs replantation – function & palmar width** (OB 3): [[OB213043]], [[OB215462]], [[OB217905]]
+- **WALANT anaesthesia** (TO 1): [[TO17141520]]
+
+### [[sagittal-band-rupture|Sagittal Band Rupture]] (OB 6)
+- **Diagnosis – extensor subluxation & ability to hold MCP extension** (OB 3): [[OB7833]], [[OB213076]], [[OB213981]]
+- **Treatment – sagittal band splinting vs open repair** (OB 3): [[OB203]], [[OB4622]], [[OB215456]]
+
+### [[scaphoid-fracture|Scaphoid Fracture]] (OB 19 · TO 3)
+- **Diagnosis – snuffbox tenderness, scaphoid view & MRI** (OB 2): [[OB27]], [[OB218165]]
+- **Operative vs nonoperative – percutaneous fixation of nondisplaced waist fractures** (OB 3): [[OB497]], [[OB211149]], [[OB218161]]
+- **ORIF indications & approach (displacement, proximal pole, delayed presentation)** (OB 6 · TO 2): [[OB1016]], [[OB5941]], [[OB6609]], [[OB6895]], [[OB6945]], [[OB9025]], [[TO17137149]], [[TO17736945]]
+- **Screw fixation technique – central axis position** (OB 3): [[OB2849]], [[OB2869]], [[OB211292]]
+- **Persistent pain after fixation – CT assessment** (OB 2): [[OB5781]], [[OB211545]]
+- **Wrist loading biomechanics** (OB 1): [[OB3047]]
+- **Vascularised bone graft (medial femoral condyle)** (OB 1): [[OB211765]]
+- **Paediatric scaphoid fractures** (OB 1): [[OB214844]]
+- **Epidemiology – most common carpal fracture** (TO 1): [[TO17736580]]
+
+### [[scaphoid-fracture-nonunion|Scaphoid Fracture Nonunion]] (OB 9)
+- **Diagnosis – nonunion, humpback deformity & proximal pole osteonecrosis** (OB 2): [[OB6223]], [[OB211952]]
+- **Without osteonecrosis – ORIF with non-vascularised graft (volar approach for humpback)** (OB 4): [[OB788]], [[OB6420]], [[OB217893]], [[OB218193]]
+- **Proximal pole AVN – vascularised (MFC) graft** (OB 3): [[OB5825]], [[OB8865]], [[OB219567]]
+
+### [[scaphoid-lunate-advanced-collapse-slac|Scaphoid Lunate Advanced Collapse (SLAC)]] (OB 14)
+- **Stages & sequence of arthritis (radial styloid, radioscaphoid, capitolunate; radiolunate spared)** (OB 4): [[OB99]], [[OB211820]], [[OB213988]], [[OB217384]]
+- **Salvage – four-corner fusion vs PRC (capitolunate arthritis contraindication, RSC ligament)** (OB 7): [[OB4523]], [[OB6567]], [[OB6652]], [[OB8777]], [[OB211237]], [[OB211886]], [[OB219942]]
+- **Radioscapholunate fusion – distal scaphoid excision** (OB 1): [[OB211941]]
+- **SL dissociation – pathomechanics** (OB 2): [[OB217829]], [[OB219310]]
+
+### [[scaphoid-nonunion-advanced-collapse-snac|Scaphoid Nonunion Advanced Collapse (SNAC)]] (OB 5)
+- **Natural history – radiolunate preserved** (OB 1): [[OB739]]
+- **Salvage – four-corner fusion, PRC & distal pole excision (contraindications, RSC ligament)** (OB 4): [[OB7857]], [[OB211226]], [[OB215452]], [[OB217853]]
+
+### [[scapholunate-ligament-injury-and-disi|Scapholunate Ligament Injury & DISI]] (OB 9 · TO 9)
+- **Diagnosis – clenched-fist views, scapholunate angle & DISI** (OB 5 · TO 6): [[OB1423]], [[OB8700]], [[OB217881]], [[OB220046]], [[OB220134]], [[TO17137154]], [[TO17137156]], [[TO17137173]], [[TO17730797]], [[TO17730801]], [[TO17745606]]
+- **Anatomy – dorsal SLIL is strongest** (OB 1): [[OB6921]]
+- **Acute repair** (OB 1): [[OB8740]]
+- **Iatrogenic DISI after distal scaphoid excision** (OB 2): [[OB212073]], [[OB217841]]
+- **Secondary stabilisers & progression to static DISI** (TO 1): [[TO25178983]]
+- **Perilunate spectrum (rocking lunate, Mayfield I)** (TO 2): [[TO17141691]], [[TO17141692]]
+
+### [[seymour-fracture|Seymour Fracture]] (OB 4 · TO 1)
+- **Anatomy & management – nail bed repair, remove interposed tissue, reduce** (OB 3 · TO 1): [[OB5656]], [[OB215454]], [[OB215460]], [[TO21733292]]
+- **Complication – osteomyelitis** (OB 1): [[OB219782]]
+
+### [[skin-grafting|Skin Grafting]] (OB 1)
+- **Palmar defect coverage** (OB 1): [[OB109]]
+
+### [[snapping-extensor-carpi-ulnaris-ecu|Snapping Extensor Carpi Ulnaris (ECU)]] (OB 5)
+- **Diagnosis – snapping with supination/flexion & examination tests** (OB 4): [[OB217394]], [[OB217869]], [[OB219431]], [[OB220419]]
+- **Nonoperative immobilisation position** (OB 1): [[OB211314]]
+
+### [[swan-neck-deformity|Swan Neck Deformity]] (OB 2 · TO 2)
+- **Pathomechanics – triangular ligament & lateral band tenotomy** (OB 2 · TO 2): [[OB7475]], [[OB211908]], [[TO21733290]], [[TO25178260]]
+
+### [[syndactyly|Syndactyly]] (OB 1 · TO 3)
+- **Complication – web creep** (OB 1 · TO 2): [[OB3548]], [[TO17141699]], [[TO17905811]]
+- **Epidemiology – most common web** (TO 1): [[TO17141700]]
+
+### [[tendon-transfer-principles|Tendon Transfer Principles]] (OB 7)
+- **Prerequisites – supple joints** (OB 1): [[OB6763]]
+- **Radial nerve/PIN palsy transfers** (OB 2): [[OB3102]], [[OB7803]]
+- **Median/ulnar palsy transfers – opponensplasty & claw correction** (OB 3): [[OB4738]], [[OB7670]], [[OB211864]]
+- **Tensioning EIP-to-EPL transfer** (OB 1): [[OB7722]]
+
+### [[thromboangiitis-obliterans-buergers-disease|Thromboangiitis Obliterans (Buerger's disease)]] (OB 1)
+- **Diagnosis – arteriography & smoking** (OB 1): [[OB4486]]
+
+### [[thumb-cmc-dislocation|Thumb CMC Dislocation]] (OB 5)
+- **Stabilisers – dorsoradial ligament & anterior oblique ligament** (OB 4): [[OB5948]], [[OB217861]], [[OB219854]], [[OB220421]]
+- **Ligament reconstruction with FCR** (OB 1): [[OB215156]]
+
+### [[thumb-collateral-ligament-injury|Thumb Collateral Ligament Injury]] (OB 6 · TO 3)
+- **UCL anatomy – proper vs accessory ligament & testing positions** (OB 2): [[OB3306]], [[OB5931]]
+- **Stener lesion – adductor aponeurosis** (OB 3 · TO 3): [[OB8902]], [[OB211963]], [[OB219368]], [[TO17141905]], [[TO17141908]], [[TO17731959]]
+- **RCL vs UCL – delayed repair** (OB 1): [[OB217356]]
+
+### [[thumb-hypoplasia|Thumb Hypoplasia]] (OB 4)
+- **Reconstruction vs pollicisation – CMC joint stability (Blauth)** (OB 4): [[OB1142]], [[OB1225]], [[OB3094]], [[OB220050]]
+
+### [[triangular-fibrocartilage-complex-tfcc-injury|Triangular Fibrocartilage Complex (TFCC) Injury]] (OB 9 · TO 5)
+- **Anatomy – components, foveal insertion & radioulnar ligaments** (OB 4 · TO 1): [[OB1159]], [[OB6404]], [[OB211193]], [[OB219312]], [[TO17141749]]
+- **Diagnosis – mechanism & examination** (OB 3): [[OB1388]], [[OB1446]], [[OB8665]]
+- **Treatment – immobilisation, debridement & wafer procedure with ulnar-positive variance** (OB 2): [[OB4700]], [[OB219370]]
+- **Palmer classification & iceberg concept** (TO 2): [[TO17141752]], [[TO17141754]]
+- **DRUJ instability – piano key sign** (TO 2): [[TO17141748]], [[TO17731920]]
+
+### [[trigger-finger|Trigger Finger]] (OB 6)
+- **Pathology – A1 pulley** (OB 1): [[OB1050]]
+- **Paediatric trigger finger/thumb – additional releases & digital nerve risk** (OB 3): [[OB3207]], [[OB3479]], [[OB5449]]
+- **Percutaneous thumb release – radial digital nerve risk** (OB 1): [[OB6548]]
+- **Infection risk – timing after steroid injection** (OB 1): [[OB220074]]
+
+### [[ulnar-styloid-impaction-syndrome|Ulnar Styloid Impaction Syndrome]] (OB 3)
+- **Diagnosis & failed treatment – positive ulnar variance, styloid impaction** (OB 2): [[OB214008]], [[OB219874]]
+- **Ulnar shortening osteotomy – nonunion risk** (OB 1): [[OB218109]]
+
+### [[ulnar-tunnel-syndrome|Ulnar Tunnel Syndrome]] (OB 8 · TO 4)
+- **Guyon's canal zones & motor vs sensory findings** (OB 5 · TO 4): [[OB211171]], [[OB213983]], [[OB213989]], [[OB215441]], [[OB217953]], [[TO17138098]], [[TO17138104]], [[TO17747019]], [[TO17903749]]
+- **Causes – ganglion & imaging** (OB 3): [[OB3225]], [[OB9018]], [[OB213015]]
+
+### [[ulnar-variance|Ulnar Variance]] (OB 2 · TO 2)
+- **Load distribution & radiographic measurement** (OB 2): [[OB1153]], [[OB218905]]
+- **Carpal instability adaptive (CIA) after radius malunion** (TO 2): [[TO25178987]], [[TO25178990]]
+
+### [[ulnocarpal-abutment-syndrome|Ulnocarpal Abutment Syndrome]] (OB 5 · TO 1)
+- **Ulnar shortening osteotomy vs wafer – indications & outcomes** (OB 3 · TO 1): [[OB1371]], [[OB3042]], [[OB219759]], [[TO17141912]]
+- **DRUJ arthritis – hemiresection arthroplasty** (OB 1): [[OB82]]
+- **Differential – benign variant** (OB 1): [[OB217359]]
+
+### [[wartenbergs-syndrome|Wartenberg's Syndrome]] (OB 1 · TO 3)
+- **Radial sensory nerve decompression** (OB 1): [[OB7793]]
+- **Compression site & sensory-only presentation** (TO 3): [[TO17138116]], [[TO17138118]], [[TO17731604]]
+
+### [[wrist-arthritis|Wrist Arthritis]] (OB 2 · TO 1)
+- **Radioscapholunate fusion – distal scaphoid & triquetrum excision** (OB 1): [[OB7902]]
+- **Ulnar-sided wrist arthritis** (OB 1): [[OB219771]]
+- **Golf – trailing-wrist dorsal rim impaction** (TO 1): [[TO21733141]]
+
+### [[wrist-arthroscopy|Wrist Arthroscopy]] (OB 5 · TO 3)
+- **Portals & nerves at risk** (OB 3 · TO 2): [[OB4458]], [[OB210116]], [[OB212932]], [[TO17121834]], [[TO17121908]]
+- **Arthroscopic anatomy – visible structures** (OB 2): [[OB7791]], [[OB7889]]
+- **Misfiled – kinematic TKA balancing** (TO 1): [[TO21733263]]
+
+### [[wrist-ligaments-and-biomechanics|Wrist Ligaments & Biomechanics]] (OB 5 · TO 2)
+- **Extrinsic ligaments – radioscaphocapitate & radiocarpal dislocation** (OB 4): [[OB5585]], [[OB5913]], [[OB218901]], [[OB219520]]
+- **Secondary stabilisers against DISI – dorsal intercarpal ligament** (OB 1): [[OB4595]]
+- **Intrinsic & extrinsic ligament function (LT, RSL)** (TO 2): [[TO17141934]], [[TO17141962]]
+
+### [[wrist-trauma-radiographic-evaluation|Wrist Trauma Radiographic Evaluation]] (OB 1)
+- **Carpal ossification sequence** (OB 1): [[OB214018]]
+
+## Shoulder & Elbow
+
+*60 topics · 1,179 questions (OB 964 · TO 215)*
+
+### [[ac-arthritis|AC Arthritis]] (OB 3)
+- **Distal clavicle excision – preserving posterosuperior capsule** (OB 2): [[OB211920]], [[OB217902]]
+- **Arthroscopic vs open distal clavicle excision** (OB 1): [[OB1397]]
+
+### [[acromioclavicular-joint|Acromioclavicular Joint]] (OB 3 · TO 1)
+- **Distal clavicle excision – posterosuperior AC ligaments** (OB 2 · TO 1): [[OB1326]], [[OB8619]], [[TO17140058]]
+- **AC separation – reduction & stabilisation** (OB 1): [[OB8711]]
+
+### [[acromioclavicular-joint-injury|Acromioclavicular Joint Injury]] (OB 20 · TO 1)
+- **Rockwood classification & ligament injury pattern** (OB 6): [[OB8748]], [[OB214098]], [[OB217991]], [[OB219923]], [[OB219939]], [[OB220481]]
+- **AC vs CC ligament function (horizontal vs vertical stability)** (OB 2): [[OB216805]], [[OB218943]]
+- **Imaging – Zanca view** (OB 1): [[OB589]]
+- **Type III injuries – operative vs nonoperative** (OB 6): [[OB393]], [[OB1434]], [[OB216785]], [[OB219173]], [[OB219747]], [[OB220104]]
+- **Low-grade injuries – sling & early motion** (OB 2): [[OB1137]], [[OB3085]]
+- **Surgical complications (Weaver-Dunn AP translation, AC arthritis)** (OB 2): [[OB6376]], [[OB7859]]
+- **Deltotrapezial fascia & trapezius (spinal accessory nerve)** (OB 1): [[OB219473]]
+- **AC joint cyst (Geyser sign)** (TO 1): [[TO17119518]]
+
+### [[adhesive-capsulitis-frozen-shoulder|Adhesive Capsulitis (Frozen Shoulder)]] (OB 25 · TO 5)
+- **Risk factors & associations (diabetes, thyroid disease)** (OB 5 · TO 1): [[OB42]], [[OB5906]], [[OB210172]], [[OB218155]], [[OB219967]], [[TO17139945]]
+- **Pathophysiology – fibroblastic proliferation & reduced capsular volume** (OB 4 · TO 2): [[OB4266]], [[OB4431]], [[OB213129]], [[OB219502]], [[TO17139940]], [[TO17732071]]
+- **Clinical diagnosis – loss of active and passive motion** (OB 1 · TO 2): [[OB220059]], [[TO19356172]], [[TO21733114]]
+- **Nonoperative management – stretching, injection & natural history** (OB 6): [[OB1872]], [[OB3158]], [[OB4341]], [[OB7668]], [[OB7819]], [[OB7894]]
+- **Arthroscopic capsular release – structures & outcomes** (OB 7): [[OB1832]], [[OB8863]], [[OB210158]], [[OB213964]], [[OB213965]], [[OB216795]], [[OB219891]]
+- **Rotator interval anatomy** (OB 1): [[OB2556]]
+- **Stretching exercise mechanics** (OB 1): [[OB4800]]
+
+### [[avascular-necrosis-of-the-shoulder|Avascular Necrosis of the Shoulder]] (OB 9)
+- **Pathogenesis & diagnosis (corticosteroid risk)** (OB 2): [[OB3098]], [[OB3501]]
+- **Treatment by stage – core decompression vs resurfacing/hemiarthroplasty** (OB 7): [[OB4809]], [[OB6580]], [[OB214877]], [[OB217441]], [[OB219787]], [[OB219915]], [[OB219927]]
+
+### [[biceps-subluxation|Biceps Subluxation]] (OB 6)
+- **Association with subscapularis tears** (OB 3): [[OB4828]], [[OB7345]], [[OB218102]]
+- **Biceps pulley stabilisers (coracohumeral & transverse humeral ligaments)** (OB 2): [[OB211117]], [[OB219501]]
+- **Biceps tenotomy for irreparable cuff tear** (OB 1): [[OB8633]]
+
+### [[biceps-tendonitis|Biceps Tendonitis]] (OB 8 · TO 8)
+- **Tenodesis vs tenotomy** (OB 4): [[OB1135]], [[OB214898]], [[OB219816]], [[OB219919]]
+- **Tenodesis technique – suprapectoral vs subpectoral, arthroscopic vs open** (OB 3): [[OB219768]], [[OB219799]], [[OB220015]]
+- **Postoperative function after tenodesis** (OB 1): [[OB8803]]
+- **Long head of biceps anatomy – labral attachment, rotator interval & pulley** (TO 8): [[TO17139988]], [[TO17139995]], [[TO17140000]], [[TO17140042]], [[TO17140063]], [[TO17732109]], [[TO17743684]], [[TO17743790]]
+
+### [[brachial-neuritis-parsonage-turner-syndrome|Brachial Neuritis (Parsonage-Turner Syndrome)]] (OB 5)
+- **Diagnosis – acute pain followed by weakness** (OB 3): [[OB6573]], [[OB6612]], [[OB213994]]
+- **EMG findings** (OB 1): [[OB5544]]
+- **Prognosis** (OB 1): [[OB5612]]
+
+### [[calcific-tendonitis|Calcific Tendonitis]] (OB 8)
+- **Diagnosis & location (supraspinatus)** (OB 3): [[OB573]], [[OB7486]], [[OB219739]]
+- **Phases of disease (resorptive phase pain)** (OB 1): [[OB219474]]
+- **Treatment – conservative, barbotage & arthroscopic debridement** (OB 4): [[OB7893]], [[OB8975]], [[OB216901]], [[OB216903]]
+
+### [[distal-biceps-avulsion|Distal Biceps Avulsion]] (OB 41 · TO 1)
+- **Nonoperative outcome – loss of supination strength** (OB 6): [[OB461]], [[OB6377]], [[OB7325]], [[OB211358]], [[OB211535]], [[OB217985]]
+- **Diagnosis – hook test, MRI, partial tears & footprint anatomy** (OB 7 · TO 1): [[OB469]], [[OB1256]], [[OB2909]], [[OB4564]], [[OB212062]], [[OB214835]], [[OB220075]], [[TO17142510]]
+- **Mechanism – eccentric contraction** (OB 1): [[OB211524]]
+- **LABCN injury – most common complication (single-incision)** (OB 18): [[OB514]], [[OB3593]], [[OB5541]], [[OB7867]], [[OB211326]], [[OB211380]], [[OB214006]], [[OB215533]], [[OB217352]], [[OB217919]], [[OB217933]], [[OB218174]], [[OB218211]], [[OB218954]], [[OB219503]], [[OB219839]], [[OB219907]], [[OB220106]]
+- **PIN injury – two-incision technique & forearm positioning** (OB 2): [[OB211546]], [[OB220530]]
+- **Surgical anatomy – BR/PT interval & recurrent radial artery** (OB 3): [[OB214099]], [[OB216822]], [[OB216857]]
+- **Repair technique – anatomic (ulnar) footprint & chronic retracted tears** (OB 3): [[OB216889]], [[OB218042]], [[OB219930]]
+- **Proximal long-head biceps rupture** (OB 1): [[OB3636]]
+
+### [[distal-clavicle-osteolysis|Distal Clavicle Osteolysis]] (OB 2)
+- **Distal clavicle excision** (OB 2): [[OB636]], [[OB210103]]
+
+### [[elbow-anatomy-and-biomechanics|Elbow Anatomy & Biomechanics]] (OB 8 · TO 1)
+- **Collateral ligaments – MCL anterior bundle & LCL complex** (OB 5): [[OB6163]], [[OB6194]], [[OB7349]], [[OB215633]], [[OB218219]]
+- **Posterior bundle of MCL – release for flexion** (OB 1): [[OB5863]]
+- **Axis of forearm rotation** (OB 1): [[OB6904]]
+- **Biomechanics calculation – moment arms & anchor strength** (OB 1): [[OB7107]]
+- **Olecranon bursitis (student's elbow)** (TO 1): [[TO24060768]]
+
+### [[elbow-arthritis|Elbow Arthritis]] (OB 18 · TO 1)
+- **Primary OA – osteocapsular arthroplasty (arthroscopic vs open) & patient selection** (OB 7): [[OB7753]], [[OB7810]], [[OB210138]], [[OB217875]], [[OB217895]], [[OB218159]], [[OB219971]]
+- **Ulnar nerve – neuritis & decompression when gaining flexion** (OB 2): [[OB215449]], [[OB219875]]
+- **Young post-traumatic arthritis – interposition arthroplasty** (OB 5): [[OB7815]], [[OB216478]], [[OB216893]], [[OB217979]], [[OB219811]]
+- **Rheumatoid elbow – TEA & synovectomy** (OB 3): [[OB6681]], [[OB216861]], [[OB217955]]
+- **Total elbow arthroplasty complications** (OB 1): [[OB216807]]
+- **Elbow arthrodesis position** (TO 1): [[TO17142547]]
+
+### [[elbow-arthroscopy-indications-and-approach|Elbow Arthroscopy: Indications & Approach]] (OB 13 · TO 13)
+- **Portals & nerves at risk** (OB 11 · TO 11): [[OB657]], [[OB3258]], [[OB6668]], [[OB6682]], [[OB7340]], [[OB214123]], [[OB215337]], [[OB215451]], [[OB215632]], [[OB219507]], [[OB219944]], [[TO17112520]], [[TO17112523]], [[TO17114038]], [[TO17114039]], [[TO17114048]], [[TO17114051]], [[TO17731058]], [[TO17735721]], [[TO17736657]], [[TO17736661]], [[TO17736668]]
+- **Contraindications (prior ulnar nerve transposition)** (OB 1): [[OB7861]]
+- **Infection prevention – avoid intra-articular steroid** (OB 1): [[OB217374]]
+- **Positioning & joint distension** (TO 2): [[TO17114042]], [[TO17114057]]
+
+### [[elbow-physical-exam|Elbow Physical Exam]] (OB 1)
+- **Olecranon bursitis – aspiration & compression** (OB 1): [[OB217371]]
+
+### [[elbow-stiffness-and-contractures|Elbow Stiffness and Contractures]] (OB 6)
+- **Static progressive splinting** (OB 2): [[OB3026]], [[OB4766]]
+- **Release – posterior bundle of MCL for flexion** (OB 2): [[OB4456]], [[OB4701]]
+- **Arthroscopic vs open release (prior ulnar transposition, HO)** (OB 2): [[OB210287]], [[OB218222]]
+
+### [[glenohumeral-arthritis-shoulder-arthritis|Glenohumeral Arthritis (Shoulder Arthritis)]] (OB 17)
+- **Glenoid wear patterns (Walch, posterior wear, medialisation in RA)** (OB 3): [[OB328]], [[OB2855]], [[OB218147]]
+- **Anatomic TSA vs hemiarthroplasty – indications & cuff status** (OB 4): [[OB2835]], [[OB3450]], [[OB6671]], [[OB218179]]
+- **Reverse shoulder arthroplasty – cuff deficiency, post-instability arthropathy, RA** (OB 5): [[OB5834]], [[OB6643]], [[OB211733]], [[OB214571]], [[OB214576]]
+- **Young patients – nonoperative care & arthroscopic debridement (CAM procedure)** (OB 5): [[OB6488]], [[OB6651]], [[OB6656]], [[OB213974]], [[OB216907]]
+
+### [[glenohumeral-internal-rotation-deficit-gird|Glenohumeral Internal Rotation Deficit (GIRD)]] (OB 29)
+- **Definition & thrower adaptations (IR loss, total arc, posterior capsule)** (OB 7): [[OB616]], [[OB6410]], [[OB7330]], [[OB213033]], [[OB217532]], [[OB218674]], [[OB221338]]
+- **Treatment – posterior capsular stretching (sleeper/cross-body) & scapular work** (OB 13): [[OB1111]], [[OB1386]], [[OB1868]], [[OB2168]], [[OB5444]], [[OB6617]], [[OB7308]], [[OB7640]], [[OB7746]], [[OB7899]], [[OB210148]], [[OB212999]], [[OB214825]]
+- **Internal impingement & associated lesions (SLAP, articular-sided cuff tears)** (OB 9): [[OB2871]], [[OB3505]], [[OB6565]], [[OB6678]], [[OB7661]], [[OB7862]], [[OB8908]], [[OB219856]], [[OB220063]]
+
+### [[glenohumeral-joint-anatomy-stabilizer-and-biomechanics|Glenohumeral Joint Anatomy, Stabilizer, and Biomechanics]] (OB 18 · TO 14)
+- **Glenohumeral ligaments – function by arm position (IGHL, MGHL, SGHL, CHL)** (OB 8 · TO 8): [[OB1194]], [[OB1432]], [[OB4514]], [[OB5623]], [[OB7310]], [[OB7911]], [[OB213149]], [[OB215121]], [[TO17124489]], [[TO17139987]], [[TO17139992]], [[TO17140002]], [[TO17731932]], [[TO17732082]], [[TO17736633]], [[TO17745143]]
+- **Rotator interval contents** (OB 2): [[OB647]], [[OB6204]]
+- **Dynamic stabilisers – concavity compression & rotator cuff** (OB 2): [[OB2877]], [[OB6685]]
+- **Normal variants (Buford complex, cord-like MGHL) – do not repair** (OB 3 · TO 1): [[OB6598]], [[OB7382]], [[OB7481]], [[TO17140051]]
+- **HAGL lesion** (OB 1): [[OB8757]]
+- **Humeral head blood supply** (OB 1): [[OB4422]]
+- **Arthroscopic vs open repair – external rotation preservation** (OB 1): [[OB6562]]
+- **Labral anatomy & blood supply** (TO 1): [[TO17140066]]
+- **Scapulohumeral rhythm** (TO 2): [[TO17731672]], [[TO19468191]]
+- **Glenoid & humeral version** (TO 2): [[TO17139948]], [[TO17730509]]
+
+### [[internal-impingement|Internal Impingement]] (OB 18)
+- **Pathomechanics – late cocking, abduction–external rotation & posterosuperior contact** (OB 5): [[OB390]], [[OB2955]], [[OB3563]], [[OB214880]], [[OB219828]]
+- **Posterior capsular contracture & GIRD – stretching** (OB 6): [[OB699]], [[OB3267]], [[OB4783]], [[OB7629]], [[OB7707]], [[OB212172]]
+- **Associated lesions & diagnosis (articular-sided cuff tears, posterosuperior labral fraying)** (OB 6): [[OB6396]], [[OB7314]], [[OB7804]], [[OB217911]], [[OB218151]], [[OB218965]]
+- **Asymptomatic MRI findings in pitchers** (OB 1): [[OB219824]]
+
+### [[lateral-epicondylitis-tennis-elbow|Lateral Epicondylitis (Tennis Elbow)]] (OB 15 · TO 11)
+- **ECRB anatomy – origin, insertion & innervation** (OB 5 · TO 6): [[OB580]], [[OB2932]], [[OB8933]], [[OB211897]], [[OB216667]], [[TO17142644]], [[TO17142646]], [[TO17142648]], [[TO17731945]], [[TO17745147]], [[TO24060068]]
+- **Histology – angiofibroblastic tendinosis** (OB 2 · TO 3): [[OB2920]], [[OB7369]], [[TO17142592]], [[TO17142651]], [[TO17731939]]
+- **Nonoperative treatment – eccentric therapy, steroid & PRP injections** (OB 6 · TO 1): [[OB5774]], [[OB7892]], [[OB8858]], [[OB219931]], [[OB220067]], [[OB220460]], [[TO17142653]]
+- **Iatrogenic LUCL injury after debridement** (OB 2): [[OB5894]], [[OB218039]]
+- **Differential of lateral elbow pain in athletes** (TO 1): [[TO24060086]]
+
+### [[lateral-ulnar-collateral-ligament-injury-plri|Lateral Ulnar Collateral Ligament Injury (PLRI)]] (OB 19 · TO 1)
+- **Diagnosis – lateral pivot-shift, chair push-up & clinical signs** (OB 5): [[OB5751]], [[OB7788]], [[OB214109]], [[OB219800]], [[OB220115]]
+- **LUCL anatomy & failure site (humeral avulsion)** (OB 5): [[OB4723]], [[OB214003]], [[OB217443]], [[OB217879]], [[OB219783]]
+- **Reconstruction & postoperative protocol (avoid varus, pronation, splinting position)** (OB 7): [[OB3667]], [[OB6466]], [[OB7839]], [[OB214120]], [[OB217847]], [[OB217903]], [[OB218956]]
+- **Iatrogenic injury after lateral epicondylitis surgery** (OB 2): [[OB8732]], [[OB220107]]
+- **Primary elbow stabilisers (coronoid)** (TO 1): [[TO17743327]]
+
+### [[little-league-elbow|Little League Elbow]] (OB 7 · TO 5)
+- **Medial epicondyle apophysitis – pathogenesis & diagnosis** (OB 2 · TO 1): [[OB2942]], [[OB4511]], [[TO24060076]]
+- **Risk factors – pitch counts** (OB 2): [[OB5797]], [[OB214122]]
+- **Treatment – rest & activity modification** (OB 3): [[OB6143]], [[OB216849]], [[OB216851]]
+- **MCL (UCL) injury – exam, degeneration & reconstruction** (TO 4): [[TO17142550]], [[TO17730584]], [[TO17732106]], [[TO17745307]]
+
+### [[little-leaguers-shoulder|Little Leaguer's Shoulder]] (OB 14 · TO 1)
+- **Diagnosis – physeal widening, imaging & throwing phase** (OB 6 · TO 1): [[OB4699]], [[OB211370]], [[OB212206]], [[OB217347]], [[OB218568]], [[OB218694]], [[TO24060769]]
+- **Treatment – cessation of throwing & graded return** (OB 6): [[OB6546]], [[OB7261]], [[OB8726]], [[OB213036]], [[OB217858]], [[OB219860]]
+- **Recurrence risk factors (IR deficit, length of rest)** (OB 2): [[OB216830]], [[OB219487]]
+
+### [[luxatio-erecta-inferior-glenohumeral-joint-dislocation|Luxatio Erecta (Inferior Glenohumeral Joint Dislocation)]] (OB 1)
+- **Clinical presentation – arm locked in abduction** (OB 1): [[OB3065]]
+
+### [[medial-epicondylitis-golfers-elbow|Medial Epicondylitis (Golfer's Elbow)]] (OB 4)
+- **Diagnosis – provocative testing** (OB 1): [[OB5421]]
+- **Nonoperative treatment – injection** (OB 1): [[OB8845]]
+- **Surgical outcomes & ulnar nerve involvement** (OB 2): [[OB217883]], [[OB218171]]
+
+### [[medial-ulnar-collateral-ligament-injury|Medial Ulnar Collateral Ligament Injury]] (OB 42)
+- **Anatomy & biomechanics (anterior bundle, isometry, posterior bundle)** (OB 10): [[OB628]], [[OB2918]], [[OB3305]], [[OB6687]], [[OB211755]], [[OB212139]], [[OB213010]], [[OB213121]], [[OB216829]], [[OB217350]]
+- **Throwing phase of maximal valgus stress (late cocking/early acceleration)** (OB 10): [[OB633]], [[OB780]], [[OB5511]], [[OB7292]], [[OB211238]], [[OB216806]], [[OB216833]], [[OB217850]], [[OB217958]], [[OB219784]]
+- **Diagnosis – moving valgus stress, milking manoeuvre & MRI T-sign** (OB 9): [[OB3309]], [[OB6572]], [[OB6659]], [[OB7342]], [[OB7827]], [[OB212998]], [[OB214239]], [[OB215631]], [[OB217471]]
+- **Reconstruction technique (docking vs Jobe) & return to play** (OB 7): [[OB4446]], [[OB4793]], [[OB213122]], [[OB216577]], [[OB218968]], [[OB219859]], [[OB220083]]
+- **Ulnar nerve management & postoperative neuritis** (OB 4): [[OB214784]], [[OB216809]], [[OB217910]], [[OB218115]]
+- **Non-thrower partial injury – nonoperative care** (OB 1): [[OB5526]]
+- **Postoperative rehabilitation – forearm position** (OB 1): [[OB216797]]
+
+### [[multidirectional-shoulder-instability-mdi|Multidirectional Shoulder Instability (MDI)]] (OB 20 · TO 2)
+- **Diagnosis – sulcus sign, generalised laxity & capsular redundancy** (OB 4 · TO 2): [[OB937]], [[OB1381]], [[OB213001]], [[OB219935]], [[TO19356213]], [[TO21733212]]
+- **Initial treatment – prolonged rotator cuff & periscapular strengthening** (OB 8): [[OB180]], [[OB2963]], [[OB4370]], [[OB6626]], [[OB7682]], [[OB213060]], [[OB217959]], [[OB218002]]
+- **Surgery – capsular shift & rotator interval closure** (OB 3): [[OB3188]], [[OB7794]], [[OB8759]]
+- **Thermal capsulorrhaphy – complications & failure** (OB 4): [[OB4862]], [[OB6574]], [[OB7888]], [[OB7912]]
+- **Recurrent instability with glenoid bone loss – bony augmentation** (OB 1): [[OB7319]]
+
+### [[neuropathic-charcot-joint-of-shoulder|Neuropathic (Charcot) Joint of Shoulder]] (OB 4)
+- **Syringomyelia – most common cause & MRI work-up** (OB 4): [[OB1145]], [[OB1273]], [[OB216787]], [[OB217931]]
+
+### [[olecranon-stress-fracture|Olecranon Stress Fracture]] (OB 3)
+- **Diagnosis & compression screw fixation** (OB 3): [[OB1408]], [[OB7359]], [[OB7720]]
+
+### [[os-acromiale|Os Acromiale]] (OB 5)
+- **Anatomy – failed fusion of meso- and meta-acromion** (OB 4): [[OB817]], [[OB6206]], [[OB218091]], [[OB219943]]
+- **Treatment of symptomatic os acromiale – fusion** (OB 1): [[OB216724]]
+
+### [[osteochondritis-dissecans-of-elbow|Osteochondritis Dissecans of Elbow]] (OB 11)
+- **Presentation & population (capitellum, gymnasts/throwers, loss of extension)** (OB 5): [[OB644]], [[OB6647]], [[OB6676]], [[OB7828]], [[OB216869]]
+- **Stable lesions – activity cessation** (OB 5): [[OB7377]], [[OB8742]], [[OB215450]], [[OB217983]], [[OB218692]]
+- **Prognosis – skeletal maturity** (OB 1): [[OB220124]]
+
+### [[pectoralis-major-rupture|Pectoralis Major Rupture]] (OB 13 · TO 2)
+- **Anatomy – sternal head & pectoral nerve innervation** (OB 3 · TO 1): [[OB710]], [[OB218938]], [[OB220091]], [[TO17140103]]
+- **Mechanism – eccentric bench press** (OB 1 · TO 1): [[OB910]], [[TO17140102]]
+- **Diagnosis – MRI** (OB 1): [[OB6231]]
+- **Treatment – acute repair, chronic allograft reconstruction & nonoperative deficits** (OB 8): [[OB1796]], [[OB6448]], [[OB6592]], [[OB7875]], [[OB7907]], [[OB8722]], [[OB8788]], [[OB219498]]
+
+### [[phases-of-throwing|Phases of Throwing]] (OB 5 · TO 8)
+- **Scapular kinematics & muscle activation** (OB 2): [[OB3530]], [[OB219983]]
+- **Dynamic medial elbow stabilisers (FDS, FCU)** (OB 1): [[OB7350]]
+- **Phase of maximal valgus stress – late cocking/early acceleration** (OB 2 · TO 3): [[OB8662]], [[OB213064]], [[TO17135947]], [[TO17135954]], [[TO17731926]]
+- **Throwing athlete rehabilitation** (TO 1): [[TO21733265]]
+- **Ball-flight physics (Magnus effect)** (TO 2): [[TO17135941]], [[TO17735733]]
+- **Follow-through & injury prevention** (TO 2): [[TO17135949]], [[TO17735749]]
+
+### [[posterior-labral-tear|Posterior Labral Tear]] (OB 12)
+- **Mechanism & provocative position (flexion–adduction–internal rotation)** (OB 5): [[OB4628]], [[OB7699]], [[OB211381]], [[OB217368]], [[OB219952]]
+- **Diagnosis – jerk/Kim tests & MRI** (OB 3): [[OB6605]], [[OB8579]], [[OB214080]]
+- **Treatment – therapy vs arthroscopic repair, recurrence & postoperative restrictions** (OB 3): [[OB7863]], [[OB213968]], [[OB219936]]
+- **Complications – axillary nerve injury** (OB 1): [[OB3575]]
+
+### [[posterior-shoulder-instability-and-dislocation|Posterior Shoulder Instability & Dislocation]] (OB 37 · TO 5)
+- **Locked posterior dislocation – diagnosis (axillary/Velpeau view, loss of ER, seizures, electrocution)** (OB 10): [[OB26]], [[OB342]], [[OB503]], [[OB547]], [[OB2820]], [[OB5682]], [[OB6480]], [[OB6620]], [[OB217846]], [[OB220039]]
+- **Chronic locked dislocation – reverse Hill-Sachs management (McLaughlin, arthroplasty)** (OB 6 · TO 3): [[OB3587]], [[OB6649]], [[OB7758]], [[OB7842]], [[OB7870]], [[OB216804]], [[TO17121267]], [[TO17140047]], [[TO17736646]]
+- **Recurrent posterior instability – Kim lesion/labral tear, jerk & Kim tests, restraints** (OB 13 · TO 2): [[OB656]], [[OB2919]], [[OB3196]], [[OB4627]], [[OB5631]], [[OB6463]], [[OB6625]], [[OB211205]], [[OB213970]], [[OB214298]], [[OB216800]], [[OB216832]], [[OB219766]], [[TO17121040]], [[TO17730964]]
+- **Treatment – therapy vs arthroscopic capsulolabral repair & postoperative protocol** (OB 8): [[OB5852]], [[OB6645]], [[OB7671]], [[OB7762]], [[OB211216]], [[OB211227]], [[OB216802]], [[OB219823]]
+
+### [[quadrilateral-space-syndrome|Quadrilateral Space Syndrome]] (OB 5 · TO 3)
+- **Diagnosis – axillary nerve compression & teres minor atrophy** (OB 5 · TO 3): [[OB519]], [[OB2885]], [[OB3332]], [[OB7664]], [[OB213032]], [[TO17138109]], [[TO17138110]], [[TO17731557]]
+
+### [[reverse-shoulder-arthroplasty|Reverse Shoulder Arthroplasty]] (OB 55 · TO 14)
+- **Indications – cuff tear arthropathy, pseudoparalysis, failed arthroplasty or cuff repair, fracture** (OB 10 · TO 4): [[OB142]], [[OB585]], [[OB617]], [[OB3525]], [[OB5463]], [[OB7848]], [[OB213024]], [[OB213134]], [[OB217999]], [[OB218079]], [[TO17106598]], [[TO17106611]], [[TO17736823]], [[TO17743334]]
+- **Contraindications – deltoid dysfunction & axillary neuropathy** (OB 5): [[OB3362]], [[OB3654]], [[OB7817]], [[OB214872]], [[OB219996]]
+- **Biomechanics – medialised/inferior centre of rotation & deltoid tensioning** (OB 5 · TO 3): [[OB459]], [[OB6608]], [[OB8289]], [[OB213014]], [[OB213976]], [[TO17106616]], [[TO17106623]], [[TO24060755]]
+- **Scapular notching – superior baseplate, neck-shaft angle & lateralisation** (OB 13 · TO 3): [[OB2822]], [[OB3510]], [[OB7681]], [[OB213013]], [[OB213963]], [[OB214573]], [[OB215540]], [[OB216831]], [[OB217839]], [[OB217851]], [[OB217943]], [[OB218963]], [[OB220035]], [[TO17106396]], [[TO17106605]], [[TO17730862]]
+- **Instability/dislocation – risk factors & positions to avoid** (OB 8 · TO 2): [[OB4801]], [[OB5451]], [[OB216847]], [[OB216859]], [[OB217899]], [[OB218183]], [[OB219991]], [[OB219995]], [[TO17106612]], [[TO17106653]]
+- **Acromial & scapular spine stress fractures** (OB 4 · TO 1): [[OB216827]], [[OB218238]], [[OB219911]], [[OB220027]], [[TO17106629]]
+- **Periprosthetic fracture after a fall** (OB 1): [[OB218135]]
+- **Infection & complications after revision** (OB 3): [[OB7824]], [[OB214118]], [[OB214119]]
+- **Nerve injury during glenoid preparation** (OB 1): [[OB217369]]
+- **Baseplate failure – central peg error** (OB 1): [[OB5711]]
+- **Latissimus dorsi transfer with RSA** (OB 1): [[OB5625]]
+- **Fracture RSA – greater tuberosity healing** (OB 1): [[OB220268]]
+- **Surgeon learning curve & postoperative surveillance** (OB 2): [[OB214117]], [[OB220047]]
+- **Humeral component design (inlay vs onlay)** (TO 1): [[TO21733261]]
+
+### [[revision-total-elbow-arthroplasty|Revision Total Elbow Arthroplasty]] (OB 7)
+- **Infection – organisms, risk factors & staged revision** (OB 4): [[OB3684]], [[OB7836]], [[OB219807]], [[OB219959]]
+- **Failure modes & revision rates by indication** (OB 3): [[OB7840]], [[OB218199]], [[OB218967]]
+
+### [[rotator-cuff-arthropathy|Rotator Cuff Arthropathy]] (OB 21)
+- **Pathogenesis – loss of force couples/concavity compression & anterosuperior escape** (OB 5): [[OB8815]], [[OB210201]], [[OB216825]], [[OB217995]], [[OB218146]]
+- **Reverse arthroplasty for pseudoparalysis & outcomes** (OB 8): [[OB964]], [[OB6397]], [[OB6618]], [[OB7809]], [[OB216349]], [[OB218015]], [[OB219109]], [[OB219840]]
+- **RSA with latissimus/teres major transfer for loss of external rotation** (OB 3): [[OB4676]], [[OB5697]], [[OB213962]]
+- **Nonoperative care when function is preserved** (OB 1): [[OB7818]]
+- **Pectoralis major transfer for subscapularis insufficiency – nerve risk** (OB 1): [[OB4379]]
+- **Traumatic subscapularis tear mechanism** (OB 1): [[OB6601]]
+- **Implant choice & complications (superior glenoid wear, metal-backed glenoid)** (OB 2): [[OB217907]], [[OB219999]]
+
+### [[rotator-cuff-tears|Rotator Cuff Tears]] (OB 111 · TO 25)
+- **Anatomy – footprint, rotator cable, biceps pulley, innervation & coracoacromial ligament** (OB 12 · TO 3): [[OB1346]], [[OB3086]], [[OB3290]], [[OB4760]], [[OB6234]], [[OB6575]], [[OB213063]], [[OB214083]], [[OB215446]], [[OB217966]], [[OB217998]], [[OB219561]], [[TO17121009]], [[TO17907810]], [[TO19356258]]
+- **Subscapularis tears – belly-press/lift-off tests, biceps instability & repair** (OB 14 · TO 2): [[OB671]], [[OB3025]], [[OB5726]], [[OB5927]], [[OB6183]], [[OB6570]], [[OB6632]], [[OB6637]], [[OB7344]], [[OB7896]], [[OB211953]], [[OB213961]], [[OB216784]], [[OB219803]], [[TO25878177]], [[TO25878178]]
+- **Partial-thickness tears – PASTA, bursal vs articular, debridement vs completion & repair** (OB 9 · TO 2): [[OB1123]], [[OB3240]], [[OB7290]], [[OB7297]], [[OB7618]], [[OB7872]], [[OB214662]], [[OB216316]], [[OB219955]], [[TO17119525]], [[TO17732279]]
+- **Throwing athletes – mechanism & management** (OB 3): [[OB957]], [[OB3517]], [[OB7868]]
+- **Cuff tear after shoulder dislocation in older patients** (OB 11 · TO 2): [[OB1103]], [[OB3180]], [[OB6588]], [[OB6665]], [[OB7599]], [[OB7718]], [[OB7855]], [[OB213034]], [[OB213062]], [[OB213971]], [[OB218203]], [[TO17119812]], [[TO17907859]]
+- **Natural history – asymptomatic prevalence & tear progression** (OB 6): [[OB3118]], [[OB7898]], [[OB215541]], [[OB218083]], [[OB218087]], [[OB219486]]
+- **Operative vs nonoperative indications (acute traumatic vs atraumatic tears)** (OB 8): [[OB3698]], [[OB4501]], [[OB5801]], [[OB212107]], [[OB214082]], [[OB214084]], [[OB214107]], [[OB219778]]
+- **Repair technique – single vs double row, transosseous-equivalent & failure mode** (OB 11): [[OB4444]], [[OB5591]], [[OB6586]], [[OB7335]], [[OB7341]], [[OB211447]], [[OB214607]], [[OB216844]], [[OB217891]], [[OB219987]], [[OB220096]]
+- **Healing & retear risk factors (age, fatty infiltration, workers' comp, injections)** (OB 7): [[OB3543]], [[OB4412]], [[OB213909]], [[OB215542]], [[OB216913]], [[OB217438]], [[OB218849]]
+- **Postoperative rehabilitation – early vs delayed motion** (OB 6 · TO 2): [[OB73]], [[OB4819]], [[OB5493]], [[OB7602]], [[OB7767]], [[OB218107]], [[TO17119771]], [[TO17907839]]
+- **Massive/irreparable tears – partial repair, SCR & tendon transfers** (OB 17 · TO 3): [[OB367]], [[OB558]], [[OB3623]], [[OB4878]], [[OB5870]], [[OB7799]], [[OB7808]], [[OB7844]], [[OB9015]], [[OB211744]], [[OB213035]], [[OB213972]], [[OB213973]], [[OB214106]], [[OB217974]], [[OB218981]], [[OB220132]], [[TO17119710]], [[TO17119713]], [[TO17119714]]
+- **Concomitant procedures (acromioplasty, distal clavicle excision, suprascapular nerve release)** (OB 3): [[OB218126]], [[OB219770]], [[OB219948]]
+- **Complications – infection, positioning & regional anaesthesia** (OB 3 · TO 2): [[OB4492]], [[OB5786]], [[OB215630]], [[TO17119658]], [[TO17745392]]
+- **Physical examination – external rotation lag sign** (OB 1): [[OB5816]]
+- **Acromial morphology & impingement** (TO 5): [[TO17119523]], [[TO17119654]], [[TO17120975]], [[TO17732009]], [[TO17736575]]
+- **Cuff tear arthropathy – radiographic signs** (TO 4): [[TO17119652]], [[TO17119656]], [[TO17736574]], [[TO17736631]]
+
+### [[scapular-winging|Scapular Winging]] (OB 17 · TO 4)
+- **Medial winging – long thoracic nerve/serratus anterior** (OB 11): [[OB77]], [[OB487]], [[OB1207]], [[OB1224]], [[OB4618]], [[OB5708]], [[OB6211]], [[OB7315]], [[OB8963]], [[OB211854]], [[OB220120]]
+- **Lateral winging – spinal accessory nerve/trapezius & Eden-Lange transfer** (OB 6): [[OB1394]], [[OB4474]], [[OB5499]], [[OB7822]], [[OB8671]], [[OB217854]]
+- **Dorsal scapular nerve – rhomboid & levator** (TO 4): [[TO17124678]], [[TO17124697]], [[TO17736627]], [[TO17736683]]
+
+### [[scapulothoracic-dyskinesis|Scapulothoracic Dyskinesis]] (OB 2)
+- **Rehabilitation – kinetic chain, pectoralis minor & posterior capsule stretching** (OB 2): [[OB1056]], [[OB8663]]
+
+### [[shoulder-arthrodesis|Shoulder Arthrodesis]] (OB 2)
+- **Indications – deltoid and rotator cuff paralysis** (OB 2): [[OB252]], [[OB3492]]
+
+### [[shoulder-arthroscopy-indications-and-approach|Shoulder Arthroscopy: Indications & Approach]] (OB 5 · TO 1)
+- **Portal-related axillary nerve injury** (OB 1): [[OB4837]]
+- **Positioning complications (beach chair, lateral decubitus, obesity)** (OB 4 · TO 1): [[OB8940]], [[OB8993]], [[OB214121]], [[OB219956]], [[TO17121626]]
+
+### [[shoulder-exam|Shoulder Exam]] (OB 3 · TO 18)
+- **Hornblower's sign – teres minor** (OB 1): [[OB4661]]
+- **Anterior band of IGHL – restraint in abduction/external rotation** (OB 1): [[OB6639]]
+- **Lesser tuberosity fracture – subscapularis testing** (OB 1): [[OB213999]]
+- **Rotator cuff strength & lag tests (lift-off, hornblower, ER lag)** (TO 10): [[TO17140078]], [[TO17140081]], [[TO17140083]], [[TO17140090]], [[TO17140091]], [[TO17730835]], [[TO17731382]], [[TO17733336]], [[TO17736321]], [[TO17745169]]
+- **Impingement & biceps tests (Hawkins, Speed)** (TO 7): [[TO17140070]], [[TO17140085]], [[TO17140095]], [[TO17730531]], [[TO17736315]], [[TO17745176]], [[TO19356262]]
+- **Labral tests (Porcelli)** (TO 1): [[TO17140097]]
+
+### [[shoulder-hemiarthroplasty|Shoulder Hemiarthroplasty]] (OB 10 · TO 4)
+- **Tuberosity malposition after fracture hemiarthroplasty** (OB 2): [[OB1023]], [[OB216885]]
+- **Indications & limitations (cuff integrity, osteonecrosis, CTA head, ream-and-run)** (OB 5 · TO 1): [[OB1406]], [[OB6644]], [[OB216236]], [[OB217871]], [[OB217915]], [[TO17106667]]
+- **Failed hemiarthroplasty – glenoid erosion & conversion to TSA/RSA** (OB 3): [[OB210145]], [[OB214622]], [[OB216837]]
+- **Humeral stem version** (TO 3): [[TO17106662]], [[TO17744171]], [[TO24060052]]
+
+### [[shoulder-imaging|Shoulder Imaging]] (OB 1 · TO 4)
+- **MRI physics – field strength** (OB 1): [[OB3554]]
+- **Radiographic views (Zanca, West Point)** (TO 4): [[TO17125107]], [[TO17125111]], [[TO17730655]], [[TO17732008]]
+
+### [[shoulder-periprosthetic-fracture|Shoulder Periprosthetic Fracture]] (OB 3)
+- **Stable-stem fractures – ORIF with plate/cerclage & radial nerve risk** (OB 3): [[OB212959]], [[OB213101]], [[OB219831]]
+
+### [[shoulder-prosthetic-joint-infection|Shoulder Prosthetic Joint Infection]] (OB 11)
+- **C. acnes – microbiology, prolonged culture & antibiotic choice** (OB 6): [[OB213960]], [[OB216839]], [[OB216841]], [[OB217439]], [[OB218103]], [[OB220123]]
+- **Risk factors & prevention (smoking, steroid injection, nasal decolonisation)** (OB 3): [[OB210209]], [[OB213910]], [[OB218187]]
+- **Diagnostic work-up – aspiration** (OB 2): [[OB218951]], [[OB220055]]
+
+### [[slap-lesion|SLAP Lesion]] (OB 18 · TO 4)
+- **Anatomy – biceps anchor, Buford complex & vascularity** (OB 3): [[OB101]], [[OB3134]], [[OB213843]]
+- **Diagnosis – MR arthrogram** (OB 2): [[OB1341]], [[OB7605]]
+- **Treatment – nonoperative vs repair vs tenodesis (age, type IV) & return to sport** (OB 5): [[OB4736]], [[OB213116]], [[OB214575]], [[OB218055]], [[OB220080]]
+- **Postoperative rehabilitation after SLAP repair** (OB 3): [[OB3125]], [[OB4361]], [[OB4470]]
+- **Suprascapular nerve – anchor placement & paralabral cyst** (OB 3): [[OB5770]], [[OB9037]], [[OB210195]]
+- **Related topics (distal clavicle excision, biceps dislocation)** (OB 2): [[OB8674]], [[OB8743]]
+- **Classification & variants (type III, Andrews lesion)** (TO 4): [[TO17121760]], [[TO17121762]], [[TO17736113]], [[TO17736944]]
+
+### [[sternoclavicular-joint|Sternoclavicular Joint]] (OB 1)
+- **Instability after medial clavicle resection – figure-of-eight reconstruction** (OB 1): [[OB6603]]
+
+### [[subacromial-impingement|Subacromial Impingement]] (OB 7 · TO 3)
+- **Pathophysiology – metalloproteases** (OB 2): [[OB4277]], [[OB7830]]
+- **Nonoperative management – physical therapy & PRP** (OB 3): [[OB5886]], [[OB219863]], [[OB220111]]
+- **Subacromial decompression outcomes (workers' compensation)** (OB 1): [[OB1094]]
+- **Acromial morphology – os acromiale** (OB 1): [[OB6629]]
+- **Massive cuff tears – irreparability & SCR contraindications** (TO 3): [[TO17140116]], [[TO17140122]], [[TO17140126]]
+
+### [[suprascapular-neuropathy|Suprascapular Neuropathy]] (OB 30 · TO 2)
+- **Spinoglenoid notch cyst – isolated infraspinatus weakness** (OB 14): [[OB52]], [[OB1017]], [[OB1088]], [[OB1232]], [[OB3261]], [[OB3602]], [[OB4384]], [[OB7869]], [[OB8751]], [[OB211150]], [[OB216790]], [[OB216799]], [[OB217938]], [[OB218035]]
+- **Suprascapular notch compression – supraspinatus & infraspinatus involvement** (OB 6 · TO 2): [[OB768]], [[OB212173]], [[OB213127]], [[OB215415]], [[OB218191]], [[OB218848]], [[TO17138115]], [[TO17736336]]
+- **Treatment – labral repair with cyst decompression** (OB 4): [[OB1436]], [[OB8713]], [[OB214116]], [[OB217975]]
+- **Diagnosis – EMG & compression sites** (OB 5): [[OB4677]], [[OB6186]], [[OB7307]], [[OB7633]], [[OB7798]]
+- **Iatrogenic injury** (OB 1): [[OB8874]]
+
+### [[thoracic-outlet-syndrome|Thoracic Outlet Syndrome]] (OB 1 · TO 3)
+- **Diagnosis – cervical rib** (OB 1): [[OB258]]
+- **Provocative tests & neurogenic TOS** (TO 3): [[TO17140129]], [[TO24921390]], [[TO25178213]]
+
+### [[total-elbow-arthroplasty|Total Elbow Arthroplasty]] (OB 20 · TO 4)
+- **Indications – RA, elderly distal humerus fracture, failed interposition** (OB 5): [[OB5614]], [[OB5820]], [[OB6571]], [[OB6590]], [[OB7831]]
+- **Implant design (linked, semiconstrained, unlinked) & survivorship** (OB 7): [[OB4400]], [[OB5422]], [[OB5898]], [[OB214661]], [[OB217859]], [[OB218207]], [[OB219883]]
+- **Surgical approach & triceps insufficiency** (OB 5): [[OB7891]], [[OB214826]], [[OB216871]], [[OB219107]], [[OB219774]]
+- **Lifelong lifting restrictions** (OB 1): [[OB7860]]
+- **Infection** (OB 2): [[OB217372]], [[OB217887]]
+- **Complications – instability & component loosening** (TO 4): [[TO17110314]], [[TO17110333]], [[TO17744219]], [[TO17907786]]
+
+### [[total-shoulder-arthroplasty|Total Shoulder Arthroplasty]] (OB 60 · TO 21)
+- **Indications & contraindications (cuff status, brachial plexus injury, RA, capsulorrhaphy arthropathy)** (OB 9 · TO 2): [[OB398]], [[OB1229]], [[OB4601]], [[OB4890]], [[OB5559]], [[OB6610]], [[OB213966]], [[OB219979]], [[OB220119]], [[TO17109750]], [[TO17907788]]
+- **Glenoid morphology & retroversion correction (eccentric reaming, bone graft, augments)** (OB 5 · TO 4): [[OB339]], [[OB4532]], [[OB212183]], [[OB218127]], [[OB219880]], [[TO17109567]], [[TO17109573]], [[TO17736819]], [[TO17903296]]
+- **Glenoid loosening – most common complication & risk factors** (OB 6 · TO 7): [[OB213967]], [[OB214802]], [[OB216817]], [[OB217843]], [[OB217878]], [[OB218263]], [[TO17108874]], [[TO17109546]], [[TO17109553]], [[TO17109590]], [[TO17731054]], [[TO17745089]], [[TO17907832]]
+- **Subscapularis management & failure (peel, tenotomy, LTO; postoperative restrictions)** (OB 16 · TO 3): [[OB410]], [[OB688]], [[OB1171]], [[OB3032]], [[OB4854]], [[OB7903]], [[OB9097]], [[OB213000]], [[OB213975]], [[OB214540]], [[OB216845]], [[OB217440]], [[OB217830]], [[OB219490]], [[OB219871]], [[OB220011]], [[TO17109492]], [[TO17140056]], [[TO17736650]]
+- **Rotator cuff failure after TSA (overstuffing, falls, sizing)** (OB 7 · TO 1): [[OB3675]], [[OB6576]], [[OB213003]], [[OB217373]], [[OB218043]], [[OB218527]], [[OB220135]], [[TO17109498]]
+- **Infection – C. acnes & work-up** (OB 6): [[OB3473]], [[OB6600]], [[OB7813]], [[OB7829]], [[OB7890]], [[OB220504]]
+- **Neurovascular injury during approach (musculocutaneous, axillary, radial, arcuate artery)** (OB 5): [[OB7910]], [[OB212194]], [[OB217367]], [[OB217963]], [[OB218130]]
+- **Humeral anatomy & implant design (version, stemless, platform stems)** (OB 3 · TO 4): [[OB5957]], [[OB218111]], [[OB220007]], [[TO17108857]], [[TO17730578]], [[TO19356173]], [[TO21733115]]
+- **Postoperative stiffness & opioid use** (OB 2): [[OB7908]], [[OB219780]]
+- **Professionalism – impaired colleague** (OB 1): [[OB221106]]
+
+### [[traumatic-anterior-shoulder-instability-tubs|Traumatic Anterior Shoulder Instability (TUBS)]] (OB 89 · TO 25)
+- **Pathoanatomy – Bankart lesion, IGHL & mechanism (abduction–external rotation)** (OB 9 · TO 8): [[OB267]], [[OB791]], [[OB877]], [[OB2949]], [[OB3151]], [[OB7421]], [[OB210105]], [[OB213061]], [[OB215728]], [[TO17121227]], [[TO17121261]], [[TO17121264]], [[TO17121341]], [[TO17121441]], [[TO17735715]], [[TO17736576]], [[TO17736592]]
+- **Combined anterior & posterior labral tears** (OB 1): [[OB212063]]
+- **HAGL lesion** (OB 5): [[OB160]], [[OB314]], [[OB3165]], [[OB3643]], [[OB7323]]
+- **Hill-Sachs lesion & glenoid track (on/off-track, remplissage)** (OB 11 · TO 3): [[OB78]], [[OB2956]], [[OB4369]], [[OB6165]], [[OB7424]], [[OB8947]], [[OB210108]], [[OB217437]], [[OB218195]], [[OB218962]], [[OB219887]], [[TO25178265]], [[TO25178267]], [[TO25178268]]
+- **Glenoid bone loss – assessment & critical thresholds** (OB 8): [[OB170]], [[OB5938]], [[OB7765]], [[OB7807]], [[OB211139]], [[OB213106]], [[OB216819]], [[OB219904]]
+- **Recurrence risk – age, ISIS score & natural history** (OB 3 · TO 1): [[OB920]], [[OB7909]], [[OB211568]], [[TO17121517]]
+- **First-time dislocation – nonoperative vs early arthroscopic Bankart** (OB 4): [[OB214621]], [[OB218182]], [[OB218652]], [[OB219960]]
+- **Arthroscopic vs open Bankart repair** (OB 3): [[OB8590]], [[OB216788]], [[OB218167]]
+- **Bony Bankart – arthroscopic fixation** (OB 3): [[OB3442]], [[OB5588]], [[OB8563]]
+- **Latarjet/bone block – indications, mechanism & outcomes** (OB 15 · TO 6): [[OB741]], [[OB2946]], [[OB4753]], [[OB5736]], [[OB7845]], [[OB211887]], [[OB215416]], [[OB216803]], [[OB217827]], [[OB217939]], [[OB219529]], [[OB219815]], [[OB219975]], [[OB220051]], [[OB220116]], [[TO17121179]], [[TO17121336]], [[TO17121623]], [[TO17731973]], [[TO17736708]], [[TO25178266]]
+- **Latarjet complications – musculocutaneous nerve, graft resorption & overhang arthritis** (OB 7): [[OB211711]], [[OB213004]], [[OB214081]], [[OB214994]], [[OB217838]], [[OB217934]], [[OB217967]]
+- **Neurovascular injury – axillary nerve & artery (dislocation, capsular shift)** (OB 9): [[OB431]], [[OB913]], [[OB5919]], [[OB6370]], [[OB214079]], [[OB218170]], [[OB219560]], [[OB220506]], [[OB220531]]
+- **Older patients – rotator cuff tear after dislocation** (OB 5): [[OB210167]], [[OB211480]], [[OB213998]], [[OB217926]], [[OB219843]]
+- **Late complications – chondrolysis, osteonecrosis & dislocation arthropathy** (OB 3): [[OB6569]], [[OB6655]], [[OB220056]]
+- **Seizure-related dislocation** (OB 1): [[OB210189]]
+- **Failed stabilisation with subscapularis deficiency – tendon transfer** (OB 1): [[OB217090]]
+- **MRI positioning – ABER view** (OB 1): [[OB218210]]
+- **Terrible triad of the shoulder** (TO 3): [[TO17137922]], [[TO17137923]], [[TO17743581]]
+- **Historical & thermal procedures (Putti-Platt, capsulorrhaphy)** (TO 2): [[TO17121448]], [[TO17121613]]
+- **Normal variants mistaken for pathology (Buford complex)** (TO 2): [[TO17121231]], [[TO17735726]]
+
+### [[triceps-rupture|Triceps Rupture]] (OB 4)
+- **Risk factors & diagnosis (flake sign, MRI)** (OB 3): [[OB1152]], [[OB3558]], [[OB217442]]
+- **Anatomy – lateral expansion & anconeus** (OB 1): [[OB220062]]
+
+### [[valgus-extension-overload-pitchers-elbow|Valgus Extension Overload (Pitcher's Elbow)]] (OB 11)
+- **Diagnosis – posteromedial olecranon osteophytes, examination & throwing phase** (OB 5): [[OB3074]], [[OB210242]], [[OB216887]], [[OB218067]], [[OB219895]]
+- **Excessive olecranon resection – unmasking UCL insufficiency** (OB 4): [[OB1435]], [[OB4450]], [[OB217808]], [[OB219984]]
+- **Differential – acute UCL rupture & sprain** (OB 2): [[OB7590]], [[OB7743]]
 
 ## Trauma
 
@@ -598,395 +1494,6 @@ Every MCQ in the vault – 9,786 Orthobullets (OB) and 2,742 Target Ortho (TO) q
 - **Early postoperative infection – debridement with implant retention** (OB 1): [[OB3809]]
 - **Shoulder surgery infection – C. acnes** (OB 1): [[OB6566]]
 - **Surgical site infection – definition & time window** (TO 2): [[TO17129533]], [[TO17907837]]
-
-## Shoulder & Elbow
-
-*60 topics · 1,179 questions (OB 964 · TO 215)*
-
-### [[ac-arthritis|AC Arthritis]] (OB 3)
-- **Distal clavicle excision – preserving posterosuperior capsule** (OB 2): [[OB211920]], [[OB217902]]
-- **Arthroscopic vs open distal clavicle excision** (OB 1): [[OB1397]]
-
-### [[acromioclavicular-joint|Acromioclavicular Joint]] (OB 3 · TO 1)
-- **Distal clavicle excision – posterosuperior AC ligaments** (OB 2 · TO 1): [[OB1326]], [[OB8619]], [[TO17140058]]
-- **AC separation – reduction & stabilisation** (OB 1): [[OB8711]]
-
-### [[acromioclavicular-joint-injury|Acromioclavicular Joint Injury]] (OB 20 · TO 1)
-- **Rockwood classification & ligament injury pattern** (OB 6): [[OB8748]], [[OB214098]], [[OB217991]], [[OB219923]], [[OB219939]], [[OB220481]]
-- **AC vs CC ligament function (horizontal vs vertical stability)** (OB 2): [[OB216805]], [[OB218943]]
-- **Imaging – Zanca view** (OB 1): [[OB589]]
-- **Type III injuries – operative vs nonoperative** (OB 6): [[OB393]], [[OB1434]], [[OB216785]], [[OB219173]], [[OB219747]], [[OB220104]]
-- **Low-grade injuries – sling & early motion** (OB 2): [[OB1137]], [[OB3085]]
-- **Surgical complications (Weaver-Dunn AP translation, AC arthritis)** (OB 2): [[OB6376]], [[OB7859]]
-- **Deltotrapezial fascia & trapezius (spinal accessory nerve)** (OB 1): [[OB219473]]
-- **AC joint cyst (Geyser sign)** (TO 1): [[TO17119518]]
-
-### [[adhesive-capsulitis-frozen-shoulder|Adhesive Capsulitis (Frozen Shoulder)]] (OB 25 · TO 5)
-- **Risk factors & associations (diabetes, thyroid disease)** (OB 5 · TO 1): [[OB42]], [[OB5906]], [[OB210172]], [[OB218155]], [[OB219967]], [[TO17139945]]
-- **Pathophysiology – fibroblastic proliferation & reduced capsular volume** (OB 4 · TO 2): [[OB4266]], [[OB4431]], [[OB213129]], [[OB219502]], [[TO17139940]], [[TO17732071]]
-- **Clinical diagnosis – loss of active and passive motion** (OB 1 · TO 2): [[OB220059]], [[TO19356172]], [[TO21733114]]
-- **Nonoperative management – stretching, injection & natural history** (OB 6): [[OB1872]], [[OB3158]], [[OB4341]], [[OB7668]], [[OB7819]], [[OB7894]]
-- **Arthroscopic capsular release – structures & outcomes** (OB 7): [[OB1832]], [[OB8863]], [[OB210158]], [[OB213964]], [[OB213965]], [[OB216795]], [[OB219891]]
-- **Rotator interval anatomy** (OB 1): [[OB2556]]
-- **Stretching exercise mechanics** (OB 1): [[OB4800]]
-
-### [[avascular-necrosis-of-the-shoulder|Avascular Necrosis of the Shoulder]] (OB 9)
-- **Pathogenesis & diagnosis (corticosteroid risk)** (OB 2): [[OB3098]], [[OB3501]]
-- **Treatment by stage – core decompression vs resurfacing/hemiarthroplasty** (OB 7): [[OB4809]], [[OB6580]], [[OB214877]], [[OB217441]], [[OB219787]], [[OB219915]], [[OB219927]]
-
-### [[biceps-subluxation|Biceps Subluxation]] (OB 6)
-- **Association with subscapularis tears** (OB 3): [[OB4828]], [[OB7345]], [[OB218102]]
-- **Biceps pulley stabilisers (coracohumeral & transverse humeral ligaments)** (OB 2): [[OB211117]], [[OB219501]]
-- **Biceps tenotomy for irreparable cuff tear** (OB 1): [[OB8633]]
-
-### [[biceps-tendonitis|Biceps Tendonitis]] (OB 8 · TO 8)
-- **Tenodesis vs tenotomy** (OB 4): [[OB1135]], [[OB214898]], [[OB219816]], [[OB219919]]
-- **Tenodesis technique – suprapectoral vs subpectoral, arthroscopic vs open** (OB 3): [[OB219768]], [[OB219799]], [[OB220015]]
-- **Postoperative function after tenodesis** (OB 1): [[OB8803]]
-- **Long head of biceps anatomy – labral attachment, rotator interval & pulley** (TO 8): [[TO17139988]], [[TO17139995]], [[TO17140000]], [[TO17140042]], [[TO17140063]], [[TO17732109]], [[TO17743684]], [[TO17743790]]
-
-### [[brachial-neuritis-parsonage-turner-syndrome|Brachial Neuritis (Parsonage-Turner Syndrome)]] (OB 5)
-- **Diagnosis – acute pain followed by weakness** (OB 3): [[OB6573]], [[OB6612]], [[OB213994]]
-- **EMG findings** (OB 1): [[OB5544]]
-- **Prognosis** (OB 1): [[OB5612]]
-
-### [[calcific-tendonitis|Calcific Tendonitis]] (OB 8)
-- **Diagnosis & location (supraspinatus)** (OB 3): [[OB573]], [[OB7486]], [[OB219739]]
-- **Phases of disease (resorptive phase pain)** (OB 1): [[OB219474]]
-- **Treatment – conservative, barbotage & arthroscopic debridement** (OB 4): [[OB7893]], [[OB8975]], [[OB216901]], [[OB216903]]
-
-### [[distal-biceps-avulsion|Distal Biceps Avulsion]] (OB 41 · TO 1)
-- **Nonoperative outcome – loss of supination strength** (OB 6): [[OB461]], [[OB6377]], [[OB7325]], [[OB211358]], [[OB211535]], [[OB217985]]
-- **Diagnosis – hook test, MRI, partial tears & footprint anatomy** (OB 7 · TO 1): [[OB469]], [[OB1256]], [[OB2909]], [[OB4564]], [[OB212062]], [[OB214835]], [[OB220075]], [[TO17142510]]
-- **Mechanism – eccentric contraction** (OB 1): [[OB211524]]
-- **LABCN injury – most common complication (single-incision)** (OB 18): [[OB514]], [[OB3593]], [[OB5541]], [[OB7867]], [[OB211326]], [[OB211380]], [[OB214006]], [[OB215533]], [[OB217352]], [[OB217919]], [[OB217933]], [[OB218174]], [[OB218211]], [[OB218954]], [[OB219503]], [[OB219839]], [[OB219907]], [[OB220106]]
-- **PIN injury – two-incision technique & forearm positioning** (OB 2): [[OB211546]], [[OB220530]]
-- **Surgical anatomy – BR/PT interval & recurrent radial artery** (OB 3): [[OB214099]], [[OB216822]], [[OB216857]]
-- **Repair technique – anatomic (ulnar) footprint & chronic retracted tears** (OB 3): [[OB216889]], [[OB218042]], [[OB219930]]
-- **Proximal long-head biceps rupture** (OB 1): [[OB3636]]
-
-### [[distal-clavicle-osteolysis|Distal Clavicle Osteolysis]] (OB 2)
-- **Distal clavicle excision** (OB 2): [[OB636]], [[OB210103]]
-
-### [[elbow-anatomy-and-biomechanics|Elbow Anatomy & Biomechanics]] (OB 8 · TO 1)
-- **Collateral ligaments – MCL anterior bundle & LCL complex** (OB 5): [[OB6163]], [[OB6194]], [[OB7349]], [[OB215633]], [[OB218219]]
-- **Posterior bundle of MCL – release for flexion** (OB 1): [[OB5863]]
-- **Axis of forearm rotation** (OB 1): [[OB6904]]
-- **Biomechanics calculation – moment arms & anchor strength** (OB 1): [[OB7107]]
-- **Olecranon bursitis (student's elbow)** (TO 1): [[TO24060768]]
-
-### [[elbow-arthritis|Elbow Arthritis]] (OB 18 · TO 1)
-- **Primary OA – osteocapsular arthroplasty (arthroscopic vs open) & patient selection** (OB 7): [[OB7753]], [[OB7810]], [[OB210138]], [[OB217875]], [[OB217895]], [[OB218159]], [[OB219971]]
-- **Ulnar nerve – neuritis & decompression when gaining flexion** (OB 2): [[OB215449]], [[OB219875]]
-- **Young post-traumatic arthritis – interposition arthroplasty** (OB 5): [[OB7815]], [[OB216478]], [[OB216893]], [[OB217979]], [[OB219811]]
-- **Rheumatoid elbow – TEA & synovectomy** (OB 3): [[OB6681]], [[OB216861]], [[OB217955]]
-- **Total elbow arthroplasty complications** (OB 1): [[OB216807]]
-- **Elbow arthrodesis position** (TO 1): [[TO17142547]]
-
-### [[elbow-arthroscopy-indications-and-approach|Elbow Arthroscopy: Indications & Approach]] (OB 13 · TO 13)
-- **Portals & nerves at risk** (OB 11 · TO 11): [[OB657]], [[OB3258]], [[OB6668]], [[OB6682]], [[OB7340]], [[OB214123]], [[OB215337]], [[OB215451]], [[OB215632]], [[OB219507]], [[OB219944]], [[TO17112520]], [[TO17112523]], [[TO17114038]], [[TO17114039]], [[TO17114048]], [[TO17114051]], [[TO17731058]], [[TO17735721]], [[TO17736657]], [[TO17736661]], [[TO17736668]]
-- **Contraindications (prior ulnar nerve transposition)** (OB 1): [[OB7861]]
-- **Infection prevention – avoid intra-articular steroid** (OB 1): [[OB217374]]
-- **Positioning & joint distension** (TO 2): [[TO17114042]], [[TO17114057]]
-
-### [[elbow-physical-exam|Elbow Physical Exam]] (OB 1)
-- **Olecranon bursitis – aspiration & compression** (OB 1): [[OB217371]]
-
-### [[elbow-stiffness-and-contractures|Elbow Stiffness and Contractures]] (OB 6)
-- **Static progressive splinting** (OB 2): [[OB3026]], [[OB4766]]
-- **Release – posterior bundle of MCL for flexion** (OB 2): [[OB4456]], [[OB4701]]
-- **Arthroscopic vs open release (prior ulnar transposition, HO)** (OB 2): [[OB210287]], [[OB218222]]
-
-### [[glenohumeral-arthritis-shoulder-arthritis|Glenohumeral Arthritis (Shoulder Arthritis)]] (OB 17)
-- **Glenoid wear patterns (Walch, posterior wear, medialisation in RA)** (OB 3): [[OB328]], [[OB2855]], [[OB218147]]
-- **Anatomic TSA vs hemiarthroplasty – indications & cuff status** (OB 4): [[OB2835]], [[OB3450]], [[OB6671]], [[OB218179]]
-- **Reverse shoulder arthroplasty – cuff deficiency, post-instability arthropathy, RA** (OB 5): [[OB5834]], [[OB6643]], [[OB211733]], [[OB214571]], [[OB214576]]
-- **Young patients – nonoperative care & arthroscopic debridement (CAM procedure)** (OB 5): [[OB6488]], [[OB6651]], [[OB6656]], [[OB213974]], [[OB216907]]
-
-### [[glenohumeral-internal-rotation-deficit-gird|Glenohumeral Internal Rotation Deficit (GIRD)]] (OB 29)
-- **Definition & thrower adaptations (IR loss, total arc, posterior capsule)** (OB 7): [[OB616]], [[OB6410]], [[OB7330]], [[OB213033]], [[OB217532]], [[OB218674]], [[OB221338]]
-- **Treatment – posterior capsular stretching (sleeper/cross-body) & scapular work** (OB 13): [[OB1111]], [[OB1386]], [[OB1868]], [[OB2168]], [[OB5444]], [[OB6617]], [[OB7308]], [[OB7640]], [[OB7746]], [[OB7899]], [[OB210148]], [[OB212999]], [[OB214825]]
-- **Internal impingement & associated lesions (SLAP, articular-sided cuff tears)** (OB 9): [[OB2871]], [[OB3505]], [[OB6565]], [[OB6678]], [[OB7661]], [[OB7862]], [[OB8908]], [[OB219856]], [[OB220063]]
-
-### [[glenohumeral-joint-anatomy-stabilizer-and-biomechanics|Glenohumeral Joint Anatomy, Stabilizer, and Biomechanics]] (OB 18 · TO 14)
-- **Glenohumeral ligaments – function by arm position (IGHL, MGHL, SGHL, CHL)** (OB 8 · TO 8): [[OB1194]], [[OB1432]], [[OB4514]], [[OB5623]], [[OB7310]], [[OB7911]], [[OB213149]], [[OB215121]], [[TO17124489]], [[TO17139987]], [[TO17139992]], [[TO17140002]], [[TO17731932]], [[TO17732082]], [[TO17736633]], [[TO17745143]]
-- **Rotator interval contents** (OB 2): [[OB647]], [[OB6204]]
-- **Dynamic stabilisers – concavity compression & rotator cuff** (OB 2): [[OB2877]], [[OB6685]]
-- **Normal variants (Buford complex, cord-like MGHL) – do not repair** (OB 3 · TO 1): [[OB6598]], [[OB7382]], [[OB7481]], [[TO17140051]]
-- **HAGL lesion** (OB 1): [[OB8757]]
-- **Humeral head blood supply** (OB 1): [[OB4422]]
-- **Arthroscopic vs open repair – external rotation preservation** (OB 1): [[OB6562]]
-- **Labral anatomy & blood supply** (TO 1): [[TO17140066]]
-- **Scapulohumeral rhythm** (TO 2): [[TO17731672]], [[TO19468191]]
-- **Glenoid & humeral version** (TO 2): [[TO17139948]], [[TO17730509]]
-
-### [[internal-impingement|Internal Impingement]] (OB 18)
-- **Pathomechanics – late cocking, abduction–external rotation & posterosuperior contact** (OB 5): [[OB390]], [[OB2955]], [[OB3563]], [[OB214880]], [[OB219828]]
-- **Posterior capsular contracture & GIRD – stretching** (OB 6): [[OB699]], [[OB3267]], [[OB4783]], [[OB7629]], [[OB7707]], [[OB212172]]
-- **Associated lesions & diagnosis (articular-sided cuff tears, posterosuperior labral fraying)** (OB 6): [[OB6396]], [[OB7314]], [[OB7804]], [[OB217911]], [[OB218151]], [[OB218965]]
-- **Asymptomatic MRI findings in pitchers** (OB 1): [[OB219824]]
-
-### [[lateral-epicondylitis-tennis-elbow|Lateral Epicondylitis (Tennis Elbow)]] (OB 15 · TO 11)
-- **ECRB anatomy – origin, insertion & innervation** (OB 5 · TO 6): [[OB580]], [[OB2932]], [[OB8933]], [[OB211897]], [[OB216667]], [[TO17142644]], [[TO17142646]], [[TO17142648]], [[TO17731945]], [[TO17745147]], [[TO24060068]]
-- **Histology – angiofibroblastic tendinosis** (OB 2 · TO 3): [[OB2920]], [[OB7369]], [[TO17142592]], [[TO17142651]], [[TO17731939]]
-- **Nonoperative treatment – eccentric therapy, steroid & PRP injections** (OB 6 · TO 1): [[OB5774]], [[OB7892]], [[OB8858]], [[OB219931]], [[OB220067]], [[OB220460]], [[TO17142653]]
-- **Iatrogenic LUCL injury after debridement** (OB 2): [[OB5894]], [[OB218039]]
-- **Differential of lateral elbow pain in athletes** (TO 1): [[TO24060086]]
-
-### [[lateral-ulnar-collateral-ligament-injury-plri|Lateral Ulnar Collateral Ligament Injury (PLRI)]] (OB 19 · TO 1)
-- **Diagnosis – lateral pivot-shift, chair push-up & clinical signs** (OB 5): [[OB5751]], [[OB7788]], [[OB214109]], [[OB219800]], [[OB220115]]
-- **LUCL anatomy & failure site (humeral avulsion)** (OB 5): [[OB4723]], [[OB214003]], [[OB217443]], [[OB217879]], [[OB219783]]
-- **Reconstruction & postoperative protocol (avoid varus, pronation, splinting position)** (OB 7): [[OB3667]], [[OB6466]], [[OB7839]], [[OB214120]], [[OB217847]], [[OB217903]], [[OB218956]]
-- **Iatrogenic injury after lateral epicondylitis surgery** (OB 2): [[OB8732]], [[OB220107]]
-- **Primary elbow stabilisers (coronoid)** (TO 1): [[TO17743327]]
-
-### [[little-league-elbow|Little League Elbow]] (OB 7 · TO 5)
-- **Medial epicondyle apophysitis – pathogenesis & diagnosis** (OB 2 · TO 1): [[OB2942]], [[OB4511]], [[TO24060076]]
-- **Risk factors – pitch counts** (OB 2): [[OB5797]], [[OB214122]]
-- **Treatment – rest & activity modification** (OB 3): [[OB6143]], [[OB216849]], [[OB216851]]
-- **MCL (UCL) injury – exam, degeneration & reconstruction** (TO 4): [[TO17142550]], [[TO17730584]], [[TO17732106]], [[TO17745307]]
-
-### [[little-leaguers-shoulder|Little Leaguer's Shoulder]] (OB 14 · TO 1)
-- **Diagnosis – physeal widening, imaging & throwing phase** (OB 6 · TO 1): [[OB4699]], [[OB211370]], [[OB212206]], [[OB217347]], [[OB218568]], [[OB218694]], [[TO24060769]]
-- **Treatment – cessation of throwing & graded return** (OB 6): [[OB6546]], [[OB7261]], [[OB8726]], [[OB213036]], [[OB217858]], [[OB219860]]
-- **Recurrence risk factors (IR deficit, length of rest)** (OB 2): [[OB216830]], [[OB219487]]
-
-### [[luxatio-erecta-inferior-glenohumeral-joint-dislocation|Luxatio Erecta (Inferior Glenohumeral Joint Dislocation)]] (OB 1)
-- **Clinical presentation – arm locked in abduction** (OB 1): [[OB3065]]
-
-### [[medial-epicondylitis-golfers-elbow|Medial Epicondylitis (Golfer's Elbow)]] (OB 4)
-- **Diagnosis – provocative testing** (OB 1): [[OB5421]]
-- **Nonoperative treatment – injection** (OB 1): [[OB8845]]
-- **Surgical outcomes & ulnar nerve involvement** (OB 2): [[OB217883]], [[OB218171]]
-
-### [[medial-ulnar-collateral-ligament-injury|Medial Ulnar Collateral Ligament Injury]] (OB 42)
-- **Anatomy & biomechanics (anterior bundle, isometry, posterior bundle)** (OB 10): [[OB628]], [[OB2918]], [[OB3305]], [[OB6687]], [[OB211755]], [[OB212139]], [[OB213010]], [[OB213121]], [[OB216829]], [[OB217350]]
-- **Throwing phase of maximal valgus stress (late cocking/early acceleration)** (OB 10): [[OB633]], [[OB780]], [[OB5511]], [[OB7292]], [[OB211238]], [[OB216806]], [[OB216833]], [[OB217850]], [[OB217958]], [[OB219784]]
-- **Diagnosis – moving valgus stress, milking manoeuvre & MRI T-sign** (OB 9): [[OB3309]], [[OB6572]], [[OB6659]], [[OB7342]], [[OB7827]], [[OB212998]], [[OB214239]], [[OB215631]], [[OB217471]]
-- **Reconstruction technique (docking vs Jobe) & return to play** (OB 7): [[OB4446]], [[OB4793]], [[OB213122]], [[OB216577]], [[OB218968]], [[OB219859]], [[OB220083]]
-- **Ulnar nerve management & postoperative neuritis** (OB 4): [[OB214784]], [[OB216809]], [[OB217910]], [[OB218115]]
-- **Non-thrower partial injury – nonoperative care** (OB 1): [[OB5526]]
-- **Postoperative rehabilitation – forearm position** (OB 1): [[OB216797]]
-
-### [[multidirectional-shoulder-instability-mdi|Multidirectional Shoulder Instability (MDI)]] (OB 20 · TO 2)
-- **Diagnosis – sulcus sign, generalised laxity & capsular redundancy** (OB 4 · TO 2): [[OB937]], [[OB1381]], [[OB213001]], [[OB219935]], [[TO19356213]], [[TO21733212]]
-- **Initial treatment – prolonged rotator cuff & periscapular strengthening** (OB 8): [[OB180]], [[OB2963]], [[OB4370]], [[OB6626]], [[OB7682]], [[OB213060]], [[OB217959]], [[OB218002]]
-- **Surgery – capsular shift & rotator interval closure** (OB 3): [[OB3188]], [[OB7794]], [[OB8759]]
-- **Thermal capsulorrhaphy – complications & failure** (OB 4): [[OB4862]], [[OB6574]], [[OB7888]], [[OB7912]]
-- **Recurrent instability with glenoid bone loss – bony augmentation** (OB 1): [[OB7319]]
-
-### [[neuropathic-charcot-joint-of-shoulder|Neuropathic (Charcot) Joint of Shoulder]] (OB 4)
-- **Syringomyelia – most common cause & MRI work-up** (OB 4): [[OB1145]], [[OB1273]], [[OB216787]], [[OB217931]]
-
-### [[olecranon-stress-fracture|Olecranon Stress Fracture]] (OB 3)
-- **Diagnosis & compression screw fixation** (OB 3): [[OB1408]], [[OB7359]], [[OB7720]]
-
-### [[os-acromiale|Os Acromiale]] (OB 5)
-- **Anatomy – failed fusion of meso- and meta-acromion** (OB 4): [[OB817]], [[OB6206]], [[OB218091]], [[OB219943]]
-- **Treatment of symptomatic os acromiale – fusion** (OB 1): [[OB216724]]
-
-### [[osteochondritis-dissecans-of-elbow|Osteochondritis Dissecans of Elbow]] (OB 11)
-- **Presentation & population (capitellum, gymnasts/throwers, loss of extension)** (OB 5): [[OB644]], [[OB6647]], [[OB6676]], [[OB7828]], [[OB216869]]
-- **Stable lesions – activity cessation** (OB 5): [[OB7377]], [[OB8742]], [[OB215450]], [[OB217983]], [[OB218692]]
-- **Prognosis – skeletal maturity** (OB 1): [[OB220124]]
-
-### [[pectoralis-major-rupture|Pectoralis Major Rupture]] (OB 13 · TO 2)
-- **Anatomy – sternal head & pectoral nerve innervation** (OB 3 · TO 1): [[OB710]], [[OB218938]], [[OB220091]], [[TO17140103]]
-- **Mechanism – eccentric bench press** (OB 1 · TO 1): [[OB910]], [[TO17140102]]
-- **Diagnosis – MRI** (OB 1): [[OB6231]]
-- **Treatment – acute repair, chronic allograft reconstruction & nonoperative deficits** (OB 8): [[OB1796]], [[OB6448]], [[OB6592]], [[OB7875]], [[OB7907]], [[OB8722]], [[OB8788]], [[OB219498]]
-
-### [[phases-of-throwing|Phases of Throwing]] (OB 5 · TO 8)
-- **Scapular kinematics & muscle activation** (OB 2): [[OB3530]], [[OB219983]]
-- **Dynamic medial elbow stabilisers (FDS, FCU)** (OB 1): [[OB7350]]
-- **Phase of maximal valgus stress – late cocking/early acceleration** (OB 2 · TO 3): [[OB8662]], [[OB213064]], [[TO17135947]], [[TO17135954]], [[TO17731926]]
-- **Throwing athlete rehabilitation** (TO 1): [[TO21733265]]
-- **Ball-flight physics (Magnus effect)** (TO 2): [[TO17135941]], [[TO17735733]]
-- **Follow-through & injury prevention** (TO 2): [[TO17135949]], [[TO17735749]]
-
-### [[posterior-labral-tear|Posterior Labral Tear]] (OB 12)
-- **Mechanism & provocative position (flexion–adduction–internal rotation)** (OB 5): [[OB4628]], [[OB7699]], [[OB211381]], [[OB217368]], [[OB219952]]
-- **Diagnosis – jerk/Kim tests & MRI** (OB 3): [[OB6605]], [[OB8579]], [[OB214080]]
-- **Treatment – therapy vs arthroscopic repair, recurrence & postoperative restrictions** (OB 3): [[OB7863]], [[OB213968]], [[OB219936]]
-- **Complications – axillary nerve injury** (OB 1): [[OB3575]]
-
-### [[posterior-shoulder-instability-and-dislocation|Posterior Shoulder Instability & Dislocation]] (OB 37 · TO 5)
-- **Locked posterior dislocation – diagnosis (axillary/Velpeau view, loss of ER, seizures, electrocution)** (OB 10): [[OB26]], [[OB342]], [[OB503]], [[OB547]], [[OB2820]], [[OB5682]], [[OB6480]], [[OB6620]], [[OB217846]], [[OB220039]]
-- **Chronic locked dislocation – reverse Hill-Sachs management (McLaughlin, arthroplasty)** (OB 6 · TO 3): [[OB3587]], [[OB6649]], [[OB7758]], [[OB7842]], [[OB7870]], [[OB216804]], [[TO17121267]], [[TO17140047]], [[TO17736646]]
-- **Recurrent posterior instability – Kim lesion/labral tear, jerk & Kim tests, restraints** (OB 13 · TO 2): [[OB656]], [[OB2919]], [[OB3196]], [[OB4627]], [[OB5631]], [[OB6463]], [[OB6625]], [[OB211205]], [[OB213970]], [[OB214298]], [[OB216800]], [[OB216832]], [[OB219766]], [[TO17121040]], [[TO17730964]]
-- **Treatment – therapy vs arthroscopic capsulolabral repair & postoperative protocol** (OB 8): [[OB5852]], [[OB6645]], [[OB7671]], [[OB7762]], [[OB211216]], [[OB211227]], [[OB216802]], [[OB219823]]
-
-### [[quadrilateral-space-syndrome|Quadrilateral Space Syndrome]] (OB 5 · TO 3)
-- **Diagnosis – axillary nerve compression & teres minor atrophy** (OB 5 · TO 3): [[OB519]], [[OB2885]], [[OB3332]], [[OB7664]], [[OB213032]], [[TO17138109]], [[TO17138110]], [[TO17731557]]
-
-### [[reverse-shoulder-arthroplasty|Reverse Shoulder Arthroplasty]] (OB 55 · TO 14)
-- **Indications – cuff tear arthropathy, pseudoparalysis, failed arthroplasty or cuff repair, fracture** (OB 10 · TO 4): [[OB142]], [[OB585]], [[OB617]], [[OB3525]], [[OB5463]], [[OB7848]], [[OB213024]], [[OB213134]], [[OB217999]], [[OB218079]], [[TO17106598]], [[TO17106611]], [[TO17736823]], [[TO17743334]]
-- **Contraindications – deltoid dysfunction & axillary neuropathy** (OB 5): [[OB3362]], [[OB3654]], [[OB7817]], [[OB214872]], [[OB219996]]
-- **Biomechanics – medialised/inferior centre of rotation & deltoid tensioning** (OB 5 · TO 3): [[OB459]], [[OB6608]], [[OB8289]], [[OB213014]], [[OB213976]], [[TO17106616]], [[TO17106623]], [[TO24060755]]
-- **Scapular notching – superior baseplate, neck-shaft angle & lateralisation** (OB 13 · TO 3): [[OB2822]], [[OB3510]], [[OB7681]], [[OB213013]], [[OB213963]], [[OB214573]], [[OB215540]], [[OB216831]], [[OB217839]], [[OB217851]], [[OB217943]], [[OB218963]], [[OB220035]], [[TO17106396]], [[TO17106605]], [[TO17730862]]
-- **Instability/dislocation – risk factors & positions to avoid** (OB 8 · TO 2): [[OB4801]], [[OB5451]], [[OB216847]], [[OB216859]], [[OB217899]], [[OB218183]], [[OB219991]], [[OB219995]], [[TO17106612]], [[TO17106653]]
-- **Acromial & scapular spine stress fractures** (OB 4 · TO 1): [[OB216827]], [[OB218238]], [[OB219911]], [[OB220027]], [[TO17106629]]
-- **Periprosthetic fracture after a fall** (OB 1): [[OB218135]]
-- **Infection & complications after revision** (OB 3): [[OB7824]], [[OB214118]], [[OB214119]]
-- **Nerve injury during glenoid preparation** (OB 1): [[OB217369]]
-- **Baseplate failure – central peg error** (OB 1): [[OB5711]]
-- **Latissimus dorsi transfer with RSA** (OB 1): [[OB5625]]
-- **Fracture RSA – greater tuberosity healing** (OB 1): [[OB220268]]
-- **Surgeon learning curve & postoperative surveillance** (OB 2): [[OB214117]], [[OB220047]]
-- **Humeral component design (inlay vs onlay)** (TO 1): [[TO21733261]]
-
-### [[revision-total-elbow-arthroplasty|Revision Total Elbow Arthroplasty]] (OB 7)
-- **Infection – organisms, risk factors & staged revision** (OB 4): [[OB3684]], [[OB7836]], [[OB219807]], [[OB219959]]
-- **Failure modes & revision rates by indication** (OB 3): [[OB7840]], [[OB218199]], [[OB218967]]
-
-### [[rotator-cuff-arthropathy|Rotator Cuff Arthropathy]] (OB 21)
-- **Pathogenesis – loss of force couples/concavity compression & anterosuperior escape** (OB 5): [[OB8815]], [[OB210201]], [[OB216825]], [[OB217995]], [[OB218146]]
-- **Reverse arthroplasty for pseudoparalysis & outcomes** (OB 8): [[OB964]], [[OB6397]], [[OB6618]], [[OB7809]], [[OB216349]], [[OB218015]], [[OB219109]], [[OB219840]]
-- **RSA with latissimus/teres major transfer for loss of external rotation** (OB 3): [[OB4676]], [[OB5697]], [[OB213962]]
-- **Nonoperative care when function is preserved** (OB 1): [[OB7818]]
-- **Pectoralis major transfer for subscapularis insufficiency – nerve risk** (OB 1): [[OB4379]]
-- **Traumatic subscapularis tear mechanism** (OB 1): [[OB6601]]
-- **Implant choice & complications (superior glenoid wear, metal-backed glenoid)** (OB 2): [[OB217907]], [[OB219999]]
-
-### [[rotator-cuff-tears|Rotator Cuff Tears]] (OB 111 · TO 25)
-- **Anatomy – footprint, rotator cable, biceps pulley, innervation & coracoacromial ligament** (OB 12 · TO 3): [[OB1346]], [[OB3086]], [[OB3290]], [[OB4760]], [[OB6234]], [[OB6575]], [[OB213063]], [[OB214083]], [[OB215446]], [[OB217966]], [[OB217998]], [[OB219561]], [[TO17121009]], [[TO17907810]], [[TO19356258]]
-- **Subscapularis tears – belly-press/lift-off tests, biceps instability & repair** (OB 14 · TO 2): [[OB671]], [[OB3025]], [[OB5726]], [[OB5927]], [[OB6183]], [[OB6570]], [[OB6632]], [[OB6637]], [[OB7344]], [[OB7896]], [[OB211953]], [[OB213961]], [[OB216784]], [[OB219803]], [[TO25878177]], [[TO25878178]]
-- **Partial-thickness tears – PASTA, bursal vs articular, debridement vs completion & repair** (OB 9 · TO 2): [[OB1123]], [[OB3240]], [[OB7290]], [[OB7297]], [[OB7618]], [[OB7872]], [[OB214662]], [[OB216316]], [[OB219955]], [[TO17119525]], [[TO17732279]]
-- **Throwing athletes – mechanism & management** (OB 3): [[OB957]], [[OB3517]], [[OB7868]]
-- **Cuff tear after shoulder dislocation in older patients** (OB 11 · TO 2): [[OB1103]], [[OB3180]], [[OB6588]], [[OB6665]], [[OB7599]], [[OB7718]], [[OB7855]], [[OB213034]], [[OB213062]], [[OB213971]], [[OB218203]], [[TO17119812]], [[TO17907859]]
-- **Natural history – asymptomatic prevalence & tear progression** (OB 6): [[OB3118]], [[OB7898]], [[OB215541]], [[OB218083]], [[OB218087]], [[OB219486]]
-- **Operative vs nonoperative indications (acute traumatic vs atraumatic tears)** (OB 8): [[OB3698]], [[OB4501]], [[OB5801]], [[OB212107]], [[OB214082]], [[OB214084]], [[OB214107]], [[OB219778]]
-- **Repair technique – single vs double row, transosseous-equivalent & failure mode** (OB 11): [[OB4444]], [[OB5591]], [[OB6586]], [[OB7335]], [[OB7341]], [[OB211447]], [[OB214607]], [[OB216844]], [[OB217891]], [[OB219987]], [[OB220096]]
-- **Healing & retear risk factors (age, fatty infiltration, workers' comp, injections)** (OB 7): [[OB3543]], [[OB4412]], [[OB213909]], [[OB215542]], [[OB216913]], [[OB217438]], [[OB218849]]
-- **Postoperative rehabilitation – early vs delayed motion** (OB 6 · TO 2): [[OB73]], [[OB4819]], [[OB5493]], [[OB7602]], [[OB7767]], [[OB218107]], [[TO17119771]], [[TO17907839]]
-- **Massive/irreparable tears – partial repair, SCR & tendon transfers** (OB 17 · TO 3): [[OB367]], [[OB558]], [[OB3623]], [[OB4878]], [[OB5870]], [[OB7799]], [[OB7808]], [[OB7844]], [[OB9015]], [[OB211744]], [[OB213035]], [[OB213972]], [[OB213973]], [[OB214106]], [[OB217974]], [[OB218981]], [[OB220132]], [[TO17119710]], [[TO17119713]], [[TO17119714]]
-- **Concomitant procedures (acromioplasty, distal clavicle excision, suprascapular nerve release)** (OB 3): [[OB218126]], [[OB219770]], [[OB219948]]
-- **Complications – infection, positioning & regional anaesthesia** (OB 3 · TO 2): [[OB4492]], [[OB5786]], [[OB215630]], [[TO17119658]], [[TO17745392]]
-- **Physical examination – external rotation lag sign** (OB 1): [[OB5816]]
-- **Acromial morphology & impingement** (TO 5): [[TO17119523]], [[TO17119654]], [[TO17120975]], [[TO17732009]], [[TO17736575]]
-- **Cuff tear arthropathy – radiographic signs** (TO 4): [[TO17119652]], [[TO17119656]], [[TO17736574]], [[TO17736631]]
-
-### [[scapular-winging|Scapular Winging]] (OB 17 · TO 4)
-- **Medial winging – long thoracic nerve/serratus anterior** (OB 11): [[OB77]], [[OB487]], [[OB1207]], [[OB1224]], [[OB4618]], [[OB5708]], [[OB6211]], [[OB7315]], [[OB8963]], [[OB211854]], [[OB220120]]
-- **Lateral winging – spinal accessory nerve/trapezius & Eden-Lange transfer** (OB 6): [[OB1394]], [[OB4474]], [[OB5499]], [[OB7822]], [[OB8671]], [[OB217854]]
-- **Dorsal scapular nerve – rhomboid & levator** (TO 4): [[TO17124678]], [[TO17124697]], [[TO17736627]], [[TO17736683]]
-
-### [[scapulothoracic-dyskinesis|Scapulothoracic Dyskinesis]] (OB 2)
-- **Rehabilitation – kinetic chain, pectoralis minor & posterior capsule stretching** (OB 2): [[OB1056]], [[OB8663]]
-
-### [[shoulder-arthrodesis|Shoulder Arthrodesis]] (OB 2)
-- **Indications – deltoid and rotator cuff paralysis** (OB 2): [[OB252]], [[OB3492]]
-
-### [[shoulder-arthroscopy-indications-and-approach|Shoulder Arthroscopy: Indications & Approach]] (OB 5 · TO 1)
-- **Portal-related axillary nerve injury** (OB 1): [[OB4837]]
-- **Positioning complications (beach chair, lateral decubitus, obesity)** (OB 4 · TO 1): [[OB8940]], [[OB8993]], [[OB214121]], [[OB219956]], [[TO17121626]]
-
-### [[shoulder-exam|Shoulder Exam]] (OB 3 · TO 18)
-- **Hornblower's sign – teres minor** (OB 1): [[OB4661]]
-- **Anterior band of IGHL – restraint in abduction/external rotation** (OB 1): [[OB6639]]
-- **Lesser tuberosity fracture – subscapularis testing** (OB 1): [[OB213999]]
-- **Rotator cuff strength & lag tests (lift-off, hornblower, ER lag)** (TO 10): [[TO17140078]], [[TO17140081]], [[TO17140083]], [[TO17140090]], [[TO17140091]], [[TO17730835]], [[TO17731382]], [[TO17733336]], [[TO17736321]], [[TO17745169]]
-- **Impingement & biceps tests (Hawkins, Speed)** (TO 7): [[TO17140070]], [[TO17140085]], [[TO17140095]], [[TO17730531]], [[TO17736315]], [[TO17745176]], [[TO19356262]]
-- **Labral tests (Porcelli)** (TO 1): [[TO17140097]]
-
-### [[shoulder-hemiarthroplasty|Shoulder Hemiarthroplasty]] (OB 10 · TO 4)
-- **Tuberosity malposition after fracture hemiarthroplasty** (OB 2): [[OB1023]], [[OB216885]]
-- **Indications & limitations (cuff integrity, osteonecrosis, CTA head, ream-and-run)** (OB 5 · TO 1): [[OB1406]], [[OB6644]], [[OB216236]], [[OB217871]], [[OB217915]], [[TO17106667]]
-- **Failed hemiarthroplasty – glenoid erosion & conversion to TSA/RSA** (OB 3): [[OB210145]], [[OB214622]], [[OB216837]]
-- **Humeral stem version** (TO 3): [[TO17106662]], [[TO17744171]], [[TO24060052]]
-
-### [[shoulder-imaging|Shoulder Imaging]] (OB 1 · TO 4)
-- **MRI physics – field strength** (OB 1): [[OB3554]]
-- **Radiographic views (Zanca, West Point)** (TO 4): [[TO17125107]], [[TO17125111]], [[TO17730655]], [[TO17732008]]
-
-### [[shoulder-periprosthetic-fracture|Shoulder Periprosthetic Fracture]] (OB 3)
-- **Stable-stem fractures – ORIF with plate/cerclage & radial nerve risk** (OB 3): [[OB212959]], [[OB213101]], [[OB219831]]
-
-### [[shoulder-prosthetic-joint-infection|Shoulder Prosthetic Joint Infection]] (OB 11)
-- **C. acnes – microbiology, prolonged culture & antibiotic choice** (OB 6): [[OB213960]], [[OB216839]], [[OB216841]], [[OB217439]], [[OB218103]], [[OB220123]]
-- **Risk factors & prevention (smoking, steroid injection, nasal decolonisation)** (OB 3): [[OB210209]], [[OB213910]], [[OB218187]]
-- **Diagnostic work-up – aspiration** (OB 2): [[OB218951]], [[OB220055]]
-
-### [[slap-lesion|SLAP Lesion]] (OB 18 · TO 4)
-- **Anatomy – biceps anchor, Buford complex & vascularity** (OB 3): [[OB101]], [[OB3134]], [[OB213843]]
-- **Diagnosis – MR arthrogram** (OB 2): [[OB1341]], [[OB7605]]
-- **Treatment – nonoperative vs repair vs tenodesis (age, type IV) & return to sport** (OB 5): [[OB4736]], [[OB213116]], [[OB214575]], [[OB218055]], [[OB220080]]
-- **Postoperative rehabilitation after SLAP repair** (OB 3): [[OB3125]], [[OB4361]], [[OB4470]]
-- **Suprascapular nerve – anchor placement & paralabral cyst** (OB 3): [[OB5770]], [[OB9037]], [[OB210195]]
-- **Related topics (distal clavicle excision, biceps dislocation)** (OB 2): [[OB8674]], [[OB8743]]
-- **Classification & variants (type III, Andrews lesion)** (TO 4): [[TO17121760]], [[TO17121762]], [[TO17736113]], [[TO17736944]]
-
-### [[sternoclavicular-joint|Sternoclavicular Joint]] (OB 1)
-- **Instability after medial clavicle resection – figure-of-eight reconstruction** (OB 1): [[OB6603]]
-
-### [[subacromial-impingement|Subacromial Impingement]] (OB 7 · TO 3)
-- **Pathophysiology – metalloproteases** (OB 2): [[OB4277]], [[OB7830]]
-- **Nonoperative management – physical therapy & PRP** (OB 3): [[OB5886]], [[OB219863]], [[OB220111]]
-- **Subacromial decompression outcomes (workers' compensation)** (OB 1): [[OB1094]]
-- **Acromial morphology – os acromiale** (OB 1): [[OB6629]]
-- **Massive cuff tears – irreparability & SCR contraindications** (TO 3): [[TO17140116]], [[TO17140122]], [[TO17140126]]
-
-### [[suprascapular-neuropathy|Suprascapular Neuropathy]] (OB 30 · TO 2)
-- **Spinoglenoid notch cyst – isolated infraspinatus weakness** (OB 14): [[OB52]], [[OB1017]], [[OB1088]], [[OB1232]], [[OB3261]], [[OB3602]], [[OB4384]], [[OB7869]], [[OB8751]], [[OB211150]], [[OB216790]], [[OB216799]], [[OB217938]], [[OB218035]]
-- **Suprascapular notch compression – supraspinatus & infraspinatus involvement** (OB 6 · TO 2): [[OB768]], [[OB212173]], [[OB213127]], [[OB215415]], [[OB218191]], [[OB218848]], [[TO17138115]], [[TO17736336]]
-- **Treatment – labral repair with cyst decompression** (OB 4): [[OB1436]], [[OB8713]], [[OB214116]], [[OB217975]]
-- **Diagnosis – EMG & compression sites** (OB 5): [[OB4677]], [[OB6186]], [[OB7307]], [[OB7633]], [[OB7798]]
-- **Iatrogenic injury** (OB 1): [[OB8874]]
-
-### [[thoracic-outlet-syndrome|Thoracic Outlet Syndrome]] (OB 1 · TO 3)
-- **Diagnosis – cervical rib** (OB 1): [[OB258]]
-- **Provocative tests & neurogenic TOS** (TO 3): [[TO17140129]], [[TO24921390]], [[TO25178213]]
-
-### [[total-elbow-arthroplasty|Total Elbow Arthroplasty]] (OB 20 · TO 4)
-- **Indications – RA, elderly distal humerus fracture, failed interposition** (OB 5): [[OB5614]], [[OB5820]], [[OB6571]], [[OB6590]], [[OB7831]]
-- **Implant design (linked, semiconstrained, unlinked) & survivorship** (OB 7): [[OB4400]], [[OB5422]], [[OB5898]], [[OB214661]], [[OB217859]], [[OB218207]], [[OB219883]]
-- **Surgical approach & triceps insufficiency** (OB 5): [[OB7891]], [[OB214826]], [[OB216871]], [[OB219107]], [[OB219774]]
-- **Lifelong lifting restrictions** (OB 1): [[OB7860]]
-- **Infection** (OB 2): [[OB217372]], [[OB217887]]
-- **Complications – instability & component loosening** (TO 4): [[TO17110314]], [[TO17110333]], [[TO17744219]], [[TO17907786]]
-
-### [[total-shoulder-arthroplasty|Total Shoulder Arthroplasty]] (OB 60 · TO 21)
-- **Indications & contraindications (cuff status, brachial plexus injury, RA, capsulorrhaphy arthropathy)** (OB 9 · TO 2): [[OB398]], [[OB1229]], [[OB4601]], [[OB4890]], [[OB5559]], [[OB6610]], [[OB213966]], [[OB219979]], [[OB220119]], [[TO17109750]], [[TO17907788]]
-- **Glenoid morphology & retroversion correction (eccentric reaming, bone graft, augments)** (OB 5 · TO 4): [[OB339]], [[OB4532]], [[OB212183]], [[OB218127]], [[OB219880]], [[TO17109567]], [[TO17109573]], [[TO17736819]], [[TO17903296]]
-- **Glenoid loosening – most common complication & risk factors** (OB 6 · TO 7): [[OB213967]], [[OB214802]], [[OB216817]], [[OB217843]], [[OB217878]], [[OB218263]], [[TO17108874]], [[TO17109546]], [[TO17109553]], [[TO17109590]], [[TO17731054]], [[TO17745089]], [[TO17907832]]
-- **Subscapularis management & failure (peel, tenotomy, LTO; postoperative restrictions)** (OB 16 · TO 3): [[OB410]], [[OB688]], [[OB1171]], [[OB3032]], [[OB4854]], [[OB7903]], [[OB9097]], [[OB213000]], [[OB213975]], [[OB214540]], [[OB216845]], [[OB217440]], [[OB217830]], [[OB219490]], [[OB219871]], [[OB220011]], [[TO17109492]], [[TO17140056]], [[TO17736650]]
-- **Rotator cuff failure after TSA (overstuffing, falls, sizing)** (OB 7 · TO 1): [[OB3675]], [[OB6576]], [[OB213003]], [[OB217373]], [[OB218043]], [[OB218527]], [[OB220135]], [[TO17109498]]
-- **Infection – C. acnes & work-up** (OB 6): [[OB3473]], [[OB6600]], [[OB7813]], [[OB7829]], [[OB7890]], [[OB220504]]
-- **Neurovascular injury during approach (musculocutaneous, axillary, radial, arcuate artery)** (OB 5): [[OB7910]], [[OB212194]], [[OB217367]], [[OB217963]], [[OB218130]]
-- **Humeral anatomy & implant design (version, stemless, platform stems)** (OB 3 · TO 4): [[OB5957]], [[OB218111]], [[OB220007]], [[TO17108857]], [[TO17730578]], [[TO19356173]], [[TO21733115]]
-- **Postoperative stiffness & opioid use** (OB 2): [[OB7908]], [[OB219780]]
-- **Professionalism – impaired colleague** (OB 1): [[OB221106]]
-
-### [[traumatic-anterior-shoulder-instability-tubs|Traumatic Anterior Shoulder Instability (TUBS)]] (OB 89 · TO 25)
-- **Pathoanatomy – Bankart lesion, IGHL & mechanism (abduction–external rotation)** (OB 9 · TO 8): [[OB267]], [[OB791]], [[OB877]], [[OB2949]], [[OB3151]], [[OB7421]], [[OB210105]], [[OB213061]], [[OB215728]], [[TO17121227]], [[TO17121261]], [[TO17121264]], [[TO17121341]], [[TO17121441]], [[TO17735715]], [[TO17736576]], [[TO17736592]]
-- **Combined anterior & posterior labral tears** (OB 1): [[OB212063]]
-- **HAGL lesion** (OB 5): [[OB160]], [[OB314]], [[OB3165]], [[OB3643]], [[OB7323]]
-- **Hill-Sachs lesion & glenoid track (on/off-track, remplissage)** (OB 11 · TO 3): [[OB78]], [[OB2956]], [[OB4369]], [[OB6165]], [[OB7424]], [[OB8947]], [[OB210108]], [[OB217437]], [[OB218195]], [[OB218962]], [[OB219887]], [[TO25178265]], [[TO25178267]], [[TO25178268]]
-- **Glenoid bone loss – assessment & critical thresholds** (OB 8): [[OB170]], [[OB5938]], [[OB7765]], [[OB7807]], [[OB211139]], [[OB213106]], [[OB216819]], [[OB219904]]
-- **Recurrence risk – age, ISIS score & natural history** (OB 3 · TO 1): [[OB920]], [[OB7909]], [[OB211568]], [[TO17121517]]
-- **First-time dislocation – nonoperative vs early arthroscopic Bankart** (OB 4): [[OB214621]], [[OB218182]], [[OB218652]], [[OB219960]]
-- **Arthroscopic vs open Bankart repair** (OB 3): [[OB8590]], [[OB216788]], [[OB218167]]
-- **Bony Bankart – arthroscopic fixation** (OB 3): [[OB3442]], [[OB5588]], [[OB8563]]
-- **Latarjet/bone block – indications, mechanism & outcomes** (OB 15 · TO 6): [[OB741]], [[OB2946]], [[OB4753]], [[OB5736]], [[OB7845]], [[OB211887]], [[OB215416]], [[OB216803]], [[OB217827]], [[OB217939]], [[OB219529]], [[OB219815]], [[OB219975]], [[OB220051]], [[OB220116]], [[TO17121179]], [[TO17121336]], [[TO17121623]], [[TO17731973]], [[TO17736708]], [[TO25178266]]
-- **Latarjet complications – musculocutaneous nerve, graft resorption & overhang arthritis** (OB 7): [[OB211711]], [[OB213004]], [[OB214081]], [[OB214994]], [[OB217838]], [[OB217934]], [[OB217967]]
-- **Neurovascular injury – axillary nerve & artery (dislocation, capsular shift)** (OB 9): [[OB431]], [[OB913]], [[OB5919]], [[OB6370]], [[OB214079]], [[OB218170]], [[OB219560]], [[OB220506]], [[OB220531]]
-- **Older patients – rotator cuff tear after dislocation** (OB 5): [[OB210167]], [[OB211480]], [[OB213998]], [[OB217926]], [[OB219843]]
-- **Late complications – chondrolysis, osteonecrosis & dislocation arthropathy** (OB 3): [[OB6569]], [[OB6655]], [[OB220056]]
-- **Seizure-related dislocation** (OB 1): [[OB210189]]
-- **Failed stabilisation with subscapularis deficiency – tendon transfer** (OB 1): [[OB217090]]
-- **MRI positioning – ABER view** (OB 1): [[OB218210]]
-- **Terrible triad of the shoulder** (TO 3): [[TO17137922]], [[TO17137923]], [[TO17743581]]
-- **Historical & thermal procedures (Putti-Platt, capsulorrhaphy)** (TO 2): [[TO17121448]], [[TO17121613]]
-- **Normal variants mistaken for pathology (Buford complex)** (TO 2): [[TO17121231]], [[TO17735726]]
-
-### [[triceps-rupture|Triceps Rupture]] (OB 4)
-- **Risk factors & diagnosis (flake sign, MRI)** (OB 3): [[OB1152]], [[OB3558]], [[OB217442]]
-- **Anatomy – lateral expansion & anconeus** (OB 1): [[OB220062]]
-
-### [[valgus-extension-overload-pitchers-elbow|Valgus Extension Overload (Pitcher's Elbow)]] (OB 11)
-- **Diagnosis – posteromedial olecranon osteophytes, examination & throwing phase** (OB 5): [[OB3074]], [[OB210242]], [[OB216887]], [[OB218067]], [[OB219895]]
-- **Excessive olecranon resection – unmasking UCL insufficiency** (OB 4): [[OB1435]], [[OB4450]], [[OB217808]], [[OB219984]]
-- **Differential – acute UCL rupture & sprain** (OB 2): [[OB7590]], [[OB7743]]
 
 ## Knee & Sports
 
@@ -1669,513 +2176,6 @@ Every MCQ in the vault – 9,786 Orthobullets (OB) and 2,742 Target Ortho (TO) q
 ### [[turf-toe|Turf Toe]] (OB 6)
 - **Diagnosis – plantar plate injury & sesamoid position** (OB 3): [[OB213007]], [[OB218599]], [[OB218687]]
 - **Treatment – nonoperative vs capsuloligamentous repair** (OB 3): [[OB5778]], [[OB8920]], [[OB218685]]
-
-## Hand
-
-*103 topics · 865 questions (OB 677 · TO 188)*
-
-### [[acute-subclavian-artery-thrombosis|Acute Subclavian Artery Thrombosis]] (OB 2)
-- **Arterial thromboembolism – treatment & anticoagulation** (OB 2): [[OB5818]], [[OB211754]]
-
-### [[ain-compressive-neuropathy|AIN Compressive Neuropathy]] (OB 6 · TO 1)
-- **AIN syndrome – diagnosis & observation (neuritis)** (OB 3 · TO 1): [[OB725]], [[OB217917]], [[OB220078]], [[TO17138105]]
-- **AIN motor distribution (FPL, FDP index)** (OB 1): [[OB9008]]
-- **Martin-Gruber anastomosis** (OB 2): [[OB218061]], [[OB219850]]
-
-### [[apert-syndrome|Apert Syndrome]] (OB 3)
-- **FGFR2 mutation & clinical features** (OB 3): [[OB803]], [[OB3346]], [[OB4611]]
-
-### [[atypical-mycobacterium-infections|Atypical Mycobacterium Infections]] (OB 1 · TO 7)
-- **Mycobacterium marinum** (OB 1): [[OB215457]]
-- **Compound palmar ganglion (TB tenosynovitis)** (TO 5): [[TO17141298]], [[TO17141302]], [[TO17141312]], [[TO17731880]], [[TO17734747]]
-- **Fishmonger's disease (erysipeloid)** (TO 2): [[TO17124709]], [[TO17743621]]
-
-### [[base-of-thumb-fractures|Base of Thumb Fractures]] (OB 5 · TO 2)
-- **Deforming forces (APL, adductor pollicis, EPL) & reduction manoeuvre** (OB 4): [[OB477]], [[OB211270]], [[OB218041]], [[OB218133]]
-- **Bennett fragment – anterior oblique ligament attachment** (OB 1): [[OB213993]]
-- **Rolando fracture** (TO 2): [[TO17137145]], [[TO17736583]]
-
-### [[basilar-thumb-arthritis|Basilar Thumb Arthritis]] (OB 17)
-- **Nonoperative care – splinting & injections** (OB 2): [[OB2935]], [[OB218057]]
-- **Trapeziectomy ± LRTI – equivalence, technique & complications** (OB 5): [[OB753]], [[OB211182]], [[OB214670]], [[OB214671]], [[OB220552]]
-- **MP hyperextension – MP fusion/capsulodesis with CMC reconstruction** (OB 6): [[OB3669]], [[OB4730]], [[OB6422]], [[OB7768]], [[OB210180]], [[OB215508]]
-- **CMC arthrodesis – young labourers & contraindications (pantrapezial arthritis)** (OB 3): [[OB217857]], [[OB218141]], [[OB220054]]
-- **STT arthritis – STT arthrodesis** (OB 1): [[OB211336]]
-
-### [[blood-supply-to-hand|Blood Supply to Hand]] (OB 2 · TO 2)
-- **Vascular anatomy – deep palmar arch & digital neurovascular relationship** (OB 2): [[OB694]], [[OB1191]]
-- **Allen test** (TO 2): [[TO17141497]], [[TO17732554]]
-
-### [[boutonniere-deformity|Boutonniere Deformity]] (OB 2 · TO 1)
-- **Pathophysiology – central slip injury & lateral band relocation** (OB 2 · TO 1): [[OB1176]], [[OB2893]], [[TO25178258]]
-
-### [[camptodactyly|Camptodactyly]] (OB 2 · TO 1)
-- **Treatment – stretching & extension splinting** (OB 2): [[OB5724]], [[OB8931]]
-- **Diagnosis** (TO 1): [[TO17141286]]
-
-### [[carpal-instability-nondissociative-cind|Carpal Instability Nondissociative (CIND)]] (OB 2 · TO 3)
-- **Midcarpal instability – diagnosis** (OB 2 · TO 2): [[OB3475]], [[OB220102]], [[TO25178984]], [[TO25178985]]
-- **Radiocarpal (ulnar translocation) instability** (TO 1): [[TO25178988]]
-
-### [[carpal-tunnel-syndrome|Carpal Tunnel Syndrome]] (OB 29 · TO 7)
-- **Anatomy – tunnel contents, TCL attachments, recurrent motor branch & anastomoses** (OB 6): [[OB420]], [[OB6180]], [[OB210259]], [[OB218149]], [[OB219958]], [[OB219978]]
-- **Diagnosis – provocative tests, CTS-6 & electrodiagnostics** (OB 5 · TO 4): [[OB716]], [[OB941]], [[OB210192]], [[OB218117]], [[OB218209]], [[TO17138100]], [[TO17138102]], [[TO17904041]], [[TO19356185]]
-- **Nonoperative care – splint position & steroid injection** (OB 4): [[OB253]], [[OB3688]], [[OB211512]], [[OB214822]]
-- **Surgical release – indications, guidelines, open vs endoscopic & prognosis** (OB 10 · TO 1): [[OB1315]], [[OB5666]], [[OB5760]], [[OB6392]], [[OB7750]], [[OB7852]], [[OB8850]], [[OB211919]], [[OB211996]], [[OB213987]], [[TO17138101]]
-- **Perioperative care & complications (infection prevention, nerve injury, analgesia)** (OB 3): [[OB4693]], [[OB212018]], [[OB219882]]
-- **Secondary causes – inflammatory mass** (OB 1): [[OB4650]]
-- **Associated conditions** (TO 2): [[TO17138099]], [[TO17731917]]
-
-### [[cleft-hand|Cleft Hand]] (OB 1 · TO 2)
-- **Inheritance** (OB 1): [[OB214071]]
-- **Classification (Manske) & management** (TO 2): [[TO17138272]], [[TO17905824]]
-
-### [[congenital-clasped-thumb|Congenital Clasped Thumb]] (OB 1)
-- **First-line treatment – serial splinting** (OB 1): [[OB1110]]
-
-### [[congenital-radial-head-dislocation|Congenital Radial Head Dislocation]] (OB 3)
-- **Diagnosis (bilateral, vs traumatic) & management – observation vs late excision** (OB 3): [[OB4778]], [[OB5359]], [[OB8457]]
-
-### [[congenital-radial-ulnar-synostosis|Congenital Radial Ulnar Synostosis]] (OB 5 · TO 2)
-- **Aetiology & associations (failure of segmentation, XXY)** (OB 2): [[OB2261]], [[OB5937]]
-- **Management – observation vs osteotomy/mobilisation indications** (OB 3): [[OB526]], [[OB5472]], [[OB5706]]
-- **Cleary & Omer classification** (TO 2): [[TO17138246]], [[TO17913087]]
-
-### [[congenital-trigger-thumb|Congenital Trigger Thumb]] (OB 6 · TO 2)
-- **Diagnosis (Notta's node) & A1 pulley release timing** (OB 6 · TO 2): [[OB4757]], [[OB5443]], [[OB6152]], [[OB6425]], [[OB217410]], [[OB219838]], [[TO21733098]], [[TO21733291]]
-
-### [[constrictive-ring-syndrome-streeters-dysplasia|Constrictive Ring Syndrome (Streeter's Dysplasia)]] (OB 7 · TO 3)
-- **Associated conditions (clubfoot, cleft lip/palate) & sporadic inheritance** (OB 6 · TO 3): [[OB2259]], [[OB5263]], [[OB5267]], [[OB211468]], [[OB215531]], [[OB219779]], [[TO17138141]], [[TO17138143]], [[TO17905813]]
-- **Treatment – band release & Z-plasty** (OB 1): [[OB3431]]
-
-### [[cubital-tunnel-syndrome|Cubital Tunnel Syndrome]] (OB 17 · TO 2)
-- **Anatomy & compression sites (Osborne's ligament, anconeus epitrochlearis, cubital tunnel floor)** (OB 6): [[OB1851]], [[OB2814]], [[OB212955]], [[OB218229]], [[OB218953]], [[OB219430]]
-- **Clinical signs (Wartenberg, Froment)** (OB 2 · TO 1): [[OB3551]], [[OB7825]], [[TO17138097]]
-- **In situ decompression vs anterior transposition (subluxation, snapping)** (OB 5): [[OB2837]], [[OB7874]], [[OB210265]], [[OB212933]], [[OB217789]]
-- **Medial antebrachial cutaneous nerve injury** (OB 3): [[OB6205]], [[OB216867]], [[OB217923]]
-- **Ulnar tunnel (Guyon's canal) compression** (OB 1): [[OB220010]]
-- **Tardy ulnar nerve palsy** (TO 1): [[TO21733204]]
-
-### [[de-quervains-tenosynovitis|De Quervain's Tenosynovitis]] (OB 6 · TO 4)
-- **Anatomy – APL/EPB & injection site** (OB 3): [[OB395]], [[OB211303]], [[OB220036]]
-- **Recurrence – unreleased EPB subsheath** (OB 2): [[OB4613]], [[OB7453]]
-- **Intersection syndrome/differential** (OB 1): [[OB219569]]
-- **Diagnosis in bowlers & typists** (TO 4): [[TO17141318]], [[TO17141322]], [[TO17732638]], [[TO17907843]]
-
-### [[deep-space-and-collar-button-infections|Deep Space & Collar Button Infections]] (OB 1 · TO 2)
-- **Collar-button abscess drainage** (OB 1): [[OB210196]]
-- **Ulnar & radial bursae communications** (TO 2): [[TO17124500]], [[TO17732286]]
-
-### [[digital-artery-aneurysm|Digital Artery Aneurysm]] (OB 1)
-- **Treatment – surgical exploration** (OB 1): [[OB219]]
-
-### [[digital-collateral-ligament-injury|Digital Collateral Ligament Injury]] (OB 1 · TO 4)
-- **Index MCP radial collateral ligament – repair** (OB 1): [[OB212029]]
-- **Bowler's thumb (ulnar digital nerve neuropathy)** (TO 4): [[TO17138091]], [[TO17138092]], [[TO17731924]], [[TO17735229]]
-
-### [[dip-and-pip-joint-arthritis|DIP and PIP Joint Arthritis]] (OB 11)
-- **Mucous cyst – excision with osteophyte removal** (OB 4): [[OB711]], [[OB3354]], [[OB6677]], [[OB7885]]
-- **PIP arthroplasty (silicone, pyrocarbon) vs arthrodesis – indications & outcomes** (OB 6): [[OB211391]], [[OB211435]], [[OB211974]], [[OB218081]], [[OB218205]], [[OB218838]]
-- **DIP arthrodesis complication – screw length** (OB 1): [[OB219970]]
-
-### [[dog-and-cat-bites|Dog and Cat Bites]] (OB 4)
-- **Pasteurella multocida** (OB 1): [[OB6633]]
-- **Cat bite flexor tenosynovitis – drainage** (OB 1): [[OB210115]]
-- **Cat-scratch disease (Bartonella) – epitrochlear lymphadenitis** (OB 2): [[OB7516]], [[OB7563]]
-
-### [[dupuytrens-disease|Dupuytren's Disease]] (OB 15 · TO 14)
-- **Pathogenesis & diathesis (Garrod's pads)** (OB 2 · TO 7): [[OB1238]], [[OB9033]], [[TO17141333]], [[TO17141359]], [[TO17141363]], [[TO17141369]], [[TO17141377]], [[TO17730778]], [[TO21733097]]
-- **Cord anatomy – spiral cord, neurovascular displacement & natatory ligament** (OB 4 · TO 2): [[OB1372]], [[OB4605]], [[OB5506]], [[OB6238]], [[TO17141375]], [[TO21733289]]
-- **Collagenase & needle fasciotomy – mechanism, complications & outcomes** (OB 5): [[OB5638]], [[OB211567]], [[OB211776]], [[OB218089]], [[OB219934]]
-- **Fasciectomy – indications, technique & complications** (OB 4 · TO 4): [[OB3204]], [[OB219890]], [[OB219898]], [[OB220114]], [[TO17141362]], [[TO17141365]], [[TO17141379]], [[TO17141382]]
-- **Misfiled – adhesive capsulitis risk factor** (TO 1): [[TO17141367]]
-
-### [[epidermal-inclusion-cyst|Epidermal Inclusion Cyst]] (OB 1)
-- **Differential – pyogenic granuloma** (OB 1): [[OB211677]]
-
-### [[extensor-tendon-compartments|Extensor Tendon Compartments]] (OB 1 · TO 2)
-- **Dorsal compartment contents** (OB 1): [[OB3522]]
-- **Number of compartments** (TO 2): [[TO17141702]], [[TO17141703]]
-
-### [[extensor-tendon-injuries|Extensor Tendon Injuries]] (OB 7 · TO 6)
-- **EPL rupture – EIP transfer** (OB 1 · TO 2): [[OB6471]], [[TO17141705]], [[TO17730947]]
-- **ECU tendinitis/subluxation** (OB 1): [[OB7338]]
-- **Central slip injury – Elson test & PIP extension splinting** (OB 3 · TO 1): [[OB8810]], [[OB9007]], [[OB211644]], [[TO21733235]]
-- **Extensor laceration rehabilitation – relative motion splint** (OB 1): [[OB210121]]
-- **Extrinsic extensor tightness** (OB 1): [[OB220022]]
-- **Rheumatoid extensor ruptures (Vaughan-Jackson, EDM)** (TO 3): [[TO17141544]], [[TO17903466]], [[TO25178262]]
-
-### [[extremity-flap-reconstruction|Extremity Flap Reconstruction]] (OB 15 · TO 1)
-- **Gastrocnemius flap – sural artery supply; knee & tibia coverage** (OB 5): [[OB12]], [[OB40]], [[OB211141]], [[OB213948]], [[OB220576]]
-- **Upper-extremity flaps – lateral arm, radial forearm, latissimus & groin flaps (pedicles)** (OB 5 · TO 1): [[OB5468]], [[OB7443]], [[OB7843]], [[OB212941]], [[OB213986]], [[TO17137948]]
-- **Free fibula flap – peroneal artery** (OB 1): [[OB211699]]
-- **Moberg flap limitations in the thumb** (OB 1): [[OB4875]]
-- **Ray transposition after digit amputation** (OB 1): [[OB4518]]
-- **Negative pressure wound therapy settings** (OB 1): [[OB7711]]
-- **Flap failure as infection predictor** (OB 1): [[OB219153]]
-
-### [[felon|Felon]] (OB 2 · TO 1)
-- **Incision & drainage technique** (OB 1): [[OB5677]]
-- **Diabetic hand infection – renal failure & amputation** (OB 1): [[OB6627]]
-- **Epidemiology – paronychia** (TO 1): [[TO17141521]]
-
-### [[fingertip-amputations-and-finger-flaps|Fingertip Amputations & Finger Flaps]] (OB 21)
-- **Fingertip amputation – healing by secondary intention (children, small defects)** (OB 3): [[OB2861]], [[OB4546]], [[OB218786]]
-- **Advancement flaps – V-Y & volar (Moberg) advancement** (OB 4): [[OB25]], [[OB3334]], [[OB4508]], [[OB210263]]
-- **Cross-finger & reverse cross-finger flaps** (OB 5): [[OB977]], [[OB1020]], [[OB5438]], [[OB5733]], [[OB211853]]
-- **First dorsal metacarpal artery (Kite) flap for thumb defects** (OB 4): [[OB1170]], [[OB4573]], [[OB8837]], [[OB214007]]
-- **Homodigital retrograde island flap** (OB 1): [[OB219858]]
-- **Z-plasty principles** (OB 2): [[OB2878]], [[OB219790]]
-- **Nail bed injury – germinal matrix** (OB 1): [[OB218904]]
-- **Complications – digital neuroma** (OB 1): [[OB218839]]
-
-### [[flexor-carpi-radialis-tendinitis|Flexor Carpi Radialis Tendinitis]] (OB 1)
-- **FCR sheath injection** (OB 1): [[OB219438]]
-
-### [[flexor-pulley-system|Flexor Pulley System]] (OB 7)
-- **Pulley anatomy – annular/cruciform sequence, A2 & A4, thumb oblique pulley** (OB 4): [[OB660]], [[OB6232]], [[OB7423]], [[OB7484]]
-- **Pulley rupture – climbers, grading & sequelae** (OB 3): [[OB5681]], [[OB219822]], [[OB219918]]
-
-### [[flexor-tendon-injuries|Flexor Tendon Injuries]] (OB 24 · TO 3)
-- **Partial lacerations – trimming vs epitendinous repair** (OB 4): [[OB121]], [[OB2910]], [[OB5713]], [[OB212040]]
-- **Repair biomechanics – core strands, suture purchase, FDS slip & rehab protocol strength** (OB 4): [[OB285]], [[OB3263]], [[OB4542]], [[OB4860]]
-- **Anatomy & tendon nutrition** (OB 2): [[OB551]], [[OB613]]
-- **Diagnosis – disrupted tenodesis cascade** (OB 2): [[OB8820]], [[OB210258]]
-- **Paediatric flexor tendon injuries** (OB 2): [[OB989]], [[OB7208]]
-- **Wide-awake (WALANT) repair** (OB 3): [[OB5475]], [[OB5773]], [[OB211666]]
-- **Late reconstruction – two-stage grafting, FDS transfer & failed repair** (OB 4): [[OB4710]], [[OB5550]], [[OB6557]], [[OB6593]]
-- **Jersey finger – FDP avulsion** (OB 1): [[OB6920]]
-- **Attritional ruptures (rheumatoid, prominent plate)** (OB 2 · TO 1): [[OB7796]], [[OB213077]], [[TO17141545]]
-- **Flexor zones (no man's land)** (TO 2): [[TO17141707]], [[TO17731889]]
-
-### [[frostbite|Frostbite]] (OB 6)
-- **Prevention – insulated footwear** (OB 2): [[OB3829]], [[OB8044]]
-- **Acute treatment – blister care & thrombolysis** (OB 2): [[OB4386]], [[OB219990]]
-- **Delayed debridement/amputation after demarcation** (OB 2): [[OB5743]], [[OB6712]]
-
-### [[ganglion-cysts|Ganglion Cysts]] (OB 13 · TO 1)
-- **Pathology & origin (no epithelial lining, SL ligament, mucin)** (OB 5 · TO 1): [[OB4424]], [[OB6239]], [[OB7564]], [[OB8790]], [[OB211116]], [[TO17141306]]
-- **Paediatric ganglia – observation & spontaneous resolution** (OB 3): [[OB2880]], [[OB211160]], [[OB217981]]
-- **Treatment – recurrence after excision** (OB 1): [[OB211501]]
-- **Special locations – retinacular cyst, mucous cyst, Guyon's canal, proximal tibiofibular joint** (OB 4): [[OB6355]], [[OB211446]], [[OB214244]], [[OB214992]]
-
-### [[giant-cell-tumor-of-tendon-sheath|Giant Cell Tumor of Tendon Sheath]] (OB 7)
-- **Diagnosis & histology** (OB 4): [[OB3852]], [[OB6295]], [[OB7500]], [[OB7518]]
-- **Local recurrence after excision** (OB 3): [[OB8067]], [[OB213042]], [[OB219922]]
-
-### [[gymnasts-wrist-distal-radial-physeal-stress-syndrome|Gymnast's Wrist (Distal Radial Physeal Stress Syndrome)]] (OB 2)
-- **Distal radial physeal stress – growth arrest & Madelung deformity** (OB 2): [[OB2198]], [[OB218664]]
-
-### [[high-pressure-injection-injuries|High-Pressure Injection Injuries]] (OB 8)
-- **Injected substance & amputation risk** (OB 2): [[OB7727]], [[OB213980]]
-- **Management – urgent debridement, antibiotics & decompression** (OB 6): [[OB3191]], [[OB4683]], [[OB7761]], [[OB215459]], [[OB218859]], [[OB219902]]
-
-### [[hook-of-hamate-fracture|Hook of Hamate Fracture]] (OB 12)
-- **Diagnosis – carpal tunnel view/CT, ulnar nerve symptoms & Guyon's canal** (OB 5): [[OB409]], [[OB1425]], [[OB6441]], [[OB213978]], [[OB218157]]
-- **Treatment – fragment excision & return to play** (OB 6): [[OB132]], [[OB3553]], [[OB7826]], [[OB8702]], [[OB218177]], [[OB218900]]
-- **Complication – flexor tendon rupture from nonunion** (OB 1): [[OB5788]]
-
-### [[human-bite|Human Bite]] (OB 2)
-- **Microbiology – polymicrobial & Eikenella** (OB 2): [[OB213074]], [[OB220126]]
-
-### [[hypothenar-hammer-syndrome|Hypothenar Hammer Syndrome]] (OB 5)
-- **Pathology – true aneurysm vs thrombosis & recurrence** (OB 3): [[OB217889]], [[OB219946]], [[OB219966]]
-- **Treatment – resection & arterial reconstruction** (OB 2): [[OB4672]], [[OB5485]]
-
-### [[intersection-syndrome|Intersection Syndrome]] (OB 3)
-- **Second dorsal compartment (ECRL/ECRB) – injection & release** (OB 3): [[OB896]], [[OB213017]], [[OB218840]]
-
-### [[intrinsic-minus-hand-claw-hand|Intrinsic Minus Hand (Claw Hand)]] (OB 2 · TO 5)
-- **Mechanism – strong extrinsics & deficient intrinsics** (OB 2): [[OB94]], [[OB4236]]
-- **Ulnar nerve palsy – claw, ulnar paradox & Bouvier test** (TO 5): [[TO17138095]], [[TO17138096]], [[TO17736606]], [[TO17747014]], [[TO21733274]]
-
-### [[intrinsic-plus-hand|Intrinsic Plus Hand]] (OB 3)
-- **Intrinsic tightness (Bunnell test) & posture** (OB 3): [[OB624]], [[OB213016]], [[OB217357]]
-
-### [[jersey-finger|Jersey Finger]] (OB 7 · TO 7)
-- **Diagnosis, retraction level & urgency** (OB 3 · TO 5): [[OB1132]], [[OB8755]], [[OB211732]], [[TO17141388]], [[TO17141391]], [[TO17905795]], [[TO17905800]], [[TO25178992]]
-- **Acute repair technique – advancement limit & anchor placement** (OB 2 · TO 1): [[OB218846]], [[OB220082]], [[TO25178993]]
-- **Chronic injury – two-stage grafting** (OB 2): [[OB163]], [[OB217833]]
-- **Differential – central slip injury** (TO 1): [[TO19356235]]
-
-### [[kienbocks-disease|Kienbock's Disease]] (OB 18 · TO 5)
-- **Aetiology & risk factors (ulnar negative variance, vascular pattern)** (OB 3 · TO 1): [[OB211127]], [[OB217977]], [[OB218097]], [[TO17141400]]
-- **Staging (Lichtman) & imaging** (OB 2): [[OB905]], [[OB211457]]
-- **Early stages – radial shortening, core decompression & vascularised bone graft** (OB 8 · TO 2): [[OB3149]], [[OB3162]], [[OB3567]], [[OB7412]], [[OB211402]], [[OB211633]], [[OB218065]], [[OB218093]], [[TO17141401]], [[TO17907777]]
-- **Advanced disease – STT fusion/pinning** (OB 1): [[OB3535]]
-- **Paediatric Kienböck – conservative care** (OB 1): [[OB219954]]
-- **Other carpal osteonecrosis (capitate) – salvage** (OB 3): [[OB212117]], [[OB217386]], [[OB217997]]
-- **Definition – lunate osteonecrosis** (TO 2): [[TO17141398]], [[TO17736579]]
-
-### [[ligaments-of-the-fingers|Ligaments of the Fingers]] (OB 1)
-- **PIP contracture release sequence** (OB 1): [[OB7485]]
-
-### [[lumbrical-plus-finger|Lumbrical Plus Finger]] (OB 1)
-- **Cause – amputation at DIP level** (OB 1): [[OB447]]
-
-### [[lunate-dislocation-perilunate-dissociation|Lunate Dislocation (Perilunate dissociation)]] (OB 12 · TO 4)
-- **Mechanism – Mayfield progression** (OB 3 · TO 4): [[OB7800]], [[OB211688]], [[OB217929]], [[TO17137143]], [[TO17747192]], [[TO25178986]], [[TO25178989]]
-- **Acute management – urgent reduction, neurological exam & missed diagnosis** (OB 3): [[OB3040]], [[OB211622]], [[OB211798]]
-- **Definitive ORIF ± carpal tunnel release** (OB 2): [[OB6929]], [[OB219974]]
-- **Chronic/late injuries – proximal row carpectomy & RSC ligament** (OB 3): [[OB6192]], [[OB7713]], [[OB211842]]
-- **Post-operative lunate ischaemia – observation** (OB 1): [[OB211578]]
-
-### [[lunotriquetral-ligament-injury-and-visi|Lunotriquetral Ligament Injury & VISI]] (OB 1 · TO 1)
-- **LT ligament – volar fibres strongest** (OB 1): [[OB211204]]
-- **Rocking lunate** (TO 1): [[TO17913096]]
-
-### [[macrodactyly-local-gigantism|Macrodactyly (local gigantism)]] (OB 1 · TO 3)
-- **Epiphysiodesis** (OB 1 · TO 1): [[OB601]], [[TO17141421]]
-- **Associations & growth pattern (lipofibromatous hamartoma)** (TO 2): [[TO17141418]], [[TO17141420]]
-
-### [[madelungs-deformity|Madelung's Deformity]] (OB 3 · TO 2)
-- **Aetiology – volar-ulnar physis & SHOX (Léri-Weill)** (OB 3 · TO 2): [[OB476]], [[OB3147]], [[OB219332]], [[TO17141446]], [[TO17905699]]
-
-### [[mallet-finger|Mallet Finger]] (OB 8 · TO 6)
-- **Nonoperative – continuous DIP extension splinting (bony & tendinous, delayed, residual lag)** (OB 5 · TO 4): [[OB4445]], [[OB6521]], [[OB213107]], [[OB218189]], [[OB218821]], [[TO17141450]], [[TO17141474]], [[TO17736581]], [[TO17907829]]
-- **Operative indications – volar subluxation & pinning; swan-neck risk** (OB 3 · TO 2): [[OB4362]], [[OB218113]], [[OB219900]], [[TO17141447]], [[TO17730959]]
-
-### [[mcp-dislocations|MCP Dislocations]] (OB 11)
-- **Complex dorsal MCP dislocation – volar plate interposition & reduction manoeuvre** (OB 8): [[OB6435]], [[OB7410]], [[OB8827]], [[OB211655]], [[OB215453]], [[OB217825]], [[OB218847]], [[OB219826]]
-- **CMC fracture-dislocations – fixation** (OB 3): [[OB7900]], [[OB217949]], [[OB217957]]
-
-### [[mcp-joint-arthritis|MCP Joint Arthritis]] (OB 4)
-- **Rheumatoid MCP arthroplasty** (OB 1): [[OB3613]]
-- **Thumb MCP arthrodesis position** (OB 2): [[OB217909]], [[OB219810]]
-- **Implant contraindications (pyrocarbon vs silicone)** (OB 1): [[OB218201]]
-
-### [[metacarpal-fractures|Metacarpal Fractures]] (OB 18 · TO 3)
-- **Acceptable angulation & shortening; extensor lag** (OB 5 · TO 1): [[OB5700]], [[OB7838]], [[OB215455]], [[OB218173]], [[OB218213]], [[TO17137094]]
-- **Rotational deformity – scissoring as fixation indication** (OB 2): [[OB219433]], [[OB220002]]
-- **Nonoperative care – buddy taping & early return** (OB 3): [[OB213040]], [[OB218836]], [[OB219916]]
-- **Operative fixation – multiple fractures, ORIF & intramedullary screws** (OB 4): [[OB3441]], [[OB6977]], [[OB218101]], [[OB219846]]
-- **Fifth CMC fracture-dislocation – deforming forces & pinning** (OB 4): [[OB211369]], [[OB211424]], [[OB211523]], [[OB217865]]
-- **Boxer's fracture** (TO 2): [[TO17137087]], [[TO17731950]]
-
-### [[nail-bed-injury|Nail Bed Injury]] (OB 2)
-- **Repair technique – tissue adhesive & Seymour fracture** (OB 2): [[OB2827]], [[OB3497]]
-
-### [[nerve-conduction-studies|Nerve Conduction Studies]] (OB 2)
-- **Demyelination – increased latency** (OB 1): [[OB5959]]
-- **Interpreting NCS in carpal tunnel syndrome** (OB 1): [[OB218903]]
-
-### [[peripheral-nerve-injury-and-repair|Peripheral Nerve Injury & Repair]] (OB 28 · TO 11)
-- **Nerve microanatomy (epineurium, perineurium, endoneurium)** (OB 3): [[OB1362]], [[OB5434]], [[OB212899]]
-- **Injury classification (Seddon/Sunderland) & regeneration physiology** (OB 5 · TO 6): [[OB952]], [[OB4570]], [[OB4659]], [[OB7147]], [[OB214026]], [[TO17138126]], [[TO17138129]], [[TO17745740]], [[TO17747051]], [[TO19356208]], [[TO21733202]]
-- **Repair options – conduit, allograft & autograft by gap length** (OB 5): [[OB3081]], [[OB4644]], [[OB215611]], [[OB219234]], [[OB220018]]
-- **Prognosis – nerve, level & order of recovery** (OB 4 · TO 1): [[OB416]], [[OB4406]], [[OB213051]], [[OB220418]], [[TO21733231]]
-- **Timing of repair after ballistic injury** (OB 1): [[OB212912]]
-- **Nerve transfers – AIN to ulnar motor (SETS)** (OB 3): [[OB211743]], [[OB217969]], [[OB219802]]
-- **Tendon transfers for irreparable palsy (radial, ulnar claw, peroneal)** (OB 3 · TO 1): [[OB217973]], [[OB220094]], [[OB220941]], [[TO17138127]]
-- **Sensory receptors & electrodiagnostics** (OB 2 · TO 3): [[OB1353]], [[OB211347]], [[TO17125097]], [[TO17907801]], [[TO21733207]]
-- **Metabolic neuropathy – vitamin B12** (OB 1): [[OB1104]]
-- **Neuroma after digital amputation** (OB 1): [[OB219746]]
-
-### [[phalanx-dislocations|Phalanx Dislocations]] (OB 17 · TO 1)
-- **Dorsal PIP dislocation/fracture-dislocation – extension block splinting** (OB 6): [[OB3007]], [[OB4663]], [[OB5673]], [[OB6415]], [[OB214830]], [[OB214831]]
-- **Unstable/chronic fracture-dislocations – volar plate arthroplasty, hemi-hamate & ORIF** (OB 5): [[OB306]], [[OB6944]], [[OB7880]], [[OB218169]], [[OB220420]]
-- **Irreducible dislocations – volar plate interposition** (OB 2): [[OB685]], [[OB215458]]
-- **Volar PIP dislocation – central slip injury & reduction/splinting** (OB 4 · TO 1): [[OB879]], [[OB6973]], [[OB217389]], [[OB218837]], [[TO17137102]]
-
-### [[phalanx-fractures|Phalanx Fractures]] (OB 21)
-- **Deforming forces – interossei & central slip (apex volar)** (OB 3): [[OB4409]], [[OB211831]], [[OB216263]]
-- **Operative indications (rotation, angulation, instability) & fixation methods** (OB 7): [[OB3486]], [[OB4449]], [[OB6898]], [[OB211138]], [[OB217387]], [[OB217925]], [[OB218073]]
-- **Nonoperative care – immobilisation & early motion** (OB 2): [[OB6894]], [[OB214377]]
-- **Malunion & shortening – PIP extensor lag** (OB 3): [[OB217355]], [[OB217901]], [[OB218185]]
-- **Paediatric phalangeal neck/condylar fractures** (OB 1): [[OB7864]]
-- **Intra-articular fractures & avulsions (pilon, volar lip)** (OB 5): [[OB212084]], [[OB216675]], [[OB217945]], [[OB219806]], [[OB220098]]
-
-### [[physical-exam-of-the-hand|Physical Exam of the Hand]] (OB 2 · TO 2)
-- **Intrinsic tightness test** (OB 1): [[OB7432]]
-- **Digital nerve anatomy** (OB 1): [[OB218045]]
-- **Functional position of the hand** (TO 2): [[TO17137106]], [[TO17747065]]
-
-### [[pin-compression-syndrome|PIN Compression Syndrome]] (OB 6)
-- **Anatomy – arcade of Frohse, innervated muscles & recovery order** (OB 4): [[OB4634]], [[OB6246]], [[OB213050]], [[OB219286]]
-- **Differential – radial tunnel syndrome & rheumatoid extensor rupture** (OB 2): [[OB211589]], [[OB212095]]
-
-### [[pisiform-fracture|Pisiform Fracture]] (OB 2)
-- **Symptomatic nonunion – pisiform excision** (OB 2): [[OB763]], [[OB6939]]
-
-### [[poland-syndrome|Poland Syndrome]] (OB 5)
-- **Associations – syndactyly & absent pectoralis major** (OB 5): [[OB1257]], [[OB4551]], [[OB8836]], [[OB214241]], [[OB220963]]
-
-### [[polydactyly-of-hand|Polydactyly of Hand]] (OB 6)
-- **Preaxial (thumb) duplication – Wassel classification & reconstruction** (OB 3): [[OB2867]], [[OB5914]], [[OB218085]]
-- **Postaxial polydactyly – ethnicity & syndromic work-up** (OB 3): [[OB2959]], [[OB3239]], [[OB219005]]
-
-### [[preisers-disease-scaphoid-avn|Preiser's Disease (Scaphoid AVN)]] (OB 1)
-- **Diagnosis** (OB 1): [[OB220553]]
-
-### [[pronator-syndrome|Pronator Syndrome]] (OB 3 · TO 1)
-- **Diagnosis, compression sites & decompression** (OB 3): [[OB210154]], [[OB219445]], [[OB219866]]
-- **Median-ulnar anastomoses (Berrettini)** (TO 1): [[TO21733273]]
-
-### [[pyogenic-flexor-tenosynovitis|Pyogenic Flexor Tenosynovitis]] (OB 10 · TO 5)
-- **Kanavel signs & diagnosis** (OB 3 · TO 5): [[OB242]], [[OB217417]], [[OB219962]], [[TO17141695]], [[TO17141696]], [[TO17141697]], [[TO17732606]], [[TO17743855]]
-- **Microbiology – MRSA in IV drug users** (OB 1): [[OB3506]]
-- **Surgical drainage – indications, technique & stiffness risk** (OB 4): [[OB4768]], [[OB218843]], [[OB220006]], [[OB220110]]
-- **Spread – thenar space & Parona's space** (OB 2): [[OB6201]], [[OB7778]]
-
-### [[quadriga-effect|Quadriga Effect]] (OB 8 · TO 2)
-- **FDP over-advancement or tethering – quadriga** (OB 7 · TO 2): [[OB1202]], [[OB7866]], [[OB211215]], [[OB211710]], [[OB217849]], [[OB217961]], [[OB219910]], [[TO17141710]], [[TO17736798]]
-- **Lumbrical-plus vs quadriga after amputation** (OB 1): [[OB695]]
-
-### [[radial-clubhand-radial-deficiency|Radial Clubhand (radial deficiency)]] (OB 13 · TO 5)
-- **Associated syndromes & work-up (TAR, Fanconi, Holt-Oram, VACTERL)** (OB 8): [[OB405]], [[OB2965]], [[OB3566]], [[OB217411]], [[OB217527]], [[OB218077]], [[OB219542]], [[OB220086]]
-- **Aetiology – apical ectodermal ridge defect** (OB 1): [[OB7598]]
-- **Treatment – centralisation indications, contraindications & thumb reconstruction** (OB 4 · TO 3): [[OB2254]], [[OB3572]], [[OB6142]], [[OB219767]], [[TO17138160]], [[TO17735471]], [[TO17905803]]
-- **Differential – Madelung (SHOX)** (TO 2): [[TO17138161]], [[TO17737179]]
-
-### [[radial-tunnel-syndrome|Radial Tunnel Syndrome]] (OB 5 · TO 6)
-- **Diagnosis & compression site (arcade of Frohse, posterior cord origin)** (OB 4 · TO 6): [[OB407]], [[OB7483]], [[OB217845]], [[OB219914]], [[TO17138107]], [[TO17138111]], [[TO17138112]], [[TO17138113]], [[TO17730517]], [[TO17903886]]
-- **First-line treatment – therapy & activity modification** (OB 1): [[OB213021]]
-
-### [[radiocarpal-fracture-dislocation|Radiocarpal Fracture Dislocation]] (OB 1)
-- **Ligament injury – short radiolunate** (OB 1): [[OB212958]]
-
-### [[raynauds-syndrome|Raynaud's Syndrome]] (OB 6)
-- **Botulinum toxin – mechanism, outcomes & pre-treatment testing** (OB 4): [[OB8895]], [[OB211479]], [[OB219862]], [[OB220038]]
-- **Topical vasodilator mechanism** (OB 1): [[OB213982]]
-- **Periarterial sympathectomy indications** (OB 1): [[OB213041]]
-
-### [[replantation|Replantation]] (OB 17 · TO 4)
-- **Indications & contraindications by level (thumb, multiple digits, zone)** (OB 6 · TO 1): [[OB276]], [[OB640]], [[OB918]], [[OB4375]], [[OB5513]], [[OB8994]], [[TO17137982]]
-- **Prognostic factors – mechanism & ischaemia time** (OB 3): [[OB156]], [[OB1079]], [[OB4495]]
-- **Postoperative monitoring – arterial vs venous insufficiency, leeches & antibiotics** (OB 2): [[OB1125]], [[OB213078]]
-- **Reperfusion injury – allopurinol** (OB 1): [[OB182]]
-- **Surgical sequence & major limb replantation** (OB 2 · TO 2): [[OB1156]], [[OB3589]], [[TO17137980]], [[TO17731780]]
-- **Ray resection vs replantation – function & palmar width** (OB 3): [[OB213043]], [[OB215462]], [[OB217905]]
-- **WALANT anaesthesia** (TO 1): [[TO17141520]]
-
-### [[sagittal-band-rupture|Sagittal Band Rupture]] (OB 6)
-- **Diagnosis – extensor subluxation & ability to hold MCP extension** (OB 3): [[OB7833]], [[OB213076]], [[OB213981]]
-- **Treatment – sagittal band splinting vs open repair** (OB 3): [[OB203]], [[OB4622]], [[OB215456]]
-
-### [[scaphoid-fracture|Scaphoid Fracture]] (OB 19 · TO 3)
-- **Diagnosis – snuffbox tenderness, scaphoid view & MRI** (OB 2): [[OB27]], [[OB218165]]
-- **Operative vs nonoperative – percutaneous fixation of nondisplaced waist fractures** (OB 3): [[OB497]], [[OB211149]], [[OB218161]]
-- **ORIF indications & approach (displacement, proximal pole, delayed presentation)** (OB 6 · TO 2): [[OB1016]], [[OB5941]], [[OB6609]], [[OB6895]], [[OB6945]], [[OB9025]], [[TO17137149]], [[TO17736945]]
-- **Screw fixation technique – central axis position** (OB 3): [[OB2849]], [[OB2869]], [[OB211292]]
-- **Persistent pain after fixation – CT assessment** (OB 2): [[OB5781]], [[OB211545]]
-- **Wrist loading biomechanics** (OB 1): [[OB3047]]
-- **Vascularised bone graft (medial femoral condyle)** (OB 1): [[OB211765]]
-- **Paediatric scaphoid fractures** (OB 1): [[OB214844]]
-- **Epidemiology – most common carpal fracture** (TO 1): [[TO17736580]]
-
-### [[scaphoid-fracture-nonunion|Scaphoid Fracture Nonunion]] (OB 9)
-- **Diagnosis – nonunion, humpback deformity & proximal pole osteonecrosis** (OB 2): [[OB6223]], [[OB211952]]
-- **Without osteonecrosis – ORIF with non-vascularised graft (volar approach for humpback)** (OB 4): [[OB788]], [[OB6420]], [[OB217893]], [[OB218193]]
-- **Proximal pole AVN – vascularised (MFC) graft** (OB 3): [[OB5825]], [[OB8865]], [[OB219567]]
-
-### [[scaphoid-lunate-advanced-collapse-slac|Scaphoid Lunate Advanced Collapse (SLAC)]] (OB 14)
-- **Stages & sequence of arthritis (radial styloid, radioscaphoid, capitolunate; radiolunate spared)** (OB 4): [[OB99]], [[OB211820]], [[OB213988]], [[OB217384]]
-- **Salvage – four-corner fusion vs PRC (capitolunate arthritis contraindication, RSC ligament)** (OB 7): [[OB4523]], [[OB6567]], [[OB6652]], [[OB8777]], [[OB211237]], [[OB211886]], [[OB219942]]
-- **Radioscapholunate fusion – distal scaphoid excision** (OB 1): [[OB211941]]
-- **SL dissociation – pathomechanics** (OB 2): [[OB217829]], [[OB219310]]
-
-### [[scaphoid-nonunion-advanced-collapse-snac|Scaphoid Nonunion Advanced Collapse (SNAC)]] (OB 5)
-- **Natural history – radiolunate preserved** (OB 1): [[OB739]]
-- **Salvage – four-corner fusion, PRC & distal pole excision (contraindications, RSC ligament)** (OB 4): [[OB7857]], [[OB211226]], [[OB215452]], [[OB217853]]
-
-### [[scapholunate-ligament-injury-and-disi|Scapholunate Ligament Injury & DISI]] (OB 9 · TO 9)
-- **Diagnosis – clenched-fist views, scapholunate angle & DISI** (OB 5 · TO 6): [[OB1423]], [[OB8700]], [[OB217881]], [[OB220046]], [[OB220134]], [[TO17137154]], [[TO17137156]], [[TO17137173]], [[TO17730797]], [[TO17730801]], [[TO17745606]]
-- **Anatomy – dorsal SLIL is strongest** (OB 1): [[OB6921]]
-- **Acute repair** (OB 1): [[OB8740]]
-- **Iatrogenic DISI after distal scaphoid excision** (OB 2): [[OB212073]], [[OB217841]]
-- **Secondary stabilisers & progression to static DISI** (TO 1): [[TO25178983]]
-- **Perilunate spectrum (rocking lunate, Mayfield I)** (TO 2): [[TO17141691]], [[TO17141692]]
-
-### [[seymour-fracture|Seymour Fracture]] (OB 4 · TO 1)
-- **Anatomy & management – nail bed repair, remove interposed tissue, reduce** (OB 3 · TO 1): [[OB5656]], [[OB215454]], [[OB215460]], [[TO21733292]]
-- **Complication – osteomyelitis** (OB 1): [[OB219782]]
-
-### [[skin-grafting|Skin Grafting]] (OB 1)
-- **Palmar defect coverage** (OB 1): [[OB109]]
-
-### [[snapping-extensor-carpi-ulnaris-ecu|Snapping Extensor Carpi Ulnaris (ECU)]] (OB 5)
-- **Diagnosis – snapping with supination/flexion & examination tests** (OB 4): [[OB217394]], [[OB217869]], [[OB219431]], [[OB220419]]
-- **Nonoperative immobilisation position** (OB 1): [[OB211314]]
-
-### [[swan-neck-deformity|Swan Neck Deformity]] (OB 2 · TO 2)
-- **Pathomechanics – triangular ligament & lateral band tenotomy** (OB 2 · TO 2): [[OB7475]], [[OB211908]], [[TO21733290]], [[TO25178260]]
-
-### [[syndactyly|Syndactyly]] (OB 1 · TO 3)
-- **Complication – web creep** (OB 1 · TO 2): [[OB3548]], [[TO17141699]], [[TO17905811]]
-- **Epidemiology – most common web** (TO 1): [[TO17141700]]
-
-### [[tendon-transfer-principles|Tendon Transfer Principles]] (OB 7)
-- **Prerequisites – supple joints** (OB 1): [[OB6763]]
-- **Radial nerve/PIN palsy transfers** (OB 2): [[OB3102]], [[OB7803]]
-- **Median/ulnar palsy transfers – opponensplasty & claw correction** (OB 3): [[OB4738]], [[OB7670]], [[OB211864]]
-- **Tensioning EIP-to-EPL transfer** (OB 1): [[OB7722]]
-
-### [[thromboangiitis-obliterans-buergers-disease|Thromboangiitis Obliterans (Buerger's disease)]] (OB 1)
-- **Diagnosis – arteriography & smoking** (OB 1): [[OB4486]]
-
-### [[thumb-cmc-dislocation|Thumb CMC Dislocation]] (OB 5)
-- **Stabilisers – dorsoradial ligament & anterior oblique ligament** (OB 4): [[OB5948]], [[OB217861]], [[OB219854]], [[OB220421]]
-- **Ligament reconstruction with FCR** (OB 1): [[OB215156]]
-
-### [[thumb-collateral-ligament-injury|Thumb Collateral Ligament Injury]] (OB 6 · TO 3)
-- **UCL anatomy – proper vs accessory ligament & testing positions** (OB 2): [[OB3306]], [[OB5931]]
-- **Stener lesion – adductor aponeurosis** (OB 3 · TO 3): [[OB8902]], [[OB211963]], [[OB219368]], [[TO17141905]], [[TO17141908]], [[TO17731959]]
-- **RCL vs UCL – delayed repair** (OB 1): [[OB217356]]
-
-### [[thumb-hypoplasia|Thumb Hypoplasia]] (OB 4)
-- **Reconstruction vs pollicisation – CMC joint stability (Blauth)** (OB 4): [[OB1142]], [[OB1225]], [[OB3094]], [[OB220050]]
-
-### [[triangular-fibrocartilage-complex-tfcc-injury|Triangular Fibrocartilage Complex (TFCC) Injury]] (OB 9 · TO 5)
-- **Anatomy – components, foveal insertion & radioulnar ligaments** (OB 4 · TO 1): [[OB1159]], [[OB6404]], [[OB211193]], [[OB219312]], [[TO17141749]]
-- **Diagnosis – mechanism & examination** (OB 3): [[OB1388]], [[OB1446]], [[OB8665]]
-- **Treatment – immobilisation, debridement & wafer procedure with ulnar-positive variance** (OB 2): [[OB4700]], [[OB219370]]
-- **Palmer classification & iceberg concept** (TO 2): [[TO17141752]], [[TO17141754]]
-- **DRUJ instability – piano key sign** (TO 2): [[TO17141748]], [[TO17731920]]
-
-### [[trigger-finger|Trigger Finger]] (OB 6)
-- **Pathology – A1 pulley** (OB 1): [[OB1050]]
-- **Paediatric trigger finger/thumb – additional releases & digital nerve risk** (OB 3): [[OB3207]], [[OB3479]], [[OB5449]]
-- **Percutaneous thumb release – radial digital nerve risk** (OB 1): [[OB6548]]
-- **Infection risk – timing after steroid injection** (OB 1): [[OB220074]]
-
-### [[ulnar-styloid-impaction-syndrome|Ulnar Styloid Impaction Syndrome]] (OB 3)
-- **Diagnosis & failed treatment – positive ulnar variance, styloid impaction** (OB 2): [[OB214008]], [[OB219874]]
-- **Ulnar shortening osteotomy – nonunion risk** (OB 1): [[OB218109]]
-
-### [[ulnar-tunnel-syndrome|Ulnar Tunnel Syndrome]] (OB 8 · TO 4)
-- **Guyon's canal zones & motor vs sensory findings** (OB 5 · TO 4): [[OB211171]], [[OB213983]], [[OB213989]], [[OB215441]], [[OB217953]], [[TO17138098]], [[TO17138104]], [[TO17747019]], [[TO17903749]]
-- **Causes – ganglion & imaging** (OB 3): [[OB3225]], [[OB9018]], [[OB213015]]
-
-### [[ulnar-variance|Ulnar Variance]] (OB 2 · TO 2)
-- **Load distribution & radiographic measurement** (OB 2): [[OB1153]], [[OB218905]]
-- **Carpal instability adaptive (CIA) after radius malunion** (TO 2): [[TO25178987]], [[TO25178990]]
-
-### [[ulnocarpal-abutment-syndrome|Ulnocarpal Abutment Syndrome]] (OB 5 · TO 1)
-- **Ulnar shortening osteotomy vs wafer – indications & outcomes** (OB 3 · TO 1): [[OB1371]], [[OB3042]], [[OB219759]], [[TO17141912]]
-- **DRUJ arthritis – hemiresection arthroplasty** (OB 1): [[OB82]]
-- **Differential – benign variant** (OB 1): [[OB217359]]
-
-### [[wartenbergs-syndrome|Wartenberg's Syndrome]] (OB 1 · TO 3)
-- **Radial sensory nerve decompression** (OB 1): [[OB7793]]
-- **Compression site & sensory-only presentation** (TO 3): [[TO17138116]], [[TO17138118]], [[TO17731604]]
-
-### [[wrist-arthritis|Wrist Arthritis]] (OB 2 · TO 1)
-- **Radioscapholunate fusion – distal scaphoid & triquetrum excision** (OB 1): [[OB7902]]
-- **Ulnar-sided wrist arthritis** (OB 1): [[OB219771]]
-- **Golf – trailing-wrist dorsal rim impaction** (TO 1): [[TO21733141]]
-
-### [[wrist-arthroscopy|Wrist Arthroscopy]] (OB 5 · TO 3)
-- **Portals & nerves at risk** (OB 3 · TO 2): [[OB4458]], [[OB210116]], [[OB212932]], [[TO17121834]], [[TO17121908]]
-- **Arthroscopic anatomy – visible structures** (OB 2): [[OB7791]], [[OB7889]]
-- **Misfiled – kinematic TKA balancing** (TO 1): [[TO21733263]]
-
-### [[wrist-ligaments-and-biomechanics|Wrist Ligaments & Biomechanics]] (OB 5 · TO 2)
-- **Extrinsic ligaments – radioscaphocapitate & radiocarpal dislocation** (OB 4): [[OB5585]], [[OB5913]], [[OB218901]], [[OB219520]]
-- **Secondary stabilisers against DISI – dorsal intercarpal ligament** (OB 1): [[OB4595]]
-- **Intrinsic & extrinsic ligament function (LT, RSL)** (TO 2): [[TO17141934]], [[TO17141962]]
-
-### [[wrist-trauma-radiographic-evaluation|Wrist Trauma Radiographic Evaluation]] (OB 1)
-- **Carpal ossification sequence** (OB 1): [[OB214018]]
 
 ## Spine
 

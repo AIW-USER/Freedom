@@ -63,6 +63,8 @@
 
 ![Accessory navicular — external oblique view](../../Orthobullets/attachments/ob4070-obl.jpg)
 
+**View (TO)** — **reverse (internal) oblique** shows accessory navicular · often mistaken for navicular fracture
+
 ### Radiographic classification
 
 | Type | Description | Image |

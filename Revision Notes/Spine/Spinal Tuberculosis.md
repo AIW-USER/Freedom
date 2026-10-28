@@ -10,6 +10,8 @@
 
 **Frequency** — 15% of TB extrapulmonary · **spine = commonest extrapulmonary site** (thoracic) · 5% of all TB
 
+**TO figures** — **< 1% of all TB** but **\~50% of skeletal TB** · **TB = \~70% of spinal infections** (endemic) · commonest site **thoracolumbar junction** · neuro deficit **10–43%** · **80% develop kyphosis**, 5% > 60° despite non-op · deformity: **knuckle (1 vertebra), gibbus (2), kyphus (≥ 3)**
+
 **Level (TO)** — **lower thoracic** > lumbar > upper thoracic > cervical > sacral · children: **anterior lower thoracic** (OB)
 
 ### Pathoanatomy
@@ -101,6 +103,9 @@
 | ESR | Usually ↑ (normal in 25%) |
 | **PPD** | **+ in \~80%** |
 | **CT-guided biopsy** | **Most specific test (TO)** · **AFB** stain (smear + 52%), culture + 83% (**up to 10 wks**), **PCR** 95% sensitive |
+| Yield (TO) | **Histopathology 60–90%** · **BACTEC culture 84%** · **L-J 61%** · **TB-PCR 60–75% sensitive, 94–100% specific** (detects resistance) · **30–40% remain unconfirmed** |
+| ESR (TO) | **> 100 mm/h significant** · falls by **3rd month** of ATT (prognostic) · X-ray improvement by 4th month |
+| Serology (TO) | Tuberculin outdated · ELISA IgM/IgG screening only |
 | No | **Empirical antibiotics without biopsy** (TO) |
 
 **Differential** — Actinomyces, Nocardia, **Brucella**, fungi (Coccidioides, Blastomyces, Cryptococcus, Aspergillus), syphilis
@@ -114,6 +119,25 @@
 | Older, immunocompromised | **Paraspinal abscess** |
 | — | **Thoracic / thoracolumbar** |
 
+| MRI (TO) | Pyogenic | Tuberculous |
+|---|---|---|
+| Speed | Rapid, weeks | Slow |
+| Disc | **Destroyed early** | **Relatively preserved early** (avascular) |
+| Soft tissue | Minimal | **Large pre/paravertebral collections** |
+| Contrast | Diffuse enhancement | **Rim enhancement** of abscess |
+
+| Feature (TO) | Tuberculous | Pyogenic |
+|---|---|---|
+| Onset | Insidious, evening fever, weight loss | Acute, septic, high fever |
+| Location | Thoracic / TL | **Lumbar** |
+| Levels | **Multiple, skip lesions** | Single level |
+| Abscess wall | **Thin, smooth** | **Thick, irregular** |
+| First target | Vertebral body | **Disc space** |
+
+**MRI forms of TB (TO)** — vertebral: **paradiscal (commonest), anterior, central**; atypical solitary, multifocal, posterior element · non-vertebral: epidural, leptomeningeal, intramedullary · **isolated epidural TB** with normal body + disc possible
+
+**Infection vs tumour (TO)** — infection: disc + bodies + collections · tumour (myeloma, lymphoma, metastasis): **disc spared**, solid mass
+
 ## 5 Management
 
 ### Medical
@@ -123,6 +147,8 @@
 **HIV + cervical Pott's with Ziehl-Neelsen +** — **isoniazid, rifampin, pyrazinamide, streptomycin**
 
 **Orthosis** — pain + deformity prevention · **steroids only for arachnoiditis/meningitis** (TO)
+
+**ATT (TO lecture)** — **2HRZE + 7HRE = 9 months minimum** · DOTS · bed rest 2–3 wks → brace → mobilise · MDR (INH + RIF resistant): culture-guided, 5 drugs (incl. moxifloxacin, cycloserine) \~18 months · XDR → debridement + salvage regimen
 
 ### Operative criteria
 
@@ -149,6 +175,14 @@
 | Healed thoracic/TL kyphosis | **Internal kyphectomy** (cord moved anteriorly) |
 | Transthoracic | **Left side** (aorta easier than IVC) |
 | Atypical TB (granuloma) | Laminectomy (extradural/subdural) · myelotomy (intramedullary) |
+
+| Approach (TO) | Use |
+|---|---|
+| **Transpedicular** | Single level, posterior debridement, little deformity correction |
+| **Costotransversectomy** | 1–2 levels, mild deformity → anterolateral decompression + cage |
+| **Extracavitary** | Multilevel collapse / severe kyphosis (2–3 ribs removed) |
+| TLIF | Lumbar discitis — debridement + cage |
+| Anterior cervical | Cervical TB — corpectomy + graft + plate |
 
 **Rajasekaran (TO)** — active disease: posterior stabilisation then anterior debridement + graft · healed rigid deformity: anterior first then posterior
 

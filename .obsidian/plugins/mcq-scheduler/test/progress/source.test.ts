@@ -106,8 +106,8 @@ describe("extractBars", () => {
 		expect(extractBars(text, 5).map((b) => b.title)).toEqual(["Real"]);
 	});
 
-	it("finds no bars in the Progress bars help note", () => {
-		const text = readFileSync("/Users/phaneendra/Freedom/Progress bars.md", "utf8");
+	it("finds no bars in the README's Progress bars help", () => {
+		const text = readFileSync("/Users/phaneendra/Freedom/README.md", "utf8");
 		expect(extractBars(text, 5)).toEqual([]);
 	});
 });

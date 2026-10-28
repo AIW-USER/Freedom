@@ -13,6 +13,16 @@
 
 **Direction** — **75–90% posterior**
 
+**TO notes** — incidence **~3%**, most within **first 3 months**
+
+| Diagnosis | Relative dislocation risk vs OA (TO) |
+|---|---|
+| AVN | **× 2** |
+| DDH | **× 3** |
+| Fracture | **× 4** |
+| Nonunion | **× 5** |
+| **Revision** | **× 11** |
+
 ### Mechanism
 
 | Dislocation | Position |
@@ -73,6 +83,8 @@
 | OB other | 30–50° · 35–45° · 40° | 15–20° · 20° |
 | Femoral stem | — | **10–15°** |
 
+**Lewinnek (1978, TO)** — inclination **40° ± 10°** · anteversion **15° ± 10°** · radiographic anteversion = **sin⁻¹ (CD / AB)** · dislocation can still occur inside the safe zone (patient + soft-tissue factors)
+
 **Navigation shows 20° abduction / 20° anteversion** → ✓ **increase abduction by 20°, keep anteversion** (too adducted → flexion impingement, inferior dislocation)
 
 ### Cup position and dislocation direction (TO)
@@ -93,6 +105,19 @@ THA dislocation
 ├─ Recurrent, late + PE wear → revision (liner/head ± cup)
 └─ Recurrent, well positioned + abductor/soft-tissue deficiency → dual mobility or constrained liner
 ```
+
+### Wera classification of instability (2012, TO)
+
+| Type | Cause | Management (TO) |
+|---|---|---|
+| **I** | **Acetabular malposition** | **Cup revision** |
+| **II** | **Femoral malposition** | **Stem revision** |
+| **III** | **Abductor deficiency** | **Constrained liner** |
+| **IV** | **Impingement** | Remove source / ↑ offset |
+| **V** | **Late PE wear** | **Head + liner exchange** |
+| **VI** | **Unknown cause** | Trochanteric advancement |
+
+**Elevated-rim liner (TO)** — ↓ dislocation (**2.2% vs 3.8%**) but ↑ impingement + wear · **dual mobility** — ↑ stability, ↑ jump distance · cost: PE wear + **intraprosthetic dislocation**
 
 ### First dislocation management
 
@@ -273,3 +298,7 @@ THA dislocation
 **"First dislocation, well-placed implants?"** → **observation + education**
 
 **"Single myocapsular sleeve repair (TO)?"** → **capsule + ERs sutured together to GT**
+
+**"Recurrent dislocation from abductor deficiency (Wera III)?"** → **constrained liner** (TO)
+
+**"Relative dislocation risk highest in?"** → **revision THR (× 11)** (TO)

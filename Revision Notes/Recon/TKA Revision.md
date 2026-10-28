@@ -74,6 +74,8 @@
 | **2B** | Metaphyseal damage, **both** condyles/plateaus | Cement, augments, small graft |
 | **3** | **Massive** loss of condyle/plateau ± **collateral / patellar tendon** attachments | **Bulk allograft**, custom, megaprosthesis, **tantalum cones**, **sleeves**, **rotating hinge** |
 
+**AORI by size (TO notes)** — **I < 5 mm, contained** → cement / graft · **II 5–15 mm, uncontained** → structural graft / augments · **III > 15 mm, uncontained** → sleeves / cones / hinge
+
 ![AORI classification](../../MCQ/attachments/q218064-illa-aori.jpg)
 
 ## 5 Management

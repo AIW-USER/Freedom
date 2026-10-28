@@ -70,6 +70,20 @@
 | **Retropulsed fragment** | **Pedicle / posterior column involvement** |
 | — | Paraspinal or epidural mass |
 
+| Feature (TO) | Osteoporotic | Malignant |
+|---|---|---|
+| Posterior wall | **Angular retropulsed fragment** | **Convex posterior bulge** |
+| Levels | Contiguous | **Skip lesions** |
+| Marrow | **Some normal fat spared** | **Whole body replaced** |
+| Posterior elements | Fracture lines only | **Pedicle involved** (Batson plexus) |
+| Paraspinal | Smooth thin haematoma | **Thick, lobulated, enhancing mass** |
+
+**Cardboard box (TO)** — normal = stuffed box · osteoporotic = **empty box** (flattens, sharp edges) · malignant = **styrofoam box** (contents bulge out)
+
+**Acuity (TO)** — oedema = fresh · **no oedema = old healed** fracture
+
+**Disc rule (TO)** — **disc involved = infection** · **disc spared = metastasis / osteoporosis** ("bad disc is good news")
+
 ![MR fluid sign](../../MCQ/attachments/q5643-illb-illus-b-mr-fluid-sign-sagittal-stir.jpg)
 
 **Suspect metastasis** — **above T5**, atypical films, constitutional symptoms, **young without a fall**
@@ -120,6 +134,8 @@ Osteoporotic VCF, neuro intact
 | Future VCF risk | — | Yes (TO) |
 
 **TO trap** — vertebroplasty cement: **high viscosity + more radiopaque than arthroplasty cement** (true statement in TO stem)
+
+**Technique (TO)** — needle via pedicle (**3 o'clock right / 9 o'clock left**) on AP + lateral · inject when **semi-viscous** · **stop as cement nears the posterior wall** · vertebroplasty ↑ leak, kyphoplasty ↑ height correction
 
 **Mechanism** — **eliminates micromotion**
 

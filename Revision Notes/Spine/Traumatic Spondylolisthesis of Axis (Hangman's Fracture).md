@@ -40,6 +40,8 @@
 
 **Halo duration** — 6–12 wks (Orthobullets) · 8–12 wks · "2 months" (TO)
 
+**Angulation cut-off (TO)** — type I **< 3 mm + < 11°** angulation · type II **> 3 mm + > 11°** · **Francis grade I: < 3.5 mm + < 11° → conservative**, II–V → surgery · TO quotes **type I collar 8–12 wks** (Mohindra) / 6–8 wks (Vishnu) vs **4–6 wks** (Orthobullets) — read the options
+
 ## 5 Management
 
 ```
@@ -53,6 +55,8 @@ Hangman's fracture
 ```
 
 **Surgical options** — **anterior C2-3 interbody fusion** (disc injury) · **posterior C1-3 fusion** · **bilateral C2 pars screw osteosynthesis** · anterior facet fixation for failed posterior fusion
+
+**Approach preference (TO)** — **posterior C1–C3 fixation commonest** · anterior C2–C3 cage + plate only for **C2–C3 disc disruption** · OC fusion if C1 involved · **C2 pars screw** = direct pars repair
 
 ## X vs Y
 

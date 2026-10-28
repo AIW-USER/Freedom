@@ -35,6 +35,17 @@
 
 **Transverse humeral ligament (THL)** — stabilises LHBT in the groove **at the level of the greater + lesser tuberosities** (distal to pulley); **not rotator interval tissue**
 
+**THL (TO)** — old concept of THL as the LHB stabiliser is **obsolete**; **medial pulley = subscapularis + SGHL + CHL** prevents medial subluxation — read the options
+
+**Comma sign (TO)** — in **subscapularis tears**: torn CHL + SGHL + subscapularis pulled together into a comma shape → **pulley lesion**
+
+| Habermeyer pulley lesion (TO) | Injury |
+|---|---|
+| **I** | **SGHL** → anterior LHB instability |
+| **II** | SGHL + **anterior supraspinatus** tear |
+| **III** | SGHL + **cranial subscapularis** tear (**comma sign**) |
+| **IV** | SGHL + anterior supraspinatus + cranial subscapularis → **anteroposterior instability** |
+
 **Bicipital groove** — length 81–87 mm · width 7.7–11.6 mm · depth 3.7–6 mm · **bottleneck ~2/3 down** from top → THL may constrain groove → anterior pain; tenodesis **below the groove** may be preferred
 
 | ✗ Distractor | Why wrong |
@@ -57,6 +68,8 @@
 **Speed test** — anterior pain with **resisted forward flexion**, shoulder 90° flexed, elbow extended, palm up
 
 **Palpable click** — with **abduction + external rotation** as tendon subluxes/dislocates out of groove
+
+**Clinical clues (TO)** — anterior pain · clicking/snapping · MRI medial subluxation/dislocation · **often missed** unless subscapularis/cuff evaluated
 
 **Always test subscapularis strength** — **lift-off** (Gerber), belly press, push-off
 
@@ -156,3 +169,7 @@ Biceps subluxation
 ✗ Wrong options: latissimus transfer · reverse TSA
 
 **"Most important medial restraint of LHBT?"** → **subscapularis tendon**
+
+**"Comma sign at arthroscopy indicates?"** → **subscapularis tear with biceps pulley lesion** (TO)
+
+**"Habermeyer type III pulley lesion?"** → **SGHL + cranial subscapularis tear** (TO)

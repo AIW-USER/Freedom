@@ -48,6 +48,20 @@
 
 **Indication** — **single-level DDD with disease-free facets** (controversial)
 
+**TDR selection (TO)** — early DDD (dysfunction stage) · **VAS > 4, ODI > 40%** · age **18–60 (ideally < 50)** · single level, no stenosis/instability · contraindicated: listhesis/lysis, facet arthritis, stenosis, deformity, infection, **osteoporosis (T < −2)**, **HNP with radiculopathy**, psychological instability · work-up: MRI, CT facets, dynamic films, **DEXA**
+
+| Implant (TO) | Bearing | Note |
+|---|---|---|
+| **Charité** | Metal-on-PE (mobile core) | **First FDA-approved** |
+| **ProDisc-L** | Metal-on-PE, **fixed core** | Keel |
+| **Maverick** | **Metal-on-metal** (CoCr) | Low wear, metal ions |
+
+**Design (TO)** — non-constrained (more motion, ↑ facet stress) · constrained (needs precise centring) · semi-constrained · all **uncemented** (ingrowth / keel) · first device **Fernström** steel ball (1950s)
+
+**Approach + complications (TO)** — **anterior retroperitoneal** with access surgeon · **vascular injury** (commonest serious) · **retrograde ejaculation** (superior hypogastric plexus) · subsidence, facet degeneration · failure **10–20% at 10–15 yrs** · revision: **avoid anterior re-entry → posterior pedicle-screw fusion**, implant left in situ
+
+**Alternatives (TO)** — **nucleus replacement** (hydrogel; risk **extrusion**, needs intact annulus) · **posterior dynamic stabilisation** (Graf, **Dynesys**, Wallis, TOPS) · fusion ASD \~10% at 10 yrs
+
 | TDR vs fusion / ALIF | Finding |
 |---|---|
 | Safety + efficacy at 2 yrs | **Comparable / better** |

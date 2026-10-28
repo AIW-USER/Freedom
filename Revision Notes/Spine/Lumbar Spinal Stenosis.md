@@ -40,6 +40,14 @@
 
 **Neurogenic claudication** — back, **buttock**, thigh pain/heaviness · **worse with extension** (walking, standing, **downhill/down stairs**, lying supine) · **relieved by flexion** (sitting, shopping cart, cycling, fetal position)
 
+**Symptom frequency (TO)** — **neurogenic claudication 80%** · LBP 65% · radicular pain 10% · CES rare · peak 50–60 yrs · **L4-5 > L5-S1 > L3-4** · causes: degenerative, congenital (**achondroplasia**), metabolic (**Paget, fluorosis**)
+
+**Neurogenic vs vascular (TO)** — **uphill walking relieves** neurogenic (flexed), worsens vascular · downhill worsens neurogenic · always palpate pulses · check UL reflexes (tandem)
+
+**Instability markers (TO)** — **synovial facet cyst** and **pseudodisc bulge** = segmental instability · AP X-ray: narrow interpedicular distance = congenital · MRI: **triangular canal** · \~40% improve non-op
+
+**Surgery (TO)** — **micro-decompression preserving midline = preferred** · tubular → less instability · **missed lateral recess = persistent pain** · fusion only for proven instability
+
 **Neuro exam** — often **normal** (examined seated) · SLR usually negative · no UMN signs (clonus, Babinski = cord) · no step-wise progression (= cervical myelopathy) · Valsalva doesn't worsen (unlike HNP)
 
 **Kemp sign** — unilateral radicular pain from **foraminal** stenosis worse with **back extension**
@@ -88,6 +96,24 @@
 | **AP canal diameter** | **< 10 mm** |
 | **Cross-sectional area** | **< 100 mm²** |
 | No | Transverse < 20 mm, combined < 30 mm, area 130 mm², AP < 20/50 mm |
+
+| Grade (TO) | Midsagittal diameter | Thecal sac area | Lateral recess height |
+|---|---|---|---|
+| Normal | **> 13 mm** | **> 100 mm²** | **> 5 mm** |
+| Relative / moderate | **10–13 mm** | **76–100 mm²** | — |
+| Absolute / severe | **< 10 mm** | **< 76 mm²** | **< 3 mm** |
+
+**Lateral recess (TO)** — measured at **pedicle level** (back of body ↔ superior articular process) · houses **traversing root** · **< \~4 mm** narrowed
+
+| MRI grade (TO) | Central canal | Foraminal |
+|---|---|---|
+| Mild | Only lateral CSF lost | Fat around root kept |
+| Moderate | Little CSF | Little fat |
+| Severe | **Cauda equina roots not separable** | **Root not seen** |
+
+**Schizas grading A–D (TO)** — morphological central stenosis grade · **facet arthropathy graded 0–3** (normal joint 2–4 mm) (TO)
+
+**Discogenic vs ligamentous stenosis (TO)** — large central extruded disc **more painful** (intense inflammation) than flavum/facet stenosis
 
 ![AP diameter X–Y on axial CT](../../MCQ/attachments/q3742-a-area-xy.jpg)
 
@@ -226,6 +252,12 @@ Lumbar spinal stenosis
 
 **Persistent CSF leak** — positional headache + nausea weeks later, normal WBC/ESR → **MRI** → **reoperation = gold standard** (fibrin glue, subarachnoid drain, blood patch less invasive) · lumbar drain only after failed repairs
 
+**Dural tear (TO)** — **commonest spine-surgery complication** · **1–18% lumbar**, 0.3–4% cervical · dorsal/dorsolateral · thinned dura in chronic stenosis
+
+**Prevention (TO)** — screws **before** decompression · central decompression **caudal → cephalad** · lateral decompression **cephalad → caudal** (along root) · develop flavum–dura plane · OPLL/OYL → **floating technique**
+
+**Repair (TO)** — head-low · **4-0 / 5-0 Prolene** ± fat graft / fibrin glue · watertight fascia · **no negative-pressure drain** · lumbar subarachnoid drain 3–5 days · **blood patch 20–30 mL** · inaccessible lateral tear → muscle-fat plug / dural patch · signs: clear drain fluid, **halo sign**, pseudomeningocele (T1 low, T2 high)
+
 ### Surgical site infection
 
 **Risk factors** — **HbA1c > 7.5%** (✓), op time **> 3 h**, posterior approach, **BMI > 35** (> 30 obese), age > 70, active smoking, albumin low
@@ -347,3 +379,5 @@ Lumbar spinal stenosis
 **"Commonest compression source in degenerative stenosis?"** → **superior articular process** (TO)
 
 **"Strongest factor for symptomatic DDD?"** → **genetic predisposition** (TO)
+
+**"Most common complication of spine surgery?"** → **dural tear** (TO)

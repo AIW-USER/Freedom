@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9151595cf7744fa0",
+        "id": "2e40e0dd986b6a00",
         "type": "tabs",
         "children": [
           {
-            "id": "18a647fe98f88a7f",
+            "id": "d03c59ba02f03f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCQ/OB219178.md",
+                "file": "MCQ/OB8931.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "OB219178"
+              "title": "OB8931"
             }
           },
           {
-            "id": "92f15887717f0b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question Modules.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Question Modules"
-            }
-          },
-          {
-            "id": "aa978c8500492315",
+            "id": "8b5d8431175284d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "MCQ activity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.6953125
+    "width": 235.42578125
   },
   "right": {
     "id": "d01f26e8aa4350dd",
@@ -190,7 +175,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress/Progress keeper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,7 +184,17 @@
             }
           },
           {
-            "id": "84ce764de439c685",
+            "id": "1d615fc1ad452846",
+            "type": "leaf",
+            "state": {
+              "type": "local-ai-tts-panel",
+              "state": {},
+              "icon": "audio-lines",
+              "title": "Local AI TTS"
+            }
+          },
+          {
+            "id": "7a0471f03664752d",
             "type": "leaf",
             "state": {
               "type": "mcq-scheduler-browser",
@@ -210,21 +204,21 @@
             }
           },
           {
-            "id": "07bb1d3fbead1ee1",
+            "id": "d47310e064283ee9",
             "type": "leaf",
             "state": {
               "type": "vault-terminal",
               "state": {},
               "icon": "bot",
-              "title": "Claude — Freedom"
+              "title": "◐ merge-to-notes-revision"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 363.6328125
+    "width": 381.99609375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,43 +229,53 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "mcq-scheduler:MCQ Scheduler": false,
-      "claude-sidebar:New Claude Code Tab": false
+      "claude-sidebar:New Claude Code Tab": false,
+      "local-ai-tts:Open Local AI TTS": false
     }
   },
-  "active": "07bb1d3fbead1ee1",
+  "active": "d47310e064283ee9",
   "lastOpenFiles": [
-    "Question Modules.md",
-    "MCQ/OB219178.md",
-    "MCQ/OB218000.md",
-    "MCQ/OB219485.md",
-    "MCQ/OB213095.md",
-    "MCQ/OB215603.md",
-    "MCQ/OB3036.md",
-    "MCQ/OB8819.md",
-    "MCQ/OB1205.md",
-    "MCQ/OB214000.md",
-    "MCQ/OB651.md",
-    "MCQ/OB213098.md",
-    "MCQ/OB3960.md",
-    "MCQ/OB214793.md",
-    "MCQ/OB6394.md",
-    "MCQ/OB213099.md",
-    "MCQ/OB214829.md",
-    "MCQ/OB3445.md",
-    "MCQ/OB211353.md",
-    "MCQ/OB3503.md",
-    "MCQ/OB664.md",
-    "MCQ/OB2912.md",
-    "MCQ/OB162.md",
-    "MCQ/OB215593.md",
-    "MCQ/OB4457.md",
-    "MCQ/OB6545.md",
+    "Revision Notes/Basic Science/Cranial Nerves.md",
+    "MCQ/OB1170.md",
+    "MCQ/OB220552.md",
+    "MCQ/OB218061.md",
+    "MCQ/OB8810.md",
+    "MCQ activity.md",
+    "MCQ/OB5733.md",
+    "MCQ/OB25.md",
+    "MCQ/TO17141382.md",
+    "MCQ/OB218089.md",
+    "MCQ/TO21733097.md",
+    "MCQ/OB3334.md",
+    "MCQ/OB6627.md",
+    "MCQ/OB7563.md",
+    "MCQ/OB219.md",
+    "MCQ/OB4546.md",
+    "MCQ/TO17124500.md",
+    "MCQ/OB210196.md",
+    "MCQ/OB219569.md",
+    "MCQ/TO17141521.md",
+    "MCQ/OB7453.md",
+    "MCQ/OB211303.md",
+    "Revision Notes/Shoulder & Elbow/Glenohumeral Arthritis (Shoulder Arthritis).md",
+    "c.md",
+    "Revision Notes/Shoulder & Elbow/Elbow Physical Exam.md",
+    "b.md",
+    "Revision Notes/Trauma/Trauma.pdf",
+    "Revision Notes/Trauma",
+    "Revision Notes/Recon/Recon.pdf",
+    "Revision Notes/Pediatrics/Pediatrics.pdf",
+    "Revision Notes/Pathology/Pathology.pdf",
+    "Revision Notes/Knee & Sports/Knee & Sports.pdf",
+    "Revision Notes/Hand/Hand.pdf",
+    "Revision Notes/Foot & Ankle/Foot & Ankle.pdf",
+    "Revision Notes/Basic Science/Basic Science.pdf",
+    "Revision Notes/Spine/Spine.pdf",
     "Screenshot 2026-09-24 at 21.52.19.png",
     "Screenshot 2026-09-24 at 13.35.27.png",
     "Screenshot 2026-09-24 at 13.35.46.png",
     "Screenshot 2026-09-23 at 21.10.32.png",
     "Screenshot 2026-09-23 at 11.32.02.png",
-    "Progress",
     "Untitled.canvas"
   ]
 }

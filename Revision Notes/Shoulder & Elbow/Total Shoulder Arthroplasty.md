@@ -12,6 +12,12 @@
 
 **Requirements** — **intact + functional rotator cuff** · adequate **glenoid bone stock + version**
 
+| Type (TO) | Replaced | Use |
+|---|---|---|
+| **Hemiarthroplasty** | Humeral head only | **Poor glenoid stock** or non-functional cuff with good forward flexion · **AVN with intact glenoid** · **3/4-part non-reconstructible fracture** |
+| **TSA** | Head + glenoid | **Intact functional cuff + adequate glenoid stock** · OA (commonest), RA if cuff functional |
+| **RSA** | Reversed geometry (convex glenoid, concave humerus) | **Non-functional cuff**, CTA · RA with cuff deficiency |
+
 **Outcomes** — **pain relief** = most predictable benefit (more than hemi) · preserved IR + ER · survival **93% at 10 y** (Orthobullets, OB) · ">90% at 10 y" (OB) · TSA/hemi for OA: good/excellent **95%** (Norris) · **worse for post-capsulorrhaphy arthropathy**
 
 **Humeral fixation** — cemented or press-fit (porous-coated); both good longevity; humeral loosening **uncommon without infection**
@@ -31,6 +37,19 @@
 | Glenoid inclination | Superior **~4°** (4.2°; −7 to 20°) (TO) |
 
 **LHO (TO)** — **↓ LHO** → ↓ lever arm of **deltoid + supraspinatus** → weak abduction · **↑ LHO** → **overstuffing** → ↓ motion, ↑ poly wear · reconstruct within **4 mm** of normal
+
+| Parameter (TO arthroplasty lecture) | Value |
+|---|---|
+| **Head–shaft angle** | **135°** (130–150°) → sets osteotomy inclination |
+| **Humeral retroversion** | **30°** (relative to elbow axis) |
+| Scapular plane | **30°** to coronal plane (true AP) |
+| **Medial offset** | **7 mm** (COR medial to shaft axis) |
+| **Posterior offset** | **3 mm** |
+| **Head height** | **0.5–1 cm above GT tip** |
+| **Lateral humeral offset** | **5–6 cm** (coracoid → lateral humeral head border) |
+| Normal glenoid version (CT) | **2° anteversion to 7° retroversion** |
+
+**Deviation (TO)** — overstuffing, ↓ ROM, altered cuff tension → early wear
 
 **Retroversion axes (TO)** — proximal: articular surface plane / COR–articular centre / GT–articular centre · distal: **trochlear axis**, transepicondylar line, forearm
 
@@ -98,6 +117,8 @@
 | Subchondral cysts | Normal end-stage OA finding |
 | Age (young) | TSA favoured over hemi |
 
+**TO contraindication list** — non-functional cuff (**except isolated supraspinatus tear**) · inadequate glenoid stock · **active or previous infection** · **brachial plexus / axillary nerve palsy** → hemi or RSA instead
+
 **Cuff tears at TSA** — full-thickness in **5–10%** of TSA patients (Orthobullets) · **<5%** in primary OA (OB) — read the options · **+ impingement signs → pre-op MRI**
 
 **RA + good elevation (120°), no superior migration** — **TSA cemented all-poly**\
@@ -118,6 +139,8 @@
 
 **Magnuson-Stack** — middle subscapularis + piece of LT transferred **lateral to bicipital groove** (restrict ER) → **subscapularis lacerated** during biceps release at TSA → **↑ ER, anterior instability, + belly press**
 
+**Post-capsulorrhaphy arthropathy (TO)** — tight anterior capsule → **posterior subluxation** + **multiple loose bodies** on X-ray
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -130,6 +153,13 @@
 | **MRI** | Rotator cuff (**Goutallier** fatty change) |
 
 **Cuff-deficiency signs** — **acetabularization of acromion** → incompetent cuff → **rTSA** · disrupted **Shenton's line** of shoulder → cuff not intact
+
+| X-ray sign (TO) | Meaning |
+|---|---|
+| **Goat's beard** | **Inferior humeral osteophyte** → OA |
+| **Sourcil sign** | **Acromial sclerosis** → cuff tear arthropathy |
+| **Multiple loose bodies** | **Post-capsulorrhaphy arthropathy** |
+| Posterior subluxation | **Posterior glenoid wear** (most typical OA pattern) |
 
 **Infraspinatus atrophy on MRI** — **independent risk factor for post-op superior cuff tear**
 
@@ -176,6 +206,10 @@ Glenohumeral arthritis
 
 **Palpate cuff insertion** before head cut — ✓ protects cuff
 
+**Exposure (TO)** — protect **cephalic vein** · release subscapularis **2 cm from lesser tuberosity**; **Z-lengthening** if contracted · dislocate in **abduction + ER** · **preserve CHL if cuff deficient** (adds stability)
+
+**Head osteotomy (TO)** — **135°** inclination · **30° retroversion** (arm in 30° ER, cut anterior → posterior) · just proximal to cuff insertion · entry **posterior to bicipital groove, 1 cm medial to GT tip** · cemented or uncemented (**proximally coated stems preferred**)
+
 ### Subscapularis management & failure (peel, tenotomy, LTO; postoperative restrictions)
 
 **Takedown options** — **peel** (off bone) · **tenotomy** (trans-tendon) · partial tenotomy · **lesser tuberosity osteotomy (LTO)**
@@ -209,6 +243,10 @@ Glenohumeral arthritis
 
 **Glenoid deficiency** — build up with **iliac crest autograft** or **resected humeral head** · **never cement** to fill
 
+**Medial (central) glenoid wear (TO)** — hemiarthroplasty · **soft-tissue interposition (fascia lata / meniscus)** · **ream-and-run**
+
+**Persistent posterior subluxation (TO)** — **larger humeral head** · **↓ humeral retroversion** · **tighten posterior capsule** · immobilise in **ER** / delay ROM
+
 **Axial CT: retroversion + bone loss, glenoid to be resurfaced** — **bone grafting of the glenoid** (posterior)\
 ✗ Wrong options: infection work-up · cuff repair · acromioplasty
 
@@ -236,6 +274,13 @@ Glenohumeral arthritis
 | **Cemented** (Orthobullets: ↓ loosening) | Uncemented | One TO states **uncemented better** — read the options |
 
 **Central peg** — non-keeled designs: central peg usually **not cemented** → not a loosening risk factor
+
+| Glenoid implant (TO) | Key point |
+|---|---|
+| **All-poly pegged** | Cemented; **pegged in poor bone stock** |
+| All-poly keeled | Good bone stock |
+| **Metal-backed** | Porous, uncemented → **higher loosening**; less used |
+| Hybrid | Central metal peg + poly pegs |
 
 ### Capsule & intra-operative fractures
 
@@ -297,6 +342,8 @@ Glenohumeral arthritis
 **Overall complication rate** — **~15%** · order: glenoid loosening > instability > cuff tear > periprosthetic fracture > infection > modular dissociation > deltoid dysfunction (TO)
 
 **Most common complication / failure** — **glenoid loosening** (TO, OB) · Orthobullets: newer evidence → **cuff failure may be more common** than glenoid loosening — read the options
+
+**Rocking-horse effect (TO)** — alternating anterior–posterior lift-off from eccentric loading = **most common cause of glenoid loosening**
 
 | Most common (TO) | Hemiarthroplasty | **TSA** | Reverse TSA |
 |---|---|---|---|
@@ -642,3 +689,7 @@ Glenohumeral arthritis
 ✗ Wrong options: prior narcotics ↑
 
 **"Attending smells of alcohol before TSA?"** → **notify the department chairman**
+
+**"Most common cause of glenoid loosening?"** → **rocking-horse effect** (eccentric loading) (TO)
+
+**"Sourcil sign on shoulder X-ray?"** → **acromial sclerosis in cuff tear arthropathy** (TO)

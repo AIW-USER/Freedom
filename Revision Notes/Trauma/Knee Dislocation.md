@@ -40,6 +40,10 @@
 | **KD IV** | ACL + PCL + PMC + PLC — **highest vascular injury (5–15%)** |
 | **KD V** | Multiligament + **periarticular fracture** |
 
+**Schenck – TO frequencies (TO)** — **commonest = KD IIIM** · **peroneal palsy = KD IIIL** · Rocher modifiers **C = arterial**, **N = nerve** (e.g. **KD IIIMC**)
+
+**Kennedy (direction) (TO)** — not useful for treatment · **posterior → extensor mechanism injury** · **anterior → ACL rupture**
+
 **KD IV cruciate pattern (TO)** — **ACL midsubstance + PCL femoral avulsion** · ACL: midsubstance 45% > femoral 34% > tibial 21% · PCL: **femoral avulsion 76%** > midsubstance 17% > tibial 7%
 
 ![Buttonholing of the medial femoral condyle](../../Orthobullets/attachments/ob1043-buttonholing-of-femoral-condyle.jpg)
@@ -74,6 +78,8 @@
 | Pre- + post-reduction AP / lateral | **Asymmetric joint space**, **Segond (lateral tibial avulsion)**, osteochondral defects |
 | CT | Fractures on post-reduction films (eminence, tubercle, plateau) |
 | **MRI** | **After reduction, before hardware** — ligaments, menisci, planning |
+| **Arcuate sign (TO)** | **Fibular head avulsion** → **PLC / LCL** injury |
+| Stress views (TO) | Varus → LCL · valgus → MCL |
 
 ![Knee dislocation radiograph](../../Orthobullets/attachments/ob1043-knee-dislocation.jpg)
 
@@ -119,6 +125,14 @@ After reduction
 
 **Splint** — **20–30° flexion**
 
+**Reduction trick (TO)** — **exaggerate the deformity, then reverse** · posterolateral + dimple → **open reduction only**
+
+**Pre-patellar abrasion (TO)** — dashboard injury → **check hip**
+
+**Stener-like lesion (knee) (TO)** — **distal MCL avulsion** with **pes anserinus interposed** → will not heal → **surgical repair**
+
+**Immobilisation options (TO)** — ex-fix (instability, poor skin, open, vascular repair): **femoral pins anterolateral, tibial anteromedial**, clear of future tunnels · cast if stable · **transarticular Steinmann pin obsolete** (breakage, infection)
+
 **Absent pulses, peroneal palsy (wrestler)** — **closed reduction in ED + reassess**\
 ✗ Wrong options: acute reconstruction · MRI · arteriogram first
 
@@ -156,6 +170,10 @@ After reduction
 **Arthroscopic** — risky if large capsular tear (**fluid extravasation → compartment syndrome**); **PLC + PMC need open** reconstruction
 
 **Hinged ex-fix** — adjunct, ↓ re-rupture
+
+**Timing – TO (TO)** — ideal **10–21 days** once swelling settles · bony avulsion → screws / anchors · soft-tissue avulsion → anchors / spiked washer · midsubstance → reconstruct
+
+**Graft choice (TO)** — hamstrings, BPTB, quadriceps, peroneus longus · **avoid hamstrings if MCL injured**
 
 ### Combined ligament reconstruction — timing, sequence & graft fixation order
 
@@ -347,3 +365,7 @@ After reduction
 **"Unhappy triad EXCEPT (TO)?"** → **PCL**
 
 **"KD IV cruciate pattern (TO)?"** → **ACL midsubstance + PCL femoral avulsion**
+
+**"Commonest Schenck type?"** → **KD IIIM** (TO)
+
+**"Arcuate sign indicates?"** → **PLC / LCL injury** (TO)

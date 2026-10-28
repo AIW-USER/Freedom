@@ -94,6 +94,12 @@
 
 ![AP measurements — 1 tibiofibular overlap, 2 tibiofibular clear space, 3 medial clear space](../../MCQ/attachments/q217419-a-syndesmosis-ap.jpg)
 
+**Clear space (TO)** — **> 5 mm on mortise, 1 cm above joint** = syndesmosis open · loss of TF overlap on AP abnormal (TO)
+
+**MRI clue (TO)** — **posterior malleolar marrow oedema without fracture** → syndesmotic injury · read syndesmotic ligaments on **axial slices above the talus**; normal striated look ≠ tear (TO)
+
+**Adolescent equivalent (TO)** — **Tillaux (Chaput tubercle) avulsion** (TO)
+
 ![Lateral tibiofibular ratio — segment 4 (anterior tibia → anterior fibula) over 5 (anterior fibula → posterior tibia)](../../MCQ/attachments/q217419-b-x-ray-of-normal-ankle-lateral.jpg)
 
 **AP measurements** — limited sensitivity, poor reliability · **cannot reliably predict** injury (Krähenbühl)
@@ -125,6 +131,8 @@ Syndesmotic injury
 | **Sprain without diastasis or ankle instability** | **Sprain (no fracture) unstable on stress radiographs** |
 | — | **Sprain refractory to conservative treatment** |
 | — | **Fracture still unstable after fracture fixation** |
+| — | **PER injuries · suprasyndesmotic (Weber C) fractures** (TO) |
+| — | **Medial clear space widening > 2 mm after fibular fixation** (TO) |
 
 **Nonop** — delayed WB until pain-free · PT in **brace limiting ER** · recovery **notoriously prolonged + variable**, up to **2× standard sprain**
 
@@ -141,6 +149,10 @@ Syndesmotic injury
 
 **Goal** — restore **fibular length, rotation, position in incisura** · **outcome depends on reduction, not fixation type**
 
+**Sequence (TO)** — **fibula first** (length + rotation) → posterior malleolus → medial malleolus → **test syndesmosis (Cotton)** → fix if unstable
+
+**Cotton test (TO)** — **lateral pull on fibula** with bone hook → look for **medial clear space widening** · best intra-op assessment of syndesmosis (TO)
+
 **Persistent talar tilt after suture button** — **deltoid** incompetent\
 ✗ Wrong options: interosseous (addressed by button) · bifurcate · CFL · PTFL
 
@@ -151,6 +163,10 @@ Syndesmotic injury
 ### Fixation – screw vs suture button
 
 **Screw technique** — **two 3.5 or 4.5 mm** screws · **3 or 4 cortices** · **2–5 cm above plafond** (Orthobullets) · **2–3 cm, parallel to joint, angled 30° anterior** (TO) — read the options · NWB **6–12 wk**
+
+**Screw technique (TO, ankle fracture lecture)** — **3.5 mm** · **3–4 cm above talar dome** · **30° posterior → anterior**, parallel to joint · **3 cortices** · **routine removal at 3 months** · 3.5 or 4.5 mm cortical screw both used (TO)
+
+**Screw angle > foot position (TO)** — **angle matters more** than ankle position; **neutral or dorsiflexion acceptable** (TO)
 
 **No difference** — stainless steel vs **titanium** · **3 vs 4 cortices** (pullout) · **bioabsorbable** similar · two screws preferable
 
@@ -204,6 +220,8 @@ Syndesmotic injury
 
 ## How it's asked
 
+**"MRI clue to syndesmotic injury without fracture?"** → **posterior malleolar marrow oedema** (TO)
+
 **"CT arrow at Wagstaffe tubercle — structure + next step?"** → **anterior inferior tibiofibular ligament (AITFL); ORIF of the fibula with subsequent syndesmotic assessment**
 
 **"Foot planted, body turned, better with a tight wrap above ankle — injured?"** → **AITFL**
@@ -219,6 +237,10 @@ Syndesmotic injury
 **"Most reliable X-ray measure of syndesmotic reduction?"** → **lateral tibiofibular ratio (measurements 4/5)**
 
 **"Persistent talar tilt after suture button?"** → **deltoid**
+
+**"Syndesmotic screw direction?"** → **30° posterior → anterior, parallel to joint** (TO)
+
+**"Indication for syndesmotic fixation after fibula ORIF?"** → **medial clear space widening > 2 mm** (TO)
 
 **"True of syndesmotic screws?"** → **higher rate of malreduction with screw fixation versus flexible fixation**
 

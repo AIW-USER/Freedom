@@ -51,6 +51,8 @@
 
 **Newer view** — loss of total arc + **failure to gain ER** may matter more than IR loss alone
 
+**GIRD thresholds (TO thrower lecture)** — GIRD = IR loss **≥20°** vs contralateral · **physiologic** = total rotational motion (TRM) equal · **pathologic** = **TRM loss >5°**
+
 ## 2 Mechanism
 
 **Cause** — **repetitive throwing**; during **late cocking + early acceleration**
@@ -183,6 +185,8 @@ GIRD in thrower
 
 **Coracoid pain + GIRD** — **pec minor stretching + sleeper stretches**\
 ✗ Wrong options: weighted ball program · subacromial steroid · arthroscopy
+
+**Stretching protocol (TO)** — posteroinferior capsule only (not global): **sleeper** (90°, scapula stabilised) · **cross-body adduction** · **doorway** (90° abduction, lean forward) · **roll-over** (50–60° flexion) · **5 reps × 30 s daily × 6 wk**
 
 **Outcomes** — **~90%** respond (young throwers) · ~10% older throwers fail → arthroscopic release
 

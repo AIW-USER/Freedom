@@ -87,6 +87,8 @@ Pediatric clavicle shaft fracture
 
 **Operative** — **hardware prominence (up to 59%)** → plate removal · **anterior chest wall numbness** (supraclavicular nerves) · refracture · infection/dehiscence ~5%
 
+**TO points** — 10–15% of paediatric fractures · **90% midshaft** · simple sling · **figure-of-8 no advantage** · posteriorly displaced **proximal (medial)** fracture → tracheo-oesophageal compression
+
 ## How it's asked
 
 **"10-yr, 100% displaced, 12 mm short, skin intact — true?"** → **nonoperative because of age**\

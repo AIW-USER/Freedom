@@ -12,6 +12,8 @@
 
 **Risk factors** — osteoporosis, age, comorbidities, ADL dependency, recurrent falls (dementia, Parkinson's, vision, drugs)
 
+**Cumming's four factors (TO)** — faller **orientation** at impact · **soft-tissue padding** over hip · adequacy of **protective responses** · **residual bone strength**
+
 ### Osteoporosis — sentinel fractures & bisphosphonates
 
 **Sentinel fracture** — **proximal humerus fracture → ↑ hip fracture risk (for 1 yr)**\
@@ -24,6 +26,8 @@
 **Neck-shaft** — **130 ± 7°** · anteversion **10 ± 7°**
 
 **Calcar femorale** — dense vertical wall from **posteromedial shaft → posterior neck**; its involvement decides stability
+
+**Calcar = Adams arch (TO)** · capsule: anterior at **intertrochanteric line**, posterior ends **\~1.5 inch proximal to crest** → IT fracture **extracapsular**
 
 **Femoral radius of curvature** — **114–120 cm**; **smaller (more bowed)** in **elderly, Asian, short stature**
 
@@ -81,6 +85,19 @@
 | Unstable | Greater posteromedial comminution — **convertible to stable with medial cortical opposition** |
 | **Reverse obliquity** | Unstable — **adductors medialise shaft** |
 
+| Boyd & Griffin (TO) | Pattern |
+|---|---|
+| **I** | Stable two-part |
+| **II** | Unstable, comminuted |
+| **III** | **Reverse oblique** |
+| **IV** | IT + **subtrochanteric extension** |
+
+**Jensen modification of Evans (TO)** — type 3 **GT** fragment · type 4 **LT** fragment · type 5 **both** · **type R = reverse oblique**
+
+**AO 2018 revision (TO)** — **31A1 = simple, lateral wall > 20.5 mm** · **31A2 = multifragmentary, lateral wall < 20.5 mm** · **31A3 = reverse oblique**
+
+**CT (TO)** — lateral wall thickness, posteromedial comminution, reverse obliquity, subtroch extension
+
 ![Reverse obliquity intertrochanteric fracture](../../Orthobullets/attachments/ob1038-ap-x-ray-demonstrating-a-reverse-oblique-fracture-pattern.jpg)
 
 ### Reduction quality — cortical support
@@ -136,11 +153,42 @@ Intertrochanteric fracture
 
 **SHS contraindicated** — reverse oblique, **lateral wall comminution / < 20.5 mm**, **subtrochanteric fractures**
 
+| Richard (DHS) screw (TO) | Value |
+|---|---|
+| Thread / core diameter | **14 mm / 8 mm** |
+| Thread length | 22 mm |
+| Barrel | **25 mm (short)** / **38 mm (long)** |
+| **Barrel rule** | Lag screw **> 85 mm → long barrel** · < 85 mm → short barrel |
+
+**DHS + thin lateral wall (TO)** — add **trochanteric stabilisation plate (TSP)** + short barrel + 5-hole side plate · lag screw **centre-centre**
+
+| Pattern (TO) | Preferred implant |
+|---|---|
+| Stable, good lateral wall | **DHS** |
+| Lateral wall incompetent | **PFN** or **DHS + TSP** |
+| **Reverse oblique** | **PFN** (blade plate acceptable) |
+| Posteromedial comminution | PFN or valgus osteotomy |
+| Subtroch extension | **Long PFN + cerclage** |
+| Young, narrow canal | Proximal femoral locking plate |
+| Elderly + arthritis | Arthroplasty (fix GT) |
+
+**Medoff plate (TO)** — **biaxial dynamisation**; A3 fractures
+
+**Cement-augmented PFN (TO)** — fenestrated screws, severe osteoporosis
+
+**Implant history (TO)** — Jewett nail → sliding nail → DHS → condylocephalic (Ender) → Gamma → **PFN (current gold standard)**
+
+**Isolated GT / LT fracture (TO)** — usually nonop · **isolated LT avulsion in adult → suspect tumour** → fix / work-up
+
 ### Tip-apex distance & cut-out
 
 **TAD** — **sum of tip → apex distances on AP + lateral**, corrected for magnification
 
 **Goal** — **TAD < 25 mm** · **> 45 mm → 60% failure** · 27 / 32 / 40 mm → ↑ **cut-out**
+
+**Parker ratio (TO)** — lag-screw position along head: AP **0 inferior → 100 superior** · lateral **0 posterior → 100 anterior**
+
+**Garden alignment index – IT (TO)** — AP **160–180°** · lateral **180°**
 
 **Strongest predictor of cut-out** — **TAD**\
 ✗ Wrong options: age · stability · reduction · plate angle
@@ -205,6 +253,8 @@ Intertrochanteric fracture
 **Z effect (TO)** — **lag screw migrates laterally**, varus collapse, **derotation screw perforates head**
 
 **Reverse Z effect (TO)** — **derotation screw migrates laterally + lag screw migrates medially** (TO case answer)
+
+**Z effect predisposition (TO)** — **two-screw PFN** + **posteromedial comminution**
 
 **Cause** — unstable calcar, **deficient lateral buttress**, no medial support; head vs neck compressive-strength mismatch
 
@@ -326,6 +376,10 @@ Intertrochanteric fracture
 **"Nail radius > femur?"** → **anterior cortical perforation**
 
 **"PFN failure — screws migrating opposite (TO)?"** → **reverse Z effect**
+
+**"Lateral wall thickness defining unstable IT fracture?"** → **< 20.5 mm** (TO)
+
+**"DHS lag screw 90 mm — barrel?"** → **long (38 mm)** (TO)
 
 **"Failed SHS, 82-yr?"** → **THA**
 

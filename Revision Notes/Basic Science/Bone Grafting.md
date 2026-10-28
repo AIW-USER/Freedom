@@ -42,6 +42,10 @@
 
 **Giannoudis Diamond (4 pillars)** — **osteoconductive scaffold** · **osteoinductive mediators** · **osteogenic cells** · **mechanical stability** **(TO)**
 
+**Diamond vs Pentagon (second TO note)** — Diamond = **3 components** (osteogenic cells · osteoconductive scaffold · osteoinductive signals) · **Pentagon** adds **mechanical stability + vascularity / host** (TO) — read the options: earlier TO note puts stability inside the Diamond
+
+**Polytherapy** — all Diamond pillars applied **simultaneously** (biologics + graft + stable fixation) (TO)
+
 **HA/β-TCP + rhBMP-2 + LR-PRP + locking plate** — deficient in ✓ **osteogenesis** (no viable MSCs) → add **autograft or BMAC** **(TO)**
 
 **rhBMP-2** — serine/threonine kinase receptors → **SMAD** → MSC → osteoblast **(TO)**
@@ -74,6 +78,10 @@
 |---|---|
 | **Cancellous** | Little structure · ↑ osteoconduction · **rapid incorporation by creeping substitution** |
 | **Cortical** | Slow (remodel existing Haversian canals) · structural · interstitial lamellae preserved |
+
+**Cortical graft weakness** — **weak during resorption phase → fatigue fracture** risk (TO)
+
+**Graft source types (TO)** — autograft (same individual, **all 3 properties**) · allograft (human donor, no donor-site morbidity, infection risk) · **xenograft** (animal, rarely used)
 | **Vascularised** | Faster union, cells preserved · **free fibula (peroneal a.)**, free iliac crest (deep circumflex iliac a.), **distal radius 1,2-ICSRA** for scaphoid |
 
 ### Structural allograft biology & outcomes
@@ -167,6 +175,12 @@
 
 **Vascularised autograft sources** — **fibula, ribs**
 
+**Gold-standard site (TO)** — **anterior iliac crest** · others: posterior crest, femoral / tibial condyle, **olecranon, distal radius**
+
+**No substitute equals autograft** in combined efficacy (TO)
+
+**Polymers (PLA, PGA)** — **osteoconductive**, resorbable synthetic scaffold · ceramics can be **antibiotic-loaded beads** (TO)
+
 ### Reamer–irrigator–aspirator (RIA)
 
 | RIA vs ICBG | |
@@ -182,6 +196,8 @@
 | Specific risks | **Femoral shaft fracture** (eccentric reaming) · insertion-site (abductor) pain |
 
 **RIA false statement (TO)** — false: "**heat injury from reaming abolishes osteoinductive properties**" · RIA is a viable alternative to cancellous autograft, product of long-bone nailing, osteogenic **(TO)**
+
+**RIA (TO, gap-nonunion notes)** — graft contains MSCs + **FGF, IGF, TGF** · **↓ intramedullary pressure → less fat embolism** · risks: **fat embolism, femoral fracture, thermal necrosis**
 
 ![RIA harvesting from the femoral canal](../../Orthobullets/attachments/ob9011-ria-ap-view.jpg)
 

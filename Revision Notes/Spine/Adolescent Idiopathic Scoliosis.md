@@ -12,6 +12,16 @@
 
 **Sex ratio** — **1:1** small curves · **10:1 female** for curves > 30°
 
+| Type (TO) | Age | M : F |
+|---|---|---|
+| Infantile | 0–3 yrs | **1:1 to 2:1** — **only type commoner in boys** |
+| Juvenile | 4–9 yrs | **1:3 (< 6 yrs) · 1:6 (> 6 yrs)** |
+| **Adolescent (commonest)** | 10–20 yrs | **1:6** (↑ female share with larger curves) |
+
+**Definition (SRS, TO)** — lateral curve **> 10° Cobb** on a **standing** film · idiopathic = no neurological or structural cause · **normally painless**
+
+**Growth spurt (TO)** — girls **10–14**, boys **12–16** · fastest progression \~1 yr either side of puberty
+
 **Commonest pattern** — **right thoracic** curve + **thoracic hypokyphosis** (T5–T12 ≈ 8°; normal 20–50°)\
 ✗ Wrong options: right thoracic + hyperkyphosis · left thoracic
 
@@ -91,6 +101,27 @@
 **Back pain** — 25–30% of all adolescents; mild, intermittent, non-limiting + typical right curve → **stretching + lighter backpack** · atypical pain → MRI / bone scan\
 ✗ Wrong options: MRI · bone scan · TLSO for 20° · pain clinic
 
+**Painful scoliosis (TO)** — **osteoid osteoma** (CT) · lytic spondylolisthesis · infection, disc · degenerative (adult) · **costo-iliac impingement** · pain, weakness, tenderness, bladder/bowel = **red flags**
+
+| Morphometry (TO) | Key point |
+|---|---|
+| Standing height | Supine < 5 yrs · **60% of adult height at 5, 86% at puberty** · **> 0.5 cm/month = entering growth spurt** · operate once \~90% reached |
+| **Sitting height** | Best reflects spinal growth · puberty onset **\~75 cm girls, 78 cm boys** |
+| **Arm span** | Standing height = **97% of arm span** · ↑ in Marfan · estimates height in wheelchair users |
+| Weight | Doubles 10–17 yrs · **> 10% overweight → brace may fail** · underweight → delayed menarche · Prader-Willi obesity masks curve |
+
+**Shoulder level (TO)** — shoulder on **convex side of major curve is higher** · **opposite shoulder higher → structural proximal thoracic curve** (affects UIV)
+
+**Systemic (TO)** — **congenital heart disease 7%** of congenital scoliosis · **GU anomalies 6–12%** · thoracic curve **> 100° → VC < 70%** · **> 120° → respiratory failure / cor pulmonale** · O2 cost of breathing 3–5× · breath-hold 20–30 s acceptable · severe neglected curve → **halo-gravity traction \~6 wks** pre-op
+
+**Syndromic clues (TO)** — dysraphism markers → MRI, **release tether before correction** · **NF1: dystrophic, rapid, high pseudarthrosis → intervene early** · **Marfan/EDS: intervene \~40°** · **HGPPS** (horizontal gaze palsy + progressive scoliosis) = **ROBO3** mutation
+
+**Neuro clues (TO)** — **asymmetric calf wasting = tethered cord** · calf pseudohypertrophy = DMD · hypotonia (polio, SMA, myelomeningocele) vs hypertonia (CP, Friedreich, CMT) · **asymmetric abdominal reflex (T7–T12)** → syrinx/Chiari, diastematomyelia, tether, tumour
+
+**Pelvic obliquity (TO)** — corrects with leg-length equalisation = LLD · corrects with manoeuvre = pelvifemoral contracture · **fixed → extend fusion to pelvis**
+
+**Prenatal (TO)** — single hemivertebra → continue pregnancy · multiple hemivertebrae + thoracic anomalies → poor prognosis
+
 ### Atypical features requiring MRI
 
 | Exam finding (non-idiopathic) | Suggests |
@@ -114,6 +145,33 @@
 ✗ Wrong options: standing AP · supine · segment only
 
 **Cobb angle** — lines along the **most tilted** end vertebrae · **> 10° = scoliosis** · error **3–5°**
+
+| View (TO) | Use |
+|---|---|
+| **Standing** whole-spine AP + lateral | True magnitude under gravity — **30° standing ≈ 24–25° supine** |
+| Supine side-bending | Flexibility: **structural ≥ 25°** on bending, non-structural < 25° → **only structural curves fused** |
+| **Traction view** | Curves **≥ \~100°** where **costo-iliac impingement** blocks bending |
+| **Fulcrum bending** | Over a bolster — kyphosis (Scheuermann) flexibility |
+| **Stagnara view** | Severe rotation: **rotate the beam, not the patient** |
+
+| Cobb (TO) | Interpretation |
+|---|---|
+| < 10° | Not scoliosis |
+| 10–25° | Mild → observe |
+| 25–45° | Moderate → brace |
+| > 45° | Severe → surgery |
+
+**Primary vs secondary curve (TO)** — primary: first, largest, stiffest · secondary (compensatory): above/below, smaller, flexible
+
+**Rotation (TO)** — graded by pedicle position (neutral, + to ++++) · convex pedicle moves to centre, concave disappears · **maximum at apex** · max tilt at **end vertebra**
+
+**Balance (TO)** — **coronal imbalance: C7 plumb line > 2 cm from CSVL** · CSVL perpendicular to iliac-crest line through mid-sacrum · **sagittal: C7 plumb > 2 cm from posterosuperior S1** (positive = anterior)
+
+**Growth markers (TO)** — triradiate cartilage, **greater trochanter apophysis fusion**, Risser · **Risser 0–2 + Cobb > 25° = high risk** · large curves (e.g. 60° TL) may progress after maturity
+
+**MRI indications (TO)** — every deformity surgery · deficit · absent abdominal reflexes · neurocutaneous markers · rapid progression · severe pain · foot deformity · **age < 10** · **left thoracic / short-segment curve** · wide canal / thin pedicles · findings: **tethered cord (conus below L2)**, diastematomyelia, Chiari + syrinx, NF dumbbell tumours
+
+**CT (TO)** — congenital anomalies, **pedicle size** before screws, **diastematomyelia bony spur** · NF1 dystrophic: **pencilled pedicles, rib penciling**, neural ectasia
 
 | Radiographic term | Definition |
 |---|---|
@@ -162,6 +220,8 @@
 | **4** | Triple major | All three structural |
 | **5** | TL/L | TL/L only (major) |
 | **6** | TL/L–MT | TL/L major (≥ 5° > MT) + MT structural |
+
+**Lenke 3 vs 6 (TO)** — both structural MT + TL/L · **type 3: MT primary** · **type 6: TL/L primary** · Lenke is for **AIS only** (not neuromuscular / congenital)
 
 | Lumbar modifier | CSVL at lumbar apex |
 |---|---|
@@ -243,6 +303,8 @@ AIS by Cobb angle + maturity
 | **Lenke** | All major curves + minor curves that are **stiff or kyphotic** |
 | **Touched vertebra** | Fuse **to or caudad to TV** → best correction; cephalad to TV → **truncal shift**, poor long-term outcome |
 
+**UIV by shoulder level (TO)** — **right shoulder high → T4** · level → **T3** · **left shoulder high → T2** · or upper end vertebra + 1 · **LIV = stable vertebra** (bisected by CSVL)
+
 ![Touched vertebra: last cephalad vertebra touched by CSVL](../../Orthobullets/attachments/ob2053-determination-of-tv.jpg)
 
 **Avoid L4 / L5** — Cochran: ↑ **low back pain** with fusion to **L5** (less with L4) · pelvis almost **never** needed in AIS
@@ -259,6 +321,20 @@ AIS by Cobb angle + maturity
 ✗ Wrong options: JIS → needs anterior too · IIS → Mehta cast · hemivertebra + bar → bar excision · 27° → brace
 
 **Vertebral body stapling** — small thoracic curves **< 35°**, immature
+
+| Generation (TO) | System | Note |
+|---|---|---|
+| 1st | **Harrington** | Distraction → **flat back** (loss of lordosis) |
+| 2nd | **Luque / Hartshill rectangle** | Sublaminar wires, limited derotation |
+| 3rd | **Pedicle screws** | 3D correction (rotation + translation) — **gold standard** |
+
+**Correction (TO)** — **Ponte osteotomy** (facetectomy release) · **cantilever** (rod fixed proximally, levered distally) · **rod rotation / derotation** (coronal → sagittal) · anterior release for rigid TL curves
+
+**Bracing details (TO)** — **minimum 12 h/day** (prescribe 16–23) · stop at **Risser 4–5 or 2 yrs post-menarche**, wean over **6 (–9) months** · contraindicated: mature, > 45° or < 25°, **obesity, thoracic lordosis**, rigid · observation X-ray every 6 months (Risser 0–2), yearly at Risser 4–5 · watch **≥ 5° in 6 months**
+
+**Surgical indications (TO)** — > 45° progressive · failed brace · curve-related pain · cosmesis · pulmonary compromise · **> 25° immature + progression** · post-op: mobilise **within 48 h**, X-rays 3/6/12 months
+
+**Natural history (TO)** — AIS = **80% of all scoliosis** (\~90% of idiopathic) · F:M **6:1** · curves **> 90°** → cardiopulmonary dysfunction · untreated → degeneration a decade earlier (40s)
 
 ### Surgical technique
 
@@ -397,3 +473,11 @@ Neuromonitoring signal drop
 **"Bilious vomiting day 5 after PSF in a thin girl?"** → **SMA syndrome → NG tube + IV fluids**
 
 **"Late pain, clean wound, months after PSF?"** → **P. acnes infection** (hold cultures 2 weeks)
+
+**"Only idiopathic scoliosis type commoner in boys?"** → **infantile** (TO)
+
+**"Opposite shoulder higher than convex side?"** → **structural proximal thoracic curve** (TO)
+
+**"Stagnara view?"** → **X-ray beam rotated to the plane of a severely rotated curve** (TO)
+
+**"Structural curve on side-bending?"** → **Cobb ≥ 25°** (TO)

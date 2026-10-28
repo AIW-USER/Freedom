@@ -138,6 +138,7 @@ UBC with pathologic fracture
 | Option | Indication |
 |---|---|
 | **Observation** | Small, asymptomatic, upper limb · X-ray at 6 mo · **42%** success |
+| **Aspiration + scraping ("Q-Ropsy") ± BMA / steroid** | Symptomatic cyst (TO) |
 | **Aspiration + methylprednisolone acetate** | **Active** cysts, proximal humerus · several injections (young children) |
 | **Bone marrow / DBM injection** | Effective, alone or combined |
 | **Curettage + bone graft (± fixation)** | Symptomatic latent cyst failing injections · displaced humeral fractures · proximal femur · **recurrent / non-responding** |

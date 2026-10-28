@@ -74,4 +74,45 @@ describe("QuestionClock", () => {
 		time.advance(5_000);
 		expect(clock.text()).toBe("00:05/00:05");
 	});
+
+	it("freezes while paused and carries on from there", () => {
+		const time = fakeTime();
+		const clock = new QuestionClock(time.now);
+		clock.start();
+		time.advance(10_000);
+		clock.pause();
+		expect(clock.isPaused()).toBe(true);
+		time.advance(60_000);
+		expect(clock.text()).toBe("00:10/00:10");
+		clock.resume();
+		time.advance(5_000);
+		expect(clock.text()).toBe("00:15/00:15");
+	});
+
+	it("keeps a stopped answer half through a pause", () => {
+		const time = fakeTime();
+		const clock = new QuestionClock(time.now);
+		clock.start();
+		time.advance(8_000);
+		clock.pause();
+		time.advance(100_000);
+		clock.resume();
+		time.advance(2_000);
+		clock.markAnswered();
+		clock.pause();
+		time.advance(100_000);
+		clock.resume();
+		time.advance(5_000);
+		expect(clock.text()).toBe("00:10/00:15");
+	});
+
+	it("starts the next question unpaused", () => {
+		const time = fakeTime();
+		const clock = new QuestionClock(time.now);
+		clock.pause();
+		clock.start();
+		expect(clock.isPaused()).toBe(false);
+		time.advance(3_000);
+		expect(clock.totalMs()).toBe(3_000);
+	});
 });

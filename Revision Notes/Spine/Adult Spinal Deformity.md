@@ -24,6 +24,36 @@
 | Location | **Thoracic** | **Lumbar** |
 | Magnitude | Larger | Smaller |
 
+| Aebi (TO) | Type | Feature |
+|---|---|---|
+| **I** | **Primary degenerative (de novo)** | Late-life uneven disc/facet wear, lumbar/TL · back pain + stenosis |
+| **II** | **Progressive idiopathic** | Untreated AIS progressing in adulthood |
+| **III** | **Secondary** | Pelvic tilt / LLD, osteoporotic fractures, metabolic bone disease, asymmetric joint disease |
+
+| Feature (TO) | Adult idiopathic | Adult degenerative |
+|---|---|---|
+| Age | 30s–40s | **50s–70s** |
+| Cobb | 60–90° | **30–50°** |
+| Compensatory thoracic curve | Common | **Rare** |
+| Rotation | Entire curve | **Apex only** |
+| **Lateral subluxation** | Uncommon | **Common** |
+| **Stenosis** | **\~30%** | **\~90%** |
+| Imbalance | Rare | Common |
+
+**Adult scoliosis definition (TO)** — Cobb **> 10°** in a mature spine · de novo = curve in a previously straight spine · **sagittal imbalance, not the coronal curve, drives pain**
+
+| SRS-Schwab (TO) | Definition |
+|---|---|
+| **T** | Thoracic only (lumbar < 30°) |
+| **L** | TL/lumbar only (thoracic < 30°) |
+| **D** | Double (both > 30°) |
+| **N** | No coronal curve > 30° — sagittal only |
+| Modifier **PI − LL** | **0: < 10° · +: 10–20° · ++: > 20°** |
+| Modifier **SVA** | **0: < 4 cm · +: 4–9.5 cm · ++: > 9.5 cm** |
+| Modifier **PT** | **0: < 20° · +: 20–30° · ++: > 30°** |
+
+**Old Schwab (TO)** — lordosis **> 55°** + L3 obliquity < 15° = good · 35–55° / 15–25° intermediate · **< 35° / > 25° poor** · lumbar curves + primary sagittal deformity most disabling · subluxation modifier 0 / 1–6 / > 6 mm
+
 ### Natural history & progression
 
 **Progression by curve** — thoracic > lumbar > thoracolumbar > double major · right thoracic **1°/yr** · right lumbar **0.5°/yr** · TL **0.25°/yr**
@@ -31,6 +61,10 @@
 **By magnitude** — **< 30° rarely progress** · **> 50° commonly progress**
 
 **Other risks** — **intercrestal line below L4-5** · pre-existing rotation
+
+**Progression risks (TO)** — curve **> 30°** · asymmetric wedged discs at apex · **lateral subluxation > 6 mm** · **L5 above the intercrestal line** (not deep-seated)
+
+**Pain side (TO)** — back pain (60–80%) on the **convex** side · radicular pain usually **concave** side (foraminal stenosis, pedicle kinking) · convex = root stretch
 
 **Symptoms progress to** — side of curve **convexity**
 
@@ -90,6 +124,16 @@
 
 **Non-op** — coronal curves **< 30°** rarely progress · NSAIDs · **TCAs for sleep** · PT core strengthening · injections / root blocks (diagnostic + therapeutic) · bracing (comfort)
 
+**TO non-op** — osteoporosis treatment (bisphosphonate, **teriparatide**) helps symptoms · LS belt · **flexion exercises** open foramina · facet block / SNRB / epidural
+
+**Surgical indications (TO)** — failed conservative care · progressive leg pain / deficit · imbalance fatigue · progression **> 3°/yr** · pulmonary compromise · **positive sagittal balance > 4 cm**
+
+| Operation (TO) | When |
+|---|---|
+| **Decompression alone** | Claudication / radicular pain, no instability, listhesis or imbalance |
+| **Decompression + short fusion** | Back + leg pain with 1–2-level instability/listhesis, **no sagittal imbalance** (ignore mild curve) |
+| **Long fixation ± osteotomy** | Sagittal imbalance · multilevel TLIF or **PSO** · **osteotomy if PI − LL > 20°** |
+
 ### Operative criteria
 
 | Indication for instrumented fusion |
@@ -136,6 +180,27 @@ ASD surgical approach
 | **Vertebral column resection (VCR)** | **Up to / > 45°** (avg 62° coronal, 45° sagittal) | **Rigid sharp angular** kyphosis (tumour, fracture, infection), rigid scoliosis, congenital kyphosis, hemivertebra |
 | TLIF | \~8° | — |
 | TLIF + ALL release + hyperlordotic cage | 10–15° (22° with PCOs) | — |
+
+| Osteotomy (TO) | Correction | Note |
+|---|---|---|
+| **SPO / Ponte** | **\~10° per level** (\~1° per mm) | Posterior column; **needs mobile disc** · Scheuermann |
+| **PSO** | **30–40°** | 3-column wedge, **hinge = anterior cortex** · fused spine OK (AS) · **L3/L4** · blood loss up to 2 L · fix **≥ 3 above + 3 below** · infection 4–7% |
+| **BDBO** | **35–60°** | Through disc + both endplates at **CORA** · not if disc calcified (AS) · vascular risk |
+| **VCR / PVCR** | **\~60° coronal / 70° sagittal** | No hinge · **temporary rod** prevents translation · resect from convex side, posterior wall last · blood loss up to 5 L |
+
+**Blood loss order (TO)** — **SPO < PSO < BDBO < VCR**
+
+| Kyphosis type (Raj Singh) (TO) | Column status | Example | Osteotomy |
+|---|---|---|---|
+| **I-A** | Both intact, **mobile disc** | Scheuermann | **SPO / Ponte** |
+| **I-B** | Both intact, **fused disc** | AS | **PSO** |
+| **II-A** | Anterior deficient | Infection, hemivertebra | BDBO / PSO |
+| **II-B** | Posterior deficient | Post-laminectomy | PSO |
+| **III-A** | Both deficient **< 60°** | Post-traumatic | BDBO |
+| **III-B** | Both deficient **> 60°** | Severe kyphosis | **VCR** |
+| III-C | Buckling collapse | Post-infective | VCR / fusion |
+
+**PSO correction** — 30–35° lumbar (Orthobullets) · **30–40°** (TO) — read the options
 
 ![Osteotomy types for sagittal correction](../../Orthobullets/attachments/ob2041-osteotomies.jpg)
 
@@ -192,6 +257,9 @@ ASD surgical approach
 | Dural tear | 2.9% |
 | Infection | Deep 1.5%, superficial 0.9%; **smoking** strongest SSI factor (✗ Wrong options: drains · drain output · prolonged abx) |
 | Neuro deficit | Acute \~1%, delayed 0.5% · **after PSO 18%** (Orthobullets) · 11%, 2.8% permanent (OB) · \~20% |
+| **Pseudarthrosis (TO)** | **Up to 24%**, highest at **L5–S1** · osteoporosis, age > 55, SVA > 5 cm, long fusion |
+| Junctional breakdown (TO) | Ending at TL junction → needs **"soft landing"** at top |
+| Perioperative morbidity (TO) | **20–40%** |
 | PSO pseudarthrosis | **29% at 5 yrs**, at TL junction above osteotomy |
 | Epidural haematoma / PE / DVT | \~0.2% each · death 0.3% |
 
@@ -316,3 +384,7 @@ ASD surgical approach
 **"Thoracotomy effect on adult PFTs?"** → **↓ and often stays ↓**
 
 **"Posterior scoliosis system?"** → **Cotrel-Dubousset** (TO)
+
+**"Osteotomy for kyphosis with both columns intact and fused discs (AS)?"** → **PSO** (TO)
+
+**"SRS-Schwab sagittal modifiers?"** → **PI − LL, SVA, PT** (TO)

@@ -193,11 +193,6 @@
 	flex: 0 0 auto;
 }
 
-.mcq-summary-complete {
-	color: var(--text-success);
-	font-weight: var(--font-semibold);
-}
-
 /* -------------------------------------------------------------------- list */
 
 /* A basis of 0 makes the list take only the space the quiz leaves, rather
@@ -462,6 +457,57 @@
 .mcq-btn:disabled {
 	opacity: 0.4;
 	cursor: default;
+}
+
+/* Modules mode: Skip · Hard · Good · Easy, Anki's four answers, each with
+ * the wait it would schedule underneath. The clock wraps below them. */
+.mcq-ratings {
+	flex-wrap: wrap;
+}
+
+.mcq-rate {
+	flex: 1 1 0;
+	min-width: 0;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1px;
+	padding: var(--size-2-2) var(--size-2-1);
+	border-top: 2px solid var(--mcq-rate-color, transparent);
+}
+
+.mcq-rate.is-r0 { --mcq-rate-color: var(--color-red); }
+.mcq-rate.is-r1 { --mcq-rate-color: var(--color-orange); }
+.mcq-rate.is-r2 { --mcq-rate-color: var(--color-green); }
+.mcq-rate.is-r3 { --mcq-rate-color: var(--color-blue); }
+
+.mcq-rate-label {
+	font-weight: var(--font-semibold);
+	color: var(--mcq-rate-color);
+}
+
+.mcq-rate-wait {
+	font-size: var(--font-ui-smallest);
+	font-variant-numeric: tabular-nums;
+	color: var(--text-muted);
+}
+
+.mcq-rate-foot {
+	flex-basis: 100%;
+	display: flex;
+	align-items: center;
+}
+
+/* Stop matches the clock: same size and type, as little chrome as possible. */
+.mcq-stop {
+	height: auto;
+	padding: 0 var(--size-2-2);
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	font-variant-numeric: tabular-nums;
+	line-height: var(--line-height-tight);
+	color: var(--text-muted);
 }
 
 /* answer/total, pushed to the right end of the Previous/Next bar. Tabular
@@ -739,4 +785,19 @@
 	font-size: var(--font-ui-smaller);
 	color: var(--text-faint);
 	font-style: italic;
+}
+
+/* Stop: the module question is paused. The options stay visible but dimmed,
+ * so you come back to the same view. */
+.mcq-quiz.is-paused .mcq-options,
+.mcq-quiz.is-paused .mcq-feedback {
+	opacity: 0.4;
+	pointer-events: none;
+}
+
+.mcq-paused {
+	margin-top: var(--size-4-2);
+	font-size: var(--font-ui-small);
+	font-weight: var(--font-semibold);
+	color: var(--text-accent);
 }

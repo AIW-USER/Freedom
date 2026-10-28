@@ -18,6 +18,14 @@
 
 **Bilateral** — **12%** (Orthobullets) · 11% (OB) · **asymmetric + asynchronous** · symmetric, same stage → think **MED**
 
+**TO epidemiology** — age **4–12 yr** (lecture A) / **5–10 yr** in India (lecture B) · **M:F 4–5:1** · bilateral **10–15%** · \~**3%** of paediatric hip disorders · higher incidence in **south-western belt of India**
+
+**Exclusion rule (TO)** — if a cause is found (sickle cell, coagulopathy, hypothyroidism, dysplasia) it is **not Perthes** · extremes of age or **symmetric bilateral** → look for secondary cause
+
+**Associations (TO)** — likely: trauma in susceptible child · **passive smoking (strongest correlation)** · hyperactivity · coagulopathy · heredity · unlikely: endocrinopathy, urban environment, synovitis
+
+**Predisposed child (TO)** — **bone age lags 2–4 yr** · skeletal standstill during active disease · worse delay in bilateral · carpal bones delayed: unilateral **lunate, triquetrum** · bilateral **trapezoid**
+
 **Risk factors** — family history · **low birth weight** · abnormal birth presentation · **second-hand smoke** · Asian, Inuit, Central European
 
 ### Pathophysiology
@@ -57,6 +65,10 @@
 
 **Other** — small, sclerotic ossific nucleus · **crescent sign** = subchondral fracture · X-ray may stay normal **3–6 months**
 
+**Imaging (TO)** — X-ray sensitivity \~**97%**, may lag symptoms **up to 8 months** · **MRI = gold standard for early diagnosis** (extent of necrosis, cartilage) · **contrast-enhanced MRI** when unclear (vs TB hip) · bone scan: early, sensitive + specific
+
+**Signs (TO)** — **sagging rope sign** = coxa magna + neck shortening · **dimple sign** — normal opposite hip, not pathological · **V sign** — medial epiphyseal defect from pressure overload
+
 **Bone scan** — **cold** (↓ uptake) before X-ray changes · extent of involvement
 
 **MRI** — early / occult disease · **more sensitive** than X-ray
@@ -71,6 +83,16 @@
 | **Fragmentation** | **Crescent sign**, head fragments/dissolves | **Most symptomatic** · **lateral pillar graded here** · 6 months–2 yr |
 | **Reossification** | New bone replaces necrotic bone | Up to 18 months |
 | **Healing / remodeling** | Head remodels to maturity | Trabeculae return |
+
+| Elizabethtown sub-stage (TO) | Feature |
+|---|---|
+| **1a** | Sclerosis, **no loss of height** |
+| **1b** | Sclerosis **with loss of height** |
+| **2a** | Early fragmentation |
+| **2b** | Advanced fragmentation, **no new lateral bone** |
+| **3a** | Early new bone, porotic, **< ⅓ width** |
+| **3b** | Mature new bone, **> ⅓ width** |
+| **4** | Healed, remodelled |
 
 ### Lateral pillar classification timing
 
@@ -102,6 +124,16 @@
 **Salter-Thompson** — crescent sign **<½** head (A) vs **>½** (B)
 
 **Stulberg** — **gold standard for residual head shape + congruence** at maturity · poor inter/intra-observer reliability
+
+| Stulberg (TO) | Head | Outcome |
+|---|---|---|
+| **I** | Spherical, congruent (normal) | Excellent |
+| **II** | Spherical, minor deformity (coxa magna, short neck, steep acetabulum) | Good |
+| **III** | **Aspherical, congruent** | Fair |
+| **IV** | **Aspherical, incongruent** (flat) | Poor |
+| **V** | **Flat head, incongruent** (normal acetabulum) | Very poor |
+
+**Catterall % (TO)** — I 25% · II 50% · III 75% · IV 100% · head-at-risk signs = need for **containment**, not mandatory surgery (TO)
 
 ### Differential - bilateral disease workup
 
@@ -136,6 +168,21 @@ Perthes disease
 
 **Bracing / casting for containment** — **no benefit** in large prospective study
 
+| Containment (TO) | |
+|---|---|
+| **Contain** | Stage **1a, 1b, 2a** · 2b with good ROM · age **> 6 yr** · **extrusion > 20%** · **≥ 50%** epiphysis involved |
+| **Do not contain** | Stage **3a, 3b, 4** · severe stiffness / **hinge abduction** · < 6 yr, minimal involvement, no extrusion |
+
+**Reimers migration index (TO)** — uncovered head ÷ head width × 100 · **> 20% → contain**
+
+**Stiff hip first (TO)** — **traction 2–3 wk** · adductor tenotomy · **Petrie cast** / abduction brace (Scottish Rite, Petrie, Nevington) · **Snyder sling** for weight relief
+
+**VDRO rules (TO)** — only with adequate ROM · varus **≤ 20°** · final NSA **≥ 105°** · **GT epiphysiodesis** · **hinge abduction = absolute contraindication** → valgus osteotomy / shelf
+
+**Age-based (TO lecture A)** — < 6–8 yr any pillar: conservative · ≥ 8 yr pillar A or C: conservative · **≥ 8 yr pillar B or B/C: surgical containment**
+
+**Other options (TO)** — arthrodiastasis · trochanteric advancement · Salter, shelf, Steel, Chiari (salvage)
+
 **Surgery evidence** — pillar A + B <8 yr do well regardless · surgery improves **B and B/C >8 yr** · earlier surgery before deformity may be best
 
 **Varus derotation osteotomy** — early extrusion → re-seats head
@@ -154,6 +201,8 @@ Perthes disease
 **Lateral subluxation (extrusion)** — poor prognosis → **hinge abduction**
 
 **Premature physeal arrest** — **trochanteric overgrowth** · **coxa breva** · mild LLD
+
+**Sequelae surgery (TO)** — coxa breva: **distal GT transfer**, relative/absolute neck lengthening · coxa magna: acetabuloplasty, **femoral head reduction osteotomy** (via surgical dislocation; for severely aspherical head), osteochondroplasty · shelf: hinge abduction, incongruent, coxa magna
 
 **Other** — acetabular dysplasia · labral tear / FAI · OCD (loose bodies)
 
@@ -185,6 +234,15 @@ Perthes disease
 | Purpose | **Containment** | Relieve **hinge abduction** |
 | When | Early, containable head, >8 yr, B/BC | Late, deformed lateral head |
 
+| | **Perthes (TO)** | **Idiopathic chondrolysis of hip (TO)** |
+|---|---|---|
+| First symptom | **Limp** (painless) | **Pain** (then stiffness, limp later) |
+| Sex | Male | **Female 3–4×** |
+| Age | 4–12 yr | **11–12 yr** |
+| Pathology | AVN of epiphysis | **Rapid cartilage loss**, no infection/trauma |
+| X-ray | Sclerosis, fragmentation | **Early joint-space narrowing**, head initially normal |
+| Rx | Containment | Non-ambulatory protection → protected walking · late **THA** often |
+
 ## How it's asked
 
 **"Lateral pillar classification possible how long after onset?"** → **6 months**
@@ -213,6 +271,12 @@ Perthes disease
 **"5-yr, symmetric bilateral changes, symptoms resolved?"** → **knee and spine X-rays**
 
 **"Femoral head blood supply at 18 months?"** → **MCFA (MFCA) alone** (TO)
+
+**"Absolute contraindication to VDRO in Perthes?"** → **hinge abduction** (TO)
+
+**"Extrusion (Reimers) threshold for containment?"** → **> 20%** (TO)
+
+**"Idiopathic chondrolysis — presenting symptom?"** → **pain before limp** (TO)
 
 **"Most common age group for Perthes?"** → **5 to 10 years** (TO)\
 ✗ Wrong options: 4–8 in that MCQ

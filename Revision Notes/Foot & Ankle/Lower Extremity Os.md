@@ -22,6 +22,8 @@
 
 **Stieda process** — elongated lateral tubercle (unfused) that may fracture with repetitive trauma
 
+**Talar ossification (TO)** — primary centre **prenatal** · **secondary centre (posterior process) 8–11 yr** · variants: **Stieda process**, **os trigonum** (unfused secondary centre), **os supratalare** (TO)
+
 **Relations** — os lies **lateral to FHL, tibial nerve, PTT, posterior tibial artery** · FHL runs in fibro-osseous tunnel between **posterolateral (os) + posteromedial talar tubercles**
 
 ![FHL runs just medial to the os trigonum (OT)](../../MCQ/attachments/q210173-illa-illustration-of-fhl-near-ot.jpg)

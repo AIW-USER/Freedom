@@ -75,6 +75,8 @@
 
 **"Rind sign"** — punched-out / ground-glass lesion with **thick sclerotic rim**
 
+**Parrot beak sign** — **fatigue fracture of the femoral neck** in FD (TO)
+
 **Looser zones** — pseudofractures (osteomalacia)
 
 **Shepherd's crook** — AP + lateral hip

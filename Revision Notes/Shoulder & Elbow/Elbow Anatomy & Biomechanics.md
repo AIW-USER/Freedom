@@ -95,6 +95,21 @@
 
 **Capsule** — greatest stability contribution **in extension** · anterior capsule resists varus-valgus **in extension, not flexion** (Morrey)
 
+| Stability (TO) | Primary | Secondary |
+|---|---|---|
+| **Valgus** | **MCL anterior bundle** | Radial head, flexor-pronator mass |
+| **Varus** | **Coronoid process** (TO) | LUCL, extensor mass |
+| **Posterolateral rotatory (PLRI)** | **LUCL** | Radial head, MCL |
+| Posteromedial rotatory (PMRI) | Coronoid (anteromedial facet) | MCL (TO table) |
+
+**Dynamic (TO)** — **flexor-pronator mass resists valgus** · **extensor-supinator mass resists varus**
+
+**Coronoid (TO)** — anterior buttress against posterior dislocation · fracture **>50% height → instability** · fractured in **10–15%** of dislocations
+
+**Radial head safe zone (TO)** — **"90° arc between radial styloid and Lister's tubercle" (Caputo)** · "posterolateral 80° non-articular; 280° articular" (other TO) · lateral **120°** bare (above) — read the options
+
+**Horii cycle (TO)** — FOOSH valgus + axial + supination: **LUCL → anterior/posterior capsule → MCL** · **reverse Horii**: varus + pronation → **PMRI**, coronoid anteromedial facet + LCL
+
 ### Nerves of the elbow
 
 | Nerve | Origin | At the elbow |
@@ -111,6 +126,50 @@
 **Cubital fossa** — contents lateral → medial: **biceps tendon, brachial artery, median nerve** · borders: **brachioradialis** (lateral), **pronator teres** (medial), distal humerus (proximal)
 
 **Branches** — superior/inferior ulnar collateral · nutrient/muscular · supratrochlear
+
+### Elbow imaging – X-ray & MRI (TO)
+
+**Condyles (TO)** — **lateral condyle (larger)** carries **capitellum + lateral epicondyle** · medial = medial epicondyle + trochlea → "medial condyle fracture" is really a **medial epicondyle or trochlear** injury
+
+**Fossae (TO)** — **coronoid fossa (anterior)** receives coronoid in flexion · **olecranon fossa (posterior)** receives olecranon in extension
+
+**CRITOE (TO)** — capitellum **1** · radial head **3** · internal (medial) epicondyle **5** · trochlea **7** · olecranon **9** · external epicondyle **11** (or 2-4-6-8-10-12) — **order matters** · **trochlea visible but medial epicondyle not in place → avulsion with entrapment**
+
+| X-ray sign (TO) | Meaning |
+|---|---|
+| **Anterior "sail" / visible posterior fat pad** | **Haemarthrosis** |
+| **Fat–fluid level** | **Lipohaemarthrosis → intra-articular fracture** |
+| **Anterior humeral line** | Normally through **middle third of capitellum**; posterior displacement → anterior part / misses |
+| Small lateral flake (child) | May hide **lateral condyle fracture** into cartilage → **MRI** |
+| Wider physis vs other side | **Epicondyle avulsion** (adolescent athlete) |
+
+**Occult radial head/neck fracture (TO)** — after any elbow trauma: **AP + lateral + external oblique** · **Coyle view** = lateral with beam **45°** → radial head free of ulna · negative X-ray + suspicion (esp. children) → **screening MRI** (also coronoid tip fracture)
+
+**CT (TO)** — little role except **deformity**
+
+**MRI technique (TO)** — **prone "superman" position**, elbow in magnet centre (large FOV with chest → respiratory artefact) · **distal biceps protocol = 2 scans** (shoulder–arm supine, arm–elbow prone) · coronal T1 + PD FS, optional **GRE** (trabeculae, faint calcification), sagittal PD FS, axial PD ± FS
+
+| MRI structure (TO) | Normal / pitfall |
+|---|---|
+| **UCL** | Anterior band (key) · posterior band = **cubital tunnel floor** · transverse rarely seen · **grey fan-shaped humeral end = normal**; dark cord at sublime tubercle |
+| RCL | Cord-like; small radial sulcus normal |
+| LUCL | Lateral epicondyle → behind radius → ulna; **often hard to see even when intact** |
+| Radiocapitellar plica | Normal synovial fold |
+| **Capitellar pseudodefect** | **Normal posterior** capitellar groove — **not OCD** |
+| Ulnar "bare area" | Normal cartilage gap in trochlear notch |
+| Radial head fovea | Central cartilage thinning can be normal |
+| Annular ligament | From ulnar tubercle around radial head |
+
+![Sagittal PD FS: radiocapitellar joint, normal capitellar pseudodefect and plica](../../TO notes/attachments/TOn-notes-elbow-imaging-x-ray-and-mri-apr-2026-p04-f010.jpg)
+
+**Distal biceps on MRI (TO)** — short + long heads stay **separate to the radial tuberosity** · lacertus runs medially · don't confuse **brachial artery (flow void)**, veins or median nerve with the tendon · rupture = fluid in biceps–brachialis plane, no insertion → **measure retraction**
+
+| MRI case (TO) | Finding |
+|---|---|
+| Medial elbow pain | Oedematous common flexor origin + faint calcification on GRE = **calcific tendinosis** |
+| Pain on supination | Thick distal biceps + fluid = **radiobicipital bursitis / tendinosis** |
+| Lateral elbow pain | **Empty common extensor origin**, retracted extensors, ligaments intact |
+| Young athlete | **Capitellar OCD = ANTERIOR** cartilage/subchondral irregularity (pseudodefect = posterior) |
 
 ## 2 Mechanism
 
@@ -143,6 +202,38 @@
 **Answer (TO)** — key **not provided by source**; module label = **olecranon bursitis (student's elbow)** · options also list miner's elbow, little leaguer's elbow, golfer's elbow — read the options
 
 ## 5 Management
+
+### Surgical approaches to the elbow (TO)
+
+| Group | Approach (TO) | Plane / key step |
+|---|---|---|
+| Posterior | **Campbell triceps split** | 15 cm midline incision; triceps split to bone; lateral half with anconeus, medial half with flexor fascia |
+| Posterior | **Campbell aponeurosis tongue** | Tongue of triceps aponeurosis reflected proximally → **V-Y lengthening** for **extension contracture** |
+| Posterior | **Wadsworth** (extensile posterolateral) | Triceps tongue + **anconeus elevated from lateral epicondyle** → radial head + posterior humerus |
+| Posterior | **Olecranon osteotomy (MacAusland, Müller)** | **~2 cm from tip** · best articular exposure · fixed TBW (K-wire TBW commonest), TBW over screw, plate |
+| Posterior | **Bryan–Morrey** | Triceps + forearm fascia + periosteum + anconeus reflected **medial → lateral** as one sleeve → **only posterior approach keeping extensor mechanism in continuity** · triceps must be repaired |
+| Lateral | **Kaplan** | **ECRB ↔ EDC** · close to PIN → forearm pronated · mainly PIN release |
+| Lateral | **Column** (extensile proximal lateral) | **BR + ECRL elevated off lateral supracondylar ridge** · extensile |
+| Lateral | **Kocher** | **Anconeus ↔ ECU** · **most common lateral approach** · **cannot extend distally (PIN)**; annular ligament = distal limit |
+| Medial | **Molesworth / Campbell** | **Medial epicondylectomy**, flexor origin reflected with fragment; ulnar nerve isolated |
+| Medial | **Hotchkiss "over the top"** | **Split flexor-pronator mass between PT + FCU**, brachialis reflected → **coronoid** · protect **MABCN** |
+| Anterior | **Henry** | **Mobile wad ↔ biceps tendon**; supinator elevated from radius |
+
+![Cross-section map of approaches around the elbow](../../TO notes/attachments/TOn-notes-approaches-around-elbow-chronic-elbow-and-forearm-inst-p02-f004.jpg)
+
+| Olecranon osteotomy (TO) | Feature |
+|---|---|
+| **Transverse (MacAusland)** | **Most commonly performed** |
+| Müller | Only triceps-insertion part cut; residual ulna blocks view → rarely used |
+| **Chevron** | V-cut → **rotational control + larger healing area** |
+
+**Lateral boundaries (TO)** — every lateral approach lies between **radial nerve (anterior)** and **LUCL (posterior)** · **pronate forearm** → PIN moves anterior, away from dissection (Kaplan + Kocher)
+
+**Radial nerve course (TO)** — pierces lateral IM septum at **middle/distal third junction** → brachialis–ECRL → brachialis–BR → winds around proximal radius **between two heads of supinator** (PIN)
+
+**Medial approach indications (TO)** — **coronoid fixation when intact radial head blocks lateral view** · medial osteophyte excision
+
+**Triceps-split/reflecting approaches (TO)** — poor view of intra-articular distal humerus
 
 ### Posterior bundle of MCL – release for flexion
 
@@ -211,4 +302,15 @@
 
 **"Optimal unilateral arthrodesis?"** → **90° flexion**
 
+**"Only posterior approach preserving extensor mechanism continuity?"** → **Bryan–Morrey** (TO)
+
+**"Kocher lateral approach interval?"** → **anconeus and ECU** (TO)\
+✗ Wrong options: ECRB–EDC = Kaplan · mobile wad–biceps = Henry
+
 **"Safe zone for radial head fixation?"** → **lateral 120° non-articular**
+
+**"Primary varus stabiliser of the elbow?"** → **coronoid process** (TO)
+
+**"Posterior capitellar groove on sagittal MRI?"** → **normal pseudodefect, not OCD** (OCD is anterior) (TO)
+
+**"View for occult radial head fracture?"** → **external oblique / Coyle (45°) view** (TO)

@@ -81,6 +81,10 @@
 
 **Physis** — **short of physis** <4–6 yr, most type III (less stable) · **transphyseal** >12 yr, little metaphysis, or needed for stability (**type II: transphyseal** — poor head purchase otherwise) · "easier to treat LLD than nonunion" · within 5 mm of subchondral bone, avoid anterolateral epiphysis + posterior neck
 
+**Implant age cut-off** — smooth pins **< 4 yr** (Orthobullets) · **< 8 yr** smooth pins, **≥ 8 yr** cannulated screws (TO) — read the options · avoid multiple passes across physis (TO)
+
+**TO principles** — **vascular emergency** · gentle reduction under GA · **capsular decompression** (tamponade by intracapsular haematoma) · internal fixation + spica · after **age 3** physis blocks metaphyseal supply → **lateral epiphyseal artery (MFCA)** main; **3–12 yr most vulnerable** · Delbet **II most common** (TO) · **nonunion up to 10%** (TO)
+
 **Reduction** — gentle traction + **abduction + internal rotation** · weekly X-rays ×3 wk if casted · accept type II **<2 mm translation, <5°, no malrotation** · III/IV **<10°**
 
 **Post-op** — spica (abduction + IR) **6–12 wk** if <4 yr or screws short of physis

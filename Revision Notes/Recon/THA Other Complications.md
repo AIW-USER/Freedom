@@ -84,6 +84,10 @@
 
 ### Medical complications
 
+**Mortality (TO)** — primary THR **~1% at 90 days** · revision THR **2.5–3× higher**
+
+**Timing (TO)** — early: **DVT (most common)**, dislocation, infection · late: osteolysis, aseptic loosening, periprosthetic fracture · **IL-6 > CRP > procalcitonin** as infection marker (TO)
+
 **Intraoperative death** — fat + marrow embolism during femoral preparation/cementing · lung histology may show ✓ **methylmethacrylate cement in pulmonary capillaries**\
 ✗ Wrong options: thrombus PE · infarct · granuloma · amyloid
 

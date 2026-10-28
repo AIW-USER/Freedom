@@ -40,6 +40,20 @@
 
 **Radial head** — **not needed for stability** in linked designs; often debrided/resected in RA
 
+| Elbow arthroplasty type (TO) | Description | Use |
+|---|---|---|
+| **Debridement arthroplasty** | Remove osteophytes, preserve surfaces | Painful stiff degenerative elbow, **young high-demand** |
+| **Interposition arthroplasty** | **Triceps fascia or fascia lata** between surfaces | When implant contraindicated (**paediatric / poor bone stock**) |
+| Implant arthroplasty (TEA) | Metal + polyethylene | End-stage arthritis, trauma, RA |
+
+**Fully constrained examples (TO)** — metal-on-metal hinges **GSB-1, Stanmore, Dee, Mazas** → high loosening/breakage · semiconstrained: **Coonrad-Morrey, Mayo, Pritchard-Walker** · semiconstrained survival **90–92% at 10–15 y** (TO)
+
+**Ideal elbow implant (TO)** — preserves **epicondyles + olecranon** · maintains carrying angle (valgus in extension → varus in flexion) · functional arc **30–130°** · minimal bone sacrifice
+
+**Selection (TO)** — **anterior medial ligament complex = 70% of stability** · good bone + intact ligaments → **unconstrained** · poor bone / weak muscles → **semiconstrained** · severe destruction + instability → **fully constrained**
+
+**Coonrad-Morrey (TO)** — **7° varus-valgus + rotatory laxity** · **triangular humeral stem** with flattened base + **anterior flange** (torque) · long stems · HMW polyethylene bushing between titanium components
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -105,6 +119,12 @@
 **Olecranon osteotomy** — contraindication: preserve **extensor mechanism**; trans-olecranon approach **jeopardises ulnar component stability** → never for TEA
 
 **Not contraindications** — central comminution · **ulnar nerve transposition** · radial head impaction · retrocapitellar comminution (radiocapitellar joint secondary)
+
+**TO indications** — end-stage RA / post-traumatic arthritis · unreconstructable distal humerus fracture **>60 y** · **bilateral / fibrous ankylosis in poor position** · bone loss (tumour, trauma) · **haemophilic arthropathy**
+
+**TO contraindications** — active/recent infection · poor soft-tissue envelope · **non-functional biceps/triceps** · poor compliance · flaccid paralysis · young vigorous post-traumatic elbow · **neuropathic joint** · **ipsilateral shoulder ankylosis**
+
+**Pre-op (TO)** — AP + lateral for **humeral bow + canal diameter**, ulnar canal size/curvature · templating · ulnar nerve evaluation · **aspirate if warmth/redness (esp. RA)**
 
 ```
 Elderly unreconstructable distal humerus fracture
@@ -181,6 +201,8 @@ Elderly unreconstructable distal humerus fracture
 
 **Lifting limit** — **5–10 lb** lifelong (Orthobullets, OB) · **≤ 5 lb** (OB) — read the options
 
+**TO post-op** — elevate overnight, drains out next day → passive flexion–extension · collar and cuff · **no active extension 3 months** (triceps healing) · lift **≤2.2 kg (5 lb) for 3 months → lifelong ≈4.5 kg (10 lb)**
+
 **Avoid after TEA** — impact sport (golf, tennis) · immediate aggressive triceps strengthening · **immobilising wrist/hand 4 wk** (mobilise immediately) · avoiding pronation/supination (doesn't stress ulnohumeral implant)
 
 **Patient selection** — > 65 y, low demand, able to obey restrictions ("none do"), **medical optimisation**
@@ -214,6 +236,21 @@ Elderly unreconstructable distal humerus fracture
 **Instability treatment (TO)** — collateral reconstruction usually fails → **revision to semiconstrained hinge**
 
 **Constrained, commonest failure** — **aseptic loosening** > bushing wear > infection (8%); instability = unconstrained/semiconstrained; ulnar neuropathy < instability
+
+**TO failure order** — **instability > aseptic loosening > infection** · aseptic loosening = **most common late failure** · bushing wear → synovitis, foreign-body reaction (active males, post-traumatic) · infection > hip/knee (**S. aureus**, thin soft tissue) · periprosthetic fracture **6–22%** (Mayo classification; revise if loose) · heterotopic ossification limits arc
+
+| Morrey rating (TO) | Criteria |
+|---|---|
+| **Good** | No pain, **>90° flexion**, **>60° rotation**, no lucent lines |
+| Fair | Mild pain, 50–90° flexion, 40° rotation, **<1 mm** lucency |
+| Poor | Significant pain, **<50°** motion, **>2 mm** lucency |
+
+| MEPS (TO) | Outcome |
+|---|---|
+| **90–100** | Excellent |
+| 75–89 | Good |
+| 60–74 | Fair |
+| **<60** | Poor |
 
 ### Infection
 
@@ -320,3 +357,7 @@ Infected TEA
 **"True about TEA?"** → **loosening most commonly humeral component** (TO)
 
 **"Unconstrained TEA at 3 months — commonest complication?"** → **instability** (TO)
+
+**"Key stabiliser to assess when choosing an elbow implant?"** → **anterior medial ligament complex (70% of stability)** (TO)
+
+**"Mayo Elbow Performance Score: excellent?"** → **90–100** (TO)

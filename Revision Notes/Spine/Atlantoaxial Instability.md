@@ -96,6 +96,12 @@ Os odontoideum
        (not anterior C1-2 fusion — osseous anatomy)
 ```
 
+**Os odontoideum types (TO)** — **orthotopic** (ossicle in normal dens position) · **dystopic** (migrated toward foramen magnum) · risk of **sudden cord compression after minor trauma**
+
+**Down syndrome (TO)** — **screen for AAI before anaesthesia / sports** · paediatric **ADI > 5 mm** = instability · MPS → odontoid hypoplasia · achondroplasia → foramen magnum stenosis
+
+**Paediatric landmarks (TO)** — BDI / BAI **< 12 mm** · Pavlov **> 0.8** · centre of motion C2–C3 (child) vs C5–C6 (adult) · odontoid cartilaginous until \~6 yrs
+
 ### Grisel syndrome
 
 **Definition (TO)** — inflammatory **atlantoaxial rotatory subluxation** after **upper respiratory / head-neck infection** (or **tonsillectomy, adenoid** inflammation); hyperaemia damages facet capsules + TAL
@@ -109,6 +115,8 @@ Os odontoideum
 | II | **Hard collar** |
 | III | **Halo** |
 | IV | **Open fixation** (neuro complications) |
+
+**Grisel by duration (TO)** — acute: rest + **antibiotics** + soft collar · chronic **> 3 weeks**: traction → **posterior C1–2 fusion** · CT shows asymmetric C1–C2 facets
 
 ## X vs Y
 

@@ -15,6 +15,10 @@
 | **Postoperative femur** | **0.1%** overall · **0.1–3%** primary cementless · most at **stem tip** |
 | Overall (Abdel, 32,000 THAs) | **1.7%** · uncemented **3%** vs cemented **0.23%** · female, >65 |
 
+**Definitions (TO)** — **prosthetic** = break in the implant · **periprosthetic** = bone around implant · **interprosthetic** = between two prostheses (ipsilateral THR + TKR) · fracture **distal to stem but in the same bone** = still periprosthetic
+
+**Mechanism (TO)** — mostly **low-energy / trivial fall** in elderly
+
 **Prevention** — **pre-operative templating** · adequate exposure · care with cementless stems in poor bone (RA, osteoporosis) · low threshold to cement
 
 ### Risk factors
@@ -22,6 +26,8 @@
 | Intraoperative femur | Postoperative femur |
 |---|---|
 | **Female** ✓ · **cementless / press-fit** · osteoporosis · revision · impaction grafting · technical error · **MIS** (controversial) · sclerotic bone (sickle cell) · metabolic bone disease, Paget | Poor bone · **cementless** stems · compromised bone stock · revision · **collarless** stems |
+
+**Other risks (TO)** — elderly, **female**, osteoporosis, **RA**, **chronic steroids** · **mini-incision** (limited exposure) · inadequate reaming · **implant size mismatch** · **uncemented + revision THR** (poor bone stock) · uncemented > cemented
 
 **Timing pattern** — **cementless** stems fracture **early (<6 months)** — wedge-tapered → proximal, cylindrical fully coated → distal split · **cemented** stems fracture **late (~5 yr)** at/below tip
 
@@ -34,6 +40,17 @@
 **Loose-stem clues** — **prodromal thigh/start-up pain** · **subsidence** vs earlier films · **cement-column disruption** · long spiral fracture to stem tip
 
 **Stem stability** — ✓ **intraoperative assessment = gold standard** · up to **20% discrepancy** pre- vs intraop · **B1 vs B2 hard to separate on X-ray**
+
+### General principles (TO)
+
+| Prosthesis | Fracture | Bone stock | Management (TO) |
+|---|---|---|---|
+| Stable | Undisplaced | Good | **Non-op / ORIF** |
+| Stable | Displaced | Good | **ORIF** (plate, nail or cerclage) |
+| **Unstable** | Any | Good | **Revision** (long stem ± plate) |
+| **Unstable** | Any | **Poor** | **Allograft–prosthesis composite / tumour (mega) prosthesis** |
+
+**Goals (TO)** — fracture union + restore / maintain prosthesis stability · **Vancouver = most accepted** classification for THR
 
 ### Vancouver classification – postoperative
 
@@ -103,6 +120,15 @@ Postoperative periprosthetic femur fracture
 **Unstable cup** → screws ± **jumbo cup** ± ORIF + revision · **posterior column displaced** → ✓ **remove cup, fix posterior column, antiprotrusio cage** (or cage-over-cup)\
 ✗ Wrong options: larger cup · graft · WB protection · cemented PE
 
+### Acetabular periprosthetic – Peterson (TO)
+
+**Timing** — usually **intraoperative** rather than postoperative (TO)
+
+| Peterson | Features | Management (TO) |
+|---|---|---|
+| **Type 1** | **Stable**, undisplaced, minimal pain | **Retain cup ± trans-acetabular screws** |
+| **Type 2** | **Displaced / unstable** cup, pain, instability | **Revision + column plating ± antiprotrusio cage** |
+
 ### Vancouver A, B1 & C – ORIF
 
 **B1** — ✓ **ORIF: lateral locking plate + proximal cables** · stable stem confirmed intraop\
@@ -117,6 +143,10 @@ Postoperative periprosthetic femur fracture
 ✗ Wrong options: intramembranous (needs compression)
 
 **Ogden construct (TO)** — ✓ **periprosthetic femur fractures (Vancouver B)** · cables proximally + screws distally (now unicortical locking proximal, bicortical distal)
+
+**Vancouver C (TO)** — **distal femoral LCP** · plate should **span to distal femoral metaphysis** to prevent re-fracture · interprosthetic → **Vancouver C** for the THR (**Su type I** for the TKR) → **long bridging plate ± bone graft**
+
+**Surgical pearls (TO)** — **prepare for revision even in B1** (long stem + plates on the table) · pass cables **through muscle, not subperiosteal** · avoid periosteal stripping · stem **> 2 cortical diameters** beyond fracture
 
 **Vancouver C** — ✓ **plate + proximal cables + distal screws** (✗ Wrong options: retrograde nail (no canal) · conventional plate · traction) · **interprosthetic** (THA + TKA) → ✓ **lateral locking plate spanning whole femur** (✗ Wrong options: nail · revision · strut alone · total femur)
 
@@ -321,3 +351,7 @@ Postoperative periprosthetic femur fracture
 **"Bleeding while cabling proximal butterfly?"** → **profunda femoris (structure D)**
 
 **"Vancouver type 2 involves (TO)?"** → **shaft around stem**
+
+**"Interprosthetic femur fracture between THR and TKR — classify for the hip?"** → **Vancouver C; long bridging plate** (TO)
+
+**"Loose prosthesis with poor bone stock — option?"** → **allograft–prosthesis composite / megaprosthesis** (TO)

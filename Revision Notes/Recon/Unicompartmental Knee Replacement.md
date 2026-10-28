@@ -22,6 +22,10 @@
 | ACL deficiency | Controversial | **Contraindicated** (spin-out) |
 | Loosening | Component loosening more common | Poor bone preparation / thermal necrosis |
 
+**History (TO)** — **McKeever (1950s)** tibial hemiarthroplasty · **Marmor (1970s)** added femoral resurfacing = **first cemented UKA** · **Oxford** = mobile bearing, **lowest wear** · fixed bearing (Sigma) = easier technique, less dislocation
+
+**Design (TO)** — femur: **lug + fin** fixation, wide posterior condyle, anterior taper (avoid patellar impingement) · tibia: **metal-backed PE ≥ 6 mm**, **75–80% coverage**
+
 **Mobile-bearing specific disadvantage** → ✓ **higher risk of bearing dislocation** (TO)\
 ✗ Wrong options: PCL sacrifice · limited femoral sizing · ↑ PE wear
 
@@ -89,6 +93,8 @@ Isolated compartment knee OA, failed nonop
 
 ### Indications & contraindications
 
+**Lecture-note thresholds (TO)** — varus **< 5°**, **weight < 80 kg**, BMI **> 30** = CI, fixed varus **> 10°** + MCL contracture = CI · Kozinn & Scott **< 82 kg, varus < 10°** — read the options · HTO → younger, heavier, **varus > 10°** · UKA → older, lower demand, varus **< 5°** (TO)
+
 **Indications (TO)** — isolated medial or lateral OA · **osteonecrosis** · age **>60** · weight **<82 kg** · deformity **<15°**, passively correctable to neutral · flexion contracture **<5°** · ROM **>90°**
 
 | Contraindication | Threshold / note |
@@ -153,6 +159,8 @@ Isolated compartment knee OA, failed nonop
 ✗ Wrong options: overcorrect into valgus 2–3°
 
 **Steps** — remove peripheral + **notch osteophytes** · minimal bone resection · **avoid extensive releases** (never release the **MCL**) · avoid edge loading · correct ML position → no tibial spine impingement · **avoid a varus tibial cut** (↑ loosening) · care with proximal tibial **guide pins** (stress fracture)
+
+**Gap balancing (TO)** — femoral jig on tibial spacer · spacer moves with **light two-finger resistance** · no overcorrection, **no ligament release** · e.g. bone loss 2 mm + cartilage 3 mm = 5 mm; 8 mm implant → resect **3 mm** bone
 
 **Gaps (mobile bearing)** — flexion gap set by **posterior femoral cut** · flexion = extension gap · tibial slope parallels native **3–7°**
 
@@ -240,6 +248,8 @@ Isolated compartment knee OA, failed nonop
 **Lateral UKA** — traditionally ↑ dislocation + failure · LCL allows **6.7 mm** lateral distraction in flexion (vs **2 mm** medial) · lateral tibial condyle **convex** (medial **flat**) · lateral femoral condyle subluxes posteriorly in high flexion · newer designs → **equivalent** survival, pain relief, function
 
 ### Tibial plateau stress fracture
+
+**Early / intra-op complication (TO)** — **tibial plateau fracture** · mid/late: OA progression, PE wear, subsidence, loosening, bearing dislocation (mobile), **PF OA from overcorrection**
 
 **Features** — **always tibia** · high activity + heavy patient (**>200 lb**) · **pain-free interval → spontaneous activity pain** · **blood on aspiration** (RBC 45,000, WBC 6,500) · normal X-ray + **bone scan uptake under component**\
 ✗ Wrong options: infection (WBC >20,000, ↑ ESR/CRP) · loosening · crystals · synovial entrapment · pes bursitis · CRPS

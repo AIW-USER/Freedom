@@ -33,6 +33,8 @@
 | **Salmonella** | **Sickle cell disease** |
 | Fungal · TB | Immunocompromised |
 
+**Sources (TO)** — **genitourinary 29%**, soft tissue 13%, upper respiratory 11% · haematogenous via **Batson plexus** commonest · blood/urine cultures positive 16–30% · deficit from epidural abscess or **arterial thrombosis**
+
 **Commonest fungal infection of spine (TO)** — **Aspergillus**; Candida + Aspergillus = commensals entering via IV lines/implants/surgery · ↑ during COVID (steroid overuse) · Coccidioides + Blastomyces = geographic\
 ✗ Wrong options: Candida · Cryptococcus · Blastomyces
 
@@ -164,6 +166,8 @@ Suspected spondylodiscitis
 **Instrumentation in active infection** — controversial (staged vs single stage) · **titanium > stainless steel**
 
 **Posterior instrumentation** — severe kyphosis or multilevel anterior construct
+
+**TO regimen** — IV antibiotics **6 wks → oral 6 wks** (culture-guided), monitor CRP · **posterior-only approaches now preferred** · epidural abscess: **alternate-level (limited) laminectomy + irrigation catheter** → less blood loss, less deformity
 
 **Two-level cervical osteomyelitis + rapidly progressive gait loss + ↑ WBC/CRP/ESR** — **anterior corpectomy + posterior instrumentation (A + P)** · cervical abscess → early surgery (little space for cord) · lumbar abscess → often antibiotics alone
 

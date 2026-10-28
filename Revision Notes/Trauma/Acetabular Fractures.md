@@ -58,6 +58,17 @@
 
 **Acetabular orientation** — lateral inclination **40–48°** · anteversion **18–21°**
 
+**Quadrilateral plate (TO)** — thin medial wall; involved in **ABC + ACPHT**; displacement → **medial head migration**
+
+**Iliopectineal eminence (TO)** — intra-operative landmark of **anterior column**
+
+| Foramen (TO) | Contents |
+|---|---|
+| **Greater sciatic** | **Piriformis** · **superior gluteal NV above piriformis** · **sciatic nerve below piriformis** · internal pudendal vessels + nerve |
+| **Lesser sciatic** | **Obturator internus tendon** · internal pudendal vessels |
+
+**Superior gluteal nerve (TO)** — high risk with **superior posterior** acetabular approaches
+
 ### Corona mortis & vascular anatomy
 
 **Corona mortis ("crown of death")** — anastomosis **external iliac (inferior epigastric) ↔ obturator** (internal iliac system) behind **superior pubic ramus**
@@ -78,6 +89,10 @@
 
 **Dashboard / posteriorly directed force** — posterior wall ± posterior dislocation
 
+**Dashboard injury (TO)** — **posterior wall + posterior column**; check **knee** (associated dashboard injury)
+
+**Axial load on abducted hip (TO)** — **anterior column** fracture
+
 **Crescent fracture (posterior iliac wing on CT)** — **lateral compression** (laterally directed force on anterior iliac wing)\
 ✗ Wrong options: APC · VS · combined
 
@@ -86,6 +101,10 @@
 **Foot drop / ↓ dorsiflexion after acetabular fracture** — **peroneal division of sciatic** → most likely pattern **transverse + posterior wall**
 
 **Hip flexed, adducted, IR** — posterior dislocation ± posterior wall
+
+**Sciatic nerve exam (TO)** — **EHL**, ankle dorsiflexion, **first web-space** sensation
+
+**Narath sign (TO)** — femoral pulse not palpable (head displaced posteriorly) → part of acetabular / dislocation exam
 
 **Os acetabuli marginalis superior** — accessory ossification centre at superior acetabular rim in adolescents; **mimics fracture / AVN**; usually **fuses by age 20**\
 ✗ Wrong options: fovea capitis · myositis ossificans · AVN · fracture
@@ -124,11 +143,37 @@
 | **Gull (seagull) sign** | **Superomedial dome impaction** → **poor prognosis** (Orthobullets) | **Iliac oblique** (Orthobullets) |
 | **Gull sign – TO wording (TO)** | **Anteromedial dome impaction**; "pathognomonic for **posterior column** fractures" → needs surgery | **Obturator oblique** (TO) |
 | **Roof arc angle (Matta)** | Vertical line through head centre vs line to fracture; **stable if > 45° on AP + both Judets** (fracture exits outside weight-bearing dome) | AP + Judets |
+| **Roof arc – per-view cut-offs (TO)** | **Medial > 30°** (AP) · **anterior > 40°** (obturator oblique) · **posterior > 50°** (iliac oblique); revised biomechanical values are higher | AP + Judets |
 | **CT subchondral arc (Olson & Matta)** | **Superior 10 mm** of acetabulum intact = equivalent to **45° roof arc** (TO) | CT |
 | **Articular incongruity** | **> 2 mm** = unstable | CT |
 | **Medial clear space widening on EUA** | **Posterior wall instability** | Obturator oblique under stress |
+| **Double beak sign (TO)** | Two parallel shadows: intact posterior column + elevated anterior wall → **anterior wall fracture** | AP / Judets |
+| **Double shadow of posterior wall (TO)** | **Large displaced PW fragment** | AP / OO |
 
 **Gull sign view** — **iliac oblique** (Orthobullets) · **obturator oblique** (TO) — read the options
+
+**Gull sign – second TO lecture (TO)** — **superomedial dome impaction**, seen on **iliac oblique**, suggests **posterior wall** involvement → elevate + graft
+
+**AP wall shadows (TO)** — **anterior wall = concave** shadow · **posterior wall = straight** shadow · **teardrop** = quadrilateral plate + obturator canal · **sourcil** = weight-bearing dome
+
+**Axial CT orientation (TO)** — column = **horizontal** · transverse = **vertical** · **wall = oblique**
+
+### Congruency – incongruency signs
+
+**Order of assessment (TO)** — **congruency first** → **stability** → **CT planning**; congruent + stable = only nonop candidate
+
+**Incongruency signs (TO)** — ↑ **medial joint space** · **superior joint-space widening** · **non-parallel joint surfaces** · **hinged abduction** · **loose intra-articular fragments** · persistent subluxation
+
+**↑ Medial joint space after reduction (TO)** — **incarcerated fragment** (capsule or flipped PW fragment) → surgery
+
+### Four CT questions (TO)
+
+| Question (TO) | Implication |
+|---|---|
+| **How close to the dome?** | **Posterosuperior** dome involvement = highly unstable → **trochanteric flip** (abductors block view) |
+| **Comminuted wall / column?** | **Spring plates** or **Allis T plate** as buttress |
+| **Intra-articular fragments?** | Tiny **infracotyloid / foveal** → may be left · **superior dome fragments removed even if 3–4 mm** |
+| **Marginal impaction?** | **Elevate** → graft (often from **greater trochanter**) → **mini-fragment screws** |
 
 **Roof arc NOT applicable** — **posterior wall** + **associated both column** (no intact acetabulum to measure)
 
@@ -145,20 +190,26 @@
 | Elementary | Lines / views | Key fact |
 |---|---|---|
 | **Posterior wall** | PW outline broken on **OO** | **Commonest overall**; check **superior gluteal NV bundle**; only \~30% single large fragment |
-| **Posterior column** | **Ilioischial line only** broken on AP; IO shows break, **anterior wall intact**; OO iliopectineal intact | Superior gluteal NV bundle; isolated PC rarely injures nerve |
-| **Anterior wall** | — | **Very rare**; **geriatric** |
-| **Anterior column** | **Iliopectineal line broken on OO** with **undisturbed posterior acetabulum** | 3–5% of fractures; may extend to quadrilateral plate without exiting PC |
-| **Transverse** | **Iliopectineal + ilioischial** both broken; single line crossing acetabulum | **Only elementary to involve both columns**; axial CT: **vertical (sagittal) A→P line**; articular surface still attached to intact ilium |
+| **Posterior column** | **Ilioischial line only** broken on AP; IO shows break, **anterior wall intact**; OO iliopectineal intact | Superior gluteal NV bundle (may be **entrapped** in fracture, TO); isolated PC rarely injures nerve; head migrates **medially + posteriorly** (TO) |
+| **Anterior wall** | OO: **trapezoid fragment** · IO: **posterior column intact** (TO) | **Very rare**; **geriatric**; fragment = anterior acetabulum + quadrilateral plate (TO) |
+| **Anterior column** | **Iliopectineal line broken on OO** with **undisturbed posterior acetabulum** · IO: iliac wing extension (TO) | 3–5% of fractures; may extend to quadrilateral plate without exiting PC; subtypes by exit: **low · intermediate · high** (TO) |
+| **Transverse** | **Iliopectineal + ilioischial** both broken; single line crossing acetabulum; posterior displacement > anterior (TO) | **Only elementary to involve both columns**; axial CT: **vertical (sagittal) A→P line**; articular surface still attached to intact ilium; subtypes by level vs dome: **infratectal · juxtatectal · transtectal** (TO) |
 
 ![Letournel associated patterns](../../Orthobullets/attachments/ob1034-associated-types.jpg)
 
 | Associated | Key fact |
 |---|---|
 | **Associated both column (ABC)** | **All articular segments detached from intact ilium** (which stays on sacrum via SI joint) → **no articular surface attached to axial skeleton** · **spur sign** · may show **secondary congruence** |
-| **Transverse + posterior wall** | **Commonest associated** · **highest nerve injury** · high DJD risk |
+| **Transverse + posterior wall** | **Commonest associated** (Orthobullets) · \~**20%** of acetabular fractures (TO) · **highest nerve injury** · frequently with dislocation · high DJD risk |
 | **T-type** | Transverse + vertical split into **obturator ring** · high DJD risk |
-| **ACPHT** | **Commonest in elderly** |
-| **PC + PW** | **Only associated type NOT involving both columns** |
+| **ACPHT** | **Commonest in elderly** · femoral head **follows the anterior segment** (TO) |
+| **PC + PW** | **Only associated type NOT involving both columns** · wall fragment moves with femoral head (TO) |
+
+**Commonest associated pattern** — **transverse + PW** (Orthobullets) · **associated both column** (TO) — read the options
+
+**Commonest associated – second TO lecture (TO)** — **ACPHT** called "most common associated"; T + PW "common and unstable" — read the options
+
+**T + PW reduction order (TO)** — **transverse first**, then posterior wall
 
 **Column vs transverse on axial CT** — **transverse = vertical (sagittal) line** · **column = horizontal (coronal) line**
 
@@ -180,6 +231,10 @@
 **Fragment-size methods (less accurate than EUA)** — **Keith** (depth vs contralateral **at fovea**) · **Moed** (depth vs contralateral **at greatest involvement**) · **Calkins** (posterior **arc length** at greatest involvement)
 
 **EUA technique** — hip **flexion + adduction + axial load**, **obturator oblique** view → **↑ medial clear space** = unstable
+
+**EUA – TO version (TO)** — flexion + adduction + **internal rotation** + axial (telescoping) load, obturator oblique → **loss of parallelism** = unstable; called **gold standard** for stability
+
+**PW size cut-offs** — 20–40% indeterminate · > 40–50% unstable (Orthobullets) · **20–50% indeterminate · > 50% unstable** (TO) — read the options
 
 **History of dislocation** — **not** predictive of instability (Grimshaw & Moed: stable on stress exam → nonop fine)
 
@@ -293,12 +348,48 @@ Posterior wall fracture (post-reduction CT)
 
 **Approach does not affect outcome** (Matta)
 
+**Ilioinguinal – TO extras (TO)** — also **transverse displaced anteriorly** · **T-type with dominant anterior column** · **not** for PW, PC, PC + PW, **posteriorly displaced transverse**
+
+| Ilioinguinal window (TO) | Exposes / structures |
+|---|---|
+| **Lateral** | Iliac crest, internal iliac fossa, anterior ilium → anterior column plating |
+| **Middle** (most critical) | **Inguinal canal contents**, **ilioinguinal nerve**, **LFCN**, **femoral vessels**; **iliopectineal fascia** must be incised (opens the whole anterior pelvis) |
+| **Medial** | **Symphysis**, superior ramus, **quadrilateral plate**, posterior column (indirect); bladder retraction; **corona mortis ligated** |
+
+**Ilioinguinal set-up (TO)** — supine · **Foley mandatory** · lumbosacral bump · **hip flexed to relax iliopsoas** · drains in **space of Retzius** + internal iliac fossa
+
+**Modified Stoppa steps (TO)** — **midline rectus split (linea alba)** → protect bladder → **ligate corona mortis** → incise iliopectineal fascia to **SI joint** → expose quadrilateral plate
+
+**KL prone vs lateral (TO)** — **prone** improves ischiopubic segment reduction, **clamp through sciatic notch**, palpation of quadrilateral surface · KL exposes entire posterior column, both sciatic notches, ischial spine + tuberosity, retroacetabular surface
+
+**KL steps (TO)** — split fascia lata → release **gluteus maximus tendon** → tag + detach **short external rotators** → expose sciatic notch
+
+**Transverse reduction tools (TO)** — distal femoral traction · **Schanz pin in ischial tuberosity** · **angled Weber clamp through notch** · Farabeuf clamp · Schanz pin in iliac pillar (joystick) · ball-spike pusher
+
+**Reduction rule (TO)** — **column first, then wall**; leave haematoma until full exposure
+
+**ABC reduction sequence (TO)** — anterior column → **intact ilium** → plate **pelvic brim** → reduce posterior column → **PC screws through pelvic brim** → **intrapelvic buttress** plate
+
+### Posterior wall fixation (TO)
+
+**Buttress plate (TO)** — **mandatory**; **under-contoured** plate resting close to the rim → plate loads the fragment, prevents displacement
+
+**Lag screws (TO)** — through plate or independent; **never lag screws alone**
+
+**Comminuted wall (TO)** — **spring plates** under buttress plate · divergent screws ↑ stability
+
+**Intra-articular screw check (TO)** — **end-on (tangential) fluoroscopic view** of the joint line; AP + Judets alone **not sufficient**
+
+**Trochanteric flip (TO)** — **posterosuperior wall involving the roof**; fragment must carry **gluteus medius + minimus**; **excise damaged gluteus minimus** (↓ HO)
+
 ### Sciatic nerve – positioning & injury
 
 **Least sciatic tension during KL** — **hip extended + knee flexed (90°)**\
 ✗ Wrong options: hip flexed · knee extended · ilioinguinal (that risks femoral + LFCN)
 
 **Highest intraneural pressure** — **hip flexed 90° + knee extended** (excursion from sciatic notch to leg)
+
+**KL position to relax sciatic** — hip **extended** + knee flexed (Orthobullets) · hip **and** knee flexed, lateral position (TO) — read the options
 
 ### Percutaneous column screws – fluoroscopic views
 
@@ -315,6 +406,17 @@ Posterior wall fracture (post-reduction CT)
 ✗ Wrong options: ASIS · sciatic buttress · roof
 
 **Antegrade AC screw** — start **gluteal pillar** → toward pubic tubercle · retrograde = ramus → iliac wing
+
+| Percutaneous screw (TO) | Start / trajectory |
+|---|---|
+| **PC antegrade** | **Iliopubic eminence → ischial tuberosity** or → ischial spine · iliac crest → sciatic notch |
+| **PC retrograde** | **Medial half of ischial tuberosity** → posterior column |
+| **AC antegrade** | Superior to acetabulum / iliac crest; narrow corridor at pubic root |
+| **AC retrograde** | **Inferior + lateral to pubic tubercle**; flexible nail helps find corridor |
+
+**AC screw dangers (TO)** — **femoral vessels**, **corona mortis**, **bladder** · views: inlet + obturator + iliac oblique
+
+**Percutaneous PC screw contraindication (TO)** — **comminuted posterior column**
 
 ### Elderly – acute THA with / without ORIF
 
@@ -528,3 +630,9 @@ Posterior wall fracture (post-reduction CT)
 **"Adolescent superior acetabular ossicle?"** → **os acetabuli marginalis superior**
 
 **"Crescent fracture on CT — mechanism?"** → **lateral compression**
+
+**"Increased medial joint space after reduction?"** → **incarcerated fragment** (TO)
+
+**"How to confirm no intra-articular screw?"** → **end-on fluoroscopic view of joint** (TO)
+
+**"Transverse + PW — sequence?"** → **transverse first, then wall** (TO)

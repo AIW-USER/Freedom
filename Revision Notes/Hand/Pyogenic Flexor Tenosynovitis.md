@@ -22,6 +22,12 @@
 | **Thumb (FPL)** | IP → **radial bursa** |
 | **Little** | DIP → **ulnar bursa** |
 
+**Sheath anatomy (TO)** — closed synovial tube **A1 → just beyond DIP** · parietal + visceral (epitenon) layers joined at both ends · synovial fluid nourishes tendon
+
+**Pathogenesis (TO)** — ↑ pressure in closed sheath → compresses **vincula** (2nd nutrition source) → tendon necrosis, stiffness, amputation
+
+**Bursal extent (TO)** — radial + ulnar bursae reach **\~2 cm proximal to TCL** · anatomically separate but usually continuous
+
 **Parona's space** — **between pronator quadratus fascia and FDP conjoined tendon sheaths** → radial–ulnar bursa communication → **horseshoe abscess** (thumb ↔ little finger)
 
 ![Flexor sheaths and bursae](../../Orthobullets/attachments/ob6105-flexor-sheaths-of-the-hand.jpg)
@@ -36,6 +42,8 @@
 | Mixed / gram-negative | Immunocompromised |
 | **Eikenella** | **Human bite** / fight bite; IVDU licking needles |
 | **Pasteurella multocida** | Animal bite |
+
+**Haematogenous PFT (TO)** — mostly **gonococcal**
 
 **Distractors** — HSV → **herpetic whitlow** (vesicles, healthcare workers, **do not debride**, acyclovir) · Candida → **chronic paronychia** · E. coli → uncommon
 
@@ -56,6 +64,12 @@
 | **Pain on passive extension** | **Most constant + first sign** (TO) |
 | **Fusiform swelling** | 4th sign **added later, not by Kanavel** (TO) · not discrete swelling |
 
+**Most reliable Kanavel sign** — **tenderness along the flexor sheath** (TO — not localised to a joint/phalanx → excludes pyarthrosis, osteomyelitis) · pain on passive extension = most constant + first (TO) — read the options
+
+**Early PFT (TO)** — all signs may be absent; signs also track improvement
+
+**Bursal infection (TO)** — Kanavel signs **subtler** (auto-decompression) · tenderness: **radial bursa** at wrist crease–**thenar** junction · **ulnar bursa** at wrist crease–**hypothenar** junction
+
 **NOT a Kanavel sign** — **pain on passive flexion** (TO ×2, OB) · tenderness over extensor sheath (TO ×2)
 
 **✗ Wrong option** — inability to flex DIP → **FDP rupture**
@@ -70,10 +84,14 @@
 
 | Modality | Fact |
 |---|---|
-| X-ray | Not required; exclude **foreign body** |
+| X-ray | Not required; exclude **foreign body** · osteomyelitis, pyarthrosis (TO) |
+| Lateral X-ray (TO) | **Volar soft tissue at proximal phalanx > 7 mm thicker than dorsal** → predicted PFT (one study) |
+| Labs (TO) | CBC, ESR, CRP to follow disease |
 | MRI | **not needed for diagnosis**; cannot separate infective vs inflammatory; extent if equivocal |
 
 **Differential** — felon, cellulitis, deep space infection, collar-button abscess, herpetic whitlow, septic arthritis, gout
+
+**Non-septic tenosynovitis (TO)** — gout, calcific tendinitis, RA, acute stenosing tenosynovitis → less acute, no excruciating pain → **aspirate sheath**; no pus → **NSAIDs**
 
 ## 5 Management
 
@@ -90,12 +108,22 @@ Suspected PFT
 
 **Best outcome predictor** — **early IV antibiotics** correlate most closely with good outcome
 
+**Non-operative window (TO)** — **only within 24 h of onset** · dorsal block splint, elevation, IV antibiotics · **operate if no improvement in 12 h** (TO) · 24 h (Orthobullets) — read the options
+
 **Empirical (OB)** — **vancomycin + piperacillin/tazobactam**
 
 **Surgery indicated by** — **delayed presentation (>24–48 h)**, purulence, failed 24 h antibiotics\
 ✗ Wrong options: immunocompromise · age · malignancy · all four Kanavel signs alone
 
 **Closed irrigation** — catheter **proximal to A1** → out at **A5 / DIP**; thumb exits just distal to carpal tunnel; little finger with ulnar bursa → 2nd catheter A1 → wrist
+
+| Surgical option (TO) | Details |
+|---|---|
+| **Limited exposure (Neviaser)** | Incisions at **A5 distally + A1 proximally**; catheter → continuous irrigation every **1–2 h**; only very early cases |
+| **Mid-lateral + palmar incision over A1** | Decompresses pulleys + digit; debride necrotic sheath; irrigate from palm until clear |
+| **Brunner zig-zag** | Advanced infection, wider exposure; more scarring |
+
+**Postoperative (TO)** — wounds **left open**, dorsal slab, secondary intention · **IV antibiotics 7–10 days → oral to complete 4 weeks** · **active movement within 12–48 h**
 
 **Open vs closed** — **equally effective**; open → trend to more complications/reoperation; closed largely replaced open\
 ✗ Wrong options: two-incision superior
@@ -153,5 +181,9 @@ Suspected PFT
 **"Risk of stiffness/amputation?"** → **age >43**
 
 **"Thumb PFT spreads first to?"** → **thenar space**
+
+**"Most reliable Kanavel sign?"** → **tenderness along the flexor sheath** (TO)
+
+**"Haematogenous flexor tenosynovitis — organism?"** → **gonococcus** (TO)
 
 **"Thumb PFT + swollen little finger + forearm?"** → **Parona's space** (PQ fascia–FDP sheaths)

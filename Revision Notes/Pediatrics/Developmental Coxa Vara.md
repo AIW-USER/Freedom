@@ -12,6 +12,10 @@
 
 **Genetics** — no clear inheritance
 
+**TO lecture** — "often **autosomal dominant**" · associations: **cleidocranial dysostosis**, metaphyseal dysplasia, spondylometaphyseal dysplasia — read the options
+
+**Fairbank's triangle (TO)** — triangular inferior-neck (osteoid) fragment = inverted-Y defect
+
 ### Pathophysiology
 
 **Defect** — **proximal femoral physis / ossification defect of inferior femoral neck** → ↓ neck-shaft angle, **vertical physis**
@@ -36,6 +40,8 @@
 
 **Exam** — **LLD**, limb shortening · **high-riding greater trochanter** · ↑ lumbar lordosis · non-tender ↓ hip ROM (esp. abduction, IR)
 
+**Difficulty cross-leg sitting (TO)** · **HE angle, not neck-shaft angle, defines coxa vara** (NSA unreliable — physeal slip) (TO)
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -47,6 +53,7 @@
 | **Neck-shaft angle** | **<120°** (varus) |
 | Neck / physis | **Short neck, VERTICAL physis** (✗ Wrong options: horizontal) |
 | **Hilgenreiner–epiphyseal (HE) angle** | **↑** (normal **<25°**) — Hilgenreiner line vs proximal femoral physis |
+| HE angle — TO lecture | Normal "\~45°" (TO — verify: Orthobullets normal < 25°; 45° is the observe/progress threshold) |
 | **Inverted-Y lucency** | **Triangular metaphyseal fragment of INFERIOR neck** (✗ Wrong options: superior · upright Y) |
 | Version | **↓ femoral anteversion** (✗ Wrong options: increased) |
 
@@ -85,6 +92,14 @@ Developmental coxa vara
 ✗ Wrong options: varus osteotomy · night abduction brace · fixing the metaphyseal fragment
 
 **Greater trochanter** — **epiphysiodesis** (prevent GT overgrowth) · **distal-lateral transfer** (tip at level of head centre)
+
+**3 goals (TO)** — correct HE angle · **distalise GT** · prevent recurrence (epiphysiodesis)
+
+**Intertrochanteric osteotomy principles (TO)** — most versatile level (iliopsoas stabilises proximal fragment) · CORA: **varus deformity → centre of head**, valgus deformity → base of GT · **valgus osteotomy needs adequate adduction**, varus needs abduction · fixation: varus **90° blade plate**, valgus **double-angle plate**
+
+**Powell osteotomy (TO)** — high valgus osteotomy, fixation **crosses trochanteric physis** → vertical physis made horizontal → compression + fusion · **wedge angle = HE angle − 16°** · others: **Mosher** (multiple cuts), **Pauwels** intertrochanteric valgus
+
+**Target HE** — **< 38°** (Orthobullets) · **\~25–30°** (TO) — read the options
 
 ## 6 Complications
 

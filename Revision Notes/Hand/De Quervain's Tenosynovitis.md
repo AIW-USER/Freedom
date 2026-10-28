@@ -111,6 +111,8 @@ De Quervain's
 
 **Immobilisation** — high failure rate, **except lactating women** (nonop highly effective)
 
+**Septum between APL and EPB (TO)** — may need **injection on both sides** of the septum (MRI/US shows it)
+
 **TO conservative list** — activity modification, NSAIDs, ice massage, thumb spica, **steroid into APL/EPB sheath** → release if fails
 
 ### Surgical release

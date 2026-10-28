@@ -8,6 +8,8 @@
 
 **Incidence** — **2–5%** of unstable shoulders (Orthobullets) · **2–12%** of instability (OB) — read the options
 
+**Incidence (TO)** — **2–4%** of all dislocations · causes: **epilepsy, electrocution, seizures, dashboard injuries** · **subacromial type commonest** (head posterior to glenoid, inferior to acromion)
+
 **Missed** — **50%** of traumatic posterior dislocations in ED undiagnosed · Hawkins & Neer: 41 locked dislocations, **50% with fracture**, 20 missed, mean **1 y** to diagnosis
 
 **Prior dislocation** — up to **50%** of patients evaluated for posterior instability report a prior posterior dislocation · frank dislocation in only **2–5%** of posterior labral tears
@@ -66,6 +68,13 @@
 | **Lesser tuberosity fracture** | Acute posterior dislocation |
 | Large capsular pouch | Chronic instability (MR arthrogram) |
 
+| Posterior lesion (TO) | Description |
+|---|---|
+| **Reverse bony Bankart** | Avulsion fracture of posteroinferior glenoid |
+| **POLPSA** | **Posterior labrocapsular periosteal sleeve avulsion**: capsule stripped with intact periosteum |
+| **Reverse HAGL** | Posteroinferior capsule avulsed from **humerus** |
+| **Kim lesion** | **Incomplete** posteroinferior tear between labrum + cartilage · **always probe** at arthroscopy |
+
 **Reverse Hill-Sachs (TO)** — **anteromedial** humeral head · Hill-Sachs = **posterosuperolateral**\
 ✗ Wrong options: posterolateral
 
@@ -91,6 +100,9 @@
 | **Jerk** | 90° abduction/flexion + IR, elbow bent · **axial load** along humerus → adduct into forward flexion (bring back to extension → reduces) | **Clunk** ± pain · posterior labral tear in **mid-range** glenoid |
 | **Kim** | Seated, 90° abduction → **flex to 45°** + axial load at elbow + posteroinferior force (Orthobullets) · arm elevated **125°** + IR, downward + posterior force (OB) | **Pain** (± clunk) · more sensitive for **posteroinferior** tears |
 | **Jerk + Kim** | Combined | **97% sensitive** for posterior labral tear |
+
+| **Load & shift (TO)** | Push head anterior/posterior with thumb | **90% sensitivity, 85% specificity** |
+| **Circumduction (TO)** | Circumduction under load | Reproduces **clunk** → confirms instability |
 | Posterior stress | Stabilise scapula, push posteriorly | Pain common, **not specific** |
 | **Load & shift** | Supine, neutral rotation, 40–60° abduction + flexion | Grade translation |
 
@@ -131,6 +143,16 @@
 
 ![Lightbulb sign on AP](../../Orthobullets/attachments/ob3051-light-bulb-sign.jpg)
 
+| Radiographic sign (TO) | Description |
+|---|---|
+| **Vacant glenoid** | Empty anterior glenoid fossa |
+| **Rim sign** | Anterior rim–head distance **>6 mm** |
+| **Light bulb** | Internally rotated head looks circular |
+| **Trough sign** | Reverse Hill-Sachs (anterior head impaction line) |
+| **Moloney's arch** | **Acute angle** of scapulohumeral arch |
+
+**Apparently normal AP (TO)** — posterior dislocation **often missed**
+
 **Axillary lateral** — **best view**; mandatory (needs **20–30° abduction**) · **more sensitive than trans-scapular** · any suspected dislocation → full trauma series (AP, scapular Y, axillary)
 
 **Can't abduct (pain/spasm)** — **Velpeau view**\
@@ -168,10 +190,13 @@ Posterior shoulder instability
 | **Orthobullets** | All acute (most reduce spontaneously) · disimpaction + graft if **<3 wk** | Chronic **<6 mo** + RHS **<40%** | **>6 mo**, RHS **>40%**, severe head arthritis, **head collapse on reduction** |
 | **Hawkins & Neer (OB)** | **<6 wk + <20%** | **6 wk–6 mo + 20–45%** | **>6 mo or >45%** (glenoid normal) |
 | **OB (other)** | **<3 wk + <25%** under GA; stable if IR to abdomen → 6 wk orthosis in slight extension + ER | Defect **<~40%** | Larger; **>50%** or several months |
+| **TO** | **<3 wk + <20%** · **>3 wk / >20% → open reduction (posterior approach)** | **25–45%** McLaughlin / modified | **>45%** bone graft / arthroplasty |
 
 **TSA** — significant **glenoid arthritis** + an HA indication · glenoid intact → no glenoid component
 
 **Closed reduction after ~3 wk** — exceedingly difficult · may **displace unrecognised surgical neck fracture**
+
+**Neglected >6 wk (TO)** — **open reduction**; **closed reduction contraindicated**
 
 **McLaughlin** — **subscapularis** into anteromedial defect · **modified (Neer/Hawkins)** = **lesser tuberosity + subscapularis** (used by most) · deltopectoral
 
@@ -225,6 +250,23 @@ Posterior shoulder instability
 **Thermal capsulorrhaphy** — **contraindicated** · breaks collagen cross-links at **65–75 °C** · capsular necrosis, **chondral damage**, axillary nerve injury, recurrence
 
 **Technique** — **lateral decubitus** · **high lateral / posterosuperior portal** for anchor trajectory
+
+**Posterior repair (TO)** — open: **deltoid split → infraspinatus–teres minor interval** · anchors at **7, 8, 9 o'clock** (right shoulder)
+
+| Portal (TO) | Use |
+|---|---|
+| **Kim's posterior portal** — **2 cm lateral to posterolateral acromial corner** | Working (anchors) |
+| Mid-glenoid anterior | Viewing |
+| Trans-cuff anterosuperior | Shuttle |
+
+**Precautions (TO)** — **posterior circumflex humeral artery ~4 cm** · **suprascapular nerve ~3 cm** away · probe to rule out Kim lesion
+
+| Pathology (TO) | Procedure |
+|---|---|
+| **Posterior Bankart** | **Posterior labral repair** |
+| No posterior Bankart | **Posterior capsulolabroplasty** |
+| Posteroinferior instability | **Posterior capsular plication** |
+| Anterior + posterior + inferior | **Combined labral repair + global capsular plication** |
 
 **Results** — open **80–85% success at 5–7 y** · arthroscopic similar (shorter follow-up)
 
@@ -362,3 +404,7 @@ Posterior shoulder instability
 **"Post-op protocol after posterior labral repair?"** → **avoid flexion, adduction, IR**
 
 **"Rugby player, posterior tear + 11% glenoid loss, bone block — true?"** → **subcritical bone loss is an indication in contact athletes**
+
+**"Rim sign threshold for posterior dislocation?"** → **>6 mm** anterior rim–head distance (TO)
+
+**"Neglected posterior dislocation >6 weeks?"** → **open reduction — closed reduction contraindicated** (TO)

@@ -20,6 +20,8 @@
 
 **Notching conflict** — **not a risk factor** (TO) · **listed as risk** (OB210125, OB220387) · **debatable** (Orthobullets) — read the options
 
+**Notching (TO lecture notes)** — notching (and pistol-grip stems) act as **stress risers** · **PS > CR** fracture risk (box cut) · other TO risks: **mini-incision**, size mismatch, uncemented
+
 **Intra-op fractures** — ✓ **medial femoral condyle commonest** (incomplete sagittal cut between notch and MFC) → then **lateral condyle → supracondylar femur → proximal tibia** · ↑ in **PS (box cut)** · **femoral > tibial** · patella rare · most need **fixation** (wires/screws/plates) · occur in exposure/bone prep > trialing
 
 **Navigation / robotics** — ✓ **femoral shaft fracture through tracker pin sites** = complication unique to navigation (TO) · ✓ **transcortical / bicortical diaphyseal, large pins** ↑ risk · safer: **two 3 mm unicortical metaphyseal pins**, self-drilling/self-tapping · fractures within ~**3 months**; thermal necrosis · 5 mm pin removes **2.78×** bone of 3 mm · drill holes ↓ bending strength up to **40%**\
@@ -51,6 +53,10 @@
 | **II** | Starts at **proximal edge of component**, extends proximally | **Retrograde IMN** or fixed-angle plate |
 | **III** | Any part **distal to upper edge of anterior flange** | **Fixed-angle/locked plate** or **revision / DFR** if poor bone · no rIMN |
 
+**Su III (TO notes)** — distal to component → **often needs revision stem** · stable prosthesis + distal fracture → **long-stem femoral component ± plate** (TO) · fixed-angle plate (Orthobullets) — read the options
+
+**Interprosthetic (THR + TKR)** — **Su type I** for the TKR, Vancouver C for the THR → **long bridging plate ± graft** (TO)
+
 **Su used for** — ✓ **periprosthetic femur** (TO)\
 ✗ Wrong options: patella · humerus · tibia
 
@@ -74,6 +80,8 @@
 | **IV** | **Tibial tubercle** | — |
 
 **Felix treatment (TO)** — **IB, IIB → revision** (most postoperative I/II are B) · IIA, IIIA, IVA → usual fracture principles · IC → intra-op fixation · IIC → graft / immobilise / restricted WB · IIIC → conventional
+
+**Felix by type (TO notes)** — **IA** → ORIF / non-op · **IB** → long-stem revision · **II** stable → ORIF, loose → revision · **III** → ORIF **± dual plating** if fixation poor · **IV** (tubercle) → **screws / tension band**
 
 **Unified Classification System (TO)** — A apophyseal · B implant bed · C clear of bed · D between two arthroplasties · E two bones, one arthroplasty · F faces unresurfaced implant
 

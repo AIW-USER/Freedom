@@ -12,6 +12,8 @@
 
 **Low vs high** — **low (ATFL ± CFL) > 90%** · **high (syndesmosis) 1–10%**
 
+**Chronic instability (TO)** — **\~20%** of sprains · pain, repeat sprains, giving out → **MRI indicated** · single sprain needs no MRI (US can show ATFL) (TO)
+
 **Risk factors** — patient: **limited dorsiflexion, ↓ proprioception, poor balance** · environment: **indoor-court sports (basketball, volleyball)** highest
 
 ### Anatomy & examination – ATFL vs CFL
@@ -82,6 +84,10 @@
 **Talar tilt** — tibia stabilised, ankle neutral, invert · **> 15° vs contralateral = ATFL + CFL** · **isolated ATFL cannot give + talar tilt** → CFL must be torn\
 ✗ Wrong options: PTFL · AITFL / PITFL
 
+**Talar tilt cut-off** — **> 15° vs contralateral** (Orthobullets) · **> \~4° or side-to-side difference on bilateral varus stress** (TO) — read the options
+
+**Failure order (TO MRI)** — **CFL tear without ATFL tear does not occur** · PTFL tears only in high energy (TO)
+
 **Syndesmosis tests (TO)** — **squeeze** (compress tibia + fibula mid-calf → syndesmotic pain) · **fibular translation** (fibula forward/back) · **Cotton** (talus side-to-side, neutral) · **ER stress** (ER + DF, hip + knee 90°) · gross swelling **usually absent**; tenderness at anterior syndesmosis ± deltoid
 
 **Cotton / hook test intra-op (TO)** — translation considered positive asked (0–1 / 1–2 / 2–3 / 3–4 mm) — **answer key not provided by the source** (TO)
@@ -130,6 +136,8 @@
 | **MRI** | If pain **> 6–8 wk** · **peroneal tendons, OCD, syndesmosis** · not needed acutely (✗ Wrong options: intra-articular contrast) |
 | **MRI syndesmosis (TO)** | **Gold standard** · **lambda sign = > 2 mm diastasis on coronal** (sensitive + specific) (TO) · also **hyperintense signal contiguous from mortise into tibiofibular joint** (OB) |
 | Peroneal tendon pathology | **MRI** (✗ Wrong options: CT) |
+
+**Foot vs ankle MRI (TO)** — ankle MRI covers hindfoot + part of midfoot · forefoot (metatarsalgia, turf toe, Morton, Lisfranc) → **request foot MRI** (TO)
 
 ### Syndesmotic radiographic parameters (TO)
 
@@ -236,6 +244,8 @@ Chronic lateral instability
 ### Chronic instability – Broström-Gould, reconstruction & rehabilitation
 
 **Chronic instability** — **> 6 wk** · repeated episodes "giving way"
+
+**Functional vs mechanical instability (TO)** — functional = **proprioceptive**, ATFL attenuated but present · mechanical = **lateral joint opening on varus stress** (TO)
 
 **Modified Broström-Gould** — **anatomic shortening + reinsertion (imbrication) of ATFL + CFL** · reinforced with **inferior extensor retinaculum + distal fibular periosteum** · **90% good–excellent** · commonest procedure; preferred in athletes with normal alignment\
 ✗ Wrong options: Evans · allograft fibula → 5th MT · added osteotomy if aligned
@@ -412,6 +422,8 @@ Chronic lateral instability
 | Problem | Over-tight → **↓ DF** | **Subtalar stiffness** |
 
 ## How it's asked
+
+**"Which lateral ligament never tears in isolation?"** → **CFL (ATFL always first)** (TO)
 
 **"Inversion laxity in dorsiflexion, none in PF — ligament?"** → **calcaneofibular ligament (CFL)**
 

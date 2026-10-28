@@ -34,6 +34,14 @@
 
 **Irreversible damage** — within **6 h**
 
+**Causes by mechanism (TO)** — **↓ compartment size** (tight cast / bandage, circumferential burn eschar) · **↑ compartment content** (haematoma, reperfusion / crush oedema, snake bite, bleeding disorder)
+
+**Eaton & Green ischaemia–oedema cycle (TO)** — arterial spasm → ischaemia → ↑ capillary permeability → oedema → ↑ intramuscular pressure → more ischaemia
+
+**Critical closing pressure theory (TO)** — **Laplace**: transmural pressure = wall tension ÷ radius → interstitial pressure > vessel wall tension → **capillary collapse**
+
+**AV gradient theory (TO)** — flow ∝ **(Pa − Pv) ÷ R** → ↑ interstitial → ↑ venous pressure → ↓ AV gradient → ischaemia
+
 ### Compartment anatomy & nerve deficits
 
 | Compartment | Muscles | Nerve / vessel | Deficit |
@@ -110,6 +118,14 @@
 | Lateral | Just anterior to posterior fibular border |
 | Superficial posterior | Mid-calf |
 
+| Device (TO) | Fact |
+|---|---|
+| **Whitesides needle** | **Mercury manometer + syringe + 3-way stopcock** · simplest ward method |
+| **Wick / slit catheter** | Fluid-displacement pressure; continuous |
+| **Stryker monitor** | Hand-held electronic, real-time |
+
+**Pressure measurement indicated (TO)** — unconscious / polytrauma · **tourniquet palsy / peripheral nerve injury** (pain unreliable)
+
 **Obtunded / intubated** — **measure pressures** · AAOS CPG: **repeated / continuous** monitoring\
 ✗ Wrong options: palpation · myoglobinuria (lactate / troponin better but inferior)
 
@@ -178,6 +194,18 @@ Suspected leg compartment syndrome
 
 **Contraindication** — **missed (established) compartment syndrome**
 
+**Timing (TO)** — ideal **within 12 h** · **> 24 h usually contraindicated** (infection of necrotic muscle)
+
+**Limited / subcutaneous fasciotomy (TO)** — **no role in acute** compartment syndrome
+
+| Region (TO) | Fasciotomy |
+|---|---|
+| **Leg** | **Two-incision (Mubarak)** — anterolateral + posteromedial → all 4 |
+| **Thigh** | **Lateral** incision (anterior + posterior) ± **medial** for adductors |
+| **Arm** | Anterolateral; anterior compartment first |
+| **Forearm** | Volar **lazy-S** (curved laterally → mobile wad) ± dorsal |
+| **Foot** | **2 dorsal (over 2nd + 4th MT)** ± medial |
+
 ![Dual-incision fasciotomy](../../Orthobullets/attachments/ob1001-illustration-double-incision-technique.jpg)
 
 ### Hyperbaric oxygen
@@ -237,6 +265,10 @@ Suspected leg compartment syndrome
 **"Pain after 5-h nailing, pulse present (TO)?"** → **operative decompression**
 
 **"Most sensitive sign in child (supracondylar)?"** → **increasing analgesia requirement**
+
+**"Simplest ward method of pressure measurement?"** → **Whitesides needle manometer** (TO)
+
+**"Fasciotomy at 30 h after onset?"** → **usually contraindicated (> 24 h)** (TO)
 
 **"Earliest sign in child?"** → **pain out of proportion**
 

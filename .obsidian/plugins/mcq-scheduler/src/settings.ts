@@ -2,7 +2,6 @@ import { App, PluginSettingTab, Setting } from "obsidian";
 import type McqSchedulerPlugin from "./main";
 import { ConfirmModal } from "./confirm";
 import { pad4 } from "./activity";
-import { completedCount } from "./schedule";
 import { DEFAULT_SETTINGS } from "./types";
 
 export class McqSettingTab extends PluginSettingTab {
@@ -31,7 +30,7 @@ export class McqSettingTab extends PluginSettingTab {
 			.setDesc(`Total ${pad4(time.total)} · today ${pad4(time.today)}`);
 		new Setting(containerEl)
 			.setName("Modules completed")
-			.setDesc(pad4(completedCount(this.plugin.schedule.state)));
+			.setDesc(pad4(this.plugin.schedule.completed()));
 
 		const monitor = new Setting(containerEl).setName("Monitoring");
 		if (!log.enabled) {
@@ -337,10 +336,49 @@ export class McqSettingTab extends PluginSettingTab {
 				}),
 			);
 
+		const num = (name: string, desc: string, get: () => number, set: (n: number) => void, min: number, max: number) =>
+			new Setting(containerEl)
+				.setName(name)
+				.setDesc(desc)
+				.addText((t) => {
+					t.inputEl.type = "number";
+					t.setValue(String(get())).onChange(async (v) => {
+						const n = Math.floor(Number(v));
+						if (!Number.isFinite(n) || n < min || n > max) return;
+						set(n);
+						await this.plugin.saveSettings();
+						this.plugin.refreshViews();
+					});
+				});
+		num(
+			"New modules per day",
+			"How many modules from the head of the queue are introduced each study day.",
+			() => s.newPerDay,
+			(n) => (s.newPerDay = n),
+			0,
+			9999,
+		);
+		num(
+			"Maximum reviews per day",
+			"Reviews beyond this wait for the next day.",
+			() => s.reviewsPerDay,
+			(n) => (s.reviewsPerDay = n),
+			0,
+			9999,
+		);
+		num(
+			"Next day starts at (hour)",
+			"0–23. Study after midnight but before this hour counts towards the day before. Default 4.",
+			() => s.dayStartHour,
+			(n) => (s.dayStartHour = n),
+			0,
+			23,
+		);
+
 		new Setting(containerEl)
 			.setName("Delete the module schedule")
 			.setDesc(
-				"Forgets every module's score, attempts and completion so the schedule can be " +
+				"Forgets every module's interval, ease and question history so the schedule can be " +
 					"created afresh. The answer log (responses.jsonl) is kept. Press twice to confirm.",
 			)
 			.addButton((b) => {

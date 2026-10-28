@@ -71,6 +71,10 @@
 | Collar | **None** (would block subsidence) · use centralizer | Allowed (calcar load transfer) |
 | Fracture | Slightly **↑ periprosthetic fracture** (hoop stress) | Anatomical stems fewer early fractures |
 
+**Bone quality (TO)** — composite beam: collar, **good in osteoporotic bone** · taper slip: proximal wedge + hoop stress → **avoid in poor bone** (fracture risk)
+
+**Earliest clinical sign (TO)** — **start-up pain** (groin / thigh on rising) · lucency typically appears **5–6 yr** post-op on serial films
+
 **Cement mantle** — **2–4 mm**, continuous · thin → fissures · **>5 mm** → micromotion, creep · **over-broaching** (stem smaller than rasp, ≥2 mm mantle) vs **line-to-line ("French paradox")** thin mantle · **retrograde gun filling** · 4th-generation: centralize stem · **Barrack–Mulroy** grades mantle quality · setting faster with heat, humidity, longer mixing, handling
 
 ## 5 Management

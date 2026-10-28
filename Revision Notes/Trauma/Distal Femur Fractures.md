@@ -12,6 +12,8 @@
 
 **Open** — **5–10%** of supracondylar fractures
 
+**Definition (TO)** — fracture within the **transcondylar width** (square drawn on medial + lateral epicondyles)
+
 ### Anatomy
 
 **Anatomic axis** — **6–11° valgus**; medial condyle extends further distal
@@ -19,6 +21,10 @@
 **Trapezoidal cross-section** — **lateral cortex slopes \~10°**, **medial cortex \~25°** → straight AP hides long medial screws → check with **AP in 30° internal rotation**
 
 **Condyles** — posterior halves lie **behind** posterior shaft cortex
+
+**Adductor hiatus (TO)** — femoral vessels pass posteriorly **10–12 cm above knee** → respect zone in **medial plating**
+
+**Posterior spike of distal fragment (TO)** — may injure **popliteal artery**
 
 ![Trapezoidal distal femur](../../Orthobullets/attachments/ob1041-distal-femur-anatomy.jpg)
 
@@ -76,6 +82,7 @@
 | Incidence in supra- / intercondylar fractures | **38%** (X-ray, Orthobullets) · **\~40%** (CT, OB) |
 | Condyle | **Lateral 80%** |
 | Missed on X-ray | **up to 31%** (\~30%) |
+| Missed on X-ray (TO) | **30–40%** |
 | Best seen | **Lateral view / CT** (✗ Wrong options: AP) |
 | Association | **Open fractures \~3× more likely**; high energy (✗ Wrong options: ground-level fall) |
 | OTA | **33B3** |
@@ -94,6 +101,7 @@
 | **33A** | **Extra-articular** |
 | **33B** | **Partial articular** — part of joint still attached to shaft; **B3 = coronal (Hoffa)** |
 | **33C** | **Complete articular** — articular block separated from shaft |
+| **Subgroups (TO)** | **A1** simple · A2 wedge · A3 comminuted · **B1 lateral condyle** · **B2 medial condyle** · **B3 Hoffa** · C1 simple · **C2 metaphyseal comminution** · **C3 articular comminution** |
 
 ![AO/OTA classification of distal femur fractures](../../Orthobullets/attachments/ob1041-ao-ota-classification-of-distal-femur-fractures.jpg)
 
@@ -148,6 +156,14 @@ Distal femur fracture
 **Intercondylar screw length** — **AP in 30° internal rotation**\
 ✗ Wrong options: ER view · full extension AP
 
+**Implant facts (TO)** — **blade plate** technically demanding, **obsolete** · **DCS** = **12.5 mm** lag screw, bone-consuming, needs **≥ 4 cm intact distal fragment** · **distal femoral locking plate = gold standard** (combi holes)
+
+**Plating tips (TO)** — **distal-most screw parallel to joint surface** · **anterior screws short** (trapezoid) · **non-locking before locking** · correct apex-posterior angulation with **knee flexion + bolster** · K-wire / Steinmann joysticks
+
+**Far cortical locking (TO)** — ↓ construct stiffness → ↑ callus
+
+**Ex-fix (TO)** — DCO, Gustilo III, blisters / swelling, **vascular repair** · pins **away from future incisions**
+
 ### Approaches
 
 | Approach | Use |
@@ -155,6 +171,7 @@ Distal femur fracture
 | **Lateral** | All types; arthrotomy for joint |
 | **Swashbuckler (modified anterior)** | Extra-articular / lateral; submuscular plate |
 | **Lateral parapatellar** | **Complex articular extension**, Hoffa; evert patella |
+| **Anterolateral (Swashbuckler) (TO)** | Combines lateral plating access + parapatellar articular view; lateral parapatellar = best articular view (TO) |
 | **Medial parapatellar** | Complex **medial condyle** |
 | **Medial** | **B2, B3**; medial plate augment in C3 |
 | **Posterior (prone, between gastrocnemius heads)** | Very posterior Hoffa |
@@ -162,6 +179,8 @@ Distal femur fracture
 ### Retrograde nail technique
 
 **Start** — **superior margin of Blumensaat line (lateral)**, **centre of notch (AP)**; knee flexion **≥ 70°**
+
+**Start (TO)** — AP: **just anterior + medial to PCL attachment** · lateral: **apex of Blumensaat line**
 
 **Approach** — patellar tendon split or medial parapatellar (extend 2–8 cm if articular)
 
@@ -262,3 +281,7 @@ Distal femur fracture
 **"ABI requiring CTA?"** → **0.81**
 
 **"Safe anterior ex-fix pin site?"** → **mid-femur, clear of femoral nerve branches + suprapatellar pouch**
+
+**"DCS needs minimum intact distal fragment?"** → **4 cm** (TO)
+
+**"Distal-most screw in distal femoral plate?"** → **parallel to articular surface** (TO)

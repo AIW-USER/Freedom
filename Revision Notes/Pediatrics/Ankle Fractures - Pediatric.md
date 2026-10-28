@@ -80,6 +80,8 @@
 
 ## 5 Management
 
+**Reduction (TO)** — **75% traction, 25% manipulation** · avoid repeated manipulation · step-off **< 1–2 mm** · in adolescents **joint congruity before physeal preservation** · **look at the fibula first**: no fibular fracture → think transitional; isolated fibula fracture may hide distal tibial physeal injury · SH II most common, **III \~25%, IV \~25%** (TO) · ankle = **most common lower-limb physeal injury** (15–20% of physeal injuries)
+
 ### Operative criteria
 
 | Fracture | Nonop | CRPP | ORIF |

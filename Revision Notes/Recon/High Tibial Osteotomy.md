@@ -10,6 +10,8 @@
 
 **Commonest indication** — primary/secondary **medial knee arthrosis** with **varus** · isolated lateral OA much less common
 
+**History (TO)** — introduced **Jackson & Waugh (1961)** · popularised **Coventry (1965)** — lateral closing wedge · medial opening wedge = **Hernigou** · **medial opening wedge = gold standard for joint preservation** (TO)
+
 **Combined with** — **cartilage restoration** procedures (better mechanical environment) · ligament reconstruction (ACL/PCL/PLC) when malaligned
 
 ### Anatomy – mechanical axis
@@ -24,6 +26,10 @@
 ### Normal tibial slope (OB)
 
 **Posterior tibial slope** — **9–11° medial**, **6–8° lateral**
+
+**Varus types — TO notes (HTO lecture)** — **double varus** = medial OA + **partial PLC laxity** (lateral opening **5–15 mm**) · **triple varus** = **PLC completely deficient** (lateral opening **> 15 mm**) → staged procedures · ACL-based definition above (TO MCQ) — read the options
+
+**High tibial slope (TO)** — slope **> 15°** with ACL strain / recurrent ACL injury → **slope-correcting HTO + ACL reconstruction**
 
 ## 3 Presentation
 
@@ -104,6 +110,10 @@ Medial compartment OA + varus, young/active
 | Age | Best <50 · **>60** worse | **Age >60 relative** |
 | Others (OB) | Nonconcordant pain (PF pain + medial OA) · unwilling to accept cosmetic angular change | — |
 
+**Ideal candidate (TO notes)** — age **< 60**, active · **BMI < 30 (< 90 kg)** · **Ahlbäck grade I–II** · intact ACL + lateral compartment · flexion **> 100°**
+
+**Extra contraindications (TO notes)** — **concave medial plateau ("teeter-totter" effect — Kettelkamp)** · bone loss **> 15 × 15 mm** · lateral subluxation **> 10 mm** · uncorrected slope **> 10°** · symptomatic PFJ OA · flexion **< 90°** or contracture **> 10°** · RA · nicotine · obesity
+
 **Not contraindications** — **ACL tear** (TO) · **varus 10°** (TO) · **flexion ROM 0–100°** (TO) · chondral lesion size · BMI 22–24 · age 38–42 · 10° flexion contracture · postmenopausal
 
 ### Varus-producing tibial osteotomy
@@ -136,6 +146,35 @@ Medial compartment OA + varus, young/active
 
 **Outcomes** — opening vs closing: both appropriate\
 ✗ Wrong options: "opening superior"
+
+### Planning & technique (TO)
+
+**Target** — weight-bearing line at **62.5% of tibial width (Dugdale)** · hip–knee–ankle scanogram
+
+**Wedge size** — base (mm) = **tibial width × 0.02 × correction (°)** → **1 mm ≈ 1°** for a **57 mm** tibia
+
+**Slope** — keep **< 10°** · opening wedge: **anterior gap ≈ ½ posterior gap** · patella baja common post-op
+
+**Technique (opening wedge)** — **5 cm** vertical incision between tuberosity + posteromedial border · expose MCL, detach pes · cut **3.5–4 cm below joint line** aimed at **fibular head** · **lateral hinge 7–10 mm** · **TomoFix / Puddu** plate · iliac crest graft if opening **≥ 10 mm**
+
+**Rehab (TO)** — early ROM + isometrics → WB at **6 wk** → full WB at **3 mo**
+
+### Proximal fibular osteotomy – PFO (TO)
+
+**Origin** — **Xia et al. 2014 (China)**
+
+**Rationale — non-uniform settlement** — medial tibia **cancellous → settles early** · lateral **fibula = rigid cortical support** → varus progression · removing fibular support → even plateau loading → pain relief
+
+**Technique** — remove **1–2 cm** fibular segment **7–8 cm below fibular head** · **posterior approach between peroneus and soleus** · keep incision **posterior to coronal plane** → protect **common peroneal nerve**
+
+| | **PFO** | **HTO** |
+|---|---|---|
+| Technique | Simple, quick, cheap | Demanding |
+| Implant / graft | **None** | Plate ± graft |
+| Recovery | Early | Delayed WB |
+| Patient | **Elderly / high-risk, mild varus OA** | Young, active |
+| Correction | **Mild, 5–10°** | **Up to 20°** |
+| Risks | **Variable results, CPN injury** | Nonunion, hinge fracture, CPN |
 
 ### Other osteotomies (TO)
 
@@ -249,3 +288,7 @@ Medial compartment OA + varus, young/active
 
 **"33-yr-old, wants fastest return to impact activity?"** → **medial opening wedge HTO**\
 ✗ Wrong options: UKA · TKA · BMAC alone · varus DFO
+
+**"Theory behind proximal fibular osteotomy?"** → **non-uniform settlement** (TO)
+
+**"Concave medial plateau contraindicating HTO?"** → **teeter-totter effect (Kettelkamp)** (TO)

@@ -124,6 +124,8 @@ Symptomatic knee OA
 
 **Exercise** — supervised + home best · **benefit lost 6 months after stopping**
 
+**Physio (TO)** — **quadriceps strengthening** (static + dynamic) · hamstring conditioning · avoid **squatting, stairs** · weight reduction ↓ joint load
+
 **Medial OA brace** — ✓ **medial unloader (valgus)** for correctable varus\
 ✗ Wrong options: varus brace · Cho-Pat (patellar tendon) · ACL brace · sleeve
 
@@ -131,9 +133,57 @@ Symptomatic knee OA
 
 **IA steroid** — moderate for · short-term relief · **avoid repeat soon** (last 3 weeks ago, 10-day relief → discuss TKA)
 
+**IA steroid (TO)** — **gold standard for early pain relief** · relief **4–6 weeks** · **max 3 injections in 6 months** (early OA, up to KL 3) · anti-inflammatory, **not disease-modifying** (neither regenerates nor degrades cartilage)
+
+### Viscosupplementation – hyaluronic acid (TO)
+
+**HA** — **anionic, non-sulfated glycosaminoglycan** · synthesized by **plasma membrane enzymes** · major ECM component · viscoelasticity (TO)
+
+| Synovial HA (TO) | Concentration | Change |
+|---|---|---|
+| Normal knee | **2.5–4.0 mg/mL** | Normal viscosity |
+| OA knee | **↓ 33–50%** | ↓ molecular size → ↓ viscosity + elasticity · **fluid volume ↑ but quality ↓** |
+
+**Mechanisms (TO)** — **viscoinduction** (chondrocytes + synoviocytes make native HA) · **chondroprotection** · **viscosupplementation** (lubrication, cushioning) · **binds CD44 → ↓ IL-1β + MMP**
+
+**Anti-inflammatory effect** — none (current chapter) · possible, via CD44 → ↓ IL-1β (TO) — read the options
+
+**Indication (TO)** — early–moderate OA (**KL II–III**) · unresponsive to other therapy or unfit for surgery
+
+**Evidence (TO)** — AAOS 2013 **strong against** · network meta-analysis (Campbell et al. 2015) → HA **most effective** vs NSAIDs, steroid, PRP, placebo in early OA, **26–32 weeks** · average relief **24–26 weeks**
+
+**Safety (TO)** — minor arthralgia / effusion **0–14%** · **repeat injections safe**
+
+| HA brand (TO) | Injections | Source |
+|---|---|---|
+| **Synvisc / Synvisc-One** | 3 / **1 (6 mL)** | **Avian** |
+| Supartz · Hyalgan | 3–5 | **Avian** |
+| Euflexxa · Orthovisc | 3 · 3–4 | **Bacterial** |
+| **Durolane** | **1 (3 mL)** | **Bacterial** |
+
 **HA** — rooster-comb preparations → **contraindicated with chicken/egg allergy** ✓ · also joint/skin infection · no anti-inflammatory effect
 
 **PRP** — ✓ **better clinical outcomes than HA** (**level 1** RCTs, meta-analyses) · best in **KL 2–3** (not KL 4) · **leukocyte-poor > leukocyte-rich** (more effective, safer) · injection site irrelevant · AAOS **limited** (downgraded)
+
+**Orthobiologics — AAOS definition (TO)** — biologic substances naturally found in the body that enhance repair / regeneration of bone, cartilage, tendon, ligament · PRP, **autologous conditioned serum**, BMAC, adipose-derived stem cells, amniotic + cord blood concentrates, prolotherapy, ozone
+
+**PRP mechanism (TO)** — supraphysiological platelets → cytokines + growth factors → chemotaxis of chondrocytes + MSCs, ↑ proteoglycan · **inhibits MMP-13 + NF-κB**
+
+**PRP preparation (TO)** — **differential centrifugation** → top **PRP** · middle **buffy coat (WBC)** · bottom RBC · platelets **200–1000 × 10³/µL** (no fixed ideal) · **LP-PRP yellow** · **LR-PRP red** (↑ inflammation)
+
+**PRP evidence (TO)** — Mayock 2016: **better at 12 months, not at 6** · AAOS 2013 **inconclusive** · may delay surgery, **not disease-modifying**
+
+**BMAC (TO)** — **iliac crest = best harvest site** (also distal femur, proximal tibia, humerus, calcaneus) · Shapiro: **no difference vs saline at 12 months** · safe, needs RCTs
+
+**Adipose-derived MSCs (TO)** — **lipoaspiration** (abdomen / flank / buttock) or arthroscopic **infrapatellar fat pad** · **stromal vascular fraction (SVF)** · microfragmentation or enzymatic digestion · phase I safe · **no FDA approval**, no RCTs
+
+| Therapy (TO) | Evidence | Safety |
+|---|---|---|
+| Steroid | Short-term relief | High |
+| HA | Moderate — early OA | High |
+| PRP | Moderate — early OA | Moderate |
+| BMAC | Low, under research | High |
+| ADMSC | Very low, experimental | High |
 
 **BMAC** — ✓ **highest IL-1 receptor antagonist** concentration (> LP-PRP, LR-PRP, HA)
 
@@ -207,6 +257,12 @@ Symptomatic knee OA
 **"Systemic reaction to HA — also allergic to?"** → **chicken or eggs**
 
 **"Highest IL-1ra?"** → **BMAC**
+
+**"Hyaluronic acid is a?"** → **anionic non-sulfated glycosaminoglycan** (TO)
+
+**"Best harvest site for BMAC?"** → **iliac crest** (TO)
+
+**"Maximum IA steroid injections in knee OA?"** → **3 in 6 months** (TO)
 
 **"Highest level of evidence PRP > HA?"** → **level 1**
 

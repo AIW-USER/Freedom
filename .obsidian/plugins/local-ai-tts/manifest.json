@@ -1,0 +1,10 @@
+{
+	"id": "local-ai-tts",
+	"name": "Local AI TTS",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Read your notes aloud using local AI text-to-speech models (Kokoro, Piper, or any OpenAI-compatible server), with a playback panel in the right sidebar.",
+	"author": "Phaneendra",
+	"authorUrl": "https://github.com/AIW-USER/Obsidian-TTS",
+	"isDesktopOnly": false
+}

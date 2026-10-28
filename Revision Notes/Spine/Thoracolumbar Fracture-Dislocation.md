@@ -46,6 +46,8 @@
 
 **With deficit** — **posterior fusion + instrumentation + posterolateral decompression**
 
+**Reduction tricks (TO)** — nibble half of intact facets · towel clips on spinous processes (often fractured) · **temporary rod + rod holder** (more powerful) · flexion-distraction: screws 2 above + 2 below → **cantilever straight rod** closes posterior elements · reduction usually decompresses the canal
+
 ![Posterior reduction and instrumentation](../../Orthobullets/attachments/ob2024-img-1468.jpg)
 
 ### Pedicle screws (TO)

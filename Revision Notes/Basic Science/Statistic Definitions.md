@@ -4,6 +4,24 @@
 
 ## 1 Basics
 
+### Data types & levels of measurement (TO)
+
+| Pair | Distinction (TO) |
+|---|---|
+| **Structured vs unstructured** | Rows + columns (Excel, databases) vs free text, images, video, audio |
+| **Primary vs secondary** | Collected first-hand for the study (survey, experiment) vs collected by others (registries, published papers) |
+| **Qualitative vs quantitative** | Attributes (categorical) vs numbers (measurable) |
+| **Discrete vs continuous** | Countable, no intermediate values (no. of surgeries) vs any value in a range (height, temperature) |
+
+| Level | Property | Examples | Allowed analysis (TO) | Not allowed |
+|---|---|---|---|---|
+| **Nominal** | Labels, **no order** · counting only | Gender, smoking status, **patient ID, mobile number** | Frequencies, **mode**, contingency tables, **chi-square / Fisher**, bar + pie, logistic regression | Mean, median, arithmetic, t-test, ANOVA |
+| **Ordinal** | Ordered, **unequal / unknown intervals** | **Cancer stage, tumour grade, Likert**, rankings | **Median + IQR**, Mann–Whitney, Kruskal–Wallis, **Spearman / Kendall**, ordinal regression | **Mean** · treating as interval |
+| **Interval** | Equal intervals, **no true zero** · + and − only | **Temperature °C**, time of day, IQ | Mean, SD, correlation, regression, ANOVA | **Ratios** ("twice as hot") |
+| **Ratio** | Equal intervals + **absolute zero** · all arithmetic | **Height, weight, age**, volume, duration | **Everything** (parametric, regression) | — |
+
+**Pitfalls** — coded numbers ≠ numerical data · ordinal may look discrete but is **categorical** · wrong data type → invalid test (TO)
+
 ### Central tendency & spread
 
 | Measure | Definition | Best for |
@@ -13,6 +31,34 @@
 | **Mean** | Arithmetic average · uses all values · most used | Sensitive to extremes |
 | **Variance** | Variability of each data point from the mean · = SD² (average of squared deviations) | — |
 | **Standard deviation** | Spread of the group | ±1 SD = **68%** · ±2 SD = **95%** · ±3 SD = **99.7%** |
+
+**Mean (TO)** — Σx / n · best for **continuous, symmetric** data · uses all values, least affected by sampling fluctuation · **distorted by outliers** · not for qualitative data or **open-ended classes**
+
+**Median (TO)** — **positional average** · odd n → **(n + 1)/2 th** value · even n → mean of **n/2 th and (n/2 + 1) th** · unaffected by outliers · open-ended classes OK · suits **ordinal** data · not based on all values
+
+**Mode (TO)** — use for **nominal** data · may be **bimodal / multimodal** or absent · open-ended classes OK
+
+| Dispersion (TO) | Formula / use |
+|---|---|
+| **Range** | Max − min · ignores values between extremes |
+| **Quartiles** | Q1 = 25% below · **Q2 = median** · Q3 = 75% below |
+| **IQR** | **Q3 − Q1** · spread of central 50% · ✓ **preferred with outliers** |
+| Quartile deviation | **IQR ÷ 2** |
+| Variance | Σ(x − x̄)² / n (TO — verify: sample variance divides by **n − 1**) |
+| **SD** | √variance · ✓ preferred over variance — **same units as data** |
+
+**Reporting (TO)** — **mean ± SD** · outliers / skew → **median + IQR** · location alone is incomplete — always give dispersion
+
+### Charts & graphs (TO)
+
+| Chart | Use (TO) |
+|---|---|
+| **Pie** | Parts of a whole (percentages) · poor for comparison |
+| **Bar** | **Categorical** data · height = frequency · vertical, horizontal (many / long labels), clustered (several variables) |
+| **Histogram** | **Continuous** data · adjacent bars · width = class interval |
+| **Line** | **Trends over time** |
+| **Box and whisker** | **Five-number summary** (min, Q1, median, Q3, max) · shows outliers · ✓ **does not show the mean** |
+| **Scatter** | Relationship between **two continuous** variables (correlation) |
 
 ### Diagnostic test properties (sensitivity, specificity, PPV, ROC)
 
@@ -37,6 +83,12 @@
 **Worked examples** — 6 of 10 diseased test + → sensitivity **60%** · 5 false + of 90 healthy → specificity 85/90 = **94.4%** · sens 90%, spec 95%, prevalence 10% → PPV 9/(9 + 4.5) = **67%** · 80/100 flu +, 5/100 healthy + → NPV 95/(20 + 95) = **83%** · 86/(86 + 4) = 95.5% → **specificity**
 
 **Trade-off** — sensitivity and specificity usually traded off · false negative worse than false positive → choose **more sensitive** test · drug with nasty side effects, must not treat non-diseased → ✓ **highest specificity**
+
+**Rates (TO)** — **false-negative rate = 1 − sensitivity** (sens 75% → 25% missed) · false-positive rate = 1 − specificity (spec 90% → 10% wrongly labelled diseased)
+
+**Perspective (TO)** — sensitivity / specificity depend on **disease status** · **PPV / NPV depend on test result** and **prevalence** · accuracy needs **both** sensitivity + specificity · don't use a screening test for definitive diagnosis
+
+**Prevalence and sensitivity** — sensitivity "can be influenced by prevalence" (TO — verify: sensitivity and specificity are normally taken as prevalence-independent; PPV / NPV change) — read the options
 
 **Precision** — closeness of repeated measurements (random error) · precise ≠ accurate
 
@@ -128,6 +180,23 @@ Choose a test
 
 ### Type I & II errors & power
 
+**Statistical inference (TO)** — conclusions about a **population** from a representative **sample** · data collection → exploratory analysis → estimation + hypothesis testing
+
+**H₀ (TO)** — **no difference / no effect** · always the one tested directly (e.g. H₀: μ = 120 · H₀: r = 0) · **H₁** = difference or association exists
+
+**Tails (TO)** — **two-tailed**: parameter ≠ value · **one-tailed**: > or < value
+
+**Test statistic (TO)** — value from sample data deciding rejection of H₀ · t, z, chi-square
+
+**Confidence (TO)** — **1 − α** = correctly accepting a true H₀ · **power (1 − β)** = correctly rejecting a false H₀
+
+| Court analogy (H₀ = innocent) | Meaning (TO) |
+|---|---|
+| **Type I** | **Innocent declared guilty** |
+| **Type II** | **Guilty declared innocent** |
+| Confidence | Innocent declared innocent |
+| Power | Guilty declared guilty |
+
 | | **H₀ true** | **H₀ false** |
 |---|---|---|
 | **Reject H₀** | **Type I (α) error** — false positive | Correct — **power (1 − β)** |
@@ -170,7 +239,71 @@ Choose a test
 
 **Confidence interval** — range likely to contain the true parameter · shows **precision** + magnitude · ✓ **larger sample → narrower CI** (smaller margin of error) · 99% CI wider than 95% · overlapping CIs do not prove no significance — need formal test · e.g. FNA 0.5 ± 0.2 → 95% range **0.1–0.9 cm³**
 
+**P-value wording (TO)** — p < α → reject H₀ · p = 0.02 → "2% chance the result is due to random variation" (TO — verify: strictly the probability of a result this extreme **if H₀ is true**)
+
+**Statistical vs clinical significance (TO)** — significant ≠ clinically relevant · e.g. symptoms 5.5 → 5.3 days · SBP 160 → 155 mmHg
+
+**95% CI meaning (TO)** — if repeated many times, **95% of such intervals contain the true value** · gives more information than p alone
+
+**CI and significance (TO)** — CI **including the no-effect value** (OR / HR **= 1**) → **not significant** · excluding it → significant
+
+| CI width (TO) | Effect |
+|---|---|
+| ↑ Confidence level | **Wider** |
+| ↑ Sample size | **Narrower** |
+| ↑ Variability | **Wider** |
+
 **Correlation** — R² = 0.97, p = 0.03 → strongly correlated, unlikely chance, does not **validate accuracy** (both methods could be wrong) · Pearson = 2 normal continuous variables · **Bayesian** = prior → posterior probability
+
+### Correlation & regression (TO)
+
+**Correlation** — degree + direction of association between **two quantitative** variables · ✓ **does not imply causation** (common underlying factor, spurious) (TO)
+
+**Scatter diagram** — **first step** · X = independent, Y = dependent · points not joined (TO)
+
+**r** — **−1 to +1** · sign = direction · magnitude = strength · ✓ **r = 0 → no LINEAR relationship** (not no relationship) (TO)
+
+| r | Strength (TO) |
+|---|---|
+| 0 | None (linear) |
+| 0–0.25 | Weak |
+| 0.25–0.75 | Moderate |
+| 0.75–1 | Strong |
+
+| Coefficient | Use (TO) |
+|---|---|
+| **Pearson r** | Linear relationship · **both variables normal** |
+| **Spearman rₛ** | **Non-parametric**, uses **ranks** · ordinal / non-normal data |
+| Kendall | Rank correlation (ordinal) |
+
+**Regression equation** — **Y = a + bX** · a = **intercept** (Y when X = 0, baseline) · b = **slope / regression coefficient** (average change in Y per unit X, −∞ to +∞) (TO)
+
+**Least squares** — line of best fit **minimises the sum of squared residuals** · **residual = observed − predicted (Y − Ŷ)** (TO)
+
+**Worked example** — Y = 90 − 2X (score vs absences) → 90 = score with no absences · each absence ↓ score by 2 (TO)
+
+**R² (coefficient of determination)** — 0–1 · **proportion of variation in Y explained by X** (R² 0.85 → 85%) · **goodness of fit** (TO)
+
+**Adjusted R²** — **penalises unnecessary predictors** · ✓ use in **multiple** regression / comparing models (TO)
+
+**Outcome variable** — linear regression needs a **continuous** Y (TO)
+
+**Two regression lines** — Y on X and X on Y · **not interchangeable** · **coincide only if r = ±1** · **r = geometric mean of the two regression coefficients** · if one coefficient > 1 the other < 1 · independent of change of **origin**, not of **scale** (TO)
+
+| Assumption (TO) | Check | If violated |
+|---|---|---|
+| **Linearity** | Scatter plot | — |
+| **Normality of residuals** | Histogram, box plot, normal probability plot | Minor → ignore · severe → **log transform** |
+| **Homoscedasticity** (constant residual variance) | **Residual vs predicted plot** | Inefficient t-tests · **↑ type II error** |
+| **Independence of errors** | Residual plots · **Durbin–Watson** | **≈ 2 = no autocorrelation** · acceptable **1.5–2.5** |
+| **No multicollinearity** (multiple regression only) | **VIF** · tolerance | Drop or combine correlated variables |
+
+| Multicollinearity measure | Cut-off (TO) |
+|---|---|
+| **VIF** | **> 5** investigate · **> 10 serious** |
+| **Tolerance** | **< 0.20** suspicious · **< 0.10 serious** |
+
+**Multicollinearity** — strongly correlated predictors (**weight + BMI**, waist + waist–hip ratio) → **inflated SE**, unstable coefficients, **high R² with non-significant predictors** · affects **reliability, not bias** (TO)
 
 ### Reliability, MCID, fragility index & survival
 
@@ -183,6 +316,32 @@ Choose a test
 **Fragility index** — ✓ **number of outcome changes (event ↔ non-event) needed to flip significance** · dichotomous outcomes · larger = more robust
 
 **Survivorship** — joint replacement success · all assumed operated simultaneously · **life table** (annual, changes once/yr) vs **product limit** (recalculated at each failure) · **Kaplan–Meier**: x = time, y = survival probability · higher curve at a time point = better survival
+
+## X vs Y
+
+| | Bar diagram | Histogram |
+|---|---|---|
+| Data | **Categorical** | **Continuous** |
+| Gaps between bars | **Allowed** | **None** |
+| Reorder bars | Yes | **No** (TO) |
+
+| | Correlation | Regression |
+|---|---|---|
+| Gives | Strength + direction | **Predicts** change in outcome |
+| Dependent / independent | **Not required** | **Required** |
+| Basis | Scatter plot | **Least squares** |
+| Causality | None | Only with domain knowledge (TO) |
+
+| | Simple linear | Multiple linear |
+|---|---|---|
+| Predictors | **One** | **> One** (partial slopes) |
+| Outcome | Continuous | Continuous |
+| Adjusted R² | Not essential | **Essential** (TO) |
+
+| | Sensitivity / specificity | PPV / NPV |
+|---|---|---|
+| Depends on | **Disease status** | **Test result + prevalence** |
+| Use | Screening (sens) · confirmation (spec) | Probability for an individual result (TO) |
 
 ## How it's asked
 
@@ -326,3 +485,25 @@ Choose a test
 **"Fragility index?"** → **number of outcome changes needed to change trial significance**
 
 **"ASES +22 vs +27, p = 0.03, MCID 10–15?"** → **5-point difference may not be clinically meaningful**
+
+**"Temperature in °C — level of measurement?"** → **interval (no true zero)** (TO)\
+✗ Wrong options: ratio
+
+**"Cancer stage / tumour grade — data type?"** → **ordinal** (TO)\
+✗ Wrong options: nominal
+
+**"Best summary with outliers?"** → **median + IQR** (TO)
+
+**"Box-and-whisker plot does NOT show?"** → **the mean** (TO)
+
+**"r = 0 means?"** → **no linear relationship** (TO)
+
+**"Correlation for ranked / non-normal data?"** → **Spearman** (TO)
+
+**"R² = 0.85?"** → **85% of variation in Y explained by X** (TO)
+
+**"Serious multicollinearity?"** → **VIF > 10** (TO)
+
+**"Durbin–Watson ≈ 2?"** → **no autocorrelation of residuals** (TO)
+
+**"OR with 95% CI including 1?"** → **not significant** (TO)

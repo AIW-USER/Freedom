@@ -107,9 +107,50 @@
 | **Abductors** | Gluteus medius, gluteus minimus, TFL |
 | **Extensors** | Gluteus maximus, semitendinosus, semimembranosus, long head biceps, adductor magnus (hamstring part) |
 
+### MRI anatomy (TO)
+
+**Piriformis** — muscle **just below the end of the sacrum** · **sciatic nerve between piriformis and obturator internus** · piriformis syndrome: oedema, accessory head, sciatic impingement
+
+**LFCN on MRI** — small **fat triangle just below ASIS, between sartorius and TFL** → entrapment = **meralgia paraesthetica** (injection site)
+
+**Rectus femoris** — **direct head from AIIS** · **indirect (reflected) head from supra-acetabular ridge**
+
+**Gluteus medius** — **two parts** (anterolateral + posterior) · **fat plane between them is normal**, not a tear · **gluteus minimus** inserts anteriorly on GT
+
+**Gluteus maximus** — ends in **ITB with TFL**, "never inserts directly on bone" (TO — verify: deep lower fibres insert on the gluteal tuberosity)
+
+**Quadratus femoris** — between **GT and ischial tuberosity** · narrow space + oedema → **ischiofemoral impingement**
+
+**Hamstrings** — semimembranosus + **conjoint tendon (long head biceps + semitendinosus)** · semitendinosus fleshy early
+
+**Psoas** — tendon insinuates into iliacus · oedema without tear in dancer → **snapping psoas** · iliopsoas anterior to joint → **iliopsoas bursitis**
+
+**Normal variants** — **lateral femoral tubercle** (not FAI) · physeal scar · small plica · little hip fluid
+
+![Axial T1 pelvis — glutei, piriformis, obturator internus, iliopsoas](../../TO notes/attachments/TOn-notes-mri-of-hip-and-thigh-mar-2026-p03-f006.jpg)
+
 ### Approaches
 
 **Five** — anterior **Smith-Petersen** · anterolateral **Watson-Jones** · medial · direct lateral **Hardinge** · posterior **Southern / Moore**
+
+## 4 Diagnosis & Classification
+
+### MRI sequences (TO)
+
+| Sequence | Bright | Best for |
+|---|---|---|
+| **T1** | **Fat only** (bladder urine dark) | Marrow replacement, **AVN line**, trabeculae, healed fractures, muscle atrophy, scarring |
+| **T2** | **Fat + fluid** | General |
+| **Fat-suppressed (STIR, PDFS, T2FS)** | **Fluid**, fat dark | **All acute conditions** — oedema, effusion, tears, strains |
+| **GRE** | — | **Bone detail** — cortex, small calcified / bony lesions |
+
+**Sequence trick** — look at the **urinary bladder** (TO)
+
+**Request** — "**pelvis with right / left hip**" → adds dedicated **oblique axial** (along neck axis) + oblique sagittal sequences · orthogonal axials **never show the neck in continuity** · labrum / FAI need oblique axials (TO)
+
+**Hamstring / rectus femoris tear** — request **hip AND thigh** MRI (pelvis scan stops at lesser trochanter) (TO)
+
+**Labral tear on MRI** — **cleft (sulcus)** through labrum ± **paralabral cyst** (TO)
 
 ## 5 Management
 
@@ -148,5 +189,9 @@
 **"Most commonly injured nerve in THA?"** → **peroneal division of sciatic**
 
 **"Strongest hip ligament?"** → **iliofemoral (Y of Bigelow)**
+
+**"Fat plane between two parts of gluteus medius on MRI?"** → **normal** (TO)
+
+**"MRI sequence in which only fat is bright?"** → **T1** (TO)
 
 **"Landmark for cup version?"** → **transverse acetabular ligament**

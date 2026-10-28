@@ -61,6 +61,10 @@
 
 **MRI timing (TO)** — best sensitivity for haemorrhage/oedema **within 48 h**
 
+**Unilateral facet dislocation (TO)** — flexion-rotation · **70% radiculopathy, 10% SCI** · **"bow-tie" sign** on lateral (both facets visible, not overlapping) · reduce (flex-rotate) → reducible: **anterior discectomy + plate** · irreducible: **posterior reduction + fixation** · non-op halo / CTO **12 wks**
+
+**Facet dislocation (TO)** — **always unstable**; posterior approach preferred
+
 ![Bilateral facet dislocation: 50% subluxation on lateral X-ray](../../Orthobullets/attachments/ob2064-lat-xray-bilateral-facet-dislocation-c4-5-moved.jpg)
 
 **Differential** — **lateral mass fracture-separation** → needs **2-level** fusion (dislocation = 1 level)

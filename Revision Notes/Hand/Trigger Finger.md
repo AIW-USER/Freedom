@@ -61,7 +61,9 @@ Adult trigger finger
 
 **Splint** — immobilise **MCP or DIP only**; PIP free; relief 40–97%
 
-**Injection** — **best initial treatment**; relief **60–90%** (up to 90% non-diabetics); in/superficial to sheath
+**Pathology (TO)** — **thickened A1 pulley, not the tendon** (volume–capacity mismatch) · inflammation → granulation "**rice bodies**" · worse in **morning** · associations DM, RA, hypothyroidism, pregnancy · diagnosis clinical; US only if atypical
+
+**Injection** — **best initial treatment** · **70–80% success in non-diabetics** (TO) · complications incl. **skin depigmentation** (TO); relief **60–90%** (up to 90% non-diabetics); in/superficial to sheath
 
 **Diabetics** — less relief (Orthobullets classic) · recent literature: success not influenced by DM — read options; surgery cost-effective in DM
 
@@ -85,6 +87,10 @@ Adult trigger finger
 | Avoid in | — | **Thumb & little finger** (nerve proximity) |
 
 **Recurrence** — ↑ in **diabetics**
+
+**Percutaneous technique (TO)** — **16 or 18G needle**, release **A1 only**, test active flexion/extension · avoid in thumb (radial digital n.)
+
+**Open release (TO)** — **gold standard** · incision over A1 · release A1, **preserve A2**
 
 **WALANT / local** — allows intraoperative check of triggering; post-op early active ROM 4×/day
 
@@ -122,7 +128,7 @@ Adult trigger finger
 
 **Radial digital nerve injury** — **thumb release** (superficial, oblique)
 
-**Bowstringing** — **A2/A4 damage** → pulley reconstruction
+**Bowstringing** — **A2/A4 damage** → pulley reconstruction · after trigger release done elsewhere → **proximal part of A2 damaged** (TO)
 
 **Others** — stiffness, scar tenderness, dehiscence, haematoma, **tendon scoring** (percutaneous), infection
 

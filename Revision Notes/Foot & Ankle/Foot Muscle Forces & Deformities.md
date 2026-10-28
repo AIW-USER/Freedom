@@ -108,6 +108,14 @@
 
 **Heel stays in varus** — **hindfoot-driven (rigid hindfoot)** → needs calcaneal osteotomy
 
+**Pes cavus (TO)** — high arch that **does not flatten on WB** · **\~half due to CMT** → treat as neuromuscular until proven otherwise · **calcaneal pitch > 25–30°** · plantarflexed medial forefoot, forefoot adduction, hindfoot varus (TO)
+
+**Cavus aetiology (TO)** — neuromuscular (commonest): **CMT**, muscular dystrophy, polio, spinal dysraphism, **syringomyelia** · congenital: idiopathic, **residual clubfoot**, arthrogryposis · traumatic: **residual compartment syndrome**, crush, malunited midfoot fracture (TO)
+
+**Cavus biomechanics (TO)** — talar head moves superiorly · **subtalar joint vertical + rigid**, hindfoot locked in inversion · load → lateral border + forefoot · **clawing = intrinsic weakness + extrinsic overpull** (TO)
+
+**Cavus signs (TO)** — lateral column pain · **peek-a-boo heel** · claw toes · toe-first strike · X-ray: **talar overcoverage by navicular** · high calcaneal pitch · Meary positive · **double-dome sign (sinus tarsi)** (TO)
+
 ![Coleman block test: forefoot-driven vs hindfoot-driven varus](../../MCQ/attachments/q3878-illa-coleman-block-1.jpg)
 
 **Subtle cavus associations** — **lateral column overload**, recurrent ankle sprains / functional ankle instability, **5th MT stress fracture**
@@ -173,6 +181,13 @@ Chronic flexible foot drop
 ✗ Wrong options: CP gastroc-only → gastroc lengthening · runner anterior impingement → arthroscopic debridement · foot drop → tendon transfer · normal Silfverskiöld
 
 ### Cavovarus correction
+
+```
+Cavus (TO)
+├─ Flexible, Coleman + → FOREFOOT FIRST: 1st MT DF osteotomy ± PL→PB ± plantar fascia release
+│      └─ then hindfoot if needed → LATERALISING CALCANEAL OSTEOTOMY · equinus → gastroc / TAL · toes → JONES / EHL transfer
+└─ Rigid, Coleman − → arthritis: SUBTALAR / DOUBLE / TRIPLE · no arthritis: LATERALISING CALCANEAL OSTEOTOMY + tendon balancing + PF release ± midfoot osteotomy
+```
 
 **Flexible forefoot-driven (Coleman corrects)** — **dorsiflexion first metatarsal osteotomy** → hindfoot resumes slight valgus, **avoids calcaneal osteotomy**\
 ✗ Wrong options: triple / subtalar arthrodesis (degenerative only) · PB lengthening · medialising calcaneal osteotomy (flexible flatfoot)
@@ -272,6 +287,10 @@ Chronic flexible foot drop
 | Surgery | **Dorsiflexion 1st MT osteotomy** | + **calcaneal osteotomy** |
 
 ## How it's asked
+
+**"Most common cause of pes cavus?"** → **Charcot-Marie-Tooth** (TO)
+
+**"Peek-a-boo heel indicates?"** → **hindfoot varus** (TO)
 
 **"Test in figure (knee extended vs flexed)?"** → **Silfverskiöld — gastrocnemius tightness vs Achilles contracture**
 

@@ -98,6 +98,8 @@
 
 **Caffeine adverse** — **↑ blood pressure** (OB)
 
+**Caffeine ban history (TO, PED lecture)** — "IOC banned 1962 → removed 1972" (TO — verify: caffeine was a restricted IOC substance 1984–2003, removed from WADA list **Jan 2004**) — read the options
+
 **Ephedra** — **cardiac arrhythmias (can be fatal)** · psychiatric, autonomic, GI symptoms, palpitations (OB) · "apparently effective" + weight-loss supplement (TO)
 
 **Other drugs (OB distractors)** — **furosemide = most commonly used banned diuretic** · **α-ketoglutarate** = supplement claimed to **remove excess ammonia** · **propranolol** → ↓ anxiety → steadier hands, even HR, focus
@@ -161,6 +163,35 @@
 
 **Soccer 90 min, hot + humid (TO)** — **isotonic sports drink, 6–8% CHO + electrolytes** ✓ · Exercise Science chapter: **low-osmolarity (< 10%)** CHO-electrolyte fluid\
 ✗ Wrong options: water only · hypertonic · skip until after
+
+### Ergogenic aids & supplement pharmacology (TO)
+
+**Ergogenic aid (TO)** — any substance, treatment or technique that ↑ work performance · 5 types: **psychological** (hypnosis, imagery, placebo), **mechanical** (swimsuits, clap skates, compression), **pharmacological**, **physiological** (blood / gene doping), **nutritional** · placebo (saline "steroids") ↑ lean mass
+
+**Supplement regulation (TO)** — **DSHEA 1994**: no proof of safety / efficacy needed before marketing; FDA acts only after adverse events · choose **USP seal** / **NSF Certified for Sport** · best reason to take supplements = **aid recovery** · prohibited: androstenedione, Chinese ephedra
+
+| Supplement (TO, PED lectures) | Key facts |
+|---|---|
+| **Caffeine** | **Adenosine receptor antagonist** → ↑ catecholamines, FFA mobilisation (glycogen sparing), SR Ca²⁺ · ergogenic \~**330 mg** (≈ 3–6 mg/kg), 2–3 h before · old IOC limit **12 µg/ml** (≈ 700 mg / 70 kg) · **> 7 mg/kg impairs hydration in heat** · > 9 mg/kg "penalisable" (TO) · TO MCQ: endurance via **↑ plasma K⁺** |
+| **Creatine** | Glycine + arginine + methionine (AGAT, GAMT) · **CREAT1** transporter · PCr + ADP + H⁺ → ATP (CK) · **load 20 g/day (4 × 5 g) 5–7 days → 3–5 g/day ≥ 12 wk** · gains after **\~12 wk with resistance training** · check urine + renal function first · **NCAA forbids teams providing it** (not WADA-banned) |
+| **Sodium bicarbonate** | Buffers H⁺ · **0.3 g/kg 1–2 h pre-event** · main side effect **GI upset / diarrhoea** |
+| **Beta-alanine** | **Carnosine precursor** (rate-limiting) · **1.6–6.4 g/day**, sustained release · **paraesthesia > 800 mg per dose** · carnosine itself useless orally (hydrolysed) · vegetarians low carnosine |
+| **HMB** | **Leucine metabolite** · 1.5–3 g/day · **mTORC1 activation + ubiquitin–proteasome inhibition** · strength + endurance · not on WADA list |
+| **Arginine** | ↑ GH (↓ somatostatin), creatine synthesis, **NO precursor** · 12 g/day × 8 wk → ↑ strength, **no change in VO2max / body composition** |
+| **Whey** | Fast MPS via mTOR · ↑ glutathione (↓ oxidative stress) · 20 g/day · leucine 2–3 g per serve · CHO : protein **3 : 1** |
+| **L-carnitine** | Long-chain FA into mitochondria · 1–2 g/day · ↓ CK leak, ↑ O2 delivery |
+| Ephedrine (ma huang) | Sympathomimetic, thermogenic · **FDA banned 2004** · urine > 10 µg/ml = AAF |
+| Others | Chromium picolinate (insulin action) · inosine (↑ 2,3-DPG) · octacosanol (grip) · ginseng · bee pollen |
+
+| PED fact (TO) | Detail |
+|---|---|
+| **Alcohol** | Low BAC 0.02 may ↑ accuracy · banned in precision sports (**archery, shooting, modern pentathlon**) |
+| **Tibolone** | Synthetic steroid · **↑ hand-grip strength in postmenopausal women** · WADA "other anabolic agent" |
+| **GH** | 191 amino acids · natural **22 kDa (main) + 20 kDa** · recombinant = 22 kDa only → **↑ 22:20 ratio = doping** · doping 10–25 IU 3–4×/wk → acromegaly, DM, carpal tunnel |
+| **Clenbuterol** | Illegal β2-agonist → **type II hypertrophy**, ↓ fat |
+| AAS effects MCQ | **Alopecia + gynaecomastia + oligospermia + altered thyroid function → all of the above** |
+| CHO loading | ↑ endurance **2–3%** · EPO ↑ VO2max **6–7.7%** |
+| Use rates | High-school alcohol 55–90% · PED \~5% |
 
 ## 2 Mechanism
 
@@ -395,6 +426,68 @@
 
 **Terbutaline** — **SABA** (salbutamol + terbutaline = SABAs; salmeterol + formoterol = LABAs) · for bronchospasm in asthma, bronchitis, emphysema · ↑ time to exhaustion + muscle power output in cyclists · no help to a cricketer · asthmatic may use SABA / LABA with a **TUE certificate**
 
+### Anti-doping system, detection & sanctions (TO)
+
+**Bodies (TO)** — **WADA 1999** (Lausanne → **Montreal**) · **NADA** (India) · federations test · **Anti-Doping Disciplinary Panel** (1st instance) → **Anti-Doping Appeal Panel** (appeal **within 14 days**) → **CAS = final, binding** · database **ADAMS**
+
+**Definitions (TO)** — **in-competition = 12 h before competition → end of sample collection** · **strict liability** (athlete responsible regardless of intent) · ban covers **all sports** · prohibited association with banned coach · **3 whereabouts failures in 12 months = ADRV (Article 2.4)** · injured athlete still files whereabouts
+
+**Sanctions — conflict** — 1st offence **2–4 years** (TO, Doping Part 1) · **4 years** (TO, medico-legal) — read the options · 2nd = **lifetime** · reduced (0–4 yr) if no intent / negligence or **substantial assistance** · support staff also sanctioned
+
+| Detection (TO) | Sample | Detects |
+|---|---|---|
+| **GC-MS** | Urine | **Anabolic steroids, stimulants** |
+| LC-MS | Blood | Peptide hormones |
+| **Isoelectric focusing** | Blood / urine | **EPO** (detectable \~3 days) |
+| **CIR / IRMS** | Urine | **Endogenous vs exogenous** steroid (testosterone confirmation) |
+| **Athlete biological passport** | Blood | Haematological + steroid profiles over time |
+| GH | Serum | **22 : 20 kDa isoform ratio** |
+| CO rebreathing | — | **Total Hb mass** (blood doping) |
+
+**Marker thresholds (TO)** — **T : E > 4 : 1** suspicious (TO) · > 6 : 1 (Orthobullets, above) — read the options · **nandrolone metabolite 19-norandrosterone > 2 µg/L**; detectable up to **18 months** · **metandienone up to 12 wk** · stanozolol \~10 days · **meldonium > 15 µg/ml** · codeine → morphine (ratio test)
+
+**Sample handling — TO doping lecture** — urine **90–110 ml** · athlete may drink up to **1.5 L** if dilute · undress **nipple to mid-thigh** · A **30 ml** / B **60 ml** (TO lecture) vs B > 30 / A > 60 (table above) — read the options · BCO: athlete rests 10–20 min · to WADA lab **within 24 h**, room temperature (not frozen) · A positive = **AAF** → NADA checks TUE → B positive → provisional suspension · advance-notice testing only for minors, disabled, high-security / bio-bubble
+
+| TUE (TO) | Rule |
+|---|---|
+| Criteria (all 4) | Needed for a **diagnosed condition** · **no significant performance enhancement** · **no reasonable permitted alternative** · not due to prior prohibited use |
+| When | Apply **≥ 30 days** before event (NADA / IF TUE committee) |
+| **Retroactive** | Emergency / life-saving treatment (dehydration, anaphylaxis) |
+
+| Prohibited method / substance (TO, M-class) | Status |
+|---|---|
+| **M1 blood doping** | Any autologous / homologous / heterologous transfusion · **perfluorochemicals, efaproxiral (RSR13)**, Hb-based O2 carriers · intravascular manipulation |
+| **Total Hb mass** | Predicts aerobic capacity (not [Hb]) · plasma expanders alone don't help |
+| EPO family | Epoetin α/β · **darbepoetin** (long t½) · **CERA (Mircera)** — slow, hard to detect · 60–350 U/kg SC × 4–6 wk |
+| Cryopreserved RBCs | **−40 °C, 1 year** (vs RBCs 4–6 °C 35–42 days, platelets 20–24 °C 5 days) |
+| Plasmapheresis — donor | **Prohibited (M1.1)** |
+| **Haemodialysis**, **IV laser therapy** (M1.3) | **Banned** |
+| **Mannitol IV** | **Banned (masking)** · **inhaled** allowed for asthma testing |
+| **Cobalt salts** | **Prohibited** (erythropoiesis) · vitamin B12 fine |
+| **Trimetazidine** | Metabolic modulator, prohibited in + out (**Sun Yang**) |
+| **Meldonium** | Banned **1 Jan 2016** (**Sharapova**) |
+| **Modafinil** | Stimulant S6, banned **2004** (BALCO era) |
+| Hypoxic chambers, inhaled O2 | Allowed |
+| Colostrum | Not banned, discouraged (IGF-1) |
+| **PRP** | Banned **2009–2011** → **now permitted**; isolated growth factors (IGF-1, PDGF) prohibited |
+
+**PRP biology (TO)** — platelets **\~1,000,000 /µL** in \~5 ml · **α granules: PDGF, VEGF, TGF-β, IGF** · dense: ADP, serotonin · **95% GF released within 1 h**, synthesis 5–7 days · **double spin** (soft → hard) or buffy coat · **20–24 °C, never freeze** · citrate / ACD-A anticoagulant, **avoid EDTA** · activate with CaCl₂ / thrombin · **VEGF ↑ for 4 wk** after injection · **DEPA** classification = **D**ose, **E**fficiency, **P**urity, **A**ctivation · leukocyte-rich vs pure PRP / PRF
+
+| Case (TO) | Substance |
+|---|---|
+| **Thomas Hicks 1904** | **Strychnine + brandy** (marathon) — first known doping |
+| Hans-Gunnar Liljenwall 1968 (TO prints 1967) | **Alcohol** (pentathlon shooting) — first Olympic disqualification |
+| **Ben Johnson 1988** | **Stanozolol** → Dubin inquiry |
+| **BALCO** (Marion Jones, Dwain Chambers, Barry Bonds) | **THG** (designer steroid), EPO, GH, modafinil |
+| Lance Armstrong | EPO, transfusions, testosterone, **Actovegin** (calf-blood extract) |
+| Maradona 1994 | **Ephedrine** |
+| Shoaib Akhtar 2006 | **Nandrolone** |
+| Narsingh Yadav | Metandienone |
+| Robert Farah | **Boldenone** (contaminated beef) |
+| Riccardo Riccò | **CERA (Mircera)** |
+| Mohammad Asif | Nandrolone via **Keratyl eye drops** |
+| Russia pre-Rio "Duchess cocktail" | Oxandrolone + metenolone + trenbolone |
+
 ## 5 Management
 
 ### Antihypertensives & other medications in sport (beta blockers, diuretics) (TO)
@@ -549,6 +642,28 @@ Hypertensive athlete — choose drug
 
 **On-field tips** — gloves · gauze + nose plugs under glove on **dorsal thenar of non-dominant hand** · saline pods · labelled contact lenses + pocket mirror · energy gels, hair bands · pocket mask, **methoxyflurane**, oropharyngeal airways in outer pockets
 
+### Medico-legal aspects of doping (TO)
+
+**Doctor's liability (TO)** — **team physician** answerable to NADA, WADA **and** Medical Council · private practitioner → Medical Council only · athlete consent does **not** absolve ethical liability · coach asks for pre-match steroid injection → **refuse** · OTC supplements not always safe · only **WADA-accredited labs** analyse samples
+
+| IPC section (TO) | Offence |
+|---|---|
+| 336 | Act endangering life — 3 months / ₹250 |
+| 337 | Hurt by negligence — 6 months / ₹500 |
+| 338 | Grievous hurt by negligence — 2 years |
+| **304A** | **Death by negligence** — up to 2 years, non-bailable (TO) |
+| 284 / 276 / 351 | Poisonous substance negligence / drug adulteration / assault |
+
+**NDPS Act 1985 (TO)** — small quantity ≤ 1 yr or ₹10,000 · intermediate ≤ 10 yr + ₹1 lakh · commercial **10–20 yr** + ₹1–2 lakh · applies to doctors + athletes
+
+| Misuse of Drugs Act (UK) class (TO) | Examples |
+|---|---|
+| A | Cocaine, heroin, LSD, methamphetamine |
+| B | Amphetamine, barbiturates, cannabis, codeine |
+| **C** | Benzodiazepines, **anabolic steroids**, ketamine |
+
+**Ethics (TO)** — anti-doping compromises **autonomy** (compelled samples), **privacy** (observed collection), **confidentiality** (public results) · avoid cough syrups with codeine, ephedrine, salbutamol · cheating: whereabouts abuse, urine substitution, masking diuretics, **micro-dosing**
+
 ## X vs Y
 
 | Drug (OB) | Distinguishing adverse effect |
@@ -686,3 +801,21 @@ Hypertensive athlete — choose drug
 **"Medical bag — odd one out (TO)?"** → **athlete medical bag**
 
 **"Performance benefit from pregnancy (TO)?"** → **after 18 weeks**
+
+**"In-competition period (TO)?"** → **12 h before competition until end of sample collection**
+
+**"Whereabouts failures constituting an ADRV (TO)?"** → **3 in 12 months**
+
+**"Time limit for appeal after ADDP decision (TO)?"** → **14 days**
+
+**"Doping test distinguishing endogenous from exogenous testosterone (TO)?"** → **carbon isotope ratio (IRMS)**
+
+**"GH doping detection (TO)?"** → **22 : 20 kDa isoform ratio**
+
+**"Beta-alanine dose-limiting side effect (TO)?"** → **paraesthesia (> 800 mg per dose)**
+
+**"HMB mechanism (TO)?"** → **mTORC1 activation, ↓ ubiquitin–proteasome breakdown**
+
+**"WADA status of PRP (TO)?"** → **permitted (banned 2009–2011); isolated growth factors prohibited**
+
+**"First known doping case (TO)?"** → **Thomas Hicks 1904, strychnine + brandy**

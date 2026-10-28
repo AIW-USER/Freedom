@@ -22,6 +22,12 @@
 
 **Artery of tarsal canal** — branch of **PTA** · **dominant blood supply to talar body**
 
+**Most important talar artery** — artery of tarsal canal = dominant (Orthobullets) · **deltoid artery (PTA) = most important, supplies \~70% of talar body** (TO) — read the options
+
+**Talar arteries (TO)** — **PTA → deltoid artery + artery of tarsal canal** · **anterior tibial → artery of tarsal sinus** · peroneal artery (TO) · sinus tarsi a. from perforating peroneal (Orthobullets) — read the options
+
+**Why AVN (TO)** — displaced neck / body fractures disrupt deltoid supply · **never strip small medial neck fragments attached to deltoid** (TO)
+
 **Artery of sinus tarsi** — branch of **perforating peroneal a.** · with tarsal canal a. supplies **talus**\
 ✗ Wrong options: heel pad
 
@@ -71,6 +77,8 @@
 | Supplies | **Talar body (dominant)** | Talus |
 
 ## How it's asked
+
+**"Artery supplying \~70% of the talar body (TO)?"** → **deltoid artery (branch of PTA)** (TO)
 
 **"Heel pad avulsion — baseline blood supply of the heel pad?"** → **medial calcaneal branch of the posterior tibial artery**\
 ✗ Wrong options: lateral calcaneal branch of peroneal (minor) · medial plantar · sinus tarsi a.

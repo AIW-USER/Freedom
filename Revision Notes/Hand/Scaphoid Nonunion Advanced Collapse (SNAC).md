@@ -46,6 +46,13 @@
 | **II** | Stage I + **scaphocapitate** | ![SNAC II](../../Orthobullets/attachments/ob12119-snac-wrist-stage-ii.jpg) | Radioscaphoid |
 | **III** | **Periscaphoid** (proximal lunate & capitate may be kept) | ![SNAC III](../../Orthobullets/attachments/ob12119-snac-wrist-stage-iii.jpg) | Midcarpal |
 
+**TO staging** — 1 radial styloid · 2 radioscaphoid · **3 capitolunate** (matches OB7857)
+
+| (TO) | PRC | 4-corner fusion |
+|---|---|---|
+| Pros | Faster recovery, simpler | Strong, stable, keeps some motion |
+| Cons | **Not if capitolunate arthritis** | Technically demanding, nonunion risk |
+
 **Source conflict** — stage II = scaphocapitate (Orthobullets) · radioscaphoid (OB7857) — read the options
 
 ## 5 Management

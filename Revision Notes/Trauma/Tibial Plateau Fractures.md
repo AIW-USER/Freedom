@@ -12,6 +12,17 @@
 
 **Mechanism** — **valgus → lateral** · **varus → medial** · **axial → bicondylar** · high energy → medial, fracture-dislocation, soft-tissue injury · low energy → lateral
 
+**Lateral plateau share (TO)** — **55–70%** · **worst prognosis = medial plateau** (TO)
+
+| Force (TO) | Pattern | Age |
+|---|---|---|
+| **Valgus / varus** | **Split (cleavage)** | Young, good bone |
+| **Axial compression** | **Depression** | Elderly osteoporotic |
+| Combined | **Split-depression** | Any |
+| **Flexion + varus + IR** | **Posteromedial fragment** | — |
+
+**Causes (TO)** — bumper injury **52%** · fall from height 17%
+
 ### Plateau anatomy (medial vs lateral)
 
 | | **Medial plateau** | **Lateral plateau** |
@@ -24,6 +35,10 @@
 
 **Alignment** — **posterior slope 6–10°** · **3° varus** to tibial mechanical axis
 
+**Slope / height (TO)** — posterior slope **3–10° (avg 7°)** (Tiwari) · sagittal **5°**, coronal **3°** (Shetty) · lateral plateau **2–3 mm higher**, cartilage **\~4 mm lateral vs 2–3 mm medial**
+
+**Raft-screw tip (TO)** — screws parallel to lateral plateau → medial plateau lies **lower** → beware joint penetration
+
 **Kinematics** — 0–140° (walking 0–70°) · concave medial pivot + convex lateral → **femoral rollback**, screw-home (tibia ER in extension)
 
 **Insertions** — ACL between spines · PCL posterior sulcus · superficial MCL deep to pes · **LCL anterolateral fibular head** · ITB **Gerdy's tubercle** · pes anteromedial
@@ -35,6 +50,8 @@
 | Injury | Association |
 |---|---|
 | **Lateral meniscus** | **Commoner than medial** · **Schatzker II** · **> 10 mm depression + > 6 mm widening** (Orthobullets; OB) · **≥ 6 mm depression + 5–6 mm widening** (OB) — read the options |
+| **Lateral meniscus (TO)** | **80%** in Schatzker II if **> 5 mm widening + > 6 mm depression** (TO) |
+| **Segond / reverse Segond (TO)** | Lateral tibial avulsion → **ACL** · medial avulsion (deep MCL fibres) → reverse Segond |
 | **Medial meniscus** | **Schatzker IV** |
 | **ACL** | **Types IV + VI (25%)** (Orthobullets; OB) · **types V + VI** (TO; OB) — read the options |
 | Neurovascular | **Schatzker IV fracture-dislocation**; hyperextension bicondylar |
@@ -69,6 +86,8 @@
 | **Plateau view** | **10° caudal tilt** (matches posterior slope) |
 | **CT** | Depression, comminution, **posterior coronal split** (axial + sagittal) · **after ex-fix** if staged |
 | MRI | Meniscus + ligaments, occult fracture |
+| **Traction view (TO)** | Restores geometry, ↓ overlap |
+| **Caudal tilt (TO)** | **10–15°** (beam parallel to slope) |
 
 ### Lipohaemarthrosis — occult fracture
 
@@ -100,6 +119,15 @@
 
 **3-column concept** — **medial, lateral, posterior** (CT) · captures **posterior** fractures Schatzker misses · guides approach
 
+**Luo 3-column (TO)** — axial CT · **zero column = pure central depression (Schatzker III)** · Schatzker limitation = AP-based, misses posterior fragments
+
+| Column (TO) | Approach |
+|---|---|
+| **Lateral / anterolateral** | **Anterolateral** — incision 1 cm lateral to crest, **submeniscal arthrotomy** |
+| **Medial / posteromedial** | **Posteromedial** (Lobenhoffer) |
+| **Posterolateral** | **Frosch** — between **biceps femoris + lateral gastrocnemius**, protect **CPN**, plate **≤ 5 cm below joint line** |
+| Combined (Kfuri–Schatzker) | Dual anterolateral + posteromedial |
+
 **Hyperextension varus bicondylar (HEVBTP)** — **loss / reversal of posterior slope** · posterior cortex tension failure, anterior compression, coronal varus · **popliteal artery 12%** (vs 1%), **peroneal nerve 16%**, compartment syndrome 12%, **PLC injury** · fix: **anteromedial buttress + graft anterior defect**\
 ✗ Wrong options: posteromedial corner · ↓ peroneal risk · posterior tibial artery
 
@@ -128,11 +156,25 @@ Tibial plateau fracture
 | **Varus / valgus instability** | **> 10°** (in extension) |
 | **Medial plateau fracture** | All |
 | **Bicondylar** | All |
+| **Step-off (TO)** | **> 2 mm** — read the options |
+| Open fracture, compartment / vascular injury (TO) | All |
 
 **Decision for minimally displaced fracture** — **physical exam (varus / valgus stability)** · may decide up to 2 wk\
 ✗ Wrong options: MRI · age · compensation
 
 **Nonoperative** — minimally displaced split / depression, stable, non-ambulatory, unfit · PTB cast / immobiliser / **hinged brace** · **early passive ROM**
+
+**Nonop duration (TO)** — cast / hinged brace **4–8 wk** + early quadriceps exercises (Orthobullets: NWB / PWB 8–12 wk) — read the options
+
+**Span – scan – plan (TO)** — spanning ex-fix → **CT after spanning** (reduced position) → definitive fixation once soft tissue settles
+
+| Schatzker (TO) | Fixation |
+|---|---|
+| **I** | Closed / percutaneous **6.5 mm cancellous lag screws + washer**; elderly → add buttress plate |
+| **II** | Anterolateral approach, elevate + graft / calcium phosphate, **lateral buttress plate + raft screws** |
+| **III** | Elevate via **metaphyseal window**, graft, **raft (3.5 mm subchondral) screws** |
+| **IV** | **Medial buttress plate** + check popliteal artery |
+| **V / VI** | **Dual plating ("post and lintel")**, 2 approaches 180° apart, **medial side fixed first** |
 
 ### Spanning external fixation — indications & effects
 
@@ -208,6 +250,8 @@ Tibial plateau fracture
 **Position** — supine figure-4 or **prone** (extensile posterior / posterolateral shear) · elevate popliteus subperiosteally · knee **extension + valgus** aids reduction
 
 **At risk** — **saphenous nerve + vein**, **posterior tibial recurrent artery** (distal / lateral)
+
+**Lobenhoffer steps (TO)** — **prone** → dorsal incision → **medial gastrocnemius reflected laterally** → partial **soleus** detachment → buttress posteromedial fragment
 
 **Schatzker IV / medial condyle** — **medial (posteromedial) buttress plate, absolute stability**\
 ✗ Wrong options: lateral locking (shear failure) · medial bridge · lag screws alone (leg lever arm) · IMN · ex-fix
@@ -420,3 +464,7 @@ Tibial plateau fracture
 **"Lipohaemarthrosis means?"** → **occult fracture**
 
 **"Posterolateral approach plane (TO)?"** → **gastrocnemius-soleus ↔ peroneals**
+
+**"Zero column in 3-column classification?"** → **pure depression (Schatzker III)** (TO)
+
+**"Dual plating principle for bicondylar fractures?"** → **post and lintel** (TO)

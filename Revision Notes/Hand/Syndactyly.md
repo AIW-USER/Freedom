@@ -80,6 +80,18 @@ Syndactyly
 
 **Grafts** — **FTSG preferred, less contracture** (TO) · FTSG ↑ web creep, hyperpigmentation, hair; STSG ↑ flexion/extension lag & graft breakdown (Deunk, no preference)
 
+**Technique (TO)** — **volar anchor / triangular flap** · **Buck-Gramcko flaps for nail folds** · FTSG for residual defects
+
+**Stage interval** — **6 mo** (Orthobullets) · **3–6 months** (TO) — read the options
+
+| | **Syndactyly (TO)** | **Symphalangism (TO)** |
+|---|---|---|
+| Involves | Adjacent fingers | Same finger |
+| Fusion | Soft tissue / bone | Longitudinal phalangeal (PIP absent) |
+| Rx | Surgery | Conservative |
+
+**Metacarpal synostosis (TO)** — commonly **4th–5th** · carpal synostosis — conservative
+
 ![Zigzag flaps](../../Orthobullets/attachments/ob6076-zigzag-technique.jpg)
 
 ## 6 Complications

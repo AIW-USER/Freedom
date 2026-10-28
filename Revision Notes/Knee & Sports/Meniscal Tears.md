@@ -10,6 +10,8 @@
 
 **Medial > lateral** — overall · **exception: acute ACL tear → lateral tears commoner** (alpine skiers: LM > 4× MM) · **chronic ACL → medial** (PH MM = secondary restraint)
 
+**MM tears (TO)** — **5–6×** commoner than LM (relative fixation to capsule / MCL) · LM circular, more mobile
+
 **ACL + meniscal injury (TO)** — meniscal tear in **> 50% of acute** and **> 80% of chronic** ACL tears
 
 **Acute tears** — young athletes · **twisting on a loaded, flexed knee**
@@ -83,6 +85,8 @@
 
 **Exam traps** — no valgus end-point = MCL · no varus end-point = LCL · apprehension = patellar instability · **posterior drawer + quadriceps active test** = PCL · **pivot shift** (clunk with flexion, IR, valgus from extension) = ACL · 3-quadrant lateral translation + **J-sign** = patellar dislocation · posterior sag = PCL
 
+**Most specific test (TO)** — **Thessaly** (WB rotation at 20°) · **joint line tenderness = most reliable** (TO) · swelling **delayed > 24 h** (synovial irritation, not haemarthrosis)
+
 ### Differential diagnosis
 
 **MCL sprain** — pain with **valgus stress at 30°** (isolates superficial MCL), medial gapping
@@ -123,6 +127,8 @@
 | Ramp (TO) | Thin fluid line **PH MM ↔ posteromedial capsule** (most specific) ± posteromedial tibial oedema |
 
 ![Double PCL sign — bucket-handle fragment in the notch](../../MCQ/attachments/q20-illa-double-pcl-image.jpg)
+
+**Double PCL prerequisite (TO)** — **intact ACL + PCL** · **double delta sign** = flipped meniscus (TO) · **tram-track** = PCL mucoid degeneration (not meniscal)
 
 **Double anterior horn — conflict** — **flipped meniscus tear** (TO, with "bucket handle" as a wrong option; OB210282: flipped LM tear) · **bucket handle** (Orthobullets, OB7436) — read the options
 
@@ -365,6 +371,10 @@ Posterior root tear
 
 **1st-generation all-inside (TO)** — rigid absorbable **arrows / darts / staples** → migration, cartilage damage, foreign-body reaction, cysts → abandoned
 
+**Hybrid repair (TO)** — combined techniques → **bucket-handle tears** · suture **UHMWPE** (FiberWire / FiberTape) · vertical or horizontal mattress · all-inside usable anywhere but **costly**
+
+**Augmentation (TO, Mohindra)** — synovial abrasion / **rasp** · **vascular access channels** (refenestration) · PRP / fibrin clot · **concurrent ACLR = natural biological stimulus**
+
 **Inside-out indications (TO)** — posterior horn, middle third, peripheral capsular, bucket handle · **contraindicated**: **root tears**, severe degeneration, avascular-zone tears
 
 **Open repair** — uncommon; trauma, knee dislocation
@@ -445,6 +455,8 @@ Posterior root tear
 
 **Predictors of success** — **age < 40**, normal alignment, minimal arthritis, **single tear**
 
+**Meniscectomy principles (TO)** — excise **only the unstable fragment** · preserve **2–4 mm peripheral rim** · **cut first, then shave** (balance edges) · **bucket handle: reduce first, then resect** · indications: complex, degenerative, white-white tears
+
 **Total meniscectomy** — historical · **20% significant arthritis + 70% radiographic change at 3 y** · **100% arthrosis at 20 y** (Orthobullets) vs **50–70% radiographic OA by 20 y**, contact pressure **↑ 235%** (TO) — read the options
 
 ### Rehabilitation after repair (TO)
@@ -454,6 +466,8 @@ Posterior root tear
 **Flexion (TO)** — limit to **90° for 4–6 wk** (deep flexion loads the posterior horn) · Orthobullets: avoid > 90°
 
 **Return (TO)** — no deep squat / pivot for **4–6 months** · contact sport at **6–9 months**
+
+**Repair rehab — TO (Mohindra) table** — **0–6 wk brace, NWB, isometrics** → 6–12 wk PWB, ROM **0–90°**, avoid hamstring activation → 3–6 months full WB, closed chain → **> 6 months** sport · vs WB allowed in extension (above) — read the options
 
 ### Meniscal allograft transplantation
 
@@ -478,6 +492,15 @@ Posterior root tear
 **Sizing** — on radiographs · mismatch **> 5–10% → poor** (15% = negative) · **oversized → extrusion** · **undersized → poor congruity, ↑ load**
 
 **Technique** — **bone plugs at each horn or a bone bridge** + peripheral vertical mattress sutures
+
+**MAT technique (TO)** — **bone plug** (cylindrical blocks in tibial tunnels) vs **bone bridge** (single **keyhole** bone bridge → slot) — **bridge preferred** (TO) · indication: **symptomatic young post-meniscectomy knee**, no advanced OA / malalignment, intact ligaments
+
+| MAT graft preservation (TO) | Feature |
+|---|---|
+| **Fresh** | Best viability · **1-week shelf life** |
+| **Fresh-frozen (−80 °C)** | **Commonest** · good balance |
+| Lyophilised (freeze-dried) | Long storage · **weak biomechanics** |
+| **Cryopreserved** (glycerol) | **Best cell viability** of stored grafts · costly |
 
 **Outcomes** — Cole: **77% satisfied** at ≥ 2 y · return to sport **6–9 months** · 10 y: pain + function still better · re-tears / extrusion common
 
@@ -668,6 +691,12 @@ Discoid lateral meniscus (TO)
 **"Hidden ramp lesion (TO)?"** → **type 3**
 
 **"Gold standard for ramp lesion (TO)?"** → **arthroscopy via posteromedial portal**
+
+**"Most specific clinical test for meniscal tear (TO)?"** → **Thessaly test**
+
+**"Prerequisite for the double PCL sign (TO)?"** → **intact ACL and PCL**
+
+**"Preferred MAT fixation technique (TO)?"** → **bone bridge (keyhole slot)**
 
 **"NOT a cause of meniscal calcification (TO)?"** → **rheumatoid arthritis**
 

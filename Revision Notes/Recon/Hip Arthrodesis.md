@@ -65,6 +65,12 @@ Hip arthrodesis decision
 
 **Preop** — **EMG of gluteus medius** · **nonfunctional abductors → constrained acetabular component**
 
+**TO lecture notes** — also **painful pseudarthrosis** · **fusion in improper position → corrective osteotomy, not THR** · abductors assessed **clinically (palpation in lateral decubitus, knee flexed) — no role of EMG / MRI** (TO) vs EMG gluteus medius (Orthobullets) — read the options
+
+**Technique (TO, ankylosis / fusion)** — **double femoral neck osteotomy** (divergent cuts) · ream under C-arm after drilling for depth · centre from Shenton + Köhler lines
+
+**Prognosis (TO)** — **poorest of all difficult THR scenarios** · ↑ **HO** + infection · abductor recovery up to **2 years**
+
 **Outcome** — depends on **abductor function** · weakness → prolonged rehab, **severe lurching gait**
 
 ## 6 Complications
@@ -94,3 +100,5 @@ Hip arthrodesis decision
 **"Contraindication to hip fusion?"** → **ipsilateral knee / lumbar / contralateral hip arthritis, LLD >2 cm, active infection**
 
 **"Position to avoid in hip fusion?"** → **abduction**
+
+**"Hip fused in malposition, painful back — next?"** → **corrective osteotomy, not THR** (TO)

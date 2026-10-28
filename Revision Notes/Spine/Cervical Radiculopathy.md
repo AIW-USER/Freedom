@@ -52,6 +52,16 @@
 
 **Commonest root** — **C7** (several studies)
 
+**Commonest level (TO)** — **C6-7** (then C5-6) → **C7 root** · rule: disc level → **root below** affected
+
+| Type (TO) | Age | Cause | Feature |
+|---|---|---|---|
+| **Acute** | Young | **Soft disc** | Sudden neck + arm pain, no prior neck pain |
+| **Subacute** | Middle-aged | Spondylosis + hard disc | **Neck pain precedes arm pain** |
+| **Chronic** | Older | Degenerative | Intermittent, long-standing |
+
+**Clinical clues (TO)** — **"restless arm"** · upper cervical root → occipital + scapular pain · **exaggerated reflexes → think myelopathy**
+
 **C8 vs ulnar neuropathy** — C8 weakens **index/middle FDP** (AIN-innervated) — ulnar entrapment does not
 
 **C6 vs tennis elbow vs PIN** — C6: thumb paraesthesia + relief with shoulder abduction · lateral epicondylitis: pain with resisted wrist/long-finger extension · PIN: painless wrist extension weakness **with radial deviation**
@@ -65,11 +75,21 @@
 | **Shoulder abduction relief (SAR)** | Hand on head relieves pain (↓ root tension) — **virtually pathognomonic**, best separates cervical vs shoulder/peripheral causes; analogue of SLR |
 | **Spurling** | **Extension + rotation + lateral bend to affected side + axial load** → ipsilateral arm pain; **specific, not sensitive** (✗ Wrong options: contralateral rotation) |
 | Upper limb tension, Valsalva, neck distraction | Supportive |
+| Axial compression (TO) | Downward pressure on head → reproduces pain |
+| Cervical distraction (TO) | Upward traction → **relief** |
 | Hoffmann, inverted radial reflex, clonus, Babinski | **Myelopathy** (✗ Wrong options: radiculopathy) |
+
+**Tension tests (TO)** — **increase**: Spurling, axial compression · **relieve**: cervical distraction, **shoulder abduction (Davidson)**
 
 **Peripheral mimics** — Froment (ulnar), **"OK" sign** failure (AIN), Guyon (no dorsal wrist sensory change), cubital tunnel (worse with elbow **flexion**), diabetic neuropathy (glove-stocking)
 
 **Differential** — carpal / cubital tunnel, **Parsonage-Turner**, thoracic outlet, myelopathy, brachial plexus injury, rotator cuff (history must match MRI)
+
+| Mimic (TO) | Root | Distinguishing feature |
+|---|---|---|
+| **Rotator cuff / shoulder** | C5 | Abduction weak but **elbow flexion intact**, joint tenderness |
+| **Brachial plexitis** (Parsonage-Turner) | C5–6 | **Pain precedes weakness** by days–weeks · **MRI normal**, NCS confirms |
+| **Thoracic outlet** | C8–T1 | Worse with **neck rotation to opposite side** · hyperabduction aggravates |
 
 ## 4 Diagnosis & Classification
 
@@ -104,6 +124,10 @@
 **Natural history** — favourable: **75% (75–90%) improve non-op**\
 ✗ Wrong options: stepwise decline = myelopathy · needs PT/surgery to resolve
 
+**80% resolve in 3–6 weeks** non-op (TO)
+
+**Non-op regimen (TO)** — rest **3–7 days**, soft collar, large pillow (**flexion relieves tension**) · NSAIDs, pregabalin, short steroid taper (deflazacort) · neck exercises after 2 weeks · **avoid traction in acute soft disc** (if used → **in flexion**) · epidural / SNRB when inflammation dominates
+
 **Medications** — **NSAIDs** = most appropriate for chronic radicular pain (TO) · brief **oral steroids** · gabapentin · **nortriptyline** if depressed (↓ narcotic need)\
 ✗ Wrong options: narcotics · muscle relaxants (habituation, depression) · anticonvulsants
 
@@ -125,6 +149,14 @@
 | **Progressive / significant neurologic deficit** |
 | Static deficit with significant radicular pain |
 
+**Failed non-op duration** — **3 months** (Orthobullets) · **> 6 weeks** (TO) — read the options
+
+| Procedure (TO) | Use |
+|---|---|
+| **ACDF** | **Gold standard**; fusion prevents segmental kyphosis |
+| Anterior discectomy without fusion | Limited role → **collapse + kyphosis** |
+| **Posterior foraminotomy / laminotomy** | Soft paracentral / foraminal disc · motion preserving |
+
 ### Surgical options
 
 | Procedure | Indication / outcome |
@@ -144,6 +176,10 @@
 **Landmarks** — mandible **C1-2** · hyoid **C3-4** · thyroid cartilage **C4-6** · **cricoid C5-6**
 
 **Side** — left-sided **lower RLN risk** theoretically; **C7-T1 left → thoracic duct** risk · **deflate ET cuff after retractor placement** (RLN compressed against tube)
+
+**ACDF steps (TO)** — supine, roll under scapula · transverse incision · plane **between SCM (lateral) and strap muscles (medial)** · trachea + oesophagus medial, **carotid sheath lateral** · excise PLL to clear fragment · **left-sided approach for singers/teachers**
+
+**ACDF complications (TO)** — **dysphagia** (oesophageal retraction oedema) · hoarseness (RLN, esp. right) · **oesophageal perforation (rare, fatal)** · persistent radiculopathy (inadequate decompression)
 
 **Plates** — ↑ fusion in **multilevel** (↓ graft complications, reoperation, earlier return to work); **single-level: no difference** · dynamic (controlled settling) vs static (fixed angle) · old Caspar bicortical → neuro risk · screw length > 80% AP → ↓ pseudarthrosis
 
@@ -310,3 +346,7 @@
 **"Factor ↑ adjacent segment disease?"** → **plate distance from adjacent disc**
 
 **"Adjacent segment ossification?"** → **plate < 5 mm from supra-adjacent disc**
+
+**"Most commonly affected cervical root?"** → **C7 (C6-7 disc)** (TO)
+
+**"Tension-relieving tests?"** → **cervical distraction + shoulder abduction (Davidson)** (TO)

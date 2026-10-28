@@ -10,6 +10,13 @@
 
 **Associations** — usually **secondary** to other shoulder pathology: **subacromial impingement**, **bicipital groove stenosis**, **rotator cuff tears — esp. subscapularis**
 
+| Tendonitis group (TO) | Cause | Treatment |
+|---|---|---|
+| **Young active** (throwers, swimmers, gymnasts) | Overuse of intra-articular LHB; isolated or with **internal impingement** | Rest, NSAIDs, injection · **tenodesis if pain >3 months** |
+| **Elderly / cuff disease** | Subacromial impingement, osteophytes; often **supraspinatus tear** | Address impingement + cuff repair + **tenotomy** (tenodesis if active) |
+
+**Rule (TO)** — always assess the biceps in cuff disease; treating only the cuff may leave pain
+
 **Hourglass biceps** — chronic inflammation → **hypertrophied intra-articular tendon** → **incarcerated in joint** during motion, esp. **elevation**
 
 ![Hourglass biceps incarcerated in the joint](../../Orthobullets/attachments/ob3045-hourglassbiceps.jpg)
@@ -21,6 +28,18 @@
 **Insertion** — with short head → **radial tuberosity** · action: **elbow flexion + forearm supination** · **no shoulder ROM/strength contribution**
 
 **Synovial status (TO)** — **intra-articular but extrasynovial**; synovial sheath communicates with GH joint → extends into groove
+
+**"Policeman" and "thief" (TO)** — LHB orients the arthroscopist yet its lesions are subtle, chronic · **short head = function, long head = pathology** · **~95%** of biceps pathology involves the LHB
+
+**Length (TO)** — intra-articular portion **~3.5 cm** · origin → musculotendinous junction **~9 cm**
+
+| LHB zone (TO) | Region |
+|---|---|
+| **Zone 1** | Traditional bicipital groove |
+| **Zone 2** | **Fibro-osseous tunnel** (subscapularis fibres form part) → **hidden pathology** |
+| **Zone 3** | Below groove (musculotendinous junction) |
+
+**Function (TO)** — elbow flexion + **supination (2× the supinator with elbow extended)** · assists **abduction of externally rotated arm** · **humeral head depressor** (balances superior migration in cuff tears) — contrasts with "no shoulder ROM/strength contribution" above — read the options
 
 ### Tuoheti classification – LHB attachment on labrum (TO)
 
@@ -84,6 +103,15 @@
 | **Yergason** | Active **supination against resistance**, **elbow 90°**, forearm **pronated** | Pain in bicipital groove |
 | Popeye | Distal bulge of biceps muscle | **Rupture** |
 
+| Rupture (TO) | Site | Patient | Sign | Treatment |
+|---|---|---|---|---|
+| **Proximal** | **Top of intertubercular sulcus (commonest)** > musculotendinous junction > supraglenoid origin (rare) | Older, degenerative | **Popeye** (bulge in lower arm) | Tenotomy / tenodesis |
+| **Distal** | Radial tuberosity | Young, trauma | **Reverse Popeye** (bulge near shoulder) | Repair to tuberosity |
+
+**Rupture weakness (TO)** — **supination > flexion**
+
+**Bicipital groove palpation (TO)** — arm in **~30° ER**, elbow 90° → marks groove
+
 ![Popeye deformity](../../Orthobullets/attachments/ob3045-popeye.jpg)
 
 ## 4 Diagnosis & Classification
@@ -91,6 +119,8 @@
 ### Key radiology findings
 
 **US** — **thickened tendon** within bicipital groove
+
+**MRI (TO)** — normal LHB = **"coffee bean"** on axial · tendonitis = thick/irregular + peritendinous fluid · rupture = **empty groove**, retracted tendon · degenerative = frayed, intermediate signal, may sublux medially · US = dynamic adjunct
 
 **MRI** — evaluates **concurrent pathology** (subscapularis, cuff) · **thickening + tenosynovitis** of proximal LHB · **↑ T2 signal around tendon** · longitudinal split tears
 
@@ -125,6 +155,12 @@ Biceps tendonitis
 
 **Tenodesis pros** — natural muscle **contour**; but extra risks: nerve injury (**bicortical drilling**, **musculocutaneous retraction**)
 
+**Tenotomy downsides (TO)** — Popeye **up to 20%** · **~20% flexion** and **20–30% supination** strength loss (TO) · no strength difference (level 1, Orthobullets/OB) — read the options
+
+**Patient choice (TO)** — tenotomy: **elderly, low-demand, obese, non-compliant**, cosmesis unimportant · tenodesis: **young, active, cosmetic-conscious, manual workers** · **<40 y → tenodesis, >40 y → tenotomy** (TO)
+
+**Superior migration (TO)** — LHB depresses head → **avoid tenotomy alone** if superior migration
+
 **Bite study (OB)** — tenotomy vs suprapectoral tenodesis with cuff repair: differences small; non-inferiority **statistically inconclusive** on Constant-Murley at 1 y
 
 ### Tenodesis technique – suprapectoral vs subpectoral, arthroscopic vs open
@@ -136,6 +172,14 @@ Biceps tendonitis
 | Residual / groove pain | **Similar** | **Similar** |
 | Popeye, ROM, strength, PROMs, revision | **Similar** (revision very low) | **Similar** |
 | **Nerve injury** | Lower (**unicortical** drilling) | **↑ transient neuropraxia** · **axillary n.** (bicortical drilling) · **medial NV** structures (retraction) |
+
+| Tenodesis level (TO) | Pros | Cons |
+|---|---|---|
+| **Top of groove (suprapectoral, arthroscopic)** | Safe, good haemostasis, revision possible | **Higher revision** — pathology may persist in tunnel |
+| **In groove (zone 2)** | Addresses **hidden tunnel pathology**, decompresses sheath | Demanding, **near axillary nerve** |
+| **Subpectoral (open)** | Easy, **lowest recurrence**, excises diseased sheath | **Humeral stress riser**, stiffness |
+
+**Philosophy (TO)** — "**once you go high you can always go low; once you go low you can't go back**" · **preferred site = subpectoral** (TO)
 
 **Complications** — overall complication rates **similar** (OB) · **subpectoral ↑ transient neuropraxia** (OB) — read the options
 
@@ -208,3 +252,7 @@ Biceps tendonitis
 **"Tuoheti — most common LHB attachment?"** → **predominantly posterior** (TO)
 
 **"Speed test also positive in?"** → **SLAP lesion**
+
+**"Most common site of proximal LHB rupture?"** → **top of the intertubercular sulcus** (TO)
+
+**"Preferred tenodesis site with lowest recurrence?"** → **subpectoral** (TO)

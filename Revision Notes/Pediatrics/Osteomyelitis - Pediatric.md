@@ -27,6 +27,10 @@
 
 ![Metaphyseal osteomyelitis spreading to joint and subperiosteal space](../../Orthobullets/attachments/ob4031-illustration-showing-the-progression-of-hematogenous-osteomy.jpg)
 
+**Duration (TO)** — acute **< 2 wk** · subacute **2–6 wk** · chronic **> 6 wk** with sequestrum · \~5% of paediatric orthopaedic operative cases · 75% part of systemic sepsis
+
+**Neonate (TO)** — sluggish metaphyseal flow, few phagocytes, **hairpin bends** of nutrient vessels · **< 2 yr transphyseal spread** to epiphysis + joint · **> 2 yr physis blocks** → subperiosteal abscess · **circumferential abscess** devitalises periosteum → sequestrum, pathological fracture
+
 ### Intra-articular metaphysis & septic arthritis spread
 
 | Bone (intra-articular metaphysis/physis) | Joint |
@@ -60,6 +64,8 @@
 **Other virulence (distractors)** — superantigens (toxic shock) · biofilm · protein A (binds IgG Fc)
 
 **MRSA predictors** — **T >38°C · WBC >12,000 · Hct <34% · CRP >13 mg/L** → MRSA probability **4/4 = 92%** · 3 = 45% · 2 = 10% · 1 = 1%
+
+**Organisms (TO)** — **Pasteurella**: animal bites · **Eikenella**: human bites · **Salmonella**: sickle cell · fungal: NICU graduates · preterm: nosocomial gram-negative + fungal · term infants: CA-MRSA · **K. kingae**: culture-negative, **PCR**, CRP barely ↑
 
 ## 3 Presentation
 
@@ -107,6 +113,12 @@
 
 ![MRI subperiosteal abscess](../../Orthobullets/attachments/ob4031-spa-osteo.jpg)
 
+**TO lab / imaging** — ANC > 12,000 · **CRP > 20 mg/L** sensitive, good NPV, **best marker of response** · ESR > 20 slow to normalise · blood culture before antibiotics · X-ray: soft-tissue swelling **48 h**, periosteal reaction **7 days** · **MRI gold standard** early; **rim sign** (hyperintense rim) · CT maps sequestrum · **FDG-PET highest accuracy** when MRI limited (hardware) · "culture all biopsies, biopsy all cultures"
+
+**Gledhill classification (TO)** — radiological patterns of **subacute** OM (metaphyseal lucency, cortical hyperostosis, onion skin)
+
+**Epiphyseal osteomyelitis (TO)** — primary epiphyseal, around knee · **TB commonest in India** · minimal angular deformity risk
+
 ### Subacute osteomyelitis vs tumour - biopsy
 
 **Subacute** — bone pain + X-ray changes, **no systemic signs** · ↑ host resistance / ↓ virulence / prior antibiotics · afebrile, mild pain, **normal WBC, ↑ ESR**
@@ -149,6 +161,10 @@ Pediatric acute hematogenous osteomyelitis
 ```
 
 ### Surgical indications & subperiosteal abscess
+
+**Nade's principles (TO)** — antibiotics work **before abscess** · **abscess needs drainage** · antibiotics prevent recurrence · surgery must not damage normal bone · continue antibiotics after surgery
+
+**Technique (TO)** — **oval cortical window** (drill holes) ↓ fracture · medullary decompression with infant feeding tube · pan-medullary abscess: **Gigli-saw intramedullary decompression** · IV antibiotics 4–6 wk (TO)
 
 **Surgery** — **subperiosteal or deep abscess** · **pus on aspiration** · **failure of appropriate antibiotics** (48–72 h) · **chronic infection / sequestrum** · adjacent septic arthritis
 
@@ -202,6 +218,17 @@ Pediatric acute hematogenous osteomyelitis
 
 ### Chronic osteomyelitis (sequestrum, involucrum)
 
+| Beit CURE (TO) | Feature | Rx |
+|---|---|---|
+| **A** | **Brodie abscess** | Drilling + curettage |
+| **B1–B3** | Sequestrum, involucrum adequate | **Sequestrectomy** + curettage |
+| **B4** | Sequestrum, **inadequate involucrum** | Sequestrectomy + **stabilisation** |
+| **C** | Sclerosis | Drainage + long-term antibiotics |
+
+**Cierny-Mader anatomic (TO)** — A medullary · B superficial · C localised · D diffuse
+
+**Chronic OM surgery (TO)** — debride to **paprika sign** · **wait for adequate involucrum** before sequestrectomy · dead space: **Papineau** grafting, VAC, flaps · biofilm → high-dose local antibiotics · **Masquelet** induced membrane (cement spacer, 2-stage) · **absorbable calcium sulphate** carriers (no 2nd surgery, heat-sensitive antibiotics)
+
 **Sequestrum** — **necrotic bone walled off from blood supply = nidus** of chronic infection
 
 **Involucrum** — **new periosteal bone** around sequestrum
@@ -224,6 +251,13 @@ Pediatric acute hematogenous osteomyelitis
 | Age | Mean 6.6 | 10–20 |
 | X-ray | Normal early | Lucency + sclerotic rim |
 | Treatment | IV antibiotics ± I&D if abscess | Curettage + antibiotics |
+
+| Infant mimic (TO) | Clue |
+|---|---|
+| **Caffey disease** | Infantile cortical hyperostosis, irritable, self-limiting |
+| **CRMO** | Multifocal / bilateral, normal markers, NSAIDs |
+| **CIPA** | Insensitivity to pain + anhidrosis → hypertrophic callus |
+| **Scurvy** | Irritable, metaphyseal white line, dramatic response to vitamin C |
 
 ## How it's asked
 

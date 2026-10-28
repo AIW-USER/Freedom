@@ -62,6 +62,12 @@
 
 **Dommisse principles (TO)** — 3 longitudinal channels (1 anterior, 2 posterolateral) · largest at **cervical + lumbar enlargements** (grey matter demand) · 2–17 anterior and 6–25 posterior medullary feeders · **vertebral arteries supply 80% of neck radicular arteries** · reversible flow like circle of Willis
 
+**Adamkiewicz (TO)** — **T8–L2 in 75%**, left posterior intercostal · longitudinal trunks fed by **vertebral arteries** in the neck, segmental (intercostal, lumbar) radicular arteries below
+
+**Cord ischaemia prevention (TO)** — **mid-thoracic watershed** · avoid extensive stripping / segmental vessel ligation · **MAP > 80 mmHg**, oxygenation, neuromonitoring, ± **CSF drainage**
+
+**Prognosis (TO)** — **anterior cord syndrome** (ASA: motor + pain/temperature loss) **poor** · **posterior cord syndrome** (PSA: vibration/proprioception loss) **good**
+
 ![Artery of Adamkiewicz](../../Orthobullets/attachments/ob2004-artery-of-adamkiewicz.jpg)
 
 ### Nerve root anatomy
@@ -87,6 +93,41 @@
 | **Above pons** (micturition centre in pons, **locus coeruleus**) | **Loss of voluntary inhibition**, mild detrusor overactivity, **no DSD**, normal volume + pressure, no hypertrophy |
 | **Above S2 (suprasacral cord)** | **Detrusor-sphincter dyssynergia**, high pressures → functional outlet obstruction |
 | **Below S2 / pelvic nerves** | **Detrusor areflexia**, no DSD, **high volume, low pressure** |
+
+| System (TO) | Nerve / root | Receptor → effect |
+|---|---|---|
+| **Parasympathetic** ("pee") | Pelvic nerve, **S2–S4** | **M3** → detrusor contracts |
+| **Sympathetic** ("store") | Hypogastric, **T11–L2** | **β3** → detrusor relaxes · **α1** → internal sphincter contracts |
+| **Somatic** | **Pudendal**, S2–S4 | **Nicotinic** → external sphincter |
+
+**Voiding (TO)** — triggered at **> 300 mL** · stretch → **pontine centre** → parasympathetic on + sympathetic off · loss of synergy = **DSD** (bladder pressure ↑ + sphincter closed → reflux, hydronephrosis)
+
+**Sphincters (TO)** — males internal + external · **females external only** → ↑ UTI but easier rehab
+
+| | UMN bladder (TO) | LMN bladder (TO) |
+|---|---|---|
+| Tone / detrusor | Spastic, overactive | Flaccid, underactive |
+| Sphincter | Overactive → **DSD** | Underactive → leakage |
+| Pressure / capacity | **High / low** | **Low / high** |
+| Risk | **Reflux → renal damage** | Stasis → infection |
+| Treat | α-blocker, antimuscarinic, botox | **Intermittent catheterisation** |
+
+**PVR (TO)** — normal **< 50 mL** · 100 mL impaired emptying · **300 mL** high risk of infection + renal damage
+
+**Goals (TO)** — protect upper tracts: keep detrusor pressure **< 40 cm H2O** · complete regular emptying · prevent UTI, stones, reflux, dysreflexia
+
+**Urodynamics (TO)** — **gold standard**, shows DSD (simultaneous detrusor + sphincter contraction)
+
+**Clean intermittent catheterisation (TO)** — **gold standard** of rehab · every **4–6 h**, **< 500 mL** · residual < 50 mL = success · indwelling in acute SCI · **suprapubic** for urethral injury / sexual rehab · condom catheter for male overflow
+
+| Drug (TO) | Action | Use |
+|---|---|---|
+| **α1-blocker** (tamsulosin, prazosin) | Relax internal sphincter | DSD |
+| **Antimuscarinic** (oxybutynin, tolterodine) | Block M3 | Overactive bladder |
+| **β3-agonist** (mirabegron) | Relax detrusor | Frequency / urgency |
+| **Botulinum A** (200–300 U) | ↓ ACh release | Overactive detrusor |
+
+**Surgery (TO)** — ↑ capacity: botox, **enterocystoplasty**, autoaugmentation · ↑ outlet resistance: **artificial sphincter**, slings, bulking, sacral neuromodulation · salvage: urethral stent, **ileal conduit**
 
 ### Neuroanatomy – brain & cranial nerves (TO)
 
@@ -175,3 +216,7 @@
 **"Vein of Labbé connects?"** → **Sylvian fissure to transverse sinus** (TO)
 
 **"Urgency, detrusor overactivity, no DSD, normal pressures?"** → **lesion above the pons** (TO)
+
+**"Detrusor relaxation during storage — receptor?"** → **β3 (sympathetic, hypogastric)** (TO)
+
+**"Gold standard bladder management in SCI rehab?"** → **clean intermittent catheterisation 4–6 hourly** (TO)

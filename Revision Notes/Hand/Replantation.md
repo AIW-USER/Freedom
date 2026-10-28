@@ -88,6 +88,8 @@
 
 **Vein grafts** — use **generously**; bone shortening avoids grafts
 
+**Wrist level, ischaemia approaching 6 h (TO)** — **restore arterial flow first** (muscle mass, reperfusion risk) · **cold ischaemia better than warm** (TO)
+
 **Finger order** — **thumb → long → ring → small → index**
 
 **Multiple digits** — **structure-by-structure** (fastest) · **digit-by-digit = longest**

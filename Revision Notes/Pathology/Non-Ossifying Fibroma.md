@@ -43,6 +43,8 @@
 
 **X-ray (diagnostic)** — **eccentric, metaphyseal, cortically based "bubbly"/scalloped lytic lesion** with **thin sclerotic rim** · narrow zone of transition · cortex may be thinned/expanded · **length > width** · no periosteal reaction, no soft-tissue mass
 
+**TO descriptors** — **"bunch of grapes"**, sclerotic / **crenated margins** · **no marrow oedema** · can be **multifocal** (TO)
+
 ![Eccentric bubbly metaphyseal lesion with sclerotic rim](../../Orthobullets/attachments/ob8027-5a-moved.jpg)
 
 **With growth** — migrates to diaphysis, enlarges (1–7 cm) · near maturity → **sclerotic**, reossifies

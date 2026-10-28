@@ -78,6 +78,17 @@
 
 **Type II vs III (TO)** — hip centre migration **<3 cm vs >3 cm** · II has supportive columns (≥50% host contact), III lacks them
 
+**Superior migration cut-off** — **< 3 cm** type II / **> 3 cm** IIIA (Orthobullets) · **< 2 cm** II / **> 2 cm** III (TO notes) — read the options
+
+**Cup-cage sequence (TO)** — medial → lateral: **graft → cage → cement → cup → head** · cage purchase on **ilium + ischium**
+
+| Defect (TO) | Management |
+|---|---|
+| **Cavitary** | **Reverse reaming** + morselized head autograft |
+| **Segmental** | Structural graft / augment (posterosuperior column) |
+| **Combined** | Antiprotrusio cage |
+| **Pelvic discontinuity** | **Cup-cage** |
+
 ![Paprosky acetabular classification](../../Orthobullets/attachments/ob5009-paprosky-acetabulum-classification.jpg)
 
 ### AAOS femoral bone loss
@@ -103,6 +114,10 @@
 
 **TO (FNB 2014)** — <4 cm diaphysis → ✓ **IIIB: extensively porous-coated tapered stem + impaction grafting**\
 ✗ Wrong options: IIIA · II · IV/APC
+
+**Stem logic (TO)** — **fluted → rotational stability** · **tapered → distal fit, prevents subsidence** · Paprosky IIIB = isthmus breached → **distally tapered fluted stem** · IV → APC / tumour prosthesis
+
+**Difficult THR principles (TO)** — multiple implants + graft ready · posterior approach (extensile) · **explore + protect sciatic nerve** · trochanteric osteotomy for acetabular exposure · **delay WB 2–3 months** (uncemented osseointegration)
 
 ![Paprosky femoral classification](../../Orthobullets/attachments/ob5009-paprosky-femoral-classification.jpg)
 

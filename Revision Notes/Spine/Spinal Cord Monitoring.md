@@ -68,6 +68,12 @@ Significant signal change
 
 **Most concerning in PSO** — **> 100 V MEP threshold rise**
 
+**POSCI (TO)** — peri-op cord injury **0–10%** · ↑ deformity, **intramedullary tumour**, pre-existing myelopathy, revision · **MAP < 55** risk · prevention: **MAP ≥ 80 in "sick cord"** intra-op + **24 h post-op**, **temporary rod during osteotomy** (no translation), normothermia **> 36.5 °C**, neuro checks, re-image for haematoma
+
+**Deficit rates (TO)** — anterior TL approach \~1% · **T4–T9 watershed** → delayed paraparesis · pedicle breach \~0.8% · **PLIF > ALIF > TLIF** · PLIF → traversing root (\~19% traction) · TLIF → exiting root · XLIF → lumbar plexus in psoas
+
+**Positioning injuries (TO)** — brachial plexus (abduction > 90°) · **LFCN / femoral** in obese (bolsters) · **ischaemic optic neuropathy** → blindness (long prone, haemodilution, diabetes)
+
 ### Reversible causes
 
 **Commonest non-anaesthetic reversible cause** — **patient positioning** (nerve compression, plexus traction, neck alignment)\

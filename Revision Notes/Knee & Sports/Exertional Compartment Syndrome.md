@@ -88,6 +88,8 @@
 
 **How many criteria** — listed with "and" (Orthobullets) · **"one or more"** (Pedowitz, TO) · "or" / "and/or" (OB) — **any one value above threshold = consistent** in the MCQs
 
+**Shin-pain lecture criterion (TO)** — **> 25 mmHg post-exercise** or **↑ > 10 mmHg from baseline** · confirm with ICP or **NIRS**
+
 | Values in the options | Verdict |
 |---|---|
 | **Rest 10 · 1 min 35 · 5 min 25** | **Normal rest, ↑ 1 + 5 min** (OB) |
@@ -109,6 +111,12 @@ Exertional compartment syndrome
 **Nonop success** — **forearm PT \~80%** vs **leg PT < 50%** (OB) · all CECS get a **nonop trial first**
 
 **Definitive (TO)** — **fasciotomy** in non-responders · mainstay = **subcutaneous fasciotomy** (OB)
+
+**Surgery (TO, shin-pain lecture)** — **fasciotomy / fasciectomy** of affected compartment only (no clear evidence favouring fasciectomy) · **periosteal stripping = revision only** · **best results: nerve entrapment** · **poor: deep posterior CECS** (incomplete release) · high pre- / post-op pressures → poorer prognosis
+
+**Post-fasciotomy rehab (TO)** — limited WB **3–5 days** → swim / cycle after suture removal (\~**2 wk**) → light jog **4–6 wk** → **full RTP 8–12 wk**
+
+**Anterior vs lateral (TO)** — anterior: pain lateral to shin + **1st web paraesthesia (DPN)** · lateral: pain anterior to fibula + **dorsum of foot (SPN)** · conservative: dry needling, myofascial release, ↓ heel height, **midfoot / forefoot strike, shorter stride** · refractory: **Botox** or fasciotomy
 
 ### Fasciotomy – recurrence & SPN risk
 

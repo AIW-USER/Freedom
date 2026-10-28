@@ -33,6 +33,11 @@
 | APL | Radial base 1st MC |
 | EIP | Extensor hood index MCP |
 
+| Intersection type (TO) | Site | Imaging |
+|---|---|---|
+| **Proximal** (classic) | APL + EPB cross ECRL + ECRB in distal forearm | Request wrist **with distal forearm** |
+| **Distal** | **EPL crosses ECRL + ECRB beyond Lister's tubercle** | Seen on routine wrist MRI |
+
 ## 2 Mechanism
 
 **Mechanism** — **repetitive wrist extension** → friction at crossover → tenosynovitis
@@ -83,6 +88,8 @@ Intersection syndrome
 | Injection | 2nd compartment | 1st compartment |
 
 ## How it's asked
+
+**"EPL crossing ECRL/ECRB distal to Lister's tubercle?"** → **distal intersection syndrome** (TO)
 
 **"Rower, tender 5 cm proximal to wrist, inject which compartment?"** → **ECRL + ECRB**\
 ✗ Wrong options: APL/EPB · EPL

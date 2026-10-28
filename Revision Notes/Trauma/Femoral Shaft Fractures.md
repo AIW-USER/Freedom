@@ -10,6 +10,14 @@
 
 **Who** — high energy in young (MVC) · low energy in elderly · gunshot
 
+**Blood loss (TO)** — **1–1.5 L** into thigh · associated **fat embolism**
+
+**Nonop traction options (TO)** — skin traction · **Russell (balanced) traction** · **boot and bar (derotation bar)**
+
+**Retrograde nail indications (TO)** — **bilateral shaft fractures**, polytrauma, **floating knee**, ipsilateral **acetabulum / patella** fracture · entry **anterior + medial to PCL attachment / apex of Blumensaat**, nail up to lesser trochanter
+
+**Reaming (TO)** — larger nail, better stability, **autograft deposition** vs thermal necrosis + fat embolism
+
 ### Associated injuries
 
 | Association | Fact |

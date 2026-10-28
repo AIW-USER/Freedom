@@ -136,6 +136,10 @@ Spine SSI
 
 **Antibiotics** — **6 wks IV** (PICC), follow ESR/CRP · **serial MRI not needed** · prolonged IV antibiotics may allow fusion before hardware removal
 
+**TO regimen** — stable implant, mild infection → **IV 6 wks → oral 6 wks** · loose implant / abscess → debridement ± revision · tissue loss → **VAC ± flap** · **retain implants** (stability helps healing) · culture-negative empirical: amikacin + linezolid · **CT-guided biopsy** for culture · **PET-CT** when implants distort MRI
+
+**Timing (TO)** — early **≤ 1 month** · late 2–6 months · very late **> 6 months** · deep SSI: unexplained back pain 2 days–6 months, fever, discharge · **nasal S. aureus carriage** = risk factor
+
 ## 6 Complications
 
 **List** — wound breakdown, pseudarthrosis, neuro deficit, sepsis, organ failure, death, worse outcomes

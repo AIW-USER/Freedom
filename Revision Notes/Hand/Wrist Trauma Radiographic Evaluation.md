@@ -74,6 +74,27 @@
 | **Pooping duck** | Lateral / IR oblique | **Dorsal triquetral cortical #** |
 | **Absent "eye" (cortical ring)** + sclerosis | PA | **Hook of hamate #** |
 
+### Wrist MRI technique & normal variants (TO)
+
+**Positioning (TO)** — prone **"superman"** position, hand overhead at magnet isocentre, **dedicated wrist coil** (head coil substitute; never body coil) · small FOV, high resolution
+
+**Planning (TO)** — axials ⊥ forearm · **coronals along the RADIUS axis** · sagittals ⊥ coronals (most pulsation artefact) · slices **3 mm**, 0.3–0.5 mm gap
+
+| Sequence (TO) | Use |
+|---|---|
+| **Coronal PDFS** | **Single most useful**: oedema, fluid, **TFCC + SL + LT in one image** |
+| Coronal GRE | Trabeculae, cartilage |
+| Coronal T1 | Marrow fat (AVN, sclerosis), chip fractures hidden by oedema |
+| Axial T1/T2 + FS | Tendons, median + ulnar nn., carpal tunnel |
+| Sagittal FS | Axes: radius, lunate, capitate, MC3 collinear |
+| T2 mapping (3 T) | Early cartilage dehydration (early lunatomalacia) |
+
+**Normal, not pathology (TO)** — **heterogeneous signal at ligamentum subcruentum** · **multiple APL slips** · thin radial cartilage beside TFCC disc · fovea subosseous cysts · striated SLIL
+
+**Measure ulnar variance on X-ray, not MRI (TO)** — changes slice to slice · SL angle easier on lateral X-ray
+
+**Radial styloid (TO)** — high inclination / elongation (post-Colles) → **radioscaphoid arthritis** · **carpal boss** = bony hypertrophy at 3rd CMC (boxers)
+
 ### Scaphoid fracture
 
 | Location | % |
@@ -135,6 +156,8 @@
 | Os radiostyloideum | Near radial styloid, lateral to mid-scaphoid |
 
 ## How it's asked
+
+**"Single most useful wrist MRI sequence?"** → **coronal proton-density fat-suppressed** (TO)
 
 **"Ossification centre appears at 1–3 months?"** → **largest carpal bone = capitate**\
 ✗ Wrong options: scaphoid/Preiser, lunate/Kienböck, trapezium, pisiform

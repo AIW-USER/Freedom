@@ -91,6 +91,22 @@
 **Vacuum phenomenon (TO)** — **nitrogen** gas in disc/vertebra: **DDD** (commonest), osteoporotic collapse, myeloma, Schmorl node, osteonecrosis (Kümmell), rarely infection \
 ✗ Wrong options: **endplate avulsion** (EXCEPT)
 
+**MRI sequences (TO)** — **T1 = fat only** bright (CSF dark) · **T2 = fat + water** (CSF + healthy nucleus bright) · **STIR / T2 fat-sat = water only** → first look in trauma + infection · post-contrast T1 fat-sat → infection, tumour · **gradient** in cervical spine for disc/osteophyte
+
+**T1 dark + T2/STIR bright** — **water** (oedema, infection), not fat or simple degeneration (TO)
+
+**Annular fissure (TO)** — **bright T2 spot/line in dark annulus** · can cause severe pain without big disc
+
+**Desiccation / black disc (TO)** — lost T2 nucleus signal ("white is young, black is old") · chronic LBP with black disc **does poorly with any treatment** → discography before fusion/TDR
+
+**Schmorl node (TO)** — **vertical herniation through endplate** ± oedema · mimics infection (no constitutional symptoms) → analgesics + exercise, biopsy if doubt
+
+| Modic type (TO) | Meaning | T1 | T2 |
+|---|---|---|---|
+| **1** | **Oedema** | Dark | Bright |
+| **2** | **Fatty** | Bright | Bright |
+| **3** | **Sclerosis** | Dark | Dark (mistaken for metastasis) |
+
 ### Pfirrmann classification (TO – **T2 MRI**)
 
 | Grade | Signal | Nucleus vs annulus | Height |
@@ -161,3 +177,5 @@
 **"Vacuum phenomenon — all EXCEPT?"** → **endplate avulsion** (TO)
 
 **"Pfirrmann uses?"** → **T2 MRI** (TO)
+
+**"Modic type 2 change?"** → **fatty marrow — bright on T1 and T2** (TO)

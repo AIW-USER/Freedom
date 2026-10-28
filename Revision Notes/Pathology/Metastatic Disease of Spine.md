@@ -96,6 +96,8 @@
 **Multiple spinal lesions + very high PSA** — staging + diagnostic tests together (prostate biopsy, CT CAP, bone scan, CT-guided spine biopsy) \
 ✗ Wrong options: **bone marrow biopsy** (prostate rarely to marrow)
 
+**Spine biopsy indications (TO)** — **life expectancy > 3 months** · **neurological deficit** · **uncertain diagnosis**
+
 **Known metastatic disease** — biopsy not required
 
 **Biopsy technique** — **posterior transpedicular**, wide-gauge **Jamshidi**, coring needle, image guidance · posterior (cervical) → vertebral artery risk · occult adenocarcinoma → **small lung primary**
@@ -156,6 +158,8 @@ Spinal metastasis (NOMS)
 │      └─ RCC / thyroid → PRE-OP EMBOLIZATION (same morning)
 └─ Radiosensitive tumour (myeloma, lymphoma) → RT may suffice
 ```
+
+**TO rule** — **radioresistant → decompression + stabilisation** · **radiosensitive → RT first, then stabilisation** · vertebroplasty / kyphoplasty for pain from instability (TO)
 
 ### Nonoperative & radiation
 

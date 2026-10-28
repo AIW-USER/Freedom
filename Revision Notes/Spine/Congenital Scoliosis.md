@@ -29,6 +29,8 @@
 | **Intraspinal (neural axis)** | **20–40%** (Orthobullets) · 37% (OB) · 18% pre-MRI era — diastematomyelia, **tethered cord**, syrinx, **Chiari**, intradural lipoma, dural bands; ↑ with segmentation + mixed defects |
 | Orthopaedic | Clubfoot, DDH, limb hypoplasia, **Sprengel**, Klippel-Feil, vertical talus, cavus, **thumb hypoplasia / radial club hand** |
 
+**TO rates** — **renal 20%** (USG ± Doppler) · **cardiac 25%** (2D echo) · **neurological 10–35%** (MRI) · **MRI + renal US + echo mandatory before intervention**
+
 | Syndrome | Features |
 |---|---|
 | **VACTERL** (38–55%) | Vertebral, anal atresia, cardiac, TE fistula, renal, radial / limb |
@@ -69,6 +71,12 @@
 | 5 Incarcerated hemivertebra | — |
 | 6 Unsegmented hemivertebra | — |
 | 7 Block vertebra | **< 2°/yr** |
+
+**Commonest congenital defect** — **hemivertebra** (TO)
+
+**Progression order (TO)** — unilateral bar + hemivertebra > unilateral bar (**> 5–10°/yr**) > fully segmented hemi > unincarcerated > incarcerated > unsegmented hemi > block vertebra (< 2°/yr)
+
+**Hemivertebra growth potential (TO)** — **fully segmented (disc above + below) highest** · semi-segmented moderate · incarcerated / non-segmented minimal
 
 **Timing** — fastest in **first 3 years** · **fused ribs** ↑ progression
 
@@ -114,6 +122,17 @@ Congenital scoliosis
 | **Distraction growing rods** | Control deformity during growth, delay fusion; lengthen \~6-monthly |
 | **VEPTR / rib osteotomies** | **> 4 fused ribs**, **thoracic insufficiency syndrome** (may stiffen chest) |
 | Spinal column shortening resection | Late, severe, rigid deformity; fixed pelvic obliquity |
+
+| Thoracic insufficiency (Campbell) (TO) | Pattern |
+|---|---|
+| **1** | **Absent ribs** + scoliosis |
+| **2** | **Fused ribs** + scoliosis |
+| **3A** | **Shortened thorax** (Jarcho-Levin) |
+| **3B** | **Transversely narrowed thorax** (Jeune) |
+
+**VEPTR (TO)** — rib–rib, rib–spine, rib–pelvis · lengthen 6-monthly · **high complication rate → not routine** · types 3A/3B worst outcome
+
+**Timing (TO)** — **hemivertebrectomy 3–8 yrs** for progressive deformity with kyphosis · A + P fusion / vertebrectomy in **girls < 10, boys < 12** with progression or deficit · single fully segmented hemi → excision + short fusion · multi-segment → excision + growth rod
 
 **22-month / 14-month with bar + contralateral hemivertebra (\~40°), normal MRI** — **hemivertebrectomy + short-segment posterior instrumented fusion**\
 ✗ Wrong options: observe · brace · Risser cast · VEPTR · growing rods
@@ -198,3 +217,5 @@ Congenital scoliosis
 **"Deformity NOT familial?"** → **congenital scoliosis**
 
 **"Commonest level of congenital kyphosis?"** → **T7–9** (TO)
+
+**"Thoracic insufficiency type 3B?"** → **transversely narrowed thorax (Jeune)** (TO)

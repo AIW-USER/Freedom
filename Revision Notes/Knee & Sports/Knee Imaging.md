@@ -76,6 +76,14 @@
 
 **PLC** — LCL + popliteus tendon routinely seen (others rarely) · **oedema posterior to popliteus tendon** → underlying PLC injury
 
+**Reading rules (TO)** — diagnose on **sagittal + coronal**; **axials key for patellofemoral + popliteus tendon** · normal **ACL greyer than PCL** (fibrofatty; AM taut, PL fibrillar) — high signal between intact taut fibres ≠ sprain · normal **PCL uniformly dark, buckled in extension** · fluid in popliteal sulcus + magic-angle signal normal · **fabella** in lateral gastrocnemius = normal
+
+**Osteophyte vs enthesophyte (TO)** — osteophytes at **articular margins** · spurs at **tendon insertions = enthesophytes**
+
+**Metal (TO)** — paramagnetic artefact mimics oedema → request **MAVRIC** (metal artefact reduction) MRI
+
+**Partner injuries (TO)** — **isolated popliteus tear does not occur** → look for FCL, ALL, cruciate · **every ACL tear → look for lateral meniscus posterior root tear** (near ACL footprint; MFLs can hide it) · PCL injury → check **popliteal artery** flow void
+
 ### Ultrasound
 
 **Uses** — **fluid collections**, bursae · **arthrofibrosis after TKA** → **synovial thickening + neovascularity**
@@ -85,3 +93,7 @@
 **"Most sensitive view for degenerative changes?"** → **weight-bearing PA in 45° flexion (Rosenberg)**
 
 **"Medial pain, normal supine films from PCP — next step?"** → **mechanical axis + weight-bearing radiographs**
+
+**"Lateral femoral condyle + inferomedial patella contusions (TO)?"** → **transient lateral patellar dislocation**
+
+**"Loss of extension months after ACLR, graft intact (TO)?"** → **cyclops lesion**

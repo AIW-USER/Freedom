@@ -166,6 +166,16 @@ Fingertip amputation
 | Axial flag | Dorsal MC aa. |
 | Groin | Superficial circumflex iliac a. |
 
+### Littler neurovascular island flap (TO)
+
+**Flap (TO)** — pulp skin from **ulnar side of middle** or **radial side of ring** finger (\~2.5 × 1 cm) on its digital NV bundle → dissected to palm → **tunnelled to thumb**
+
+**Use (TO)** — **sensate cover for distal thumb / thumb pulp** (slicing, bike-chain injuries) · donor closed primarily (graft distally)
+
+**Complications (TO)** — commonest **venous congestion** (tight tunnel) · patient must **relearn localisation (cortical reorientation)**
+
+**Blast index unsalvageable beyond PIP (TO)** — **amputate at PIP level** + cover (keep functional length)
+
 ### Homodigital retrograde island flap
 
 **Retrograde flow digital artery flap** — pulp, dorsal & lateral defects **P3 → PIP**; requires **patent digital a. + middle transverse anastomotic arch**\
@@ -237,6 +247,8 @@ Fingertip amputation
 **"Moberg flap suits?"** → **volar thumb defect**
 
 **"Largest defect for island volar advancement?"** → **2.5–3.5 cm**
+
+**"Distal thumb amputation needing sensate cover?"** → **Littler neurovascular island flap** (TO)
 
 **"Thenar flap candidate?"** → **28 y, volar oblique index defect**\
 ✗ Wrong options: 66 y · RA · dorsal · thumb

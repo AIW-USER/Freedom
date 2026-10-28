@@ -17,6 +17,10 @@
 
 ![Six dorsal wrist compartments](../../MCQ/attachments/q3522-illa-extensor-cpts2.jpg)
 
+**EIP + EDM (TO)** — independent extensors lying **ULNAR to the EDC slip** of the same finger · EPL turns round **Lister's tubercle**
+
+**Related syndromes (TO)** — **intersection** = 1st compartment crosses 2nd in distal forearm (pain, crepitus) · **drummer's wrist** = EPL attrition at Lister's · **Vaughan-Jackson** = ulnar → radial attritional ruptures (RA, prominent ulnar head)
+
 **PIN** — **only nerve** in the dorsal compartments; consistently at **base (floor) of 4th**
 
 **Septa** — 1/2 radial surface thickest; **3/4 septum thinnest**; **5th compartment lowest resistance to failure** (Iwamoto)

@@ -135,6 +135,10 @@
 | **3** | **Acute haematogenous** | **Debridement, prosthesis salvage** |
 | **4** | **Late chronic** (>4 wk) | **Prosthesis removal** |
 
+**Tsukayama numbering — TO lecture notes** — **I early post-op (< 1 mo)** → debridement + lavage + PE exchange, retain stable components · **II late chronic (> 1 mo)** → **two-stage** (spacer, e.g. Prostalac) · **III acute haematogenous** → debridement / single-stage (Hansen) · **IV positive intra-op culture** → tailored antibiotics ± staged · numbering above (TO MCQ) puts positive cultures as type 1 — read the options
+
+**Timing (TO notes)** — acute **< 1 month**, chronic **> 1 month** (Campbell's definition, cited in TO)
+
 ### Key radiology findings
 
 **Radiographs** — **periosteal reaction** (lacey new bone, scalloping) · **patchy osteolysis** · **generalized resorption without wear** · transcortical sinus · loosening · TO: lucency **>2 mm** at bone–cement interface, component shift, cement fracture, motion on stress views · progressive lucency in **first year** → infection work-up
@@ -173,6 +177,7 @@
 | **Knee/hip, chronic** | **>3,000 cells/µL + >80% PMN** (Orthobullets) |
 | **Knee, first 6 weeks after TKA** | **>10,000** ✓ (Parvizi 2018; Bedair 2011 used 27,800) |
 | **MoM hip** | **>4,350 + >85%** · **manual count** (debris falsely ↑ automated) |
+| **Hip — Schinsky criteria (TO)** | **> 4,200 cells/mm³ + > 85% PMN** |
 | **Hip antibiotic spacer** | **>1,166 + >64%** |
 | TO best thresholds | Knee **1,630 + 60%** · hip **2,582 + 66%** → ✓ **2,500 cells/µL** "signifies infection" · early PJI often **>10,000 + >90%** |
 | OB others | Chronic THA **3,966** · knee **>1,100** possible infection · knee PJI **>1,000 + >64%** |
@@ -307,6 +312,8 @@ Confirmed PJI
 
 **Stage 1** — explant · debride bone–implant interface + soft tissue · **antibiotic spacer** · **IV antibiotics 4–6 weeks** (TO: 6 wk, bactericidal titre **1:8**) · excise sinus with elliptical incision
 
+**TO notes** — **IV antibiotics 6 weeks** → reimplant at **~3 months** if ESR/CRP normal + aspirate negative · **no drains with a spacer** (keep local antibiotic level) · **Prostalac (Duncan + Beauchamp)** keeps length + tension · recurrent infection → **Girdlestone** · infection rate **1–2%** (vs Charnley's early **6.8%**)
+
 **Before stage 2** — benign exam, **normal ESR/CRP/WBC**, ✓ **2-week antibiotic holiday then aspiration** · OB case: 1-month holiday\
 ✗ Wrong options: aspirate at completion of IV · wait 6 months (spacer breaks) · spacer exchange
 
@@ -393,6 +400,8 @@ Confirmed PJI
 ![Knee arthrodesis](../../Orthobullets/attachments/ob5004-knee-arthrodesis.jpg)
 
 ### Special situations
+
+**THR in tuberculous hip (TO)** — **active TB no longer a contraindication** · M. tuberculosis **forms no biofilm**, rifampicin penetrates cells · **ATT ≥ 3 weeks pre-op** (preferably **2–3 months**) · total ATT **9–12 months** · **sinus → two-stage** · cemented or cementless (**uncemented if good bone**) · **ATT not added to cement** (poor elution, toxicity)
 
 **Infected pseudotumour (MoM, neutrophils on H&E, ↑ ESR/CRP)** → debride, explant, spacer + ✓ **systemic antibiotics**\
 ✗ Wrong options: radiation · chemotherapy
@@ -570,3 +579,7 @@ Confirmed PJI
 **"Methicillin-resistant enterococcus, gross laxity?"** → **two-stage with static spacer**
 
 **"RA patient after THA (vs OA)?"** → **PJI risk ↑ (16,000 WBC, 88% PMN at 6 wk)**
+
+**"Active TB hip — THR?"** → **not contraindicated; ATT ≥ 3 wk pre-op, 9–12 months total** (TO)
+
+**"Antibiotic spacer — drain?"** → **no drain** (TO)

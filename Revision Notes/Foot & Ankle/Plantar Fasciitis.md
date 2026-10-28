@@ -131,6 +131,8 @@ Plantar fasciitis
 **Rupture presentation** — acute **pop** in runner after steroid shot → can't bear weight · **loss of medial arch → pes planus**\
 ✗ Wrong options: os trigonum (posterior pain) · pes cavus + peroneal subluxation · PTTI (no heel pain) · lateral talar process (snowboarders)
 
+**Plantar fascia avulsion on MRI (TO)** — pole vaulter landing on heel → marrow oedema · **avulsion of lateral cord** · oedema of **abductor digiti minimi + FDB** (TO)
+
 **Rupture treatment** — **cast immobilisation 3–6 wk** (OB) · **CAM boot** sufficient (OB) · stretching **after** immobilisation\
 ✗ Wrong options: urgent / delayed primary repair (no evidence) · stretching first · steroid
 

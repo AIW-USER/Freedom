@@ -31,6 +31,8 @@
 
 **Distal femur** — **70% of femoral growth, 37% of limb** (TO) · most lower-limb growth at the **knee**
 
+**Epidemiology (TO)** — \~2% · peak **10–12 yr** · **males 6×** · neonates: birth injury or **NAI** (metaphyseal corner / bucket-handle fractures = abuse)
+
 **Growth stops** — **14 yr girls, 16 yr boys** (Orthobullets) · fuses 14–16 ♀ / 16–18 ♂ (TO)
 
 ### Physeal histology – hypertrophic zone
@@ -99,6 +101,10 @@ Distal femoral physeal fracture
 
 ### Fixation – smooth pins vs screws (Thurston-Holland fragment)
 
+**By SH type (TO)** — I: closed reduction, open if periosteum entrapped, smooth K-wires · II: **2 screws in Thurston-Holland fragment** if large, K-wires if small · III/IV: anatomic ORIF, screws · reduction = gentle traction, **knee flexion relaxes gastrocnemius**, recheck NV status
+
+**Smooth K-wires across physis are safe (TO)** — few passes, low torque, central, avoid perichondrial ring · **growth arrest is from the injury, not the wires**
+
 **Pins vs screws** — decided by **size of Thurston-Holland fragment** · large → **metaphyseal lag screws** · small / SH I → **smooth K-wires across physis** + supplemental cast
 
 **SH I** — very unstable → **anatomic reduction + smooth pins + cast**\
@@ -144,6 +150,8 @@ Distal femoral physeal fracture
 **Rate of arrest ↑** with displacement; older age (OB)
 
 ### LLD calculation
+**Surveillance (TO)** — remove implants **3–4 months** · **MRI at 4–6 months (T1 spoiled gradient echo)** · follow to maturity · growth arrest **30–40%** (TO)
+
 
 **Complete arrest LLD** = **remaining years × ~9–10 mm** · e.g. 11-yr girl (stops 14) → **3 cm** · 13-yr boy with 2 cm LLD (stops 16) → 20 + 27 = **~4.7–5 cm**, affected side short
 

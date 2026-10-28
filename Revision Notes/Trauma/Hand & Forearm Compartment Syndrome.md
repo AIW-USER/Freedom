@@ -124,6 +124,14 @@ Suspected hand / forearm compartment syndrome
 | **Moderate** | **Wrist + finger flexors** | Excise necrotic muscle, **median + ulnar neurolysis**, **BR → FPL, ECRL → FDP** transfers, **flexor slide** |
 | **Severe** | **Flexors + extensors** | As moderate ± **free functioning muscle transfer** |
 
+**Tsuge – TO wording (TO)** — mild = **partial FDP (1–2 slips)** · moderate = **all flexors + nerve involvement** · severe = **flexors + extensors + skin / joint**
+
+**Seddon's ellipsoid (TO)** — **central** part of flexor mass (**FDP + FPL**) most ischaemic → necrosis → fibrosis
+
+**Volkmann sign / fixed-length phenomenon (TO)** — fingers **cannot be passively extended with wrist extended**; extend when wrist flexed · **ring + middle** fingers commonest
+
+**VIC treatment (TO)** — **turnbuckle (dynamic) splint** + physio (mild) · muscle–tendon lengthening / Z-plasty (mild) · **Max Page muscle slide** = flexor–pronator origin released from **medial epicondyle** + slid distally · **arthrodesis / tenodesis / capsulodesis** for severe rigid deformity
+
 **Prognosis** — loss of function, VIC, neurological deficit, infection, amputation
 
 ### Extravasation injury mimic
@@ -164,5 +172,9 @@ Suspected hand / forearm compartment syndrome
 **"Forearm crush, thumb / index numbness, passive pain?"** → **emergent forearm fasciotomy + carpal tunnel release**
 
 **"Normal hand compartment pressure?"** → **10 mmHg**
+
+**"Muscle-sliding operation for VIC?"** → **Max Page (flexor–pronator slide)** (TO)
+
+**"Fingers extend only with wrist flexed?"** → **Volkmann sign (VIC)** (TO)
 
 **"Swollen violaceous hand on IV phenytoin?"** → **extravasation of a vesicant**

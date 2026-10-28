@@ -16,6 +16,8 @@
 
 **Associated** — **female athlete triad** (critical to diagnose + treat) · **tibial stress fracture** — **females 1.5–3.5× risk of progression**
 
+**Main culprit (TO)** — **soleus** traction (+ tibialis posterior) · tenderness diffuse at **upper ⅔–lower ⅓ junction**, posteromedial · **pain improves after warm-up** (MTSS / tendinopathy) · extra risk factors (TO): **weak hip abductors**, calf tightness, low vit D / Ca, **RED-S**, prior stress fracture, female
+
 ![Pain areas — anterior vs medial tibial stress syndrome](../../Orthobullets/attachments/ob3108-stress-syndromes.jpg)
 
 ## 3 Presentation
@@ -66,6 +68,8 @@
 
 **Therapy** — strengthen **invertors + evertors of the calf** · **local phonophoresis with corticosteroids** may help
 
+**TO treatment** — **soleus-focused stretching** + foam rolling · Ca + vit D3 + Mg · medial arch insoles / taping · **avoid anti-pronation (motion-control) shoes** (TO) · severe: Aircast or fascial release
+
 **Operative (failed nonop)** — **deep posterior compartment fasciotomy + release of painful periosteum** · variable results, complete relief unlikely
 
 ## 6 Complications
@@ -84,3 +88,7 @@
 ## How it's asked
 
 **"Bone scan finding separating shin splints from stress fracture?"** → **diffuse, longitudinal uptake of posterior tibial cortex in shin splints**
+
+**"MTSS vs tibial stress fracture on palpation (TO)?"** → **diffuse vs focal tenderness**
+
+**"Key muscle culprit in MTSS (TO)?"** → **soleus**

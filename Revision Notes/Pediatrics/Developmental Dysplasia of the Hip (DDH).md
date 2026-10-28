@@ -14,12 +14,20 @@
 
 **Side** — **left 60%** (left occiput anterior → left hip adducted against maternal sacrum) · **bilateral 20%**
 
+**Side order (TO)** — **left > bilateral > right**
+
+**Incidence by age (TO)** — **\~1/100 at birth** (newborn laxity, maternal relaxin) → **\~1/1000 at 6 weeks** and stays → reason screening US is at **6 wk, not birth**
+
+**"5 Fs" (TO)** — **Female (5–9×)** · **First born** · **Fair** complexion · **Fetal malpresentation** (breech) · **Family history**
+
 ### Risk factors & examination (Ortolani/Barlow, limited abduction)
 
 **Risk factors** — **breech (highest relative risk, frank > footling)** · **female** (maternal relaxin/oestrogen laxity) · **firstborn** (tight uterus) · **family history** · **oligohydramnios** · macrosomia · limited abduction · talipes · swaddling\
 ✗ Wrong options: maternal diabetes · twins · metatarsus adductus (lesser)
 
 **Packaging associations** — **torticollis (20%)** · **metatarsus adductus (10%)** · **congenital knee dislocation** · ↑ type III collagen conditions
+
+**Rates (other TO lecture)** — torticollis **15–20%** · metatarsus adductus **1.5–10%** · CTEV
 
 ### Spectrum & pathoanatomy
 
@@ -32,6 +40,10 @@
 | Late (adolescent) dysplasia | Reduced, stable, dysplastic |
 
 **Chronic changes** — **limbus** (thickened rim cartilage) · ↑ femoral + acetabular **anteversion** · flat head · oblique roof · thick medial wall · secondary blocks (below)
+
+**Pathology (TO)** — small head with **delayed ossification** · **coxa valga** · ↑ anteversion · **limbus = inverted hypertrophied labrum** · **neolimbus = hypertrophied posterolateral acetabular cartilage** · pulvinar · hourglass capsule · iliopsoas
+
+**Clunk (TO)** — produced by the **neolimbus, not the labrum** · **click** = tendon snapping, harmless
 
 ### Blocks to reduction
 
@@ -53,6 +65,12 @@
 
 **Barlow/Ortolani** — rarely positive after **~3 months** (8–12 weeks) as contractures develop
 
+**Ortolani-positive hips** (rest outside, reducible) are **more resistant to treatment** than Barlow-positive (rest inside, dislocatable) (TO)
+
+**Other signs (TO)** — wide perineum · **supratrochanteric shortening** · **telescopy** · ↓ abduction **and IR** · **vascular sign of Narath** (absent/weak femoral pulse) · asymmetric folds **not reliable** · **Klisic = most reliable in bilateral DDH**
+
+**Swaddling (TO)** — swaddle so baby can kick freely (legs straight = risk)
+
 **Limited abduction** — present in ~70% of dysplastic infants but also **46% of normal** · **unilateral = specific (90%), sensitivity 70%** · **bilateral = not specific** · limited abduction with normal US → **observe**\
 ✗ Wrong options: adductor tenotomy · ↑ risk
 
@@ -63,6 +81,17 @@
 **Classification by phase** — subluxable (Barlow-suggestive) · dislocatable (**Barlow +**) · dislocated (**Ortolani +** reducible early; Ortolani − when irreducible)
 
 **Screening** — **exam of all infants until walking** · **US at 4–6 weeks (AAP: 6 wk)** for **risk factors** (breech, family history) or abnormal exam · universal US **not cost-effective** in US · US before 4–6 wk → spurious
+
+**Clinical exam = gold standard screening** (TO)
+
+**Indian DDH screening pathway (POSI + IOA + IAP) (TO)** — clinical exam at birth + vaccination visits → suspected DDH (Ortolani +, Galeazzi/LLD, ↓ abduction, limp, uncertain exam) → **< 6 wk: schedule US at 6 wk · 6–14 wk: US · > 14 wk (or no quality US): AP pelvis X-ray** → abnormal → paediatric orthopaedic referral
+
+| Classification (TO) | Modality | Best use |
+|---|---|---|
+| **Graf** | Ultrasound | Screening, < \~4–6 mo |
+| **Tönnis** | X-ray | After head ossification |
+| **Ferretti** | MRI | Pre-op, non-ossified hips |
+| **Kashiwagi** | MRI | Acetabular morphology |
 
 ### Key radiology findings
 
@@ -76,6 +105,9 @@
 | **Perkin** | ⟂ Hilgenreiner at lateral acetabular margin · head **medial** |
 | **Shenton** | Inferior neck → superior obturator foramen · **continuous arc** |
 | **Acetabular index** | **<25°** after 6 mo · mean 27.5°, **>35° dysplastic** (OB) |
+| Acetabular index (TO) | Normal **< 20°** · **30° = dysplasia** (TO) — read the options |
+| **Von Rosen view** (TO) | Hips abducted + internally rotated |
+| **No ossific nucleus** (TO) | Use **proximal femoral metaphyseal beak / H point** · dislocated head in **upper outer quadrant** |
 | **CE angle (Wiberg)** | **<20° abnormal** · reliable only **>5 yr** |
 | **Teardrop** | Present in all normal hips by **18 months** · absent before reduction of chronic dislocation · **appearance after reduction = good prognosis** · formed by quadrilateral surface + cotyloid fossa |
 
@@ -97,6 +129,10 @@
 **Alpha angle** — **lateral ilium vs bony acetabular roof** (acute angle) · **normal ≥60°** (by 6–8 wk) · defines Graf type
 
 **Beta angle** — ilium vs **labrum** (echogenic triangle) · **normal <55°** · subtype
+
+**Standard Graf plane (TO)** — **horizontal (straight) iliac wing** · lower limb of os ilium · mid bony roof · **labrum** · linear probe over GT, coronal · small tilts change angles · stress US before and at end of treatment · ↓ alpha or ↑ beta = poor prognosis
+
+**3-wk-old, α 55°, clicky hip (TO)** → **rescan at 6 wk** (normal 62° at 6 wk) · treating now = over-treatment
 
 **US anatomy** — ilium · femoral head · triradiate · **labrum** · ischium · normal head coverage **≥50%**
 
@@ -139,6 +175,10 @@ DDH by age
 **Position** — anterior straps: **hip flexion 90–100°** (prevent extension) · posterior straps: prevent adduction · **abduction 20–40°**, within **safe zone** · avoid flexion >120° or abduction >60–70°
 
 **Wear** — **full-time (23 h/day)** ≥6 wk / until stable · wean 6–8 wk
+
+**Pavlik (TO)** — first choice **6 wk–3 mo** (best < 6 mo) · size by **chest circumference at nipple level** · weekly US · continue **6 wk after hip stable** · **safe cone** (3D) concept · rigid abduction orthosis standard in Germany · no role for triple / abduction diapers
+
+**Femoral nerve palsy (TO)** — flexion **> \~110°**, baby stops moving leg → **remove harness 1 wk**, reapply with less flexion or rigid orthosis
 
 **Monitoring** — **US in the harness at 1–2 weeks** (7–10 d) then every 4–6 wk\
 ✗ Wrong options: immediate US · night-time only · US out of harness · MRI/CT/X-ray
@@ -190,6 +230,12 @@ DDH by age
 
 **Safe zone** — arc between max abduction and redislocation adduction · **≥25° arc** · **adductor tenotomy** if excessive abduction needed
 
+**Ramsey safe zone (TO)** — **narrow (< 20°) → adductor (longus) tenotomy ± iliopsoas release** · abduction **> 35–40°** ↑ AVN (TO) · more abduction needed to stay in = ↑ AVN
+
+**Arthrogram (TO)** — essential when ossific nucleus absent · head points to **triradiate** · **coverage > 50% favourable, < 30% poor** · overlap **A good / B borderline / C poor**
+
+**Timing (TO)** — closed reduction **6–18 mo** · AVN risk ↑ after 6 mo but still standard · **18 mo–3 yr: closed reduction contraindicated** → open
+
 **Spica** — **"human position"**: **100° flexion, 45° abduction (<55°)**, neutral rotation · 3 months · change at 6 wk
 
 **Post-op** — **MRI or CT** in cast (✗ Wrong options: X-ray before discharge) · CT shows posterior subluxation → **urgent repeat closed reduction + recast** (✗ Wrong options: wait 6 wk · osteotomy at 8 mo)
@@ -216,6 +262,15 @@ DDH by age
 **Post-op position** — **30° flexion, 30° abduction, 30° IR**
 
 **Femoral shortening** — **>2 yr** → ↓ tension, ↓ **AVN + redislocation** · VDRO corrects anteversion/valga
+
+**Intra-op instability (TO)** — **flexion instability → acetabular osteotomy** · **abduction + IR instability → VDRO**
+
+| Age (TO) | Treatment |
+|---|---|
+| **3–10 yr** | Open reduction + **bony procedure mandatory** · **< 4 yr VDRO** preferred · **> 4 yr acetabular osteotomy** preferred |
+| **> 10 yr** | Limited reconstructive role · natural history often better · painful: **tectoplasty** (salvage) |
+
+**Approach (TO)** — medial for **non-walkers**, **not used after \~18 mo** · anterior for walkers (e.g. 3-yr bilateral waddling)
 
 **26-month-old ambulatory, irreducible, severe dysplasia, ↑ IR/↓ ER (anteversion)** → **open reduction + iliac osteotomy + femoral shortening derotation + spica** · 22-mo, mild dysplasia, normal rotation → open reduction + spica
 
@@ -247,6 +302,38 @@ DDH by age
 
 **Reorientation osteotomies require concentric reduction** — all except **shelf**
 
+### Pelvic osteotomy groups (TO)
+
+| Group (TO) | Cuts | Volume | Fixation | Examples |
+|---|---|---|---|---|
+| **Redirectional** | **Complete** | Unchanged | **Always required** | Salter · double / **triple** innominate · **PAO** |
+| **Reshaping (acetabuloplasty)** | **Incomplete**, hinge | **↓ volume** | Inherently stable, none | **Pemberton** · **Dega** · **San Diego** |
+| **Augmentation (salvage)** | Extra-articular | ↑ volume | — | **Shelf** (Staheli slotted, Wilson, Wainwright, Japanese tectoplasty) · **Chiari** |
+
+**Salter (TO)** — DDH **after 2 yr** · anterolateral coverage · corrects AI by **10–15°** · limited correction (\~20–25°) · best **< 8 yr** · complications: loss of correction, triradiate closure, redislocation, AVN
+
+**Pemberton (TO)** — starts **above AIIS** · hinges at triradiate (+ symphysis) · anterior + lateral coverage · **for DDH**
+
+**Dega (TO)** — **neuromuscular hips** · cut from roof to triradiate, hinges only at triradiate · **posterior coverage** · age **2–12 yr**
+
+**San Diego (TO)** — **most versatile** · anterior + posterior coverage · graft position decides direction · global deficiency
+
+**Triple (TO)** — older children; triple allows max mobility · **Steel** limited by ligament (sacrospinous/sacrotuberous) constraints · **PAO** — preserves posterior column, single incision, preferred adolescent dysplasia
+
+**Chiari (TO)** — uncontainable head · symptomatic subluxation · **CEA < 10°** · contraindicated: advanced OA, labral tear, bilateral
+
+**Shelf (TO)** — ↑ CEA, **↓ Sharp angle**, prevents lateral subluxation · **fibrocartilage** · steps: arthrogram → adductor ± psoas tenotomy → slot above acetabulum → iliac crest graft → reattach rectus
+
+| Adolescent parameter (TO) | Values |
+|---|---|
+| **LCEA** | **< 20° dysplasia · 20–25° borderline · 25–40° normal · > 40° pincer** |
+| **Acetabular inclination (Tönnis)** | **< 3° pincer · 3–13° normal · > 13° dysplasia** |
+| Acetabular index | Age-dependent · **\~25° at 1 yr → \~10° by adolescence** |
+
+**Femoral version (TO)** — assess before pelvic surgery (CT, **Murphy protocol**) · excess anteversion → add derotation / varus osteotomy
+
+**Residual dysplasia after reduction (TO)** — observe to **4–5 yr** (many remodel) · operate only if persists **beyond 5 yr**
+
 **Pemberton true statement** — **hinges at triradiate** (TO)\
 ✗ Wrong options: can't do bilateral · needs pins · volume unchanged
 
@@ -260,6 +347,15 @@ DDH by age
 ## 6 Complications
 
 **AVN** — all treatments · risks: **forceful/extreme abduction (>60°)** · **failed prior closed treatment** · repeat surgery · medial dye pool >7 mm · signs: no ossific nucleus growth 1 yr after reduction, broad neck, dense/fragmented head
+
+**AVN (TO)** — **4–10%** · more after closed reduction in infants · better termed **proximal femoral growth disturbance**: coxa valga / vara, **coxa breva**, coxa magna, eccentric epiphysis · classifications: **Bucholz-Ogden**, **Kalamchi-MacEwen**
+
+| Kalamchi-MacEwen (TO) | Feature |
+|---|---|
+| **I** | "Normal" (TO — verify: usual type I = changes in ossific nucleus only) |
+| **II** | **Lateral physeal arrest** |
+| **III** | **Complete (central) physeal arrest** |
+| **IV** | **Epiphyseal + physeal involvement** (total) |
 
 **Recurrence** — ~**10%** → follow to maturity
 
@@ -283,6 +379,10 @@ DDH by age
 ## How it's asked
 
 **"Incidence of DDH?"** → **1 in 1000** (TO)
+
+**"Ideal time for screening US?"** → **6 weeks** (TO)
+
+**"Cause of the clunk in Ortolani/Barlow?"** → **neolimbus** (TO)
 
 **"DDH >12 months — finding NOT expected?"** → **positive Ortolani**
 
@@ -382,6 +482,10 @@ DDH by age
 **"Open reduction + iliac osteotomy + femoral derotation shortening fits?"** → **26-month ambulatory, severe dysplasia, ↑ IR**
 
 **"Pemberton — true?"** → **hinges at triradiate cartilage** (TO)
+
+**"Most versatile reshaping pelvic osteotomy?"** → **San Diego** (TO)
+
+**"Pelvic osteotomies that always need fixation?"** → **redirectional (Salter, triple, PAO)** (TO)
 
 **"15-yr, closed triradiate?"** → **Ganz PAO**
 

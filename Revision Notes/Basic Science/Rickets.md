@@ -165,6 +165,12 @@
 
 **XLH outcome** — staged surgery better, but early degenerative joint disease
 
+**Healing assessment (TO)** — best marker: **X-ray** · lecture calls the healing line "white line of Frankel" (TO — verify: Frankel line is a scurvy sign; rickets healing = recalcified zone of provisional calcification)
+
+**Timing of osteotomy (TO)** — only after **serum ALP normalises** · never in active rickets · angular deformity seen after 2 yr, **genu varum > valgum**
+
+**Windswept deformity (TO)** — valgus one knee + varus the other · children: rickets · adults: RA
+
 ## Rickets types compared
 
 | | **Nutritional** | **XLH** | **VDDR I** | **VDDR II** |

@@ -16,6 +16,10 @@
 
 **Lateral meniscus** — less stabilising · **2× the excursion of the MM**
 
+**Load share (TO)** — **LM bears \~70%** of lateral compartment load (more than MM) · LM circular, mobile; MM C-shaped, fixed to MCL · LM additionally stabilised by **meniscofemoral ligaments (Humphrey anterior, Wrisberg posterior)**
+
+**Thickness (TO)** — **12–16 mm** (TO — verify: usual meniscal height \~3–5 mm at periphery; 9–12 mm is width)
+
 **Other roles (OB)** — proprioception, lubrication, nutrition of the joint, cartilage protection / OA prevention
 
 ### Composition & collagen
@@ -89,6 +93,8 @@
 **Perimeniscal capillary plexus (TO)** — from superior + inferior medial / lateral geniculates · menisci lose vessels after birth → **only peripheral 10–25% perfused at maturity** (TO; meniscal-tears TO: 10–30%)
 
 **Central 75%** — nourished by **diffusion** from synovial fluid · limited / no intrinsic healing
+
+**Vascular rim (TO, Mohindra)** — outer **2–4 mm** via inferior geniculate branches · red-red vascular · red-white partial · white-white avascular
 
 **Peripheral 25% (red zone)** — heals by **fibrocartilage scar** · **fibrochondrocyte** = healing cell · **tears < 4 mm** from periphery heal best
 

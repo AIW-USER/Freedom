@@ -10,6 +10,17 @@
 
 **Who** — **adolescents / young adults** · **M > F (2:1)** · **quadriceps** tendinopathy = older adults
 
+**Terminology (TO, IOC 2019)** — preferred term **"tendinopathy"** · "tendinitis" outdated (minimal inflammatory cells) · tendinosis = degeneration without inflammation · cause = **load > adaptive capacity** → microfailure + dysrepair
+
+| Cook & Purdam stage (TO) | Features | Management (TO) |
+|---|---|---|
+| **Reactive** | Acute overload → **↑ proteoglycan** → thickened, swollen tendon | ↓ load, taping, cryotherapy, **isometrics** |
+| **Dysrepair** | Collagen disorganisation, **↑ cellularity, neovascularisation** | Eccentric loading, manual therapy, **shockwave** |
+| **Degenerative** | **Irreversible**, hypocellular, apoptosis → **rupture risk** | Progressive strengthening, regenerative therapy |
+| Reactive-on-degenerative | Reactive change over degenerate areas | Chronic overloaded athletes |
+
+**Histopathology (TO)** — **type I → type III collagen shift** (↓ tensile strength) · rounded tenocyte nuclei · **neovascularisation + nerve ingrowth → neurogenic pain** · clinical: start-up pain → better with warm-up → returns after activity
+
 **Risk factors** — **poor quadriceps + hamstring flexibility** · **hamstring tightness** · male, **younger, taller, heavier**, type of sport (jumping) · patellar hypermobility · quadriceps atrophy · **hard surfaces** · **↑ training frequency**
 
 **Predisposing factor (OB)** — **hamstring tightness**\
@@ -103,6 +114,14 @@ Patellar tendinopathy
 
 **Why eccentric (TO)** — **promotes tendon remodelling** (collagen) · ↓ recurrence
 
+| Exercise (TO) | Dose / role |
+|---|---|
+| **Eccentric (Alfredson)** | **3 × 15 reps, twice daily, 12 weeks** — collagen alignment |
+| **Heavy slow resistance (HSR)** | **3×/week**, slow tempo, progressive load |
+| **Isometric** | **5 × 45 s holds** — **analgesic**, early (reactive) phase |
+
+**Load management (TO)** — keep pain **≤ 4/10** · **avoid complete rest** (matrix weakens) · **ESWT = best evidence for chronic Achilles + patellar tendinopathy** · PRP for chronic Achilles / lateral elbow · steroid weakens mid-substance tendon · prolotherapy (dextrose) mixed
+
 **Plyometric (TO)** — rapid eccentric stretch → concentric of same muscle (jumping, hopping) · builds **power** · **late** rehab · early → can exacerbate (OB)
 
 **Corticosteroid injection** — **contraindicated** → **patellar tendon rupture** · no benefit at 6 months (eccentric + heavy slow resistance keep effect)
@@ -118,6 +137,8 @@ Patellar tendinopathy
 ### Refractory cases – surgical debridement
 
 **Indications** — **Blazina stage III**, chronic pain / dysfunction refractory to nonop, **partial tears** · severe tendinopathy, extensor disruption
+
+**Surgery timing (TO)** — after **6–9 months** of failed structured conservative care · debridement, longitudinal tenotomy, reconstruction ± graft
 
 **Technique** — open or arthroscopic · **resect angiofibroblastic + mucoid degenerative tissue** · bone abrasion at insertion · suture repair / anchors
 
@@ -169,3 +190,7 @@ Patellar tendinopathy
 **"18 months pain, can't jump, partial tear on MRI?"** → **debridement and repair**
 
 **"Persistent pain with and without activity, failed PT?"** → **surgical excision of the affected tissue**
+
+**"Preferred term for chronic tendon disorders (IOC 2019, TO)?"** → **tendinopathy**
+
+**"Exercise with immediate analgesic effect in reactive tendinopathy (TO)?"** → **isometric holds (5 × 45 s)**

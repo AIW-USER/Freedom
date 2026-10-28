@@ -14,6 +14,8 @@
 
 **Indications summary** — **cuff tear arthropathy (CTA)**, comminuted **4-part proximal humerus fractures**, **failed arthroplasty**
 
+**TO indications** — CTA · irreparable cuff + arthritis · fracture with **tuberosity nonunion** · failed TSA/HA · **RA with cuff involvement** · prerequisites: **functional deltoid + adequate bone stock** · contraindications: active infection, **deltoid paralysis**, poor bone stock, neurological disorder
+
 ## 2 Mechanism
 
 ### Biomechanics – medialised/inferior centre of rotation & deltoid tensioning
@@ -26,6 +28,11 @@
 **Medial COR** — ↑ **deltoid moment arm** (less force for same torque) · ↓ **torque/shear at glenoid interface** (✓ glenoid stability; force vector passes through component) · ↓ articular shear stress
 
 **Distal COR** — **lengthens/tensions deltoid** (↑ resting length + tone) · humerus lowered relative to acromion · recruits **anterior + posterior deltoid** as abductors
+
+| COR shift (TO) | Effect |
+|---|---|
+| **10 mm medial** | ↑ deltoid moment **~20%** |
+| **10 mm distal** | ↑ deltoid efficacy **~30%** |
 
 **Grammont advantages (OB)** — **medialisation of COR + lengthening deltoid + ↑ deltoid moment arm**\
 ✗ Wrong options: lateralisation · shortening deltoid
@@ -193,6 +200,8 @@ Failed hemiarthroplasty / aTSA
 
 **Screws** — **superior → coracoid base**, **inferior → scapular body** · unicortical screws to coracoid may ↓ acromial fracture; 2 screws may suffice
 
+**TO technique** — deltopectoral · humeral cut **30° retroversion, 45° inclination** · concave poly liner · **metaglene baseplate with 10–15° inferior tilt** → glenosphere · **4 parts**: stem, poly liner, metaglene, glenosphere · inferior tilt ↓ notching + ↑ longevity
+
 **Glenosphere size** — **36 mm** females/smaller · **40 mm** large men
 
 **Newer prostheses (OB)** — **locking peripheral screws + 15° inferior tilt** · NSA **155° → 143° or 135°** → ↓ notching, ↓ instability, ↓ need for subscap repair
@@ -266,6 +275,10 @@ Failed hemiarthroplasty / aTSA
 **Definition** — erosion of **axillary border of inferior scapular neck** (scapular pillar) from **medial rim of humeral cup in adduction**; unique to RSA
 
 **Incidence** — **44–96%** Grammont (Orthobullets) · **51–96%** (OB) · **68%** (Lévigne, OB) · **62%** (Lévigne, 326 pts, OB); appears early (**1–2 y**), variable progression
+
+**TO notching** — **40–90%** · humeral poly impinges on scapular neck in adduction · risk: medialised COR, superior placement/tilt · prevention: **inferior tilt 10–15°**, inferior baseplate, **larger glenosphere (↑ lateral offset)** — mnemonic **"lateralise & inferiorise"** · Nerot–Sirveaux: 1 scapular neck only → 2 up to inferior screw → 3 beyond inferior screw → 4 baseplate loosening (TO)
+
+**TO complications** — instability (soft-tissue tensioning) · infection (thin soft-tissue cover) · **weak ER from teres minor deficiency** → combine **LD transfer with RSA if teres minor deficient** · **acromial stress fracture** (deltoid over-tensioning)
 
 **Most common technical error** — **superior placement of glenoid component** (✓) → **inferior** scapular notching\
 ✗ Wrong options: "superior notching"
@@ -623,3 +636,7 @@ Recurrent RSA instability – cause
 ✗ Wrong options: aspiration · revision
 
 **"Humeral prosthesis in RSA — all true EXCEPT?"** → **onlay has more valgus cut + more cuff damage** (TO) (✓ inlay ↑ GT fracture, ✓ onlay ↑ ER, ✓ onlay convertible)
+
+**"10 mm medialisation of COR in RSA increases deltoid moment by?"** → **~20%** (TO)
+
+**"Mnemonic to minimise scapular notching?"** → **lateralise & inferiorise** (TO)

@@ -55,6 +55,8 @@
 
 **Ganga thresholds (TO)** — **≤ 14 → salvage** · **15–16 = grey zone** · **≥ 17 → amputation** · ("≥ 14 amputation threshold" in another TO item — read the options)
 
+**Ganga component → closure (TO)** — component score **1–2 → primary closure** · **3–4 → early / delayed flap** · **5 → staged reconstruction** · developed by **Rajasekaran** for **non-ischaemic** limbs (where MESS fails)
+
 **AO soft-tissue (TO)** — **extensive closed degloving = IC4** (IC closed vs IO open)
 
 **Tscherne** — closed / open soft-tissue grading

@@ -54,6 +54,12 @@
 
 **Intrinsic** — carpal-to-carpal; most important **SLIL + LTIL**
 
+**Extrinsic vs intrinsic failure (TO)** — extrinsic: **stiffer, lower yield strength → rupture midsubstance** · intrinsic: **avulse** (not rupture)
+
+**No dorsal ulnocarpal ligaments (TO)** — extrinsics mostly volar · **ulnocapitate arises from ulnar styloid** · **scaphocapitate + triquetrocapitate cross the midcarpal joint**
+
+**Distal row instability (TO)** — occurs **only as axial / longitudinal** instability (distal row = fixed unit)
+
 **Volar vs dorsal** — **volar stronger**; volar = secondary stabilisers of scaphoid; **dorsal converge on triquetrum**
 
 **Space of Poirier** — weak area, **floor of carpal tunnel at proximal capitate**, between **RSC and long radiolunate**; ↑ in dorsiflexion, disappears in palmar flexion; perilunate: distal row separates from lunate · **lunate dislocation: lunate escapes into it**
@@ -119,6 +125,26 @@
 
 ![SLIL components](../../Orthobullets/attachments/ob6005-slil.jpg)
 
+### Six features of carpal instability (TO)
+
+| Feature | Categories |
+|---|---|
+| **Chronicity** | **Acute 0–1 wk** · **subacute 1–6 wk** · **chronic > 6 wk** |
+| Aetiology | Traumatic · inflammatory |
+| Location | Radiocarpal · proximal row · midcarpal · distal intercarpal |
+| **Severity** | **Predynamic** (pain, no malalignment) · **dynamic** (malalignment on stress views) · **static** (malalignment on plain X-ray) |
+| Direction | DISI · VISI · dorsal · volar · radial / ulnar translation |
+| **Pattern** | **CID** (SL, LT, scaphoid fracture, Kienböck) · **CIND** (radiocarpal, midcarpal) · **CIC** (perilunate, axial dislocations) |
+
+| View (TO) | Purpose |
+|---|---|
+| PA neutral + lateral | Neutral confirmed by **clear 3rd CMC joint space** |
+| **Clenched fist** | Load → SL gap (Terry Thomas) |
+| PA with **10° angulation from ulna** | Mid-SL interval |
+| Radial / ulnar deviation PA | Scaphoid flexion / extension |
+| Flexion / extension lateral | Lunate tilt |
+| **Stress (volar / dorsal drawer)** | **Midcarpal instability** |
+
 ### Secondary stabilisers against DISI – dorsal intercarpal ligament
 
 **SL instability** — **most common carpal instability**; FOOSH
@@ -172,3 +198,7 @@
 **"Lunate escapes into?"** → **space of Poirier**
 
 **"Radial deviation is mostly?"** → **midcarpal (90%)**
+
+**"Extrinsic vs intrinsic wrist ligaments — mode of failure?"** → **extrinsic rupture midsubstance; intrinsic avulse** (TO)
+
+**"Subacute carpal instability — time window?"** → **1–6 weeks** (TO)

@@ -12,6 +12,8 @@
 
 **Associated MSK anomalies (75%)** — **ectrodactyly** · **preaxial polydactyly** · **ulnar aplasia**
 
+**Tibial vs fibular hemimelia (TO)** — tibial: very rare, **AD**, foot **equinovarus + toe duplication** · fibular: most common, sporadic, **missing rays**
+
 ## 3 Presentation
 
 **Deformity** — short limb · **anterolateral tibial bowing** · prominent fibular head
@@ -40,6 +42,10 @@
 
 **Alternative** — Kalamchi and Dawe (types 1–3)
 
+**Jones (TO version)** — I complete absence · II proximal present, distal absent · III distal present, proximal absent · IV tibiofibular diastasis
+
+**Weber classification (TO)** — **A: tibial anlage present** · **B: anlage absent** · subtypes: proximal / distal diastasis, focal, bifocal aplasia, complete absence · includes **double fibula**
+
 ![Jones classification](../../Orthobullets/attachments/ob4058-jones-classification.jpg)
 
 ## 5 Management
@@ -52,6 +58,9 @@
 | Proximal tibia present, **intact extensor mechanism**, minimal flexion contracture | **Tibiofibular synostosis + modified Syme** |
 | **Ankle diastasis** | **Syme / Boyd amputation** |
 | Brown (fibula centralized under femur) | **No longer recommended** — high failure |
+| **Weber patellar arthroplasty** (TO) | Complete / proximal tibial aplasia: **patella fused to proximal fibular epiphysis** as articular surface |
+
+**Principles (TO)** — stable weight-bearing limb · **align ankle first, lengthen later** · **knee extensor mechanism decides reconstruction vs amputation**
 
 ### Syme amputation prognosis
 

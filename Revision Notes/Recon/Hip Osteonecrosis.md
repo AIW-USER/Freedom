@@ -8,9 +8,17 @@
 
 **Incidence** — **20,000 / yr** (US) · **10% of all THAs**
 
-**Demographics** — **male > female** · age **35–50**
+**Demographics** — **male > female** · age **35–50** (Orthobullets) · **30–50** (TO) — read the options
 
 **Bilateral** — **80%** · **multifocal** (≥3 joints) **3%** → image contralateral hip
+
+**Bilateral rate** — **80%** (Orthobullets) · **50–75%** (TO) — read the options · MRI opposite hip even if X-ray normal (TO)
+
+**Synonyms (TO)** — osteonecrosis · **Chandler's disease** (non-traumatic) · "**coronary artery disease of the hip**"
+
+**History (TO)** — **Phemister** — traumatic AVN + concept of **bone grafting** for AVN
+
+**Commonest cause (TO)** — **idiopathic > steroid > alcohol**
 
 ### Etiology & risk factors
 
@@ -24,6 +32,14 @@
 | **Sickle cell** | Viruses — CMV, hepatitis, **HIV**, rubella, rubeola, varicella |
 | | **Protease inhibitors** · **idiopathic** |
 
+### Definite vs probable causes – Kulkarni (TO)
+
+| Definite | Probable |
+|---|---|
+| **SLE** · **irradiation** · **post-traumatic** · **steroids** · **Gaucher** · haemoglobinopathies · dysbaric · transplant | **Alcohol** · **idiopathic** · **gout** |
+
+**Indirect mechanism (TO)** — steroid / alcohol → **fat accumulation** → ↑ intraosseous pressure → vascular compression
+
 **Also (OB)** — **antiphospholipid syndrome** ✓ (20% asymptomatic ON without steroids) · antiseizure drugs · **collagen II mutation** (idiopathic ON)\
 ✗ Wrong options: collagen I disease · haemochromatosis · achondroplasia · Paget
 
@@ -32,6 +48,12 @@
 **Idiopathic final common pathway** — **intravascular coagulation**: microcirculation coagulation → **venous thrombosis** → retrograde arterial occlusion → **intraosseous hypertension** → ↓ flow → AVN → chondral fracture + collapse
 
 **Trauma** — injury to **medial femoral circumflex artery**
+
+**Blood supply (TO)** — **MFCA → retinacular vessels** (main) · **artery of ligamentum teres** (obturator branch, secondary)
+
+**Watershed (TO)** — **anterosuperolateral subchondral** zone → **first to necrose** = commonest site of initial necrosis
+
+**Natural history (TO)** — necrosis → fragmentation → collapse → secondary OA · some → spontaneous revascularization
 
 | Injury | AVN rate |
 |---|---|
@@ -62,6 +84,12 @@
 
 **Exam** — normal early · late like OA (↓ **IR**)
 
+**Order of movement loss (TO)** — **IR → abduction → flexion**
+
+**Sectoral sign / axis deviation / Caffey's sign (TO)** — IR **↓ more in flexion than extension** · seen in **AVN and Perthes**
+
+**Gait (TO)** — antalgic ± Trendelenburg
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -80,6 +108,24 @@
 ✗ Wrong options: OA · Perthes (no wedge) · TB (more cartilage destruction)
 
 **Bone scan** — cold spot early (Ficat 0–1)
+
+**Earliest X-ray sign (TO)** — **crescent sign** (subchondral fracture under intact cartilage) · late: sclerosis, lysis, collapse, loss of sphericity
+
+**MRI classic (TO, radiology)** — **serpiginous line** in head marrow ± collapse + effusion · serpiginous / dark marrow signal = AVN **even before collapse**
+
+**Early AVN on X-ray (TO)** — AP may show only faint sclerosis → **frog-leg view shows sclerosis + heterogeneity better**
+
+![AVN — serpiginous marrow signal, left head collapse with effusion](../../TO notes/attachments/TOn-notes-mri-of-hip-and-thigh-mar-2026-p04-f010.jpg)
+
+**Bone scan later (TO)** — **donut sign** — peripheral uptake + central photopenic zone
+
+**MRI (TO)** — **investigation of choice**, T1 hypointense band · T2 bright **double-line**
+
+**Functional marrow tests (TO)** — rarely used · **bone marrow pressure normal 20–30 mmHg** · O2 saturation, intramedullary venography · **core biopsy** → cause (lipid infiltration, marrow disease)
+
+### Genes & lab markers
+
+**Blood work-up (TO)** — CBC · **lipid profile** · **uric acid** · LFT/KFT · **Hb electrophoresis** (sickle) · **ANA** (SLE) · HIV / hepatitis markers · **coagulation profile**
 
 ![Osteonecrosis — wedge-shaped infarct](../../MCQ/attachments/q6013-a-31.jpg)
 
@@ -108,6 +154,16 @@
 | **3** | **Loss of sphericity** |
 | **4** | Joint-space narrowing, arthritis |
 
+**Ficat (TO notes)** — stage **0** = preclinical, **positive functional marrow tests** · stage **1** = X-ray normal, **MRI positive** (oedema) · stage **4** = arthritic change on **acetabular side** · **most used classification** (TO)
+
+**Steinberg / University of Pennsylvania 1984 (TO)** — 6 stages · MRI-based · each subdivided by extent
+
+| Steinberg subgroup (TO) | Extent of head involvement / collapse |
+|---|---|
+| **A** | **< 15%** |
+| **B** | **15–30%** |
+| **C** | **> 30%** |
+
 **Note** — crescent sign = **Steinberg III** (Orthobullets) = **Ficat 2B** (TO) · OB uses Ficat III for crescent, IV flattening, V acetabular change — read which system the stem uses
 
 ### Prognosis of collapse – lesion size, Kerboul angle
@@ -125,6 +181,14 @@
 | **>240°** | **High** | **Grade 4 — very high**, preservation often contraindicated |
 
 **TO high-risk thresholds** — Kerboul **>200°** · **combined necrotic index >33 → >80% collapse** untreated · lesions **>30% volume** — bisphosphonates don't prevent collapse
+
+**Kerboul 3-tier (TO notes)** — **< 190° low** · **190–240° moderate** · **> 240° high → early collapse → THR likely**
+
+### Bad prognostic factors (TO)
+
+**Poor prognosis** — Kerboul **> 240°** · **subchondral collapse** · **anterosuperolateral** site · **marrow oedema** on MRI · **age > 50**
+
+**Not a bad prognostic factor** — ✓ **bilateral disease** (TO)
 
 **Sickle cell** — asymptomatic MRI ON → **>75% progress to collapse** (vs **33%** non-sickle) · screen contralateral hip · some treat both
 
@@ -151,11 +215,19 @@ Hip osteonecrosis
 **Mechanism** — ✓ **↓ osteoclast resorption by flattening ruffled border** + ↑ osteoclast apoptosis\
 ✗ Wrong options: vitamin D · denosumab (RANKL antibody, no benefit) · teriparatide · COX inhibition
 
+**TO notes** — **alendronate 70 mg/week** = bisphosphonate of choice · **statins** in steroid / alcohol AVN · **anticoagulants (enoxaparin)** in documented hypercoagulable states · adjuncts **hyperbaric O2**, **ESWT** · goal: retard progression, protect contralateral hip (TO)
+
 **Risks** — atypical femur fracture · ONJ · gastric ulcer · oesophagitis
 
 ### Core decompression ± grafting
 
 **Indication** — **early, pre-collapse** · **reversible** aetiology · not after collapse
+
+**Indication (TO)** — **Ficat I–IIA** · CD + bone grafting for **Ficat IIB** · preferred: **multiple 3.2 mm drill holes** (↓ fracture risk), aimed at **anterosuperolateral** necrosis under fluoroscopy
+
+**Graft options with CD (TO)** — **non-vascularized fibula** (strut) · vascularized fibula · **muscle pedicle grafts (TFL, sartorius)**
+
+**Graft alternatives (TO)** — **BMP** · **BMAC** · PRP · **porous tantalum rods** · **MSCs** (**10⁶ CFU** → \~**75% 1-yr success**, Zhou)
 
 **Technique** — traditional **8–10 mm** core through subchondral necrosis · alternative **3.2 mm pin passed 2–3×** · relieves **intraosseous hypertension** → ↓ pain · stimulates angiogenesis · augment with BMP / **BMAC**
 
@@ -168,6 +240,19 @@ Hip osteonecrosis
 
 **Direction** — **medial** disease → **varus** rotational · **anterolateral** disease → **valgus flexion** osteotomy
 
+**TO criteria** — Kerboul **< 200°** · **< 30%** head involvement · age **< 40** · **full ROM** · no acetabular pathology · **small lesion <15%** (Orthobullets) · **<30% / Kerboul <200°** (TO) — read the options
+
+**Valgus-flexion osteotomy** — **Sugioka** (TO)
+
+| Transtrochanteric osteotomy for AVN (TO) | Required arc of viable bone |
+|---|---|
+| **Rotational (TRO, Sugioka)** | **> 120°** on mid-sagittal MRI |
+| **Curved varus (TCVO)** | **> 150°** on mid-coronal MRI |
+
+**Sugioka** — **transtrochanteric rotational osteotomy** (TO, osteotomies lecture) · valgus-flexion osteotomy (TO, line above) — read the options
+
+**Intertrochanteric "very good" indications (TO)** — trochanteric malunion · **neck nonunion with viable head** · congenital coxa vara · small localised AVN · malpositioned arthrodesis · "good": coxa valga with retained abduction, chronic SCFE 25–50°, excess anteversion, Perthes
+
 **Outcome** — **60–90%** success (Japan) · distorts head → harder THA · not after collapse
 
 ### Head-preserving grafting
@@ -179,6 +264,7 @@ Hip osteonecrosis
 | **Core track** | Standard core | Wide debridement, simple, no dislocation, low complications |
 | **Trapdoor (Mont)** | **Articular surface** flap via **surgical dislocation** | Direct view · cartilage damage, iatrogenic ON risk |
 | **Light bulb (Merle d'Aubigné)** | **2 × 2 cm window at head–neck junction** | Allograft packed · **↑ neck fracture risk** |
+| **Retrograde grafting (TO)** | **Trocar from lateral cortex** | Curettage + backfill with graft or substitute |
 
 ### Vascularized free fibula
 
@@ -219,7 +305,19 @@ Hip osteonecrosis
 **Young AVN vs elderly OA** — ✓ **↑ PE wear + osteolysis**\
 ✗ Wrong options: sciatic palsy · ↑ longevity · ↓ ROM · ↓ revision
 
+### Stage-wise treatment (TO)
+
+| Ficat–Arlet | Preferred treatment |
+|---|---|
+| **0–I** | Medical ± bisphosphonates |
+| **IIA** | **Core decompression** ± osteotomy (Kerboul < 200°) |
+| **IIB** | **CD + bone grafting** (fibula) |
+| **III** | Osteotomy (Kerboul < 200°) / **THR** if extensive |
+| **IV** | **THR** |
+
 ### Resurfacing contraindication
+
+**TO** — **THR preferred over resurfacing** in AVN · Birmingham resurfacing largely abandoned (poor long-term results)
 
 **Indication** — advanced DJD with **small isolated** focus · needs good bone
 
@@ -248,6 +346,12 @@ Hip osteonecrosis
 |---|---|---|---|
 | MRI | **Double-line**, wedge/serpentine | **Diffuse oedema**, no band | Joint-based change |
 | Course | Progressive collapse | Self-limited | Progressive |
+
+| | **Hip AVN** | **Subchondral insufficiency fracture (TO)** |
+|---|---|---|
+| Patient | Young–middle-aged, risk factors | **Middle-aged / older woman** (e.g. 47 yr), sudden pain |
+| MRI | **Serpiginous line**, double-line | **Widespread head + neck oedema** · **thin curvilinear subchondral T1 line** · no serpiginous line |
+| Rx | Stage-based | **Protected WB + calcium** → settles · not infection / inflammation |
 
 | | **Steinberg III** | **Ficat 2B (TO)** |
 |---|---|---|
@@ -298,3 +402,11 @@ Hip osteonecrosis
 **"True about safe dislocation?"** → **anterior dislocation + anterior arthrotomy** (TO)
 
 **"Not a bone-grafting technique in AVN?"** → **tramtrack** (TO)
+
+**"Earliest X-ray sign of AVN?"** → **crescent sign** (TO)
+
+**"Not a bad prognostic factor in AVN hip?"** → **bilateral disease** (TO)
+
+**"Bone scan sign in later AVN?"** → **donut sign** (TO)
+
+**"IR more restricted in flexion than extension?"** → **sectoral (Caffey) sign — AVN or Perthes** (TO)

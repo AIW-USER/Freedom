@@ -125,6 +125,8 @@ Pediatric both-bone forearm fracture
 | Refracture | **Lower** (no screw holes) | Higher after plate removal |
 | Best for | Midshaft, transverse/oblique, minimal comminution, **acute** (pre-callus) | Comminution, older, open |
 
+**TO points** — midshaft acceptable angulation: infants **< 25°**, children **< 10°** · displacement up to **90%** in young children · **any rotational deformity → reduce** (rotation never remodels) · above-elbow cast, **3-point moulding** · **plastic deformation does not remodel** → reduce if visible deformity or ↓ pronation-supination
+
 ## 6 Complications
 
 ### Complication – loss of forearm rotation

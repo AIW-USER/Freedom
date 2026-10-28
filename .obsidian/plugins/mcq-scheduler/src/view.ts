@@ -12,29 +12,42 @@ import {
 } from "obsidian";
 
 import type McqSchedulerPlugin from "./main";
-import { QUESTION_TIME_CAP_MS } from "./activity";
+import { pad4, QUESTION_TIME_CAP_MS } from "./activity";
 import { QuestionClock } from "./clock";
 import { IndexEntry } from "./index";
 import { parseMcq } from "./parser";
 import type { ModuleDef } from "./modules";
 import {
+	answer as rateModule,
 	createSchedule,
-	completedCount,
-	finishSession,
+	dayStartMs,
+	effectiveDay,
+	formatDays,
+	formatWait,
+	introducedCount,
+	isDone,
+	isMature,
+	LEARN_AHEAD_MS,
+	Limits,
+	ModuleCard,
 	moveInQueue,
 	Move,
+	newCard,
 	nextModule,
-	pickQuestions,
+	nextQuestion,
+	PickKind,
 	Placement,
 	placeModules,
-	recordAnswer,
+	previewIntervals,
+	Rating,
+	RATING_LABELS,
 	resetModule,
-	Result,
-	SessionKind,
-	sessionDone,
-	solvedCount,
-	startSession,
-	Tally,
+	reveal,
+	setCurrent,
+	studyAhead,
+	studyDay,
+	todayStats,
+	TodayStats,
 	unplacedModules,
 } from "./schedule";
 import { MCQ, Section, SECTION_LABELS } from "./types";
@@ -43,24 +56,25 @@ export const VIEW_TYPE_MCQ = "mcq-scheduler-browser";
 
 type Level = "sections" | "topics" | "questions";
 type Mode = "browse" | "modules";
-type ModTab = "queue" | "solved" | "completed";
+type ModTab = "queue" | "learning" | "completed";
 
 /** `answered` value for a skipped question: the answer is shown, nothing was chosen. */
 const SKIPPED = -1;
 
-function signed(n: number): string {
-	return (n > 0 ? "+" : n < 0 ? "−" : "") + Math.abs(n).toFixed(2);
-}
+/** Rating keys in Modules mode. The option keys are digits, so these never clash. */
+const RATING_KEYS: Record<string, Rating> = { s: 0, h: 1, g: 2, " ": 2, e: 3 };
+
+const KIND_LABEL: Record<PickKind, string> = { new: "New module", learning: "Learning", review: "Review" };
 
 export class McqView extends ItemView {
 	navigation = false;
 
 	private mode: Mode = "browse";
-	/** In Modules mode: working through the session's questions, rather than on the home list. */
-	private sessionOpen = false;
+	/** In Modules mode: answering the day's modules, rather than on the home list. */
+	private studying = false;
 	private modTab: ModTab = "queue";
-	/** Shown in the quiz pane after a module is finished, until the next one starts. */
-	private summary: { name: string; tally: Tally; completedNow: boolean } | null = null;
+	/** When the done-for-today card should redraw, because a learning module falls due. */
+	private wakeAt: number | null = null;
 	private modeEl!: HTMLElement;
 	private unsubscribeSchedule: (() => void) | null = null;
 
@@ -161,6 +175,7 @@ export class McqView extends ItemView {
 		// tickClock only touches the DOM when the text actually changes.
 		// registerInterval clears it when the pane closes.
 		this.registerInterval(window.setInterval(() => this.tickClock(), 250));
+		this.registerInterval(window.setInterval(() => this.wake(), 15_000));
 
 		this.applyOptionScale();
 		this.render();
@@ -217,8 +232,7 @@ export class McqView extends ItemView {
 		if (mode === this.mode) return;
 		this.leaveQuestion();
 		this.mode = mode;
-		this.sessionOpen = false;
-		this.summary = null;
+		this.studying = false;
 		this.resetSearch();
 		if (mode === "modules") void this.plugin.schedule.reloadModules();
 		this.render();
@@ -474,16 +488,18 @@ export class McqView extends ItemView {
 		this.current = mcq;
 		this.currentPath = entry.path;
 		this.answered = null;
-		// Every way of changing question — Next, Previous, keys, a row, a search
-		// result — comes through here, so this one reset covers them all.
+		// Every way of changing question — Next, Previous, a rating, keys, a
+		// row, a search result — comes through here, so this one reset covers
+		// them all.
 		this.clock.start();
 		this.loggedMs = 0;
 		// Before the note is opened, so the outgoing one re-hides without the
 		// reveal being visible for a frame on the way out.
 		this.plugin.reveal.clear();
-		// A question already answered in the running module comes back as it
-		// was left, so a resumed module shows what you chose.
-		const prior = this.inSession() ? this.plugin.schedule.state?.current?.answers[entry.id] : undefined;
+		// A question answered but not yet rated comes back as it was left, so
+		// a resumed question shows what you chose.
+		const cur = this.inStudy() ? this.plugin.schedule.state?.current : null;
+		const prior = cur?.id === entry.id ? cur.revealed : null;
 		if (prior) {
 			this.answered = prior.chosen ?? SKIPPED;
 			this.clock.markAnswered();
@@ -501,13 +517,13 @@ export class McqView extends ItemView {
 	private renderQuiz(): void {
 		if (!this.quizEl) return;
 		this.quizEl.empty();
+		this.quizEl.removeClass("is-paused");
 		this.clockEl = null;
 		const mcq = this.current;
 		if (!mcq) {
-			if (this.mode === "modules" && this.summary) return this.renderSummary();
 			this.quizEl.createDiv({
 				cls: "mcq-quiz-empty",
-				text: this.mode === "modules" ? "Start a module to begin." : "Pick a question to begin.",
+				text: this.mode === "modules" ? "Press Study to begin." : "Pick a question to begin.",
 			});
 			return;
 		}
@@ -535,6 +551,8 @@ export class McqView extends ItemView {
 		});
 		if (unknown) feedback.setText("No answer was recorded for this question.");
 
+		if (this.inStudy()) return this.renderRatings();
+
 		// Just the two steps. Answering reveals the explanation in the note by
 		// itself; the pane never touches the file.
 		const actions = this.quizEl.createDiv({ cls: "mcq-actions" });
@@ -559,59 +577,129 @@ export class McqView extends ItemView {
 		// rather than only saying so once you press them.
 		const at = this.positionInTopic();
 		prev.disabled = at === null || at.index <= 0;
-		const session = this.inSession() ? this.plugin.schedule.state?.current : null;
-		if (session && at && at.index >= at.total - 1) {
-			// The last question of a module finishes it, once every question has an answer.
-			next.setText("Finish ▸");
-			next.disabled = !sessionDone(session);
-		} else {
-			next.disabled = at === null || at.index >= at.total - 1;
-		}
+		next.disabled = at === null || at.index >= at.total - 1;
 
 		if (this.answered !== null) this.paintAnswer(this.answered);
 	}
 
+	/**
+	 * Modules mode: Skip · Hard · Good · Easy, each with the wait it would
+	 * schedule. Until the answer is shown only Skip works, and it shows the
+	 * answer; after that every button rates the module and moves on.
+	 */
+	private renderRatings(): void {
+		const state = this.plugin.schedule.state;
+		const cur = state?.current;
+		if (!state || !cur) return;
+		if (this.clock.isPaused()) return this.renderPaused();
+		const card = state.cards[cur.key] ?? newCard();
+		const now = Date.now();
+		const waits = previewIntervals(card, now, effectiveDay(state, now, this.limits().dayStartHour));
+		const revealed = this.answered !== null;
+
+		const row = this.quizEl.createDiv({ cls: "mcq-actions mcq-ratings" });
+		RATING_LABELS.forEach((label, r) => {
+			const b = row.createEl("button", { cls: `mcq-btn mcq-rate is-r${r}` });
+			b.createSpan({ cls: "mcq-rate-label", text: label });
+			b.createSpan({ cls: "mcq-rate-wait", text: r === 0 && !revealed ? "show answer" : waits[r] });
+			b.disabled = r > 0 && !revealed;
+			b.addEventListener("click", () => (r === 0 && !revealed ? this.skip() : void this.rate(r as Rating)));
+		});
+		// Stop at the left margin, the clock at the right, on one line under the ratings.
+		const foot = row.createDiv({ cls: "mcq-rate-foot" });
+		const stop = foot.createEl("button", {
+			cls: "mcq-stop",
+			text: "⏸ Stop",
+			attr: { "aria-label": "Pause: freeze the clock and lock the answers (c)" },
+		});
+		stop.addEventListener("click", () => this.stop());
+		this.clockEl = foot.createSpan({
+			cls: "mcq-clock",
+			attr: { "aria-label": "Answer time / time on question" },
+		});
+		this.tickClock();
+
+		if (this.answered !== null) this.paintAnswer(this.answered);
+	}
+
+	/** Paused: the options locked and dimmed, the clock frozen, Continue or End session. */
+	private renderPaused(): void {
+		this.quizEl.addClass("is-paused");
+		this.quizEl.querySelectorAll<HTMLButtonElement>(".mcq-option").forEach((b) => (b.disabled = true));
+		if (this.answered !== null) this.paintAnswer(this.answered);
+		this.quizEl.createDiv({ cls: "mcq-paused", text: "Paused — the clock is stopped." });
+		const row = this.quizEl.createDiv({ cls: "mcq-actions" });
+		const cont = row.createEl("button", { cls: "mod-cta", text: "▶ Continue" });
+		cont.addEventListener("click", () => this.cont());
+		const end = row.createEl("button", { cls: "mcq-btn", text: "End session" });
+		end.addEventListener("click", () => this.goModulesHome());
+		this.clockEl = row.createSpan({
+			cls: "mcq-clock",
+			attr: { "aria-label": "Answer time / time on question" },
+		});
+		this.tickClock();
+	}
+
+	/** Stop: freeze the question. Time up to now is logged; paused time never is. */
+	private stop(): void {
+		if (!this.inStudy() || this.clock.isPaused()) return;
+		this.logTime();
+		this.clock.pause();
+		this.renderQuiz();
+	}
+
+	/** Continue: the same question, as it was. */
+	private cont(): void {
+		if (!this.clock.isPaused()) return;
+		this.clock.resume();
+		this.renderQuiz();
+	}
+
 	private answer(index: number): void {
 		const mcq = this.current;
-		if (!mcq || this.answered !== null) return;
+		if (!mcq || this.answered !== null || this.clock.isPaused()) return;
 		this.answered = index;
 		this.clock.markAnswered();
 		this.tickClock();
 		this.plugin.activity.recordSolved();
 		this.logTime();
-		const result: Result = mcq.correctIndex === null ? 0 : index === mcq.correctIndex ? 1 : -1;
-		this.recordInSession(mcq.id, result, index);
 		this.paintAnswer(index);
+		this.markRevealed(index);
 		// Any answer reveals, right or wrong: committing to an option is the
 		// price of the explanation. The keyboard path lands here too.
 		this.plugin.reveal.answer(mcq.path);
 	}
 
-	/** Show the answer without choosing. Scores 0 in a module; not counted as solved. */
+	/**
+	 * Show the answer without choosing; not counted as solved. In Modules
+	 * mode, once the answer is showing, Skip is the poorest rating.
+	 */
 	private skip(): void {
 		const mcq = this.current;
-		if (!mcq || this.answered !== null) return;
+		if (!mcq || this.clock.isPaused()) return;
+		if (this.answered !== null) {
+			if (this.inStudy()) void this.rate(0);
+			return;
+		}
 		this.answered = SKIPPED;
 		this.clock.markAnswered();
 		this.tickClock();
 		this.logTime();
 		this.paintAnswer(SKIPPED);
 		this.plugin.reveal.answer(mcq.path);
-		this.recordInSession(mcq.id, 0, null);
 		this.quizEl.querySelectorAll<HTMLButtonElement>(".mcq-actions .mcq-btn").forEach((b) => {
 			if (b.textContent === "Skip") b.disabled = true;
 		});
+		this.markRevealed(null);
 	}
 
-	private recordInSession(id: string, result: Result, chosen: number | null): void {
+	/** Remember that the answer is showing, so a resumed question repaints, and unlock the ratings. */
+	private markRevealed(chosen: number | null): void {
+		if (!this.inStudy()) return;
 		const store = this.plugin.schedule;
 		const state = store.state;
-		if (!this.inSession() || !state?.current || !state.current.ids.includes(id)) return;
-		if (state.current.answers[id]) return;
-		store.set(recordAnswer(state, id, { result, chosen }));
-		store.logResponse({ module: state.current.key, id, result, session: state.sessionCount + 1 });
-		// The Finish button and the n/total crumb depend on what is answered.
-		this.renderCrumbs();
+		if (!state?.current || state.current.id !== this.current?.id) return;
+		store.set(reveal(state, chosen));
 		this.renderQuiz();
 	}
 
@@ -676,11 +764,6 @@ export class McqView extends ItemView {
 
 	/** Where the open question sits in its topic, or null if it is not in one. */
 	private positionInTopic(): { entries: IndexEntry[]; index: number; total: number } | null {
-		if (this.inSession()) {
-			const entries = this.sessionEntries();
-			const index = entries.findIndex((e) => e.path === this.currentPath);
-			return index === -1 ? null : { entries, index, total: entries.length };
-		}
 		if (this.mode === "modules") return null;
 		if (!this.section || !this.topic || !this.currentPath) return null;
 		const entries = this.plugin.index.questions(this.section, this.topic);
@@ -698,7 +781,6 @@ export class McqView extends ItemView {
 			return;
 		}
 		if (target >= at.total) {
-			if (this.inSession()) return this.finishModule();
 			new Notice("That was the last question in this topic.");
 			return;
 		}
@@ -707,8 +789,14 @@ export class McqView extends ItemView {
 
 	// -------------------------------------------------------------- modules
 
-	private inSession(): boolean {
-		return this.mode === "modules" && this.sessionOpen && !!this.plugin.schedule.state?.current;
+	/** Answering a module's question in Modules mode. */
+	private inStudy(): boolean {
+		return this.mode === "modules" && this.studying && !!this.plugin.schedule.state?.current;
+	}
+
+	private limits(): Limits {
+		const s = this.plugin.settings;
+		return { newPerDay: s.newPerDay, reviewsPerDay: s.reviewsPerDay, dayStartHour: s.dayStartHour };
 	}
 
 	private pathFor(id: string): string {
@@ -719,11 +807,6 @@ export class McqView extends ItemView {
 		return this.plugin.index.get(this.pathFor(id));
 	}
 
-	private sessionEntries(): IndexEntry[] {
-		const ids = this.plugin.schedule.state?.current?.ids ?? [];
-		return ids.map((id) => this.entryFor(id)).filter((e): e is IndexEntry => e !== undefined);
-	}
-
 	private liveModules(): Set<string> {
 		return this.plugin.schedule.live((id) => this.entryFor(id) !== undefined);
 	}
@@ -731,24 +814,63 @@ export class McqView extends ItemView {
 	private renderModuleCrumbs(): void {
 		const current = this.plugin.schedule.state?.current;
 		const def = current ? this.plugin.schedule.byKey.get(current.key) : undefined;
-		if (!this.sessionOpen || !current) {
+		if (!this.studying || !current) {
 			this.crumbEl.createSpan({ cls: "mcq-crumb is-current", text: "Modules" });
 			return;
 		}
 		const home = this.crumbEl.createEl("button", { cls: "mcq-crumb", text: "Modules" });
 		home.addEventListener("click", () => this.goModulesHome());
 		this.crumbEl.createSpan({ cls: "mcq-crumb-sep", text: "›" });
-		const done = Object.keys(current.answers).length;
-		this.crumbEl.createSpan({
-			cls: "mcq-crumb is-current",
-			text: `${def?.name ?? current.key} · ${done}/${current.ids.length}`,
-		});
+		this.crumbEl.createSpan({ cls: "mcq-crumb is-current", text: def?.name ?? current.key });
 	}
 
+	/** Back to the list. A question not yet rated waits under Resume. */
 	private goModulesHome(): void {
 		this.leaveQuestion();
-		this.sessionOpen = false;
+		this.studying = false;
 		this.render();
+	}
+
+	/** The home card has nothing due until a learning module's time comes; redraw it then. */
+	private wake(): void {
+		if (this.wakeAt === null || this.mode !== "modules" || this.studying) return;
+		if (Date.now() >= this.wakeAt) {
+			this.wakeAt = null;
+			this.renderList();
+		}
+	}
+
+	private todayLine(t: TodayStats): string {
+		return `Due ${pad4(t.due)} · Learning ${pad4(t.learning)} · New ${pad4(t.newLeft)}`;
+	}
+
+	/** Questions seen, interval and ease, for a row or the study card. */
+	private cardMeta(card: ModuleCard, def: ModuleDef | undefined): string {
+		const total = def?.ids.length ?? Object.keys(card.questions).length;
+		const seen = def ? def.ids.filter((id) => card.questions[id]).length : total;
+		if (card.state === "new") return `${total} question${total === 1 ? "" : "s"} · new`;
+		const progress = `seen ${seen}/${total}`;
+		if (card.state === "review") {
+			return `every ${formatDays(card.ivl)} · ease ${Math.round(card.ease * 100)}% · ${progress}`;
+		}
+		return `${card.state} · ${progress}`;
+	}
+
+	private dueText(card: ModuleCard, now: number, today: number): string {
+		if (card.state === "learning" || card.state === "relearning") {
+			return card.due <= now ? "due now" : `due in ${formatWait(card.due - now)}`;
+		}
+		if (card.state !== "review") return "";
+		if (card.due < today) return `overdue ${formatDays(today - card.due)}`;
+		return card.due === today ? "due today" : `due in ${formatDays(card.due - today)}`;
+	}
+
+	private dayLabel(day: number): string {
+		return new Date(dayStartMs(day, this.limits().dayStartHour)).toLocaleDateString(undefined, {
+			weekday: "short",
+			day: "numeric",
+			month: "short",
+		});
 	}
 
 	private renderModules(): void {
@@ -760,30 +882,28 @@ export class McqView extends ItemView {
 		if (!state) {
 			const card = this.listEl.createDiv({ cls: "mcq-card" });
 			card.createDiv({
-				text: `${store.defs.length} modules in ${store.modulesPath}. The schedule starts at the first and works to the last, every module at score 0 and 0 attempts.`,
+				text: `${store.defs.length} modules in ${store.modulesPath}. They are introduced from the first to the last, ${this.plugin.settings.newPerDay} a day, and each comes back for review as spaced repetition decides.`,
 			});
 			const create = card.createEl("button", { cls: "mod-cta", text: "Create schedule" });
 			create.addEventListener("click", () => store.set(createSchedule(store.defs)));
 			return;
 		}
 
-		if (this.sessionOpen && state.current) return this.renderSessionRows();
+		if (this.studying && state.current) return this.renderStudyInfo();
 
 		this.renderPlacementBanner();
-		this.renderUpNext();
+		this.renderToday();
 
 		this.listEl.createDiv({
 			cls: "mcq-mod-summary",
-			text: `Completed ${String(completedCount(state)).padStart(4, "0")} · Solved ${String(
-				solvedCount(state),
-			).padStart(4, "0")} / ${store.defs.length}`,
+			text: `Completed ${pad4(store.completed())} · Introduced ${pad4(introducedCount(state))} / ${store.defs.length}`,
 		});
 
 		const tabs = this.listEl.createDiv({ cls: "mcq-mod-tabs" });
-		for (const tab of ["queue", "solved", "completed"] as ModTab[]) {
+		for (const tab of ["queue", "learning", "completed"] as ModTab[]) {
 			const b = tabs.createEl("button", {
 				cls: "mcq-mod-tab",
-				text: tab === "queue" ? "Queue" : tab === "solved" ? "Solved" : "Completed",
+				text: tab === "queue" ? "Queue" : tab === "learning" ? "Learning" : "Completed",
 			});
 			b.toggleClass("is-active", this.modTab === tab);
 			b.addEventListener("click", () => {
@@ -792,6 +912,24 @@ export class McqView extends ItemView {
 			});
 		}
 		this.renderModuleRows();
+	}
+
+	/** While studying, the list shows the day's counts and the module on screen. */
+	private renderStudyInfo(): void {
+		const store = this.plugin.schedule;
+		const state = store.state!;
+		const cur = state.current!;
+		const def = store.byKey.get(cur.key);
+		const card = state.cards[cur.key] ?? newCard();
+		const t = todayStats(state, this.liveModules(), Date.now(), this.limits());
+		this.listEl.createDiv({ cls: "mcq-mod-summary", text: this.todayLine(t) });
+		const box = this.listEl.createDiv({ cls: "mcq-card" });
+		box.createDiv({ cls: "mcq-card-kicker", text: KIND_LABEL[cur.kind] });
+		box.createDiv({ cls: "mcq-card-title", text: def?.name ?? cur.key });
+		box.createDiv({
+			cls: "mcq-card-meta",
+			text: `${def?.topicLabel ?? ""} · ${this.cardMeta(card, def)} · ${cur.id}`,
+		});
 	}
 
 	/** New modules in the file wait here until you say where they go. */
@@ -825,60 +963,77 @@ export class McqView extends ItemView {
 		});
 	}
 
-	private renderUpNext(): void {
+	/** Today's counts and Study; Resume for a question left unrated; or done, with study ahead. */
+	private renderToday(): void {
 		const store = this.plugin.schedule;
 		const state = store.state!;
 		const card = this.listEl.createDiv({ cls: "mcq-card" });
+		this.wakeAt = null;
 
 		if (state.current) {
 			const def = store.byKey.get(state.current.key);
-			const done = Object.keys(state.current.answers).length;
 			card.createDiv({ cls: "mcq-card-kicker", text: "Unfinished" });
 			card.createDiv({ cls: "mcq-card-title", text: def?.name ?? state.current.key });
-			card.createDiv({
-				cls: "mcq-card-meta",
-				text: `${def?.topicLabel ?? ""} · ${done} of ${state.current.ids.length} answered`,
-			});
-			const resume = card.createEl("button", { cls: "mod-cta", text: "Resume" });
-			resume.addEventListener("click", () => void this.resumeModule());
+			card.createDiv({ cls: "mcq-card-meta", text: `${def?.topicLabel ?? ""} · ${state.current.id}` });
+			const resume = card.createEl("button", { cls: "mod-cta", text: "Continue" });
+			resume.addEventListener("click", () => void this.resumeCurrent());
 			return;
 		}
 
-		const pick = nextModule(state, this.liveModules());
-		if (!pick) {
-			card.createDiv({ cls: "mcq-card-title", text: "Every module is completed." });
-			return;
-		}
-		const def = store.byKey.get(pick.key)!;
-		const m = state.modules[pick.key];
-		const n = def.ids.filter((id) => this.entryFor(id)).length;
+		const now = Date.now();
+		const limits = this.limits();
+		const live = this.liveModules();
+		const t = todayStats(state, live, now, limits);
+		const ahead = t.day > studyDay(now, limits.dayStartHour);
+		const pick = nextModule(state, live, now, limits);
 		card.createDiv({
 			cls: "mcq-card-kicker",
-			text: pick.kind === "new" ? "Up next · New" : "Up next · Repeat",
+			text: ahead ? `Studying ahead · ${this.dayLabel(t.day)}` : "Today",
 		});
-		card.createDiv({ cls: "mcq-card-title", text: def.name });
-		const meta =
-			pick.kind === "repeat" && m
-				? `${def.topicLabel} · score ${signed(m.score)} · ${m.attempts}× · ★${m.perfect}`
-				: `${def.topicLabel} · ${n} question${n === 1 ? "" : "s"}`;
-		card.createDiv({ cls: "mcq-card-meta", text: meta });
-		const start = card.createEl("button", { cls: "mod-cta", text: "Start" });
-		start.addEventListener("click", () => void this.startModule(pick.key, pick.kind));
+		const doneLine = `Done: ${pad4(t.reviewsDone)} reviews · ${pad4(t.newDone)} new`;
+
+		if (!isDone(pick)) {
+			card.createDiv({ cls: "mcq-card-title", text: this.todayLine(t) });
+			card.createDiv({ cls: "mcq-card-meta", text: doneLine });
+			const study = card.createEl("button", { cls: "mod-cta", text: "Study" });
+			study.addEventListener("click", () => void this.serveNext());
+			return;
+		}
+
+		card.createDiv({ cls: "mcq-card-title", text: "Done for today" });
+		const next = pick.nextLearningAt;
+		card.createDiv({
+			cls: "mcq-card-meta",
+			text: next === null ? doneLine : `${doneLine} · a learning module is due in ${formatWait(next - now)}`,
+		});
+		if (next !== null) this.wakeAt = next - LEARN_AHEAD_MS;
+		const ahead2 = card.createEl("button", { cls: "mod-cta", text: "Start tomorrow's modules" });
+		ahead2.addEventListener("click", () => {
+			const s = store.state;
+			if (!s) return;
+			store.set(studyAhead(s, Date.now(), limits.dayStartHour));
+			void this.serveNext();
+		});
 	}
 
 	private renderModuleRows(): void {
 		const store = this.plugin.schedule;
 		const state = store.state!;
 		const live = this.liveModules();
+		const now = Date.now();
+		const today = effectiveDay(state, now, this.limits().dayStartHour);
+		const mature = (k: string) => isMature(state.cards[k], store.byKey.get(k)?.ids);
+		const dueMs = (c: ModuleCard) =>
+			c.state === "review" ? dayStartMs(c.due, this.limits().dayStartHour) : c.due;
 
 		let keys: string[];
 		if (this.modTab === "queue") {
 			keys = state.queue.filter((k) => live.has(k));
 		} else {
 			const completed = this.modTab === "completed";
-			keys = Object.entries(state.modules)
-				.filter(([k, m]) => store.byKey.has(k) && m.attempts > 0 && m.completed === completed)
-				.sort((a, b) => a[1].score - b[1].score || a[1].attempts - b[1].attempts)
+			keys = Object.entries(state.cards)
+				.filter(([k, c]) => store.byKey.has(k) && c.state !== "new" && mature(k) === completed)
+				.sort((a, b) => dueMs(a[1]) - dueMs(b[1]))
 				.map(([k]) => k);
 		}
 		const defs = keys.map((k) => store.byKey.get(k)).filter(isDef);
@@ -891,16 +1046,16 @@ export class McqView extends ItemView {
 
 		const cap = this.plugin.settings.searchResultCap;
 		for (const d of matches.slice(0, cap)) {
-			const m = state.modules[d.key];
+			const c = state.cards[d.key] ?? newCard();
 			const row = this.listEl.createDiv({ cls: "mcq-row is-module" });
 			const text = row.createDiv({ cls: "mcq-row-text" });
 			text.createDiv({ cls: "mcq-row-label", text: d.name });
 			text.createDiv({
 				cls: "mcq-row-meta",
 				text:
-					this.modTab === "queue" || !m
+					this.modTab === "queue"
 						? `${d.topicLabel} · ${d.ids.length}`
-						: `${d.topicLabel} · ${signed(m.score)} · ${m.attempts}× · ★${m.perfect}`,
+						: `${d.topicLabel} · ${this.dueText(c, now, today)} · ${this.cardMeta(c, d)}`,
 			});
 			const tools = row.createDiv({ cls: "mcq-row-tools" });
 			const tool = (icon: string, label: string, onClick: () => void) => {
@@ -912,12 +1067,12 @@ export class McqView extends ItemView {
 				});
 			};
 			const move = (mv: Move) => () => {
-				const now = store.state;
-				if (now) store.set(moveInQueue(now, d.key, mv));
+				const s = store.state;
+				if (s) store.set(moveInQueue(s, d.key, mv));
 			};
 			const reset = () => {
-				const now = store.state;
-				if (now) store.set(resetModule(now, d.key, store.defs));
+				const s = store.state;
+				if (s) store.set(resetModule(s, d.key, store.defs));
 			};
 			if (this.modTab === "queue") {
 				tool("arrow-up-to-line", "Move to top", move("top"));
@@ -925,10 +1080,11 @@ export class McqView extends ItemView {
 				tool("arrow-down", "Move down", move("down"));
 				tool("arrow-down-to-line", "Move to bottom", move("bottom"));
 			} else {
-				tool("rotate-ccw", this.modTab === "completed" ? "Un-complete (reset)" : "Reset", reset);
+				tool("rotate-ccw", this.modTab === "completed" ? "Un-complete (back to the queue)" : "Reset (back to the queue)", reset);
 			}
 			if (this.modTab !== "completed") {
-				tool("play", "Start now", () => void this.startModule(d.key, "manual"));
+				const kind: PickKind = c.state === "new" ? "new" : c.state === "review" ? "review" : "learning";
+				tool("play", "Study now", () => void this.serveModule(d.key, kind));
 			}
 		}
 		if (matches.length > cap) {
@@ -939,50 +1095,23 @@ export class McqView extends ItemView {
 		}
 	}
 
-	private renderSessionRows(): void {
-		const current = this.plugin.schedule.state!.current!;
-		current.ids.forEach((id, i) => {
-			const entry = this.entryFor(id);
-			const row = this.listEl.createDiv({ cls: "mcq-row is-question", attr: { tabindex: "0" } });
-			row.toggleClass("is-active", entry?.path === this.currentPath);
-			row.createSpan({ cls: "mcq-row-index", text: String(i + 1) });
-			if (entry) {
-				row.createSpan({ cls: `mcq-row-badge is-${entry.family.toLowerCase()}`, text: entry.family });
-			}
-			row.createSpan({ cls: "mcq-row-label", text: id });
-			const a = current.answers[id];
-			row.createSpan({
-				cls: "mcq-row-meta",
-				text: a === undefined ? "" : a.result === 1 ? "✓" : a.result === -1 ? "✗" : "–",
-			});
-			if (!entry) return;
-			const open = () => void this.select(entry);
-			row.addEventListener("click", open);
-			row.addEventListener("keydown", (ev) => {
-				if (ev.key === "Enter") open();
-			});
-		});
+	/** The next module due, or back to the list when the day is done. */
+	private async serveNext(): Promise<void> {
+		const state = this.plugin.schedule.state;
+		if (!state) return;
+		const pick = nextModule(state, this.liveModules(), Date.now(), this.limits());
+		if (isDone(pick)) return this.goModulesHome();
+		await this.serveModule(pick.key, pick.kind);
 	}
 
-	/** Read a module's notes, pick 40% of them, and open the first. */
-	private async startModule(key: string, kind: SessionKind): Promise<void> {
+	/** Choose the module's next question — unseen TO, unseen OB, then its weakest — and open it. */
+	private async serveModule(key: string, kind: PickKind): Promise<void> {
 		const store = this.plugin.schedule;
-		const state = store.state;
 		const def = store.byKey.get(key);
-		if (!state || !def) return;
-		if (state.current && state.current.key !== key) {
-			const name = store.byKey.get(state.current.key)?.name ?? state.current.key;
-			new Notice(`Finish “${name}” first — it is waiting under Resume.`);
-			return;
-		}
-		if (state.current) return this.resumeModule();
+		if (!store.state || !def) return;
 
 		const entries = def.ids.map((id) => this.entryFor(id)).filter((e): e is IndexEntry => !!e);
-		if (entries.length === 0) {
-			new Notice(`None of the questions in “${def.name}” are in the index.`);
-			return;
-		}
-		// Parse them all, so questions the source never answered can be left out.
+		// Parse them all, so questions the source never answered go last.
 		await Promise.all(
 			entries.map(async (e) => {
 				if (this.previews.has(e.path)) return;
@@ -996,77 +1125,65 @@ export class McqView extends ItemView {
 			}),
 		);
 		const usable = entries.filter((e) => this.previews.has(e.path)).map((e) => e.id);
-		if (usable.length === 0) {
+		const state = store.state;
+		if (!state) return;
+		const id = nextQuestion(
+			state.cards[key],
+			usable,
+			{
+				isTO: (q) => this.entryFor(q)?.family === "TO",
+				answerable: (q) => this.previews.get(this.pathFor(q))?.correctIndex != null,
+			},
+			Math.random,
+		);
+		const entry = id ? this.entryFor(id) : undefined;
+		if (!id || !entry) {
 			new Notice(`None of the questions in “${def.name}” could be read.`);
 			return;
 		}
-		const ids = pickQuestions(
-			usable,
-			(id) => this.previews.get(this.pathFor(id))?.correctIndex != null,
-			state.modules[key]?.lastIds ?? [],
-			Math.random,
-			(id) => this.entryFor(id)?.family === "TO",
-		);
-		store.set(startSession(state, key, kind, ids));
-		this.summary = null;
-		await this.resumeModule();
-	}
-
-	/** Open the running module at its first unanswered question. */
-	private async resumeModule(): Promise<void> {
-		const current = this.plugin.schedule.state?.current;
-		if (!current) return;
-		this.sessionOpen = true;
+		store.set(setCurrent(state, { key, id, kind, revealed: null }));
+		this.studying = true;
 		this.resetSearch();
-		const first = current.ids.find((id) => !current.answers[id]) ?? current.ids[0];
-		const entry = this.entryFor(first) ?? this.sessionEntries()[0];
 		this.renderCrumbs();
-		if (entry) await this.select(entry);
-		else this.render();
+		await this.select(entry);
 	}
 
-	private finishModule(): void {
+	/** Reopen the question that was on screen, as it was left. */
+	private async resumeCurrent(): Promise<void> {
+		const store = this.plugin.schedule;
+		const cur = store.state?.current;
+		if (!store.state || !cur) return;
+		const entry = this.entryFor(cur.id);
+		if (!entry) {
+			store.set(setCurrent(store.state, null));
+			return this.serveNext();
+		}
+		this.studying = true;
+		this.resetSearch();
+		this.renderCrumbs();
+		await this.select(entry);
+	}
+
+	/** Rate the module on screen, log the answer, and go straight to the next module. */
+	private async rate(r: Rating): Promise<void> {
 		const store = this.plugin.schedule;
 		const state = store.state;
-		if (!state?.current) return;
-		if (!sessionDone(state.current)) {
-			new Notice("Answer or skip every question first.");
-			return;
-		}
-		const name = store.byKey.get(state.current.key)?.name ?? state.current.key;
-		const done = finishSession(state);
-		if (!done) return;
-		this.leaveQuestion();
-		this.sessionOpen = false;
-		this.summary = { name, tally: done.tally, completedNow: done.completedNow };
-		store.set(done.state);
-		this.render();
-	}
-
-	private renderSummary(): void {
-		const s = this.summary!;
-		const card = this.quizEl.createDiv({ cls: "mcq-card mcq-summary" });
-		card.createDiv({ cls: "mcq-card-kicker", text: "Module finished" });
-		card.createDiv({ cls: "mcq-card-title", text: s.name });
-		card.createDiv({
-			cls: "mcq-card-meta",
-			text: `Score ${signed(s.tally.average)} · ${s.tally.right} right · ${s.tally.skipped} skipped · ${s.tally.wrong} wrong`,
+		const cur = state?.current;
+		const mcq = this.current;
+		if (!state || !cur || !mcq || cur.id !== mcq.id || this.answered === null || this.clock.isPaused()) return;
+		const now = Date.now();
+		const limits = this.limits();
+		const chosen = this.answered === SKIPPED ? null : this.answered;
+		const result = chosen === null || mcq.correctIndex === null ? 0 : chosen === mcq.correctIndex ? 1 : -1;
+		store.logResponse({
+			module: cur.key,
+			id: cur.id,
+			result,
+			rating: r,
+			day: effectiveDay(state, now, limits.dayStartHour),
 		});
-		if (s.completedNow) card.createDiv({ cls: "mcq-summary-complete", text: "Completed!" });
-		const actions = card.createDiv({ cls: "mcq-card-actions" });
-		const next = actions.createEl("button", { cls: "mod-cta", text: "Next module" });
-		next.addEventListener("click", () => {
-			const state = this.plugin.schedule.state;
-			const pick = state ? nextModule(state, this.liveModules()) : null;
-			this.summary = null;
-			if (pick) void this.startModule(pick.key, pick.kind);
-			else this.render();
-		});
-		const back = actions.createEl("button", { cls: "mcq-btn", text: "Back" });
-		back.addEventListener("click", () => {
-			this.summary = null;
-			this.render();
-		});
+		store.set(rateModule(state, cur.key, cur.id, r, now, limits));
+		await this.serveNext();
 	}
 
 	// --------------------------------------------------------------- search
@@ -1102,7 +1219,7 @@ export class McqView extends ItemView {
 		const mcq = this.current;
 
 		if (evt.key === "Escape" && this.mode === "modules") {
-			if (this.sessionOpen) this.goModulesHome();
+			if (this.studying) this.goModulesHome();
 			return;
 		}
 		if (evt.key === "Escape") {
@@ -1119,6 +1236,26 @@ export class McqView extends ItemView {
 		}
 
 		if (!mcq) return;
+
+		if (this.inStudy()) {
+			// Space and Enter on a focused button already click it.
+			if (evt.target instanceof HTMLButtonElement && (evt.key === " " || evt.key === "Enter")) return;
+			if (evt.key === "c") {
+				evt.preventDefault();
+				if (this.clock.isPaused()) this.cont();
+				else this.stop();
+				return;
+			}
+			// Paused: nothing can be answered until Continue.
+			if (this.clock.isPaused()) return;
+			const r = RATING_KEYS[evt.key];
+			if (r !== undefined) {
+				evt.preventDefault();
+				if (r === 0) this.skip();
+				else if (this.answered !== null) void this.rate(r);
+				return;
+			}
+		}
 
 		if (evt.key === "n" || evt.key === "ArrowRight") {
 			evt.preventDefault();

@@ -12,6 +12,8 @@
 
 **Aseptic loosening** — ✓ commonest cause of **late** THA failure · supra-acetabular osteolysis usually **>10 yr** after index surgery · ↓ since HXLPE
 
+**Burden (TO)** — aseptic osteolysis = **most common cause of THR failure, ≈ 70% of revisions** · tribology = friction, lubrication + wear of surfaces in relative motion · septic vs aseptic osteolysis
+
 **Closest correlate of osteolysis** → ✓ **linear wear rate** of the bearing couple · activity, cup position, PE oxidation, bearing all act by ↑ wear\
 ✗ Wrong options: weight · head material · offset
 
@@ -72,6 +74,8 @@
 | **Metal-on-metal** | **2.5–5.0 µm/yr** · **nanometre** particles, smaller than MoP |
 
 **Order** — **CoC < MoM < MoP** (TO)
+
+**TO lecture rates** — PE **0.1–0.5 mm/yr** = **90% of debris volume** (vs 0.1–0.2 mm/yr above — read the options) · metal **10–100× less** · ceramic **1000× less** · cement debris rare (old cemented hips) · **adhesive volumetric wear = prime cause of THR failure** · delamination commoner in **TKR**
 
 **Conflict** — OB3311 calls **0.02–0.04 mm/yr** "conventional THA" wear (so 0.03 mm/yr ≈ conventional) · Orthobullets/OB218172: conventional UHMWPE **0.1–0.2 mm/yr** — read the options
 
@@ -144,6 +148,8 @@ Submicron wear particle
 
 **Effective joint space** — anywhere joint fluid reaches bone · fluid + particles follow **pressure gradients / path of least resistance** · ↑ **hydrostatic pressure** (inflammation) spreads debris · above cup, **through screw holes**, down the stem · cementless cup → **expansile** lysis from implant–bone interface
 
+**Effective joint space ↑ by (TO)** — **non-circumferential porous coating** · **excess screw holes** in shell · poor cement seal / gaps → prevent with circumferential coating, few screws, perfect press-fit or sealed mantle (Harris concept)
+
 **Pelvic lysis around cup screws 10 yr after THA** → ✓ **PE particles tracking through the effective joint space**\
 ✗ Wrong options: osteosarcoma · galvanic corrosion · sepsis · occult fracture
 
@@ -214,6 +220,22 @@ Submicron wear particle
 | Stem **deformation / fracture** | Loosening |
 | ✗ Wrong option: **parallel radiodense line around stem** | **Not** loosening |
 
+**Where cemented loosening starts (TO)** — femur: **stem–cement** interface · acetabulum: **bone–cement** interface · significant lucency **> 2 mm** or progressive · zones: **Gruen 1–7** (femur), **DeLee + Charnley I–III** (acetabulum)
+
+**Histology (TO)** — many **osteoclasts**, few osteoblasts, **PE-laden macrophages** · TNF-α, IL-1, IL-6, PGE2 → RANKL · **MSC → osteoblast differentiation suppressed**
+
+| Engh — cementless stem (TO) | X-ray |
+|---|---|
+| **Bone ingrowth** | Stable, no subsidence, **no radiolucent lines** |
+| **Stable fibrous ingrowth** | **Parallel** radiolucent lines ± subsidence |
+| **Unstable** | **Divergent** lines + **cortical hypertrophy at stem tip** |
+
+| Monitoring tool (TO) | Use |
+|---|---|
+| **RSA** | **Gold standard** (research) · micromotion **≤ 1 mm** via **tantalum beads** |
+| **EBRA** | Digital follow-up of migration on plain films |
+| **DEXA** | Periprosthetic bone density over time |
+
 ### Barrack cementation grade (TO)
 
 | Grade | Finding |
@@ -224,6 +246,12 @@ Submicron wear particle
 | **D** | **100%** radiolucency and/or **no cement beyond stem tip** |
 
 ### Cementless stem loosening
+
+| | **Osteolysis** | **Stress shielding** (TO) |
+|---|---|---|
+| Cause | Inflammatory reaction to debris | **Altered load transfer** |
+| Site | Periprosthetic zones | **Proximal (calcar / GT)** |
+| X-ray | Lucency ± sclerotic rim | **Thinning of proximal cortex** |
 
 **Subsidence + thick distal pedestal + no calcar stress shielding, 10 yr** → ✓ **femoral loosening** (failed ingrowth)\
 ✗ Wrong options: acetabular / femoral osteolysis alone · acetabular loosening (radiolucent lines + cup migration)
@@ -250,6 +278,14 @@ UHMWPE resin (MW 2–6 million)
 | Fracture toughness | **↓** |
 | Ductility / elongation to break | **↓** |
 | 10-yr outcome | ✓ **↓ wear + ↑ survival** (✗ Wrong options: no difference) |
+
+| PE generation (TO) | Process | Note |
+|---|---|---|
+| **1st (1990s)** | Gamma cross-linking + **annealing / remelting** | ↓ wear · ↓ toughness |
+| **2nd (2000s)** | **Sequential annealing** / **vitamin E** | ↑ oxidation resistance, better strength · expensive |
+| **3rd (2010s)** | Low-O2 processing, solid-state deformation | Wear **~0.02 mm/yr** · long-term data pending (TO — verify: compression moulding / ram extrusion are consolidation methods for all UHMWPE, not a generation) |
+
+**Other materials (TO)** — **PEEK** under evaluation · **polyacetal + PTFE abandoned** (poor wear) · prevention: **3rd/4th-generation cementing**, PE **≥ 6 mm**, head **22–46 mm** (> 46 mm → thinner PE → ↑ wear), ceramic or MoP (avoid MoM) · drugs: **bisphosphonates**, **denosumab** (investigational), BMP-2
 | Head size effect | None, **22–46 mm** |
 
 **Toughness** — affects mechanical strength, **not** wear rate
@@ -435,6 +471,10 @@ UHMWPE resin (MW 2–6 million)
 **"HXLPE vs standard PE — NOT true?"** → **increased tensile strength** (TO)
 
 **"Free radicals in HXLPE reduced by all EXCEPT?"** → **ethylene oxide treatment** (TO)
+
+**"Gold standard for detecting implant micromotion?"** → **radiostereometric analysis (RSA)** (TO)
+
+**"Divergent radiolucent lines + cortical hypertrophy at stem tip (Engh)?"** → **unstable cementless stem** (TO)
 
 **"Not a process to reduce free radicals?"** → **electron beam irradiation** (TO)
 

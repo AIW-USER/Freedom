@@ -49,6 +49,10 @@
 
 **Neuro clues** — **1st dorsal interosseous wasting** of hand → **CMT** · **scoliosis** → CMT · **spinal dysraphism** · high-steppage gait
 
+**Tripod (TO)** — foot stands on **1st MT head, 5th MT head, calcaneus** · CMT: intrinsics weaken first; PL overpowers weak TA → 1st ray drops → hindfoot varus
+
+**Cavus mimicking equinus (TO)** — hide the forefoot: heel may be neutral · lateral X-ray **high calcaneal pitch with normal tibiocalcaneal angle = cavus** · TAL would cause calcaneus · CORA at navicular → osteotomise **medial cuneiform** (plantar opening wedge for cavus, medial opening for adductus)
+
 ### Coleman block test – hindfoot flexibility & forefoot-driven deformity
 
 **Used for** — **cavovarus foot** (TO)\
@@ -85,6 +89,10 @@
 | Oblique | MT stress fractures, CN coalition | — |
 
 ![Meary's angle — apex dorsal break](../../Orthobullets/attachments/ob4063-meary.jpg)
+
+**Calcaneal pitch** — **> 30°** (Orthobullets) · **> 25–30°** (TO) — read the options
+
+**Half of cavus = CMT (TO)** — treat as neuromuscular until proven otherwise (TO)
 
 ### Work-up – electrodiagnostic studies
 

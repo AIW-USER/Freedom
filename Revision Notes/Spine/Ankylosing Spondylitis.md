@@ -13,7 +13,9 @@
 **Sex / age** — **4:1 male** · presents **3rd decade** · juvenile form < 16 yrs\
 ✗ Wrong options: more common in females
 
-**HLA-B27 carriers** — **< 10%** of B27-positive people develop AS · B27 in **\~6%** of white population
+**HLA-B27 carriers** — **< 10%** of B27-positive people develop AS (Orthobullets) · **1–2%** (TO) — read the options · B27 in **\~6%** of white population
+
+**Monozygotic twin concordance** — \~**63%** (TO)
 
 ### Pathoanatomy
 
@@ -23,6 +25,26 @@
 **Disc** — annulus inflammation → **syndesmophytes**
 
 **Theories** — autoimmune reaction to environmental pathogen in a genetically susceptible host; B27 peptide aggregation; cytotoxic T-cells against B27
+
+**Pathological sequence (TO)** — inflammation + granulation tissue + **bone erosion** → **fibrous replacement** → **ossification** → ankylosis
+
+**Histopathology (TO)** — **enthesitis = hallmark**; infiltrate of **CD4+, CD8+ lymphocytes + macrophages**
+
+### Pathogenesis – HLA-B27 hypotheses (TO)
+
+| Hypothesis | Mechanism |
+|---|---|
+| **Arthritogenic peptide** | B27 presents microbial / self-mimicking peptides to **CD8+ T-cells** |
+| **Misfolding** | Misfolded B27 in **ER** → ER stress, **unfolded protein response**, autophagy → **IL-23 / IL-17** |
+| **Homodimer** | Loss of **β2-microglobulin** → heavy-chain homodimers → bind **KIR3DL2** (NK + Th17 cells) → IL-17 |
+
+**B27 structure (TO)** — **unpaired cysteine 67** → homodimers · glutamine for methionine at 45 · lysine 70 ↑ Cys-67 reactivity
+
+**IL-23 / IL-17 axis (TO)** — APC IL-23 → **Th17** → **IL-17A + IL-17F** → cytokines; IL-17 → **RANKL bone resorption** yet also **syndesmophytes** → target of biologics
+
+**Gut dysbiosis (TO)** — ↑ permeability; **Klebsiella pneumoniae**, Lachnospiraceae, Prevotellaceae, Veillonellaceae, IgA-coated E. coli, fungal β-glucans
+
+**Endocrine (TO)** — males: ↓ testosterone reserve, ↑ LH, altered oestradiol:testosterone ratio
 
 **Spread** — SI fusion first → cephalad spinal progression → often **entire spine**\
 ✗ Wrong options: "only pelvis + spine": large joints too
@@ -34,7 +56,10 @@
 | **HLA-B27** | **Class I** MHC antigen, **B locus, chromosome 6**; positive **\~90%** (Orthobullets, TO) · \~95% (OB) |
 | B27 prevalence (TO) | **AS 90% · juvenile SpA 70% · RA 6%** |
 | **RF** | **Negative** (seronegative) |
-| ESR / CRP | Non-specific mild ↑ in active disease (✗ Wrong options: normal) |
+| ESR / CRP | Non-specific mild ↑ in active disease (✗ Wrong options: normal) · ↑ in only **50–70%** of active disease → **normal markers do not exclude AS** (TO) |
+| **HLA-B27 subtypes (TO)** | **B2705 Caucasians** · **B2704 Chinese** · **B2702 Mediterranean** |
+| **HLA-B60 (TO)** | ↑ susceptibility in **B27-negative** AS |
+| **ERAP1 / ERAP2 (TO)** | ER aminopeptidases trimming B27 peptides · **ERAP1** → B27-negative + **B40** AS · **ERAP2** → B27-positive + negative AS + **IBD** |
 | ✗ Traps | COL1A1 = OI · **CD20** = lymphoma · **EXT1** = MHE · **HLA-B8** = DISH + diabetes · HLA-DR3 = SLE · urine phosphoethanolamine = hypophosphatasia |
 
 **Inheritance** — genetic predisposition, mode **unknown**
@@ -43,19 +68,27 @@
 
 | System | Manifestation |
 |---|---|
-| **Eye** | **Acute anterior uveitis / iritis** — commonest extra-articular; confirms diagnosis with B27 + sacroiliitis |
+| **Eye** | **Acute anterior uveitis / iritis** — commonest extra-articular (**up to 30%**, TO); confirms diagnosis with B27 + sacroiliitis |
 | Heart | **Conduction abnormalities** |
 | Aorta | Aortitis, stenosis, **regurgitation** |
-| Lung | **Pulmonary fibrosis** (↓ FEV), costovertebral fusion → ↓ chest expansion |
+| Lung | **Pulmonary fibrosis** (↓ FEV) — **apical** (TO), **restrictive** pattern, costovertebral fusion → ↓ chest expansion |
+| Neuro (TO) | **Cauda equina syndrome** → **MRI** essential |
+| Gut (TO) | Enteric mucosal lesions |
 | Kidney | Amyloidosis |
 | **Synovitis** | **Klebsiella pneumoniae** (gram-negative bacillus) — B27-positive more susceptible (✗ Wrong options: Strep pneumoniae · gonococcus · C. acnes · Staph aureus) |
 | Other | IBD, psoriasis |
 
 **Orthopaedic** — **bilateral sacroiliitis** · progressive **kyphosis** · **cervical fractures** · large-joint arthritis (**hip + shoulder**, asymmetric)
 
+**Early hip involvement** — **poor prognosis** (TO)
+
+**Enthesitis sites (TO)** — **Achilles** · **plantar fascia** · ischial tuberosity · greater trochanter · costosternal junctions · tibial tuberosity · + **dactylitis**
+
 ## 3 Presentation
 
 **Lumbosacral pain + stiffness** — insidious, 3rd decade, **worse in morning**, improves with exercise
+
+**Inflammatory back pain (TO)** — **morning stiffness > 30 min** (often hours) · **alternating buttock pain** · **night pain**, better on getting up · onset **< 40 yr** · **> 3 months**
 
 **Neck / upper thoracic pain** — later; **acute neck pain = fracture until proven otherwise**
 
@@ -63,10 +96,12 @@
 
 | Exam test | Detects |
 |---|---|
-| **Chest expansion < 2 cm** | **More specific than HLA-B27** |
-| **Schober test** | Lumbar stiffness |
+| **Chest expansion < 2 cm** | **More specific than HLA-B27**; measured at **4th intercostal space** / **nipple line** (TO) · classic cut-off **< 5 cm** (TO exam pearl) — read the options |
+| **Schober test** | Lumbar stiffness · **modified Schober**: normal increase **> 2 cm** (TO, Basic Science lecture — verify: usual normal ≥ 5 cm) · **> 5 cm** (TO, Rheumatology overview) — read the options |
+| **Occiput-to-wall distance** (TO) | Cervical / thoracic **flexion deformity** |
+| Lateral spinal flexion (TO) | Fingertip vs thigh / floor |
 | **Wall (Fleche) test** (TO) | **Cervical spine involvement in AS** — occiput can't touch wall |
-| **FABER (Patrick)** | SI joint pain (✗ Wrong options: FADDIR = FAI) |
+| **FABER (Patrick)** | SI joint pain (✗ Wrong options: FADDIR = FAI) · other SI tests: **Gaenslen, sacral thrust** (TO) |
 | **Chin-brow to vertical angle (CBVA)** | Chin-on-chest deformity; **standing lateral**; osteotomy planning — correction ∝ outcome |
 | Supine + sitting exam | Separates **hip flexion contracture** from spinal kyphosis |
 
@@ -92,15 +127,37 @@
 
 **SI joint injection** — often the **most sensitive diagnostic test**
 
+### Other classification criteria (TO)
+
+| Criteria | Content |
+|---|---|
+| **ASAS axial SpA** | **Back pain > 3 months + age < 45** · **imaging arm**: sacroiliitis (X-ray or **MRI**) + **≥ 1 SpA feature** · **clinical (HLA-B27) arm**: B27 + **≥ 2 SpA features** · relies on **MRI bone marrow oedema** |
+| **CALIN (inflammatory back pain)** | Onset **< 40** · insidious · better with exercise · not better with rest · night pain, better on getting up |
+| **Amor** | **Point-based**: IBP, enthesitis, uveitis, B27, family history, **NSAID response** |
+| **ESSG** | IBP **or synovitis** + ≥ 1 of: family history, psoriasis, IBD, urethritis, buttock pain, enthesitis, sacroiliitis |
+| Modified New York | **1984** · X-ray-based (above) |
+
+### Disease activity & monitoring (TO)
+
+| Tool | Fact |
+|---|---|
+| **BASDAI** | Fatigue, spinal pain, joint pain / swelling, enthesitis, morning stiffness · **≥ 4 = suboptimal control** |
+| BASFI · BASMI · ASAS core set | Function · metrology · core set |
+| **mSASSS** | **Preferred** for structural progression; **anterior vertebral corners C2–T1 + T12–S1** (also BASRI, SASSS) |
+| X-rays | **Every 2 yr** for structural progression |
+| MRI STIR | Inflammatory activity |
+
 ### Key radiology findings
 
 | Modality | Finding |
 |---|---|
 | **X-ray spine** | **Squaring** of vertebrae · **marginal (vertical) syndesmophytes** · **bamboo spine** (late) · ALL/PLL calcification · osteoporosis · **dagger sign** (AP: central line = ossified supra/interspinous ligaments) |
 | **X-ray pelvis – Ferguson view** | Beam **10–15° cephalad** → anterior SI joint |
-| SI joint | **Bilateral symmetric erosions**; **earliest = iliac side** erosion → narrowing → ankylosis |
-| **CT** | Bony change, not inflammation; **most sensitive for cervical fracture** |
-| **MRI (STIR / gad)** | Detects inflammation → **earliest diagnosis**; **Romanus lesion** = "shiny corner" erosions at vertebral corners (**TO: MRI of LS spine**) · **Andersson lesion** = spondylodiscitis / pseudarthrosis · active sacroiliitis → dynamic fat-sat MRI |
+| SI joint | **Bilateral symmetric erosions**; **earliest = iliac side** erosion → narrowing → ankylosis · sequence (TO): **blurring of margins (earliest)** → erosions → sclerosis → narrowing → ankylosis · X-ray SI involvement essential for AS diagnosis (TO) |
+| **CT** | Bony change, not inflammation; **most sensitive for cervical fracture**; syndesmophytes |
+| **Earliest spinal sign (TO)** | **Romanus lesion (shiny corner)** |
+| **Andersson lesion (TO)** | Discovertebral destruction — **mimics infection**; inflammatory + mechanical stress |
+| **MRI (STIR / gad)** | Detects inflammation (**bone marrow oedema**) → **earliest diagnosis**, **most sensitive for early sacroiliitis** (TO), normal X-ray axial SpA; **Romanus lesion** = "shiny corner" erosions at vertebral corners (**TO: MRI of LS spine**) · **Andersson lesion** = spondylodiscitis / pseudarthrosis · active sacroiliitis → dynamic fat-sat MRI |
 | Bone scan | SI uptake, not specific |
 
 ![Bilateral sacroiliitis](../../Orthobullets/attachments/ob2044-as-si-bilateral-sacroiliitis.jpg)
@@ -113,8 +170,30 @@
 
 **First line** — **NSAIDs / COX-2** + PT (flexibility) · no **oral steroids** (oral or IV — no effect on progression)
 
+**Most effective NSAID (TO)** — **indomethacin** · COX-2 inhibitors equally effective
+
+**PT (TO)** — **spinal extension** + deep-breathing exercises · **swimming** · firm mattress + thin pillow
+
+**Sulfasalazine (TO)** — **peripheral arthritis** or coexisting **IBD** (not axial)
+
+**Conventional DMARDs (TO)** — **MTX: limited role in axial disease** · TNF inhibitors highly effective, **started early**
+
+**Steroids (TO)** — local injection for **SI joint / enthesitis** only
+
 **Second line** — **TNF-α inhibitors**: infliximab, etanercept, **adalimumab** (also approved for RA + PsA → "husband AS + wife RA on same drug" = adalimumab)\
 ✗ Wrong options: denosumab · tofacitinib (RA) · imatinib · rituximab (RA)
+
+| Biologic ladder (TO) | Fact |
+|---|---|
+| **TNF inhibitors** | Etanercept, infliximab, adalimumab, **golimumab, certolizumab** · after failure of **≥ 2 NSAIDs** · first-line biologic |
+| **IL-17 inhibitors** | **Secukinumab, ixekizumab** · TNFi inadequate response |
+| **JAK inhibitors** | **Upadacitinib, tofacitinib** (TO lists for AS) |
+| Pre-biologic screening | **TB, hepatitis B, HIV** |
+| Side effects | Injection reactions · infections incl. **TB reactivation** · malignancy · autoimmune reactions |
+
+**Uveitis (TO)** — **topical steroids + mydriatics** · TNFi ↓ recurrence · **adalimumab** FDA-approved for noninfectious uveitis
+
+**Surgical indications (TO)** — deformity affecting **line of sight** · fractures of fused spine · advanced hip disease → **THA** (± shoulder arthroplasty)
 
 **Early AS with fused SIJs** — **NSAIDs + PT + HLA-B27 test**\
 ✗ Wrong options: SI injections · SI fusion · aspiration
@@ -127,6 +206,8 @@
 **Pattern** — **extension**, **3-column**, behaves like a **long-bone fracture** (long lever arm + osteoporosis)
 
 **Outcomes** — neuro involvement **\~75%** (67% AS vs 40% DISH) · occult multi-level fractures **13%** · diagnostic delay up to **40%** · mortality up to **32–34%** · complications up to 84% (pneumonia, respiratory failure, pseudarthrosis) · fusion rates **high** once fixed
+
+**Ankylosed spine fracture (TO)** — **unstable until proven otherwise** (AS + DISH) · **CT best**, MRI adds · fix **≥ 3 levels above + 3 below** (vs 2 + 2 in normal bone) · cervical = highest neuro risk
 
 ```
 AS patient + neck/back pain after trivial trauma
@@ -223,6 +304,8 @@ Reactive arthritis treatment (TO)
 
 ![Syndesmophytes: AS (marginal) vs DISH (non-marginal)](../../Orthobullets/attachments/ob2044-syndesmophyte-formation-in-as-vs-dish.jpg)
 
+**Osteitis condensans ilii** — **triangular iliac sclerosis** with **preserved SI joint space** (vs AS sacroiliitis) (TO)
+
 | | AS | Reactive arthritis |
 |---|---|---|
 | Sacroiliitis | **Bilateral symmetric** | **Asymmetric** |
@@ -242,6 +325,20 @@ Reactive arthritis treatment (TO)
 ✗ Wrong options: X-ray
 
 **"Wall test useful in?"** → **cervical spine involvement in AS** (TO)
+
+**"Earliest radiographic change in SI joint?"** → **blurring of joint margins** (TO)
+
+**"Earliest spinal radiographic sign?"** → **Romanus lesion (shiny corner)** (TO)
+
+**"Most sensitive test for early sacroiliitis?"** → **MRI (STIR)** (TO)
+
+**"Most effective NSAID in AS?"** → **indomethacin** (TO)
+
+**"Preferred score for radiographic progression?"** → **mSASSS** (TO)
+
+**"Biologic after TNFi inadequate response?"** → **IL-17 inhibitor (secukinumab)** (TO)
+
+**"BASDAI indicating suboptimal control?"** → **≥ 4** (TO)
 
 **"HLA-B27 prevalence in AS, juvenile SpA, RA?"** → **90%, 70%, 6%** (TO)
 

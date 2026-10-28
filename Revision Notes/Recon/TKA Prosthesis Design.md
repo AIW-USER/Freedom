@@ -26,6 +26,18 @@
 |---|
 | **Bicruciate-retaining** (keeps ACL; ↑ op time + complications) → **CR** → **PS** → **VVC / CCK (non-hinged)** → **rotating hinge** |
 
+### Constraint classification (TO)
+
+| Class (TO) | Ligament status | Designs |
+|---|---|---|
+| **Unconstrained** | Collaterals **+ PCL intact** | **CR** |
+| **Semi-constrained** | Collaterals intact, **PCL removed** | CS, **PS**, **UC** |
+| **Constrained** | **Collaterals deficient** | CCK / hinge |
+
+**Ultra-congruent (deep dish)** — substitutes PCL **without cam–post** (TO) · rollback produced by PCL / cam–post / deep dish (TO)
+
+**Design limitations (TO)** — total condylar (Insall + Ranawat): cupped femur, flat tibia, **flexion < 90°, no rollback** · duo-patellar: **dependent on intact PCL** · Insall–Burstein PS: needs **femoral notch (box) cut** · LCS rotating platform: complex technique · medial pivot: closest to native kinematics
+
 **Modularity** — metal tray + modular insert, augments, stems · customise intra-op · but **↑ osteolysis** + **backside wear** (micromotion insert–tray) · more expensive
 
 ## 2 Mechanism
@@ -157,6 +169,27 @@
 
 ![Backside wear on modular insert](../../Orthobullets/attachments/ob5019-backside-wear.jpg)
 
+### Materials & component geometry (TO)
+
+| Item | TO fact |
+|---|---|
+| **Femoral component** | **CoCr** (strength + polish) · zirconium / ceramic = hypoallergenic |
+| **Tibial tray** | **Titanium** — modulus close to bone |
+| **PE** | **6th-generation cross-linked UHMWPE + vitamin E** → best wear / longevity |
+| **Single-radius femur** | Constant curvature → consistent rollback, **greater flexion** |
+| **Multi-radius (J-curve) femur** | Mimics native knee · smooth ligament tension |
+| **Deep trochlear groove** | Better **patellar tracking** |
+| **Symmetric tibia** | Easier rotational alignment, less anatomic |
+| **Asymmetric tibia** | Matches anatomy, **better coverage** |
+| **Insert anterior bevel** | Prevents **patellar tendon impingement** |
+| **Size matching** | Femoral + tibial sizes may differ by **± 1 size only** |
+
+**Posterior condylar offset (TO)** — posterior femoral cortex → posterior condyle · **↑ offset = ↑ flexion**
+
+**High-flex design (TO)** — **high posterior condylar offset** · slope **~7°** · deep trochlea · bevelled anterior insert · balanced gaps → **≥ 130° flexion**
+
+**Bone cement (TO)** — **Simplex = white** (standard PMMA) · **Palacos = green** (faster setting, high visibility) · antibiotic cement only if infection risk
+
 ### Fixation – cemented vs cementless, cement viscosity
 
 **Most consistent tibial fixation** — ✓ **cement metaphysis + keel**\
@@ -171,6 +204,8 @@
 
 **Routine resurfacing vs retention** — ✓ **↓ revision risk** (retention: **20–30% ↑** revision in registries; 5.7% revised for anterior pain)\
 ✗ Wrong options: no complications · ↑ anterior pain · ↓ fracture
+
+**TO lecture notes** — **do not resurface routinely in OA** · resurface for **RA / crystal arthropathy (gout)** or severely damaged cartilage · routine resurfacing ↓ revision (current chapter) — read the options
 
 ### Gender-specific implants
 
@@ -318,3 +353,7 @@
 **"Custom cutting guides — outcome difference?"** → **no difference in ROM, alignment or scores**
 
 **"Minimum PE insert thickness?"** → **8 mm** (TO)
+
+**"Increasing posterior condylar offset — effect?"** → **↑ flexion** (TO)
+
+**"Deep-dish insert substitutes PCL how?"** → **congruency, no cam–post** (TO)

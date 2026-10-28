@@ -19,6 +19,10 @@
 
 **Shaft** — triangular · **proximal canal centred laterally** (start point) · subcutaneous anteromedial crest · tubercle \~3 cm below joint · **tibia carries 80–85% of load**
 
+**Blood supply (TO)** — **nutrient artery (from posterior tibial) enters posterolaterally** · periosteal branches from **anterior tibial** · fibula carries **up to 16%** of load (TO)
+
+**Deforming forces (TO)** — proximal fragment **flexion + valgus** · distal fragment **varus + extension**
+
 | Compartment | Contents |
 |---|---|
 | Anterior | Tibialis anterior, EDL, EHL · deep peroneal n. |
@@ -143,6 +147,8 @@ Tibial shaft fracture
 **Persistent infection with retained implants** — strongest predictor **open fracture**\
 ✗ Wrong options: smoking · Pseudomonas
 
+**BOA–BAPRAS protocol (TO)** — IV antibiotics **< 3 h** → tetanus → primary debridement → temporary ex-fix → **definitive soft-tissue cover within 72 h**
+
 ### Limb salvage vs amputation (LEAP)
 
 **Most important in salvage vs amputation** — **severity of soft-tissue injury**\
@@ -193,6 +199,10 @@ Tibial shaft fracture
 **Proximal ⅓ deformity** — **valgus + procurvatum (apex anterior)** — **patellar tendon extends proximal fragment**, **pes anserinus → valgus**, hamstrings / gastrocnemius flex distal · **medial start point → valgus** · malunion up to 50%
 
 **Prevent** — **semi-extended / suprapatellar** (↓ procurvatum), **lateral start**, **blocking (Poller) screws in concavity: posterior in proximal fragment + lateral in metaphysis** (+25% stability), unicortical plate, lateral parapatellar
+
+**Nailing problems (TO)** — **malalignment commonest** (varus / valgus) · anterior knee pain · delayed union · **varus = commonest malunion** (TO) · entry: patellar-tendon split (commonest), parapatellar, **suprapatellar** (better alignment, less pain, easier reduction)
+
+**Nonop (TO)** — long leg cast **6–8 wk** for undisplaced; high malunion rate
 
 **Distal ⅓** — **valgus** malalignment with infrapatellar nail vs plate · guidewire **center-center** at physeal scar · nail tip slightly lateral to talar centre · aids: **fibular plating**, clamps, Poller screw, small plate\
 ✗ Wrong options: **syndesmotic fixation**

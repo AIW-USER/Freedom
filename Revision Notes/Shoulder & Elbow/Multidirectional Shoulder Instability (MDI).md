@@ -14,6 +14,8 @@
 
 **Generalised laxity** — in **45–75%** of MDI patients undergoing surgery
 
+**Prevalence (TO)** — **7–10%** of instability cases · young hyperlax / connective tissue disorders (**Marfan, Ehlers-Danlos**) · essential lesion = **↑ capsular redundancy** (TO)
+
 ### Torn loose / worn loose / born loose (TO)
 
 | Type (TO) | Mechanism | Example |
@@ -32,12 +34,28 @@
 | **S**urgery mainstay | **R**ehabilitation first |
 | — | **I**nferior capsular shift for nonresponders |
 
+| Stanmore (polar) type (TO) | Aetiology | Key feature |
+|---|---|---|
+| **I** | **Traumatic structural** (e.g. Bankart) | Structural damage → **repair** |
+| **II** | **Atraumatic structural** (ligamentous laxity) | **Rehab first**; capsular shift if persistent |
+| **III** | **Neurological / muscle patterning** | Seen with brachial plexus injuries |
+
+**Stanmore vs TUBS/AMBRI (TO)** — physiotherapists use **Stanmore**; surgeons prefer **TUBS/AMBRI**
+
 ### Pathoanatomy
 
 **Cause (TO)** — **inferior capsular redundancy**\
 ✗ Wrong options: Bankart · Hill-Sachs · cuff tear
 
 **Hallmarks** — **patulous inferior capsule** (IGHL anterior + posterior bands) on MRI · **rotator interval deficiency**
+
+| Component (TO) | Change in MDI |
+|---|---|
+| Capsule | **Redundant, patulous** |
+| Rotator interval | **Lax (gap >1 cm)** |
+| Labrum | **Shallow / dysplastic** |
+| Dynamic stabilisers | Weak cuff, poor coordination |
+| Proprioception | **Reduced** |
 
 **Add-on lesions (TO)** — from traumatic events: **Bankart** (anteroinferior labrum) · **Kim lesion** (posteroinferior labral avulsion) · glenoid erosion · Hill-Sachs, chondral, SLAP — **less often** than in unidirectional; rarely change treatment
 
@@ -57,6 +75,8 @@
 **Symptoms** — **pain > instability** often · weakness · **paraesthesia / transient numbness** · crepitus · instability **during sleep** · atraumatic, self-reduced dislocations, never needed ED
 
 **Impingement signs <20 y** — think **MDI** (TO)
+
+**Presentation (TO)** — vague pain, fatigue, clicking, **"loose shoulder"** rather than frank dislocation · athletes: ↓ performance · numbness/tingling from **traction**
 
 **Voluntary dislocator** — "popping shoulders in and out" → **PT**; **contraindication to surgery**
 
@@ -82,6 +102,14 @@
 **2+/3+ sulcus + ↑ ER at side (TO)** — **pathologic rotator interval** + patulous inferior capsule
 
 **Sulcus reflects** — **patulous inferior capsule + rotator interval** (TO, Orthobullets) · "incompetent rotator interval" (OB)
+
+**Sulcus disappears in ER (TO)** — **intact rotator interval**
+
+| Inferior laxity test (TO) | Positive |
+|---|---|
+| **ER at side >85°** | Inferior laxity |
+| **Gagey hyperabduction** | **>105°** abduction → **inferior capsule (IGHL) laxity** |
+| **Beighton** | Generalised hyperlaxity |
 
 ### Beighton score (generalised laxity)
 
@@ -149,6 +177,8 @@ MDI
 
 **Duration** — **3–6 months** (Orthobullets, TO, OB) · **≥6 months** (several OB) · **6–12 months** (one OB) — read the options
 
+**Mandatory trial (TO instability lecture)** — **6-month** PT (scapular stabilisation, cuff, deltoid, proprioception) before surgery · majority improve · **born loose > worn loose**
+
 **✗ Initial distractors** — **immobilisation / sling** (not effective; comfort only) · posterior capsular stretching (= GIRD) · bracing · steroid injections · labral repair · HAGL repair · thermal capsulorrhaphy · open/arthroscopic shift before PT trial
 
 **Outcome** — most patients satisfactory with nonop (pain + recurrence)
@@ -167,6 +197,14 @@ MDI
 **Inferior capsular shift** — capsule shifted **superiorly** → addresses patulous inferior capsule
 
 **Capsular plication** — loose capsule to labrum, **balanced anterior + posterior** → ↓ capsular volume
+
+| Procedure (TO) | Indication | Mechanism |
+|---|---|---|
+| **Inferior capsular shift (Neer & Foster, 1980)** | Excess capsular redundancy | ↓ capsular volume, centres head |
+| **Capsular plication (Snyder)** | Lax capsule, **labrum intact** | Sequential tightening **posterior → anterior → RI closure** |
+| **Rotator interval closure** | **RI gap >1 cm** | Sutured **superior → inferior** |
+
+**Plication order (TO)** — 1 repair labrum if torn → 2 **posteroinferior** plication → 3 anterior plication → 4 **rotator interval closure** → 5 close portals
 
 **Rotator interval closure** — plicate **SGHL to MGHL** (anterosuperior capsule) → **eliminates sulcus sign** / inferior subluxation · greatest effect = **↓ ER with arm at side (0° abduction)** (~10°) \
 ✗ Wrong options: restricts ER in cocking · IR at 90° · flexion/cross-body
@@ -319,3 +357,7 @@ MDI
 
 **"6-y recurrent instability, mid-range apprehension, 3D-CT bone loss?"** → **bony glenoid augmentation**\
 ✗ Wrong options: arthroscopic Bankart · hemiarthroplasty
+
+**"Physiotherapist's classification of instability with polar types I–III?"** → **Stanmore** (TO)
+
+**"Sulcus sign disappears with ER — implies?"** → **intact rotator interval** (TO)

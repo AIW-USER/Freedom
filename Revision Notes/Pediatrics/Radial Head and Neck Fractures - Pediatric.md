@@ -97,6 +97,14 @@ Pediatric radial neck fracture
 **Worse outcome** — **age >10** · intra-articular (50% complications, 25% revision vs 0% extra-articular)\
 ✗ Wrong options: BMI · dominance · sex
 
+**TO points** — \~5% of elbow fractures, **3rd commonest** (after supracondylar, lateral condyle) · head entirely cartilaginous, metaphyseal blood supply · > 30° → eccentric head, cam impingement at radiocapitellar joint · residual **< 45° after reduction may be accepted** to avoid open surgery · other methods: Jeffery, Kaufman, Monson, Orthokids · **PIN crosses \~3 finger-breadths distal to neck**; safe zone posterolateral, **pronation ↑ safety** · open reduction via **anconeus-ECU** interval, results inferior
+
+| Angulation (other TO lecture) | Treatment |
+|---|---|
+| **< 15°** | Posterior slab |
+| **15–30°** | Early orthopaedic referral |
+| **> 30°** | Reduction · preferred fixation **Metaizeau** elastic nail |
+
 ### PIN injury
 
 **PIN** — branch of radial nerve wrapping radial neck · **loss of thumb IP extension (EPL)**, finger extension incl. **small finger (EDM)**, partial wrist extension · supplies posterior compartment (except anconeus) + ECRB · **pins posterolateral with arm in maximal pronation**

@@ -46,6 +46,8 @@
 
 **Lengthening thresholds** — Orthobullets **>4 cm** · OB keep lengthening **<3 cm** · TO **>3.8 cm** peroneal at risk, **>4 cm** complete sciatic palsy
 
+**TO lecture notes** — **sciatic = commonest nerve** (esp. posterior approach) · highest risk: **revision, DDH, lengthening > 2.5–4 cm** · ↑ risk with **cementless** fixation (snug fit, over-lengthening) · exploration **only in revision** (scarred bed)
+
 **Sciatic exploration** — not routine · advisable with distorted anatomy: ER deformity, **protrusio**, short head/neck, **revision**, **DDH** · ✓ **not needed in coxa vara** (TO)
 
 ## 3 Presentation

@@ -16,6 +16,14 @@
 
 **Posterior pilon** — **rotation + axial impaction** (plantarflexed foot) → large posterior malleolus fragment, posteromedial comminution, **double-density sign** → ORIF
 
+**Fibula intact (TO)** — **medial (varus) impaction pattern** more likely (TO)
+
+**Foot position (TO)** — **forced plantarflexion → posterior plafond** · **forced dorsiflexion → anterior plafond** injury (TO)
+
+**Associated (TO)** — talar body / neck, tibial shaft, plateau, calcaneus fractures · rule out spine, head, abdominal injury · open injuries → **Ganga score** for salvage decision (TO)
+
+**Pilon deforming forces (TO)** — talus drives plafond into comminution · distal fragment **ER**, proximal fragment IR · fibula carries **20–25%** of load (TO)
+
 | Fragment (ligament attached) | Position |
 |---|---|
 | **Medial malleolar** | **Deltoid** |
@@ -43,6 +51,8 @@
 | **CT** | **After spanning ex-fix** (ligamentotaxis → better planning) (✗ Wrong options: before frame) · fine cuts ± 3D · **"Mercedes-Benz" sign** on axials |
 | **CT soft-tissue windows** | **Tibialis posterior tendon entrapment** (posteromedial fragment) |
 | MRI | Not used — poor bony detail |
+
+**CT impact (TO)** — **changes the surgical plan in > 60%** · obtain only after spanning + length restored ("**span, scan, plan**") (TO)
 
 ![Mercedes-Benz sign on axial CT](../../Orthobullets/attachments/ob1046-screen-shot-2021-04-28-at-10-00-25-pm.jpg)
 
@@ -99,6 +109,10 @@ Pilon fracture
 
 **Ex-fix** — **2 tibial half-pins + 1 transcalcaneal pin** ('delta' / 'A' frame) · **1st MT pin prevents equinus** · trans-navicular if calcaneal fracture · pins out of zone of injury / incisions
 
+**Options (TO)** — **single-stage ORIF rare** (minimal swelling only) · **staged = most common** (stage 1 fibula fixation for length / ligamentotaxis + spanning ex-fix → stage 2 plafond) · **ex-fix + limited internal fixation** for poor soft tissue / open · **primary arthrodesis for non-reconstructable C3** · **slab** acceptable if fibula intact + alignment acceptable (TO)
+
+**Post-op (TO)** — early ROM · **WB after 8–12 wk** (TO)
+
 ### Operative criteria
 
 | Option | Indication |
@@ -122,6 +136,10 @@ Pilon fracture
 
 **Alignment goals** — **< 5–10° varus / valgus**, **< 5–10° pro- / recurvatum** · skin bridge **> 7 cm**
 
+**Skin bridge** — **> 7 cm** (Orthobullets) · **minimum 5–7 cm** (TO) — read the options · **curvilinear incisions** across ankle, long incisions with thick flaps (TO)
+
+**Fragment-specific fixation (TO)** — identify anterior, medial, posterior, Chaput fragments · **reduce posterior malleolus early → converts C into B pattern** · **low-profile buttress plates (1/3 tubular / recon)** for medial + anterior shear · **avoid bulky anatomical medial plates** · **elevate impacted fragments before compressing** · graft metaphyseal voids · check syndesmosis intra-op (TO)
+
 | Approach | Plane / fact |
 |---|---|
 | **Anterolateral** | **Deep ↔ superficial peroneal nerves** · in line with **4th ray** · valgus-impacted / intact fibula · **whole articular surface visible** · extensors retracted **medially** · **SPN → dorsal foot numbness (commonest nerve problem)** · DPN at risk deep |
@@ -132,6 +150,16 @@ Pilon fracture
 **Fibular fixation** — not essential · **↑ overall complications + hardware removal**; **no difference in reduction, alignment, satisfaction, arthrosis** (OB) · **TO: alignment DOES differ** (EXCEPT: "no difference in alignment" is false) — read the options
 
 **Post-op** — ankle ROM at **2 wk** · NWB **6–12 wk**
+
+**Staging (TO)** — stage 1 **delta-frame spanning ex-fix** (length + alignment, avoid over-reduction) → stage 2 **CT by column** → stage 3 definitive once **wrinkle sign** returns · **fibular fixation helps restore tibial length** (TO)
+
+| Approach (TO) | Fragment |
+|---|---|
+| **Anterolateral** | **Chaput** / anterolateral plafond |
+| **Medial** | Medial malleolar fragment |
+| **Posterolateral** | **Volkmann** fragment |
+
+**Fixation (TO)** — buttress plating · **raft screws** under articular surface · graft central defect
 
 ### Fine-wire fixation vs ORIF
 
@@ -158,6 +186,8 @@ Pilon fracture
 | **PTOA** | **1–2 yr** · non-anatomic reduction · TAA / fusion |
 | **Stiffness** | **Up to 33% at 3 yr** · severity, obesity, ASA ≥ 3 |
 | **Tibialis posterior entrapment** | Posteromedial fragment, **↓ inversion**, gap · **CT soft-tissue windows** |
+
+**Malunion (TO)** — **medial collapse** if impaction not addressed · **missed syndesmotic injury** (TO)
 
 ### Complications — nonunion grafting, tendon entrapment, equinus
 
@@ -210,6 +240,8 @@ Pilon fracture
 
 **"Comminuted closed pilon — next?"** → **spanning ex-fix**
 
+**"Sign that soft tissues are ready for pilon ORIF?"** → **wrinkle sign** (TO)
+
 **"Ex-fix for 3 wk, swelling settled?"** → **ORIF tibia + fibula**
 
 **"Open pilon, medial wound?"** → **I&D + ex-fix**
@@ -261,3 +293,7 @@ Pilon fracture
 **"TA lengthening indication?"** → **DF −10° knee flexed + extended**
 
 **"Brake travel time?"** → **↑ until 6 wk after WB**
+
+**"Pilon with intact fibula — impaction pattern?"** → **medial (varus) impaction** (TO)
+
+**"Effect of early posterior malleolus reduction in pilon?"** → **converts C-type into B-type pattern** (TO)

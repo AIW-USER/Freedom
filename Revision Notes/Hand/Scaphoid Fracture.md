@@ -51,6 +51,10 @@
 
 **All 3 positive in 24 h** — sensitivity 87–100%, specificity 74%
 
+**Secondary indicators (TO)** — radial wrist swelling · pain on **radial deviation** · tubercle tenderness most sensitive if examined **within hours** · **pain out of proportion → suspect occult fracture** · always check for associated **SL injury**
+
+**Stecher's view (TO)** — **20° ulnar deviation, wrist pronated** · MRI = gold standard for occult fracture + AVN (TO) · CT best for fracture line, displacement, sclerosis, union
+
 ![Anatomic snuffbox](../../Orthobullets/attachments/ob6034-snuffbox.jpg)
 
 ## 4 Diagnosis & Classification
@@ -79,6 +83,8 @@
 **High suspicion + negative X-ray + wants to RTP** — **MRI**
 
 ![Scaphoid view (20° ulnar deviation)](../../Orthobullets/attachments/ob6034-scaphoidview.jpg)
+
+**Herbert subtypes (TO)** — A1 tubercle · A2 incomplete · **B1 distal oblique** · **B2 waist** · **B3 proximal pole** · **B4 trans-scaphoid perilunate** · **B5 comminuted** · C delayed union · D nonunion
 
 **Herbert & Fisher (stability)**
 
@@ -110,6 +116,16 @@ Scaphoid fracture
 ```
 
 **Nonop union** — **<1 mm displacement → 90%** (88–95% if started <3 wk); ↑ nonunion if immobilisation delayed **>4 wk**
+
+| Cast duration by site (TO) | Weeks |
+|---|---|
+| Distal pole | **6–8 wk** |
+| Waist | **10–12 wk** |
+| **Proximal pole** | **4–6 months** |
+
+**Cast type** — short-arm **thumb spica** (TO) · wrist alone sufficient (OB) — read the options
+
+**Operative indications (TO)** — displacement **> 1 mm** · humpback · comminution · proximal pole · SNAC · high demand · **retrograde screw preferred** in most
 
 **Cast** — **wrist alone sufficient** (thumb & elbow add nothing but stiffness — OB); long vs short arm: no consensus; ≥8 wk, up to 12–14 wk; RTP only when healed
 

@@ -46,6 +46,8 @@
 
 **Exclude** — femoral neck **stress fracture** · **infection** · **malignancy** · **AVN**
 
+**Subchondral insufficiency fracture (TO)** — middle-aged woman, sudden pain · widespread head + neck oedema **plus thin curvilinear subchondral T1 line** · no serpiginous AVN line · **protected WB + calcium** → settles
+
 ### ITOH vs avascular necrosis
 
 | | **ITOH** | **AVN** |

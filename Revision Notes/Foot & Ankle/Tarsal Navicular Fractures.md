@@ -30,6 +30,20 @@
 | **Stress** | **Chronic overuse** · hard surfaces |
 | **Mueller-Weiss** | Spontaneous adult **navicular AVN** |
 
+### Midfoot (Chopart) fracture-dislocations – mechanism (TO)
+
+| Force (TO) | Mechanism | Injury |
+|---|---|---|
+| **Longitudinal (axial)** | Axial load on **plantarflexed forefoot** / MT heads | High energy · often with **Lisfranc** |
+| **Medial stress** | **Inversion of plantarflexed foot** | **Navicular nutcracker** fracture · TN dislocation · **CC disruption** |
+| **Lateral stress** | **Forceful abduction** | **Entire forefoot shifts laterally** · tibialis posterior avulsion possible |
+| **Plantar stress** | **Direct plantar blow** | **TN + CC disruption** |
+| **Crush** | High energy | Severe soft tissue · **compartment syndrome** risk |
+
+**Chopart mobility (TO)** — **TN = mobile** · **CC = rigid** · with subtalar joint → hindfoot inversion / eversion (TO)
+
+**Column length (TO)** — loss of column length → **planovalgus or cavovarus** deformity (TO)
+
 ## 3 Presentation
 
 **Symptoms** — **vague midfoot pain** + swelling · **insidious** in stress fracture → high index of suspicion
@@ -82,6 +96,12 @@ Traumatic navicular fracture
 ├─ Displaced / intra-articular type I–II → ORIF (medial approach), lag screws
 └─ Type III or AVN → ORIF + ex-fix vs primary fusion
 ```
+
+**Chopart fracture-dislocation principles (TO)** — **CT mandatory** (column shortening, comminution, TN / CC involvement) · reduce TN + CC · **restore column length** · **temporary spanning ex-fix** if severe swelling · ORIF if displaced · **fusion** if severely comminuted or delayed · **never force reduction** in severe swelling (TO)
+
+**Missed midfoot dislocation (TO)** — chronic pain · **rigid deformity** · loss of plantigrade foot · collapse needing **arthrodesis** (TO)
+
+**Isolated tarsal dislocations (TO)** — calcaneus, navicular, cuboid, cuneiform: **rare** · **urgent reduction** + immobilisation (TO)
 
 ### Operative criteria
 
@@ -225,3 +245,5 @@ Traumatic navicular fracture
 **"Mueller-Weiss — all true EXCEPT?"** → **pseudo hindfoot varus** (TO)
 
 **"Paradoxical pes planovarus = ?"** → **pseudo hindfoot valgus + pes planus** (TO)
+
+**"Inversion of plantarflexed foot — midfoot injury?"** → **medial stress: navicular nutcracker + CC disruption** (TO)

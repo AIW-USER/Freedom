@@ -53,7 +53,7 @@
 
 ![Lytic epiphyseal lesion with sclerotic rim — proximal tibia](../../Orthobullets/attachments/ob8021-tibia-classic-lesion.jpg)
 
-**Calcification** — stippled matrix calcification, often **only on CT (25–45%)**
+**Calcification** — stippled matrix calcification, often **only on CT (25–45%)** · chondroid matrix in **\~50%** (TO)
 
 **MRI** — **extensive bone-marrow + soft-tissue oedema around the lesion** — distinguishing feature **(TO)** · T1 intermediate · T2 heterogeneous · fluid levels = secondary ABC · oedema within treated lesion → recurrence
 

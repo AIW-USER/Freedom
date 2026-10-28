@@ -17,6 +17,20 @@
 
 **Paronychia (TO)** — infection of nail fold (eponychium); ***S. aureus***; poor nail hygiene; risk: DM, steroids, chemo, immunocompromise, manual labourers, farmers
 
+| Perionychium term (TO) | Meaning |
+|---|---|
+| **Perionychium** | All tissue surrounding the nail |
+| **Nail bed** | **Germinal matrix** (most nail growth; **lunula** = visible part) + **sterile matrix** (smooth gliding surface) |
+| **Hyponychium** | Keratinised tissue distal to nail bed → **barrier to infection** |
+| **Paronychium** | Skin fold each side of nail |
+| **Eponychium** | Thin fold sealing proximal nail fold over plate |
+
+**Eponychia (TO)** — infection of one nail fold + eponychium · **runaround infection** = pus from one fold to the other via eponychium
+
+**Paronychia work-up (TO)** — **screen for diabetes** · X-ray for osteomyelitis
+
+**Early paronychia, no pus point (TO)** — **1st-generation cephalosporin** + warm **povidone-iodine soaks (1:10 in warm saline, 10–15 min twice daily)** · surgery: "follow the infection" (1–2 incisions, nail plate removal, volar exposure if spread)
+
 | Paronychia stage (TO) | Treatment |
 |---|---|
 | No pus point | **Antibiotics** |
@@ -29,7 +43,11 @@
 
 **Pulp** — closed sac; **fibrous vertical septae** periosteum → epidermis (stabilise pinch/grasp); eccrine sweat glands
 
-**Blood supply** — digital arteries give **nutrient branch to epiphysis before entering pulp** → epiphysis spared
+**Apical infection (TO)** — infection limited to **skin of pulp tip** (vs felon = pulp abscess)
+
+**Pulp = "second eye" (TO)** — rich sensory supply; septa give firm non-slip grip
+
+**Blood supply** — digital arteries give **nutrient branch to epiphysis before entering pulp** → epiphysis spared → **children rarely get epiphyseal necrosis** (TO)
 
 **Pathophysiology** — ↑ pressure in micro-compartments → **pulp "compartment syndrome"** → diaphysis ischaemia > skin → **diaphyseal necrosis/sequestration** before spontaneous skin decompression
 
@@ -64,6 +82,8 @@
 **Herpetic whitlow (TO)** — **HSV-1**; distinction from felon mainly by **history**; **24–72 h burning prodrome** → erythema → **clear vesicles** coalescing around nail folds; turbid not purulent; **pulp NOT tense**; persists ~2 wk, resolves over next 1 wk
 
 ## 5 Management
+
+**Early felon (TO)** — oral antibiotics + warm povidone-iodine soaks + immobilisation · **pus point → surgery**
 
 ```
 Felon
@@ -123,3 +143,7 @@ Felon
 **"Felon in diabetic nail-biter"** → ***Eikenella***
 
 **"Mid-lateral incision side, index finger"** → **ulnar**
+
+**"Pus tracking from one nail fold to the other via eponychium?"** → **runaround infection** (TO)
+
+**"Children with felon rarely get epiphyseal necrosis — why?"** → **epiphyseal artery arises proximal to the closed pulp space** (TO)

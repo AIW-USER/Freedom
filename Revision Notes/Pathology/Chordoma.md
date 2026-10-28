@@ -8,7 +8,11 @@
 
 **Rank** — **commonest primary malignant spinal tumour in adults** · commonest primary malignant tumour of the **sacrum** **(TO)** · 1–4% of primary bone tumours
 
-**Demographics** — **M:F 3:1** · **>50 yr** (5th–6th decade) · middle-aged Caucasian men
+**Demographics** — **M:F 3:1** · **>50 yr** (5th–6th decade) · middle-aged Caucasian men · TO: **40–60 yr**
+
+**Spinal rank** — commonest primary malignant spinal tumour in adults (Orthobullets) · **2nd commonest primary spinal malignancy** (TO) — read the options
+
+**Midline vs ala (TO)** — chordoma arises from the **midline** · **sacral GCT** arises from the **ala** (eccentric)
 
 **Site** — **sacrum + coccyx 50%** (S2–S3 predilection) · **spheno-occipital (skull base) 35%** · **mobile spine 15%**
 
@@ -91,7 +95,9 @@
 
 **CyberKnife** — extracranial → **sacral chordoma** ✓ · **Gamma knife** — intracranial only **(TO)**
 
-**Proton–photon beam** — may help recurrence
+**Proton–photon beam** — may help recurrence · **proton therapy** when unresectable or surgery → **severe morbidity** (TO)
+
+**Metastatic chordoma** — **imatinib** (palliative) (TO)
 
 ### Sacral nerve root sparing & function
 

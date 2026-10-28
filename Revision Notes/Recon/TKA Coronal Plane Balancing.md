@@ -85,6 +85,10 @@
 
 **Severe valgus (≈45°) — IM femoral entry point (TO, FNB 2024)** — options more lateral / medial / superior / standard · answer not provided for this item · another TO explanation (FNB 2023): entry point in a valgus knee is usually ✓ **more medial** than standard (TO)
 
+**Valgus — TO lecture notes** — distal femoral cut **3° valgus (not 6°)** in a valgus knee · **valgus > 20° → constrained prosthesis** (TO)
+
+**Varus release (TO notes)** — capsule off tibia → strip **sMCL** → **pes anserinus** → periosteum **4–5 cm** distally
+
 ### Femoral component rotation
 
 **Posterior condylar axis** — normally **3° IR** relative to TEA / tibial joint line → cutting block has **3° ER** built in

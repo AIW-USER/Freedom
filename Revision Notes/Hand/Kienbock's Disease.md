@@ -42,13 +42,17 @@
 
 **Vascular (TO)** — **fewer penetrating arteries** (esp. volar from palmar radiocarpal arch) → ↑ risk; sparse intraosseous collaterals
 
-**Venous congestion** — ↑ **intraosseous pressure (>40 mmHg vs capitate)**
+**Venous congestion** — ↑ **intraosseous pressure (>40 mmHg vs capitate)** · **wrist extension raises intraosseous pressure (\~40 mmHg) → avoid extension** (TO)
+
+**Acute lunate fracture (TO)** — **no correlation** with later Kienböck · MRI: transient **focal** oedema vs Kienböck diffuse, progressive
 
 **Medical conditions** — scleroderma, sickle cell, SLE, corticosteroids
 
 **NOT a cause** — **increased carpal height** (carpal height ↓ in Kienböck)
 
 **Ulnar variance associations** — **negative** → Kienböck + ulnar impingement · **positive** → TFCC tear, ulnar abutment, SL dissociation, triquetral arthrosis
+
+**Ulnar variance axis (TO)** — measure using the **radial shaft**
 
 **Measuring ulnar variance** — PA, **shoulder 90° abduction, elbow 90°**, neutral rotation; **more positive in pronation**, negative in supination
 
@@ -87,7 +91,11 @@
 | ✗ Wrong option: US, angiography | Not used |
 | ✗ Wrong option: clenched-fist AP | SL interval |
 
-**Stage IIIA → IIIB** — **radioscaphoid angle >60°** (fixed scaphoid flexion)
+**Stage IIIA → IIIB** — **radioscaphoid angle >60°** (fixed scaphoid flexion) · ↓ **carpal height ratio (CH / MC3 height)** = capitate migration → IIIB (TO)
+
+**Earliest X-ray sign (TO)** — ↑ **lunate density (sclerosis)**
+
+**MRI T1 pattern (TO)** — **uniform ↓ = Kienböck** · **focal ↓ → think ulnar impaction, intraosseous ganglion, enchondroma** · MRI = most sensitive (TO)
 
 ![Kienböck MRI](../../Orthobullets/attachments/ob6050-keinbocksmri-figure3.jpg)
 
@@ -101,6 +109,8 @@
 | **IIIB** | Collapse + **fixed scaphoid flexion**, ↓ carpal height | **PRC, STT fusion or SC fusion** | ![IIIB](../../Orthobullets/attachments/ob6050-stage-3b.jpg) |
 | IIIC (TO) | Collapse + **coronal fracture** | — | — |
 | **IV** | **Adjacent intercarpal OA** | **Wrist fusion, PRC, limited intercarpal fusion** (± TWA) | ![IV](../../Orthobullets/attachments/ob6050-stage-4.jpg) |
+
+**History (TO)** — first classification by **Stahl**, modified by Lichtman
 
 **Lichtman** — X-ray + MRI based; low interobserver variability (TO)
 
@@ -137,6 +147,8 @@ Practical approach (TO)
 └─ Wrist affected (C) → SC fusion · PRC · RSL fusion · advanced OA → wrist fusion
 ```
 
+**Conservative care (TO)** — **no role after diagnosis** (TO) · stage I immobilisation + NSAIDs (Orthobullets) — read the options
+
 **Treatment categories (TO)** — core decompression · joint levelling / unloading · revascularisation (distal radius / pronator quadratus VBG) · salvage (carpectomy, partial fusion)
 
 ### Early stages – radial shortening, core decompression & vascularised bone graft
@@ -145,6 +157,14 @@ Practical approach (TO)
 ✗ Wrong options: STT fusion · PRC · VBG + radial wedge
 
 **Radial shortening osteotomy** — **treatment of choice** stage II ulnar minus; **extra-articular**; more evidence than ulnar lengthening
+
+**Radial shortening amount (TO)** — **2–3 mm only** · **first 2 mm → 90% load reduction**; 3 mm no extra benefit · oblique cut → 2 mm wafer, transverse → 3 mm · **diaphyseal** osteotomy compresses better than metaphyseal
+
+**Ulnar lengthening (TO)** — distal ⅓ ulna · complications **ulnocarpal impingement, nonunion**
+
+**Ulnar-positive variance, stage I–IIIA (TO)** — radial **and** ulnar shortening **contraindicated** → **capitate shortening + capitohamate fusion** · do not release 4th extensor compartment · excise hamate tip
+
+**Radial closing wedge osteotomy (TO)** — for abnormal radial inclination · shifts load **radiolunate → radioscaphoid** · osteotomy **proximal to DRUJ**
 
 **Failed immobilisation stage II** — → **radial shortening**\
 ✗ Wrong options: continue cast · PRC · STT · fusion
@@ -165,6 +185,8 @@ Practical approach (TO)
 
 **VBG options** — pisiform · distal radius on **pronator quadratus** pedicle · dorsal metacarpal artery branches · **4+5 ECA**
 
+**VBG pedicles (TO)** — **1,2-ICSRA short pedicle** · 2,3-ICSRA good arc · **4,5 = best** (large calibre, arc) · sources: 2nd / 3rd MC base, dorsal distal radius
+
 **4+5 ECA advantage** — **largest arc of rotation** · large diameter · **ulnar location** (✗ Wrong options: radial) · **dorsal** approach (✗ Wrong options: volar) · antegrade flow not unique
 
 **After VBG** — **2–3 mo immobilisation / unloading** (STT/SC pinning or ex-fix) required
@@ -180,7 +202,7 @@ Practical approach (TO)
 | Capitohamate fusion | 0% |
 | **Ulnar lengthening 4 mm** | **45%** |
 | **Radial shortening 4 mm** | **45%** |
-| Capitate shortening + CH fusion | **66%** (but ↑ radioscaphoid 26%) |
+| Capitate shortening + CH fusion | **66%** (but ↑ radioscaphoid 26%) · **60%** (TO) — read the options |
 
 ### Advanced disease – STT fusion/pinning
 
@@ -188,6 +210,10 @@ Practical approach (TO)
 ✗ Wrong options: radial club hand, scaphoid fracture, hypoplastic thumb, gymnast's wrist
 
 **IIIB** — PRC (also lunate excision + STT/SC fusion); STT superior to PRC in some studies
+
+**Salvage IIIB (TO)** — **SC fusion better than STT fusion** (preferred) · PRC · lunate arthroplasty: **pyrocarbon preferred over silastic** · wrist fusion for advanced collapse
+
+**Stage IV (TO)** — interposition arthroplasty or wrist fusion
 
 **IV** — wrist fusion (remove arthritic joint) ; TWA long-term data lacking
 
@@ -264,6 +290,12 @@ Practical approach (TO)
 ✗ Wrong options: ulnar shortening
 
 **"4+5 ECA main advantage"** → **large arc of rotation**
+
+**"Radial shortening for Kienböck — how much?"** → **2–3 mm (first 2 mm gives 90% unloading)** (TO)
+
+**"Ulnar-positive Kienböck stage II — procedure?"** → **capitate shortening + capitohamate fusion** (TO)
+
+**"Focal T1 low signal in lunate — think?"** → **ulnar impaction / intraosseous ganglion / enchondroma** (TO)
 
 **"Temporary STT pinning indicated for"** → **adolescent Kienböck**
 

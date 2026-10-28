@@ -71,6 +71,12 @@
 
 ![Klein line](../../Orthobullets/attachments/ob4040-kleins-line-moved.jpg)
 
+**"Metaphysis moves, not the epiphysis" (TO)** — metaphysis displaces **anterosuperiorly**, epiphysis stays in acetabulum · weak **hypertrophic zone** + thinned **perichondrial ring** · shear ↑ by obesity, vertical physis, **femoral retroversion**
+
+**Signs (TO)** — Klein line = **Trethowan sign** · **blanch sign of Steel** (chronic) · widened irregular physis · broken Shenton · risk: **prior radiotherapy** · **< 10 yr or thin → endocrine work-up**
+
+**Loder AVN (TO)** — stable **< 10%** · unstable **up to 40%** · stability predicts AVN better than slip angle
+
 ### Loder classification (stability)
 
 | Type | Definition | AVN |
@@ -170,6 +176,7 @@ SCFE
 |---|---|
 | Mild–moderate (<30°) cam FAI | **Osteochondroplasty** (arthroscopy, limited anterior arthrotomy, surgical dislocation) |
 | Severe (>30–45°), painful, no OA/AVN | **Imhauser intertrochanteric osteotomy** — **flexion + internal rotation + valgus** (most used; AVN 2–7%) |
+| Base-of-neck (TO) | **Kramer** closing wedge (lesser → greater trochanter, posterior cortex intact) — away from physis, ↓ AVN · subcapital: **Fish**, Dunn, modified Dunn · intertrochanteric "good indication" for chronic SCFE **25–50°** (TO) |
 | | Southwick subtrochanteric osteotomy |
 | Greatest correction | **Femoral neck (subcapital) cuneiform osteotomy** — AVN 37%, OA 37% · sole indication **Southwick >60°** (TO) |
 

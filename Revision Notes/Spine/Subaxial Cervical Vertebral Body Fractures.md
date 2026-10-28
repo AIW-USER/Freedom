@@ -55,9 +55,37 @@
 | Neurology (incomplete cord 3 + continuous compression 1) | 4 |
 | **Total** | **10 → surgery** |
 
+| SLIC (Vaccaro 2007) (TO) | Finding | Points |
+|---|---|---|
+| **Morphology** | None | 0 |
+| | Compression (endplate, teardrop, sagittal/coronal) | 1 |
+| | **Burst** (retropulsed posterior wall) | 2 |
+| | **Distraction** (facet perch, hyperextension) | 3 |
+| | **Translation / rotation** (facet dislocation, **> 3.5 mm or > 11°**) | 4 |
+| **DLC** | Intact | 0 |
+| | **Indeterminate** (T2 signal, no widening) | 1 |
+| | **Disrupted** (disc space widening, **facet gap > 2 mm**, interspinous widening) | 2 |
+| **Neurology** | Intact | 0 |
+| | Root | 1 |
+| | **Complete (ASIA A)** | 2 |
+| | **Incomplete (ASIA B–D)** | **3** |
+| | **Continuous cord compression + deficit** | **+1** |
+
+**SLIC decision (TO)** — **< 4 non-op** · **= 4 surgeon's discretion** · **> 4 surgery** · **neurology = strongest determinant**
+
+**SLIC — incomplete scores more than complete** (3 vs 2) (TO)
+
+**TO case logic** — translation + DLC disrupted, intact (6) → surgery · central cord, no fracture (4) → equivocal / posterior decompression · burst + indeterminate DLC + root (4) → **corpectomy + anterior plate** · facets intact → anterior only; **facets broken → add posterior**
+
+**Allen-Ferguson / Harris (TO)** — mechanism-based, **no neurology, poor reproducibility** → replaced by SLIC
+
 ### Key radiology findings
 
 **MRI** — **PLC status** · TO: before reduction of fracture-dislocation · MRI within **48 h** most sensitive for oedema/haemorrhage · obtain if CT shows prevertebral soft tissue **> 5 mm at C3**, disc-space widening > 1–2 mm, interspinous widening
+
+**AO Spine cervical (TO)** — **A** compression (stable) · **B** tension band (unstable) · **C** translation (highly unstable)
+
+**Levels (TO)** — **C5-6 most mobile → commonest injury** · hyperextension C4-5 · axial load C6-7 · flexion-rotation C5-6
 
 ## 5 Management
 

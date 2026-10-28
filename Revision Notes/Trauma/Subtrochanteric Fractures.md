@@ -62,6 +62,10 @@
 | **I** | **No extension into piriformis fossa** (historically → IM nail) | ![Russell-Taylor](../../Orthobullets/attachments/ob1039-shows-the-russel-taylor-classification.jpg) |
 | **II** | **Extends into greater trochanter + piriformis fossa** (see on **lateral X-ray**) — historically fixed-angle plate; now nailable | ![Type II](../../Orthobullets/attachments/ob1039-russel-taylor-type-ii.jpg) |
 
+**Seinsheimer (TO)** — types **1–5** by number + pattern of fragments
+
+**Subtrochanteric (TO)** — **strongest deforming forces** of proximal femur · reduce **before** nail entry; tools: blunt Steinmann pin, bent guide wire, reamer as lever, temporary K-wires · **never accept varus**, IR or retroversion
+
 ### AO/OTA (32, subtrochanteric = .1)
 
 | Code | Pattern |

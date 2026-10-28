@@ -12,6 +12,8 @@
 
 **Commonest cause** — **transient neuritis (Parsonage-Turner)**; non-traumatic AIN palsy usually = **neuritis** (viral, autoimmune)
 
+**Parsonage-Turner (TO)** — **leading differential of AIN syndrome; not a compression neuropathy** · triggers: viral illness, **vaccination**, pregnancy, trauma, surgery, stress · **pain first → weakness as pain settles** · whole plexus, part (C5–C6) or AIN only · **high-dose steroids if diagnosed within 72 h** · full recovery not assured
+
 **Parsonage-Turner** — viral **brachial neuritis** → **bilateral AIN signs** (TO); preceded by **intense shoulder pain + viral prodrome**
 
 **Compression sites** — **deep head of pronator teres** (most common anatomical, TO) · **FDS arch** (TO) · **edge of lacertus fibrosus** (TO) · **Gantzer's muscle** = accessory head FPL (TO) · thrombosed radial/ulnar/AI artery · accessory FDS→FDP muscle · FCRB, palmaris profundus
@@ -62,6 +64,8 @@
 **Hallmark** — **motor deficit without sensory loss** (TO); **normal median sensory exam**
 
 **OK sign** — **cannot make OK sign** = Kiloh-Nevin sign (TO) → weak **thumb IP flexion (FPL)** + **index DIP flexion (FDP)**
+
+**Function (TO)** — loss of **fine motor skills (writing, pinching)** · PQ hard to test (PT still pronates) · **history of shoulder pain first → Parsonage-Turner**
 
 **Pain** — vague deep forearm pain, often **absent**; if present lasts **2–3 wk**
 

@@ -51,6 +51,14 @@
 
 **Lateral X-ray lines** — anterior vertebral line · posterior vertebral body line · spinolaminar line
 
+**Four lines (TO)** — anterior vertebral · posterior vertebral · **spinolaminar** · **posterior spinous process line** · any break = subluxation/dislocation · never accept a film without **C7–T1** → swimmer's view / CT
+
+**ABCS (TO)** — alignment · bones · cartilage/discs · soft tissue
+
+**CT read (TO)** — right parasagittal → midsagittal → left parasagittal → **don't miss unifacetal dislocation**
+
+**Open-mouth view (TO)** — overlapping occiput/teeth mimic dens-base fracture → trace the line beyond bone (continues = artefact) · asymmetric C1–C2 gaps or lateral-mass overhang → CT · **clay-shoveler** = isolated spinous process fracture (posterior column, stable) · basion–dens normally \~10–12 mm · columns: 1 stable, 2 evaluate, 3 unstable
+
 ![Lateral C-spine alignment lines](../../MCQ/attachments/q4500-illa-cervical-lines.jpg)
 
 | Prevertebral / retropharyngeal soft tissue (TO) | Upper limit |
@@ -59,6 +67,8 @@
 | C3 | 7 mm |
 | **C6 (cricoid)** | **18–22 mm** (retropharyngeal **< 22 mm**) |
 | Child at C6 | 14 mm |
+
+**C6–C7 limit** — **≤ 20 mm** (TO, Vishnu) · < 22 mm at C6 (TO, ABCS) — read the options
 
 **Obtunded / intubated after 3 days, X-rays negative, occipital skin erythema** — **definitive clearance with CT ± MRI**\
 ✗ Wrong options: keep collar until surgeries done · halo · wait to examine
@@ -130,3 +140,5 @@
 **"Normal retropharyngeal space at cricoid?"** → **< 22 mm** (TO)
 
 **"Swimmer's view shows?"** → **cervicothoracic junction** (TO)
+
+**"Prevertebral soft tissue limits?"** → **C2 ≤ 7 mm, C6–7 ≤ 20–22 mm** (TO)

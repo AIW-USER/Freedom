@@ -31,6 +31,8 @@
 **Constant (superomedial / sustentacular) fragment** — **sustentaculum tali**; stays attached to talus by **interosseous + medial talocalcaneal ligaments** (+ deltoid); lateral fragments + tuberosity are reduced **to it**\
 ✗ Wrong options: held by Achilles · by navicular · displaces superolateral
 
+**Sustentaculum intact (TO)** — in **\~60–70%** → reconstruction begins from it · **if fractured → medial approach** required (TO)
+
 **FHL** — wraps **inferiorly around sustentaculum** in a groove · **medial to posterior facet, inferior to middle facet**; origin **inferior ⅔ posterior fibula + interosseous membrane**
 
 | FHL problem | Cause | Sign |
@@ -57,6 +59,8 @@
 
 **Primary fracture line** — **oblique shear** → **superomedial (constant) + superolateral (posterior facet)** fragments · secondary line decides **tongue vs joint depression**
 
+**Primary line cause (TO)** — **always lateral**, from **lateral process of talus** driven into calcaneus → medial sustentacular + anterolateral fragments (TO)
+
 **Tuberosity (avulsion)** — osteoporosis + violent **triceps surae** contraction with forced dorsiflexion / knee extended · tight gastroc · neuropathy
 
 **Anterior process** — **inversion + plantarflexion** → **bifurcate ligament avulsion**
@@ -72,6 +76,10 @@
 **Fracture blisters** — must epithelialise before surgery · **wrinkle sign (Langer lines)** = skin ready
 
 **Check** — compartments, nerves, pulses (severe PVD may preclude surgery), Achilles continuity, plantarflexion strength
+
+**Plantar ecchymosis (TO)** — think **midfoot injury** · **full foot views** to exclude missed **Lisfranc** · **spine + pelvis films** (associated injuries **10–21%**) (TO)
+
+**Foot compartments (TO)** — **4: medial, lateral, superficial central, deep central** (TO — verify: usual teaching 9 compartments) — read the options
 
 ![Posterior heel skin compromise over a displaced tuberosity fragment](../../Orthobullets/attachments/ob1051-clinical-photograph-with-large-hematoma-and-posterior-skin-c.jpg)
 
@@ -100,6 +108,10 @@
 **Gissane** — line along lateral posterior facet **vs** line anterior to calcaneal beak
 
 ![Böhler angle and crucial angle of Gissane](../../Orthobullets/attachments/ob1051-shows-bohler-and-gissane.jpg)
+
+**Böhler normal** — **20–40°** (Orthobullets) · **25–40°** (TO) — read the options
+
+**CT slices** — **2–3 mm** (Orthobullets) · **≤ 2 mm** (TO), **30° semicoronal** — otherwise Sanders classification unreliable (TO)
 
 ### Essex-Lopresti classification
 
@@ -169,6 +181,14 @@ Calcaneus fracture
 **Goals (TO)** — **posterior facet congruity** · restore **height, width, length, Böhler angle** · **correct hindfoot varus** (TO)\
 ✗ Wrong options: correct **talar declination** (that's talar neck)
 
+**Nonop indications (TO)** — extra-articular undisplaced · Sanders I · **severe PVD** · **uncontrolled diabetes** · elderly minimally ambulatory · **extensive open wounds** · **life-threatening polytrauma** (TO)
+
+**Nonop protocol (TO)** — BK slab → cast / boot after swelling · **ROM at 4 wk** · **NWB 6–12 wk** (TO) · NWB cast 10–12 wk (Orthobullets) — read the options
+
+**Operative share (TO)** — **70–80%** of calcaneal fractures need surgery (TO)
+
+**Talar inclination** — "correct talar declination" = **not** an aim (TO question) · **restore talar inclination; horizontal talus post-op = inadequate reduction** (TO lecture) — read the options
+
 ### Tongue-type / tuberosity fracture – urgent fixation
 
 **Why urgent** — Achilles pulls fragment **proximal + posterior** → **posterior skin necrosis** (> 20%)\
@@ -193,6 +213,18 @@ Calcaneus fracture
 | **Primary subtalar arthrodesis** | **Sanders IV**; restore height + fuse; avoids second surgery |
 
 **Post-op (sinus tarsi)** — NWB 6–8 wk; ankle ROM from 2 wk
+
+**Sinus tarsi timing (TO)** — can be done **day 1** · after **7–10 days** fragments become sticky → reduction difficult · best for **Sanders II + III** (TO)
+
+**Medial approach (TO)** — **sustentacular involvement** · combined medial + lateral for complex fractures (TO)
+
+**Reduction sequence (TO)** — posterior facet → medial sustentacular alignment → varus / valgus → height → tuberosity → CC joint (TO)
+
+**Lateral wall osteotomy (TO)** — remove lateral wall → elevate depressed facet from **neutral triangle** → fix (TO)
+
+**Extensile flap handling (TO)** — thick full-thickness flap · **no toothed forceps** · minimal retractors · **Allgöwer-Donati** closure (TO)
+
+**Primary subtalar fusion (TO)** — Sanders IV not reconstructable · **chronic malunion with arthritis** · **poor bone stock** (TO)
 
 ### Operative vs nonoperative – prognostic factors
 
@@ -287,6 +319,10 @@ Calcaneus fracture
 ### Malunion sequelae & subtalar distraction bone-block arthrodesis
 
 **Malunion triad** — **↓ height (talus dorsiflexed, talar declination < 20°)**, **↑ width (lateral wall exostosis)**, **varus**
+
+**Malunion pain sources (TO)** — subfibular impingement · lateral wall blowout · loss of height → **horizontal talus** · heel varus · **facet incongruity = least common source of pain** (TO)
+
+**Fast union (TO)** — calcaneus unites quickly → **after 3 wk treat as malunited** (TO)
 
 | Sequel | Cause |
 |---|---|
@@ -474,3 +510,7 @@ Calcaneus fracture
 **"Expected MRI in calcaneal stress fracture?"** → **marrow oedema + T1 linear fracture line**
 
 **"Lateral foot pain, anterior process avulsion?"** → **bifurcate ligament (inversion + plantarflexion)**
+
+**"Primary fracture line produced by?"** → **lateral process of talus (always lateral)** (TO)
+
+**"Sinus tarsi approach — latest practical timing?"** → **within 7–10 days** (fragments become sticky) (TO)

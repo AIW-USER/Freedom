@@ -39,6 +39,8 @@
 | **Simple** | **Observation** (cosmetic) · surgery risks contracture, painful scar · no toe spacers |
 | **Complex** | Digit release |
 
+**Release (TO)** — **staged** release to prevent skin necrosis · **osteotomy** for complex syndactyly · often syndromic
+
 ## How it's asked
 
 **"Microcephaly, cleft palate, ASD + 2–3 toe syndactyly?"** → **Smith-Lemli-Opitz syndrome**\

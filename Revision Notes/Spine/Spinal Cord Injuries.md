@@ -36,6 +36,14 @@
 
 **Spinal shock ruled out** — BCR present **or** 48 h elapsed
 
+**Neurogenic shock (TO)** — injury **above T5** (Orthobullets T6) · also spinal anaesthesia · **hypotension with bradycardia** · **vasopressors (noradrenaline, dopamine, ephedrine), not fluid loading** · recovers 3 days–1 week
+
+**Spinal shock (TO)** — seen in \~**50%** · ends **24–48 h** with BCR/anal wink return · reassess e.g. every 6 h · deficit persisting after it ends = **complete, poor prognosis**
+
+**Sacral sparing (TO)** — **perianal sensation (S3)**, **voluntary anal contraction (S2)**, **great toe flexion (S1)** → incomplete
+
+**Respiratory (TO)** — C3–5 → phrenic → diaphragm paralysis (**paradoxical breathing**) · thoracic fractures: haemo/pneumothorax, diaphragm rupture
+
 ### Spinal shock phases
 
 | Phase | Orthobullets | TO (Ditunno) |
@@ -96,6 +104,10 @@
 
 **Airway** — injury **above C5** → likely intubation
 
+**Airway (TO)** — **jaw thrust, not head tilt** · **never hyperextend** during intubation (cord buckling in myelopathy) · cervical protection mandatory in polytrauma / unconscious
+
+**Cord perfusion (TO)** — **MAP > 85 mmHg**
+
 **Exam** — remove collar, inspect face/scalp, rotational head posture (unilateral facet dislocation), **posterior midline tenderness** (absent in alert patient → low probability of injury), log roll, neuro exam · **seat-belt sign → flexion-distraction**
 
 **Prevention** — DVT prophylaxis (LMWH, rotating bed, pneumatic compression) · avoid hypotension · pulmonary toilet · skin
@@ -114,6 +126,14 @@
 **Historical NASCIS III** — non-penetrating SCI **within 8 h** · **30 mg/kg bolus** + **5.4 mg/kg/h** for **23 h (< 3 h)** or **47 h (3–8 h)** · CI: **GSW, pregnancy, < 13 yrs, > 8 h**, peripheral nerve injury
 
 **Presenting at 10 h** — **don't start methylprednisolone**
+
+| NASCIS (TO) | Finding |
+|---|---|
+| **I (1984)** | High vs low dose — **no difference** |
+| **II (1990)** | Benefit **< 3 h** — **post-hoc only**, minor sensory gain |
+| **III (1997)** | No definite benefit, ↑ complications |
+
+**Current (TO)** — **not standard of care** · **optional within 8 h** in young, non-diabetic, after informed consent (Fehlings) · risks: infection, **steroid myopathy**, pneumonia · experimental: **riluzole**, erythropoietin, nimodipine, minocycline, GM-1
 
 **GM-1** — controversial; no long-term benefit · **hypothermia** — not recommended (coagulopathy, sepsis, pneumonia, arrhythmia)
 
@@ -314,3 +334,5 @@
 **"Dural tears — true?"** → **suture whenever possible** (TO)
 
 **"Least predictive of poor whiplash outcome?"** → **pain isolated to neck** (TO)
+
+**"Hypotension + bradycardia after cord injury — treat with?"** → **vasopressors, not fluid loading (neurogenic shock)** (TO)

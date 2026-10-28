@@ -52,6 +52,8 @@
 
 **Neuro exam** — always (frequent neuromuscular cause)
 
+**CVT features (TO)** — detected at birth · convex sole with **deep dorsolateral crease** · rounded medial + plantar prominence (talar head) · forefoot dorsiflexed at midtarsal joint · with growth: **"hourglass" talus**, callosities under anterior calcaneus + medial border, severe forefoot abduction, **heel off ground in stance** · ↑↑ Meary angle (TO)
+
 ![Rigid rocker-bottom foot](../../Orthobullets/attachments/ob4066-clinical-photo-courtesy-miller-moved.png)
 
 ## 4 Diagnosis & Classification
@@ -71,6 +73,14 @@
 | **AP** | **Talocalcaneal angle >40°** (normal 20–40°) |
 
 **Before navicular ossifies (~age 3)** — use **1st metatarsal** as navicular proxy (✓ the true statement)
+
+**Radiograph details (TO)** — DF lateral: **calcaneal pitch stays negative** (fixed equinus) · AP: talus–1st MT and calcaneus–4th MT **> \~30°** abduction, Kite > 40° · incidence \~1 in 10,000 (TO) · 1st MT surrogate **< 2 yr** (TO)
+
+| (TO) | **CVT** | **Oblique talus** | **Flexible flatfoot** |
+|---|---|---|---|
+| PF stress view | **No reduction** | Reduces | Reduces |
+| TAMBA | **> 35°** | < 35° | < 35° |
+| Calcaneum | Locked | Locked | **Unlocked** |
 
 **MRI** — **neuraxial imaging** to exclude neurologic disorder
 
@@ -119,6 +129,7 @@ Congenital vertical talus (confirmed on forced PF lateral)
 | <2 yr | Release + tendon lengthening + TN reduction + fixation (neural tube defect: + tendon transfers) |
 | >2 yr | Extensive release + tendon transfers · **bony procedures >4 yr** |
 | Missed / >3 yr | Less predictable → **triple arthrodesis** salvage |
+| Options (TO) | **Open reduction 1–4 yr** · **Grice-Green extra-articular subtalar fusion** · triple arthrodesis in older children |
 | Approach with least AVN | **Dorsal** (vs posteromedial) (TO) |
 | Extensive release components | Lengthen **peroneals, Achilles, toe extensors** · reduce + pin TN · **spring ligament reconstruction** · **TA transfer to talar neck** |
 

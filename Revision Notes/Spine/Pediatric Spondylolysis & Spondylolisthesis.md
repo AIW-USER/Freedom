@@ -87,6 +87,8 @@
 
 **Marchetti-Bartolozzi** — developmental (Wiltse I + II) vs acquired (traumatic, post-surgical, pathologic, degenerative)
 
+**Spondylolysis (TO)** — repetitive hyperextension (**gymnasts, cricketers, swimmers**) · CT stages: stress reaction → micro-fracture → macro-fracture → non-union · **SPECT hot = acute, cold = chronic** · MRI T2 bright / T1 dark = active · persistent pain → pars repair
+
 ### Meyerding
 
 | Grade | Slip |
@@ -136,6 +138,13 @@ Spondylolysis / spondylolisthesis
 | Procedure | Indication |
 |---|---|
 | **Direct pars repair** | **L1–L4 isthmic defect** failing non-op, **multiple defects** · preserves motion · screw, tension wiring, screw + hook · not with **disc degeneration** (MRI first), facet arthropathy, listhesis |
+| Pars repair (TO) | Technique |
+|---|---|
+| **Kimura** (1968) | Cancellous graft + cast |
+| **Buck** (1970) | **Translaminar screw** + graft |
+| **Nicol & Scott** (1986) | **Tension-band wiring** |
+| **Morscher** (1984) | **Hook-screw** |
+| **Gillet** (1999) | V-shaped rod-screw |
 | **L5-S1 posterolateral fusion** ± ALIF | **L5 spondylolysis** failing non-op · **low grade (I–II)** failing non-op, progressive, deficit or **dysplastic** · in situ, ± instrumentation, TLSO |
 | **L4-S1 posterolateral fusion** ± reduction | **High grade (III–V)** · L5-S1 alone fails for > 50% slip |
 | Gaines L5 vertebrectomy | **Spondyloptosis** (grade V) |

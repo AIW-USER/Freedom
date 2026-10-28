@@ -19,6 +19,16 @@
 | **1952** | **Austin Moore prosthesis** — large uncemented stem, **fenestrations for self-locking** (impetus for biologic fixation), no PE ✓ |
 | **1960s** | **Charnley low-friction arthroplasty** — **small head** (↓ wear), metal stem, **PE cup**, **acrylic cement** · Teflon cup first · mentor Sir Harry Platt · manufacturer Thackray |
 | Other | **San Baw** — ivory hips for neck nonunion |
+| **1821 (TO)** | **Anthony White** — first **excision** arthroplasty (fibrous tissue fills defect) |
+| **1840s (TO)** | French surgeons — **interposition** (fascia) → faster rehab, unstable |
+| **1891 (TO)** | Gluck — TO lecture says **glass**; ivory (above) — read the options |
+| **1920s (TO)** | **Smith-Petersen mould arthroplasty** — metal cup, temporary resurfacing |
+| **1953 (TO)** | **Thompson** — **collar, no fenestrations** → load to calcar |
+| **1974 (TO)** | **Bipolar** prosthesis (Bateman) — two interfaces → ↓ acetabular erosion |
+
+**Arthroplasty types (TO)** — **excision** · **interposition** (fascia lata) · **replacement** · hemiarthroplasty = femoral head only · THR = acetabular + femoral
+
+**Charnley principles (TO)** — **small 22 mm head** (↓ friction torque) · **thick PE socket** · **medialize cup + lateralize GT** (↑ abductor arm → ↓ JRF) · **PMMA** both components · failures: **dislocation** (small head), **acetabular perforation** (over-medialization), **trochanteric osteotomy nonunion** · modern principle: **recreate native anatomy** (offset, version, inclination, length), no trochanteric transfer
 
 **Charnley head** — ✓ **22.225 mm (7/8 inch)** (TO)
 
@@ -39,6 +49,8 @@
 | **Modular** (mix-and-match body + stem) | **S-ROM**, ZMR |
 
 **Cementless stem classification (TO, Khanduja)** — **1** single wedge (proximal, flat AP/tapered ML, broach only) · **2** double wedge (proximal, ML + AP) · **3** double-wedged, fixation at **metaphyseal–diaphyseal junction** (3a/b/c) · **4** **extensively coated**, full-length fixation · **5** **modular** · **6** **anatomic** (posterior metaphyseal bow) · ✓ **not distally fixed = type 2** (types 3b, 3c, 4 are)
+
+**Khanduja — TO lecture version** — 1 single wedge (Dorr B/C) · 2 dual wedge (**Dorr A**) · 3 round / rectangular (revision, diaphyseal) · 4 fully coated (revision, dysplasia) · 5 highly modular (**S-ROM**, DDH) · 6 anatomic · type 3 described as metaphyseal–diaphyseal double wedge above — read the options
 
 **Complications** — **intraop fracture** (lateral approach + under-reaming) · **loosening** in **irradiated bone** · **junctional (taper) corrosion** in modular necks → metallosis, pseudotumour
 
@@ -83,6 +95,20 @@
 | **Ceramic-on-ceramic** | ✓ **Best wear** (alumina 4000× < CoCr-on-PE) · **lowest friction** · **inert** | Cost · **brittle — fracture** · **squeaking** · **stripe wear** · fewer neck lengths · 28 mm heads only zirconia |
 | **Ceramic-on-PE** | **Standard of care** · ↓ PE wear vs MoP | **Zirconia phase transformation** (tetragonal → monoclinic: >8 yr, pressure, heat — 99 °C vs alumina 50 °C) |
 | **Titanium-on-PE** | — | **High wear** — not recommended |
+
+**Gold-standard bearing** — **ceramic-on-PE = standard of care** (current chapter) · **metal-on-cross-linked PE = gold standard** (TO lecture) — read the options · TO: CoC least wear, brittle, squeaking, **malposition-intolerant** · MoM obsolete (ALVAL, ions)
+
+**Modular options (TO)** — neck length **25–50 mm** · neck-shaft **127–132°** · head **28–32 mm ideal** (jump distance, low dislocation) · **> 36 mm → thinner PE → early wear** (TO) · PE thickness **≥ 5 mm** (TO, this lecture) · **≥ 6 mm** (TO osteolysis lecture) — read the options
+
+**Morse taper (TO)** — **12/14 taper = lowest failure** · trunnionosis = **3–5% of THR revisions**
+
+**Cups (TO)** — **cementless press-fit cup = gold standard** · avoid screws if possible (↑ osteolysis via effective joint space) · cemented cup rarely used · **hybrid hip (cemented stem + uncemented cup) = commonest combination** (TO)
+
+**Stiffness order (TO)** — **PE (lowest) < bone < titanium < Co-Cr < ceramic (highest)** · **Ti for cementless**, **Co-Cr for cemented** · distal tapering ↓ stiffness · proximal wedging → **hoop stresses** → stability
+
+**Fixation choice (TO)** — PMMA = **grout, not adhesive** · cemented → elderly, short life expectancy, poor bone · cementless → young, good bone · ingrowth (porous, tantalum) vs **ongrowth** (grit-blast, plasma spray)
+
+**Liners (TO)** — **dual mobility** = two articulations, ideal for **elderly / weak abductors** · **constrained liner outdated** (high mechanical failure)
 
 **MoM contraindications** — **pregnancy / child-bearing women** (ions cross placenta) · **renal disease** (renal excretion) · metal hypersensitivity
 
@@ -347,3 +373,9 @@
 **"Not true for ingrowth (TO)?"** → **gaps <100 µm**
 
 **"True about cementless stem (TO)?"** → **optimal pore size <400 µm**
+
+**"Ideal trunnion taper?"** → **12/14** (TO)
+
+**"Commonest current fixation combination?"** → **hybrid — cemented stem + uncemented cup** (TO)
+
+**"Charnley's principle to reduce JRF?"** → **medialize cup + lateralize greater trochanter** (TO)

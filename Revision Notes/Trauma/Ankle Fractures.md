@@ -112,7 +112,7 @@
 | **ER stress (manual)** | **Mortise view**, foot **dorsiflexed + ER**, tibia stabilised → **deltoid competence**; more sensitive than tenderness / ecchymosis |
 | **Gravity stress** | Lateral decubitus; **= manual stress** |
 | **Full-length tib-fib** | Rule out **Maisonneuve** (any medial injury / isolated posterior malleolus / widened MCS without fibula fracture) |
-| **CT** | **Trimalleolar** (posterior malleolus size + morphology — **axial + sagittal**; 25% of surgeons change plan) · **SAD** (anteromedial impaction, talar cartilage) · loose bodies, comminution · **suspected syndesmotic malreduction post-op** · **occult nonunion** |
+| **CT** | **Trimalleolar** (posterior malleolus size + morphology — **axial + sagittal**; 25% of surgeons change plan) · **SAD** (anteromedial impaction, talar cartilage) · loose bodies, comminution · **suspected syndesmotic malreduction post-op** · **occult nonunion** · **not routine** — comminuted, posterior malleolar, suspected syndesmotic, pre-op planning (TO) |
 | MRI | Deltoid, syndesmosis (**lambda sign**), lateral ligaments, peroneals, talar OCL — utility controversial |
 
 ### Radiographic parameters
@@ -131,6 +131,10 @@
 
 **Weber B stable fracture on AP** — **tibiofibular clear space < 4 mm**\
 ✗ Wrong options: overlap < 3 mm · Weber C · PER · MCS > 5 mm
+
+**Radiological signs of instability (TO)** — ↑ medial clear space · ↓ tibiofibular overlap · **break in mortise arc** · **proximal fibular migration** · talar tilt / subluxation (TO)
+
+**TF overlap / clear space** — overlap **> 6 mm AP** (Orthobullets) · **> 10 mm AP** (TO) · clear space **< 6 mm** (Orthobullets) · **< 5 mm** (TO) — read the options
 
 ![Medial clear space](../../Orthobullets/attachments/ob1047-medial-clear-space.jpg)
 
@@ -158,6 +162,10 @@
 | **A / 44A** | **Infrasyndesmotic** | Generally stable |
 | **B / 44B** | **Trans-syndesmotic** | SER |
 | **C / 44C** | **Suprasyndesmotic** | PER; syndesmotic injury common |
+
+**Weber stability (TO)** — **A** = most stable → conservative · **B** = variable → ORIF often required · **C** = most unstable → ORIF + syndesmotic fixation (TO)
+
+**Ring concept (TO)** — ankle = closed ring · **single break = stable** · **≥ 2 breaks = unstable → surgery** (TO)
 
 **Anatomic** — isolated medial / lateral / posterior · bimalleolar-equivalent · bimalleolar · trimalleolar
 
@@ -253,6 +261,12 @@ Syndesmosis after malleolar fixation
 
 **Plate modes** — **neutralisation** protects a lag screw · **buttress** = under-contoured plate + axilla screw (compression vs shear) · **antiglide** = uncontoured plate fixed at fracture apex (posterolateral in SER) · bridge = relative stability · tension band = tension side of eccentric load
 
+**Weber B reduction (TO)** — fibula displaced **posteriorly + externally rotated** → **traction + internal rotation**; contour plate with an **internal-rotation bend** (TO)
+
+**Plate choice (TO)** — anatomical distal fibular or 1/3 tubular · **hook plate if distal fragment small** · unstable Weber A → plate or **tension band** (TO)
+
+**Fixation sequence (TO)** — **fibula first** (length + rotation) → posterior malleolus → medial malleolus (antiglide / tension band) → **Cotton test** for syndesmosis (TO)
+
 **Absolute stability** — articular fractures: **PM > 25%** / large PM 45% → **ORIF with absolute stability**\
 ✗ Wrong options: relative stability · cast · nail · ex-fix
 
@@ -314,6 +328,8 @@ Syndesmosis after malleolar fixation
 | **Suture button** | **Lowest malreduction + reoperation** |
 | Screw retention | **≥ 8–12 wk** (Orthobullets) · **≥ 12 wk** (OB) — **NWB**, screws can't take gait loads |
 
+**Syndesmotic fixation indications (TO)** — PER injuries · suprasyndesmotic fractures · **MCS widening > 2 mm after fibular fixation** · screw **3.5 mm, 3–4 cm above talar dome, 3 cortices, routine removal at 3 months** · tightrope needs no removal (TO)
+
 **Retained intact screw** — **may be worse than loosened / broken screw**; broken ≈ loose; removing broken screw doesn't help · remove intact screw if **painful prominence + dorsiflexion < 10°** (\~9 mo)
 
 **Posterior malleolus fixation** — restores **PITFL** (strongest syndesmotic ligament) → **70% stiffness vs 40%** with syndesmotic screw alone → **obviates syndesmotic fixation in most cases**; outcomes ≥ screw fixation; still stress-test after
@@ -370,6 +386,8 @@ Syndesmosis after malleolar fixation
 ### Soft tissue – fracture-dislocation, external fixation, open fracture
 
 **Fracture blisters** — appear **6–72 h**; delay definitive fixation until re-epithelialised; leave intact blisters, unroofed → **silver sulfadiazine**
+
+**Timing (TO)** — urgent: dislocations, open fractures · operate before swelling or after **wrinkle sign (\~10–14 days)** · delay if blisters on incision line · **deep dirty wounds > 12–24 h = contraindication** (TO)
 
 **Failed closed reduction + haemorrhagic blisters over incisions** — **temporary spanning ex-fix → relative stability**\
 ✗ Wrong options: repeat closed reduction · 1.6 mm K-wires (too thin) · definitive ORIF
@@ -446,6 +464,15 @@ Syndesmosis after malleolar fixation
 | **Malunion** | Missed SAD impaction; fibular shortening |
 | Nonop | Cast ulcer, malunion, nonunion, **DVT 5%**, stiffness |
 | CRPS | — |
+
+**Prolonged immobilisation (TO)** — capsular adhesions · cartilage degeneration · myostatic contracture · bone atrophy · **CRPS** → early mobilisation (TO)
+
+| Rehab phase (TO) | Weeks | Focus |
+|---|---|---|
+| I | 0–4 | Immobilisation, NWB |
+| II | 4–8 | Partial WB, gentle ROM |
+| III | 8–12 | Strengthening, proprioception |
+| IV | > 12 | Sport, return to activity |
 
 ### Early malreduction – revision ORIF of syndesmosis
 
@@ -692,3 +719,7 @@ Syndesmosis after malleolar fixation
 **"Triplane fracture?"** → **SH IV** (TO)
 
 **"Fleck sign at lateral malleolus?"** → **superior peroneal retinaculum injury** (TO)
+
+**"Clinical sign that soft tissues are ready for ankle ORIF?"** → **wrinkle sign (\~10–14 days)** (TO)
+
+**"Most unstable Weber type?"** → **Type C (PER / Maisonneuve)** (TO)

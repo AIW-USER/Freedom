@@ -70,6 +70,10 @@
 
 **MRI** — **fibrous / cartilaginous coalition** (normal X-rays + suspicion) · STIR for inflammation
 
+**C-sign extras (TO)** — continuous posterior talus + sustentaculum on lateral X-ray = **diagnostic of talocalcaneal coalition** · MRI: cysts, hypertrophy, stress oedema · **CT classification of TC coalition: types 1–5** (TO)
+
+**Anterolateral (anterior) process fracture of calcaneum (TO)** — look for an **underlying calcaneonavicular coalition** · CN coalition may be **fibrous or osseous** (TO)
+
 **Normal X-rays, rigid valgus heel, sinus tarsi pain, repeated sprains** → **suspect coalition → MRI**\
 ✗ Wrong options: Sever · Kohler · Iselin · flexible flatfoot surgery
 
@@ -78,6 +82,8 @@
 ![C-sign](../../Orthobullets/attachments/ob4068-c-sign.jpg)
 
 ![45° oblique view of CN coalition](../../Orthobullets/attachments/ob4068-45-degree-oblique.jpg)
+
+**TO imaging points** — CN coalition best on **45° external (standard) oblique** · TC: Harris view (beam 45° along middle facet), **Saltzman** for hindfoot valgus · CT: sagittal (CN; rules out a **second coalition \~20%**), **coronal 3 mm cuts** to measure % posterior facet · MRI: fibrous/cartilaginous coalitions (stress oedema) · **peroneal spastic flatfoot**
 
 ## 5 Management
 
@@ -99,6 +105,8 @@ Symptomatic tarsal coalition
 ✗ Wrong options: repeat cast · NWB cast · orthotic · more PT · quit sport
 
 ### Calcaneonavicular coalition resection with interposition
+
+**Approach (TO)** — **Ollier incision** + **fat graft** interposition · TC: poor outcome if **hindfoot valgus > 16°** (correct with calcaneal lengthening) or coalition **> 50%** (consider subtalar fusion)
 
 **Procedure** — **resect bar + interpose EDB muscle or fat** (or bone wax) · resection alone ↑ recurrence · **lateral oblique incision over sinus tarsi between EXTENSOR and PERONEAL tendons** · protect superficial peroneal + sural nerves · ~1 cm gap · NWB cast 3–4 wk
 

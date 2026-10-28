@@ -128,6 +128,8 @@
 
 **vs capitellar OCD** — focal lesion, **>10 yr**
 
+**TO points** — physeal injuries \~**20%** of skeletal injuries · SH frequency **II > I > III > IV > V** · injury near physis may **stimulate overgrowth** · ligaments stronger than bone in children · **plastic deformation** = microscopic osteon realignment without cortical break · remodelling ↑ with younger age, proximity to physis, angulation in plane of joint motion · **rotation does not remodel**
+
 ## How it's asked
 
 **"Which physeal injury involves the reserve zone?"** → **both type III and IV** (TO)

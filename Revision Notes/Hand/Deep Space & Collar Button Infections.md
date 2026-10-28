@@ -20,6 +20,16 @@
 
 ![Deep spaces of the hand](../../Orthobullets/attachments/ob6106-deep-spaces.jpg)
 
+| Space (TO) | Dorsal | Volar | Radial | Ulnar |
+|---|---|---|---|---|
+| **Thenar** | Adductor pollicis fascia, volar 2nd MC, 1st dorsal interosseous fascia | Index flexor sheath, radial palmar fascia | Adductor pollicis fascia + palmar fascia at thumb P1 | **Midpalmar (oblique) septum** (3rd MC → palmar fascia) |
+| **Midpalmar** | Fascia over 2nd/3rd volar interossei; periosteum 3rd–5th MC | Flexor sheaths middle, ring, little; palmar aponeurosis | Midpalmar oblique septum | **Hypothenar septum** (5th MC → palmar fascia) |
+| **Hypothenar** | Periosteum 5th MC, deep hypothenar fascia | Palmar fascia, superficial hypothenar fascia | Hypothenar septum | Hypothenar muscle fascia |
+
+**Superficial spaces (TO)** — **dorsal subcutaneous** · **dorsal subaponeurotic** · **interdigital web space** → less defined, can mimic deep infections
+
+![Thenar space and its boundaries](../../TO notes/attachments/TOn-notes-acute-infections-in-the-hand-mar-2026-p06-f016.jpg)
+
 ### Ulnar & radial bursae communications
 
 **Ulnar bursa (TO)** — proximal continuation of **little finger (5th) sheath**
@@ -50,6 +60,10 @@
 
 **Collar button** — web-space tenderness + **abduction of adjacent digits (V-sign)**
 
+**Hourglass swelling (TO)** — web-space pus tracks volar + dorsal with little in between · finger **ABDUCTED** → **not seen in dorsal subcutaneous infection** (no volar pus)
+
+**Chronic web-space infection (TO)** — **"barber's abscess"**
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -65,6 +79,12 @@ Deep space / collar button infection
 └─ I&D + IV antibiotics (standard of care)
        └─ Collar button → DORSAL + VOLAR longitudinal incisions, avoid web skin ± Penrose drain
 ```
+
+### Deep space drainage (TO)
+
+**Thenar** — volar and/or dorsal incisions (combined if extensive) · protect **recurrent motor branch of median n.** + **princeps pollicis a.** · avoid **transverse dorsal 1st-web incision** (web contracture) (TO)
+
+**Hypothenar** — incision **in line with ulnar border of ring finger** · protect **deep motor branch of ulnar n.** (TO)
 
 ### Collar-button abscess drainage
 
@@ -83,5 +103,9 @@ Deep space / collar button infection
 ✗ Wrong options: 5th sheath, Parona, radial bursa
 
 **"Most commonly infected deep space"** → **thenar**
+
+**"Chronic web-space infection?"** → **barber's abscess** (TO)
+
+**"Thenar space drainage — structure to protect?"** → **recurrent motor branch of median nerve** (TO)
 
 **"Pain with middle/ring/small flexion + loss of concavity"** → **midpalmar space**

@@ -84,6 +84,12 @@ Vertebral artery injury
 
 **Tamponade risks** — delayed haemorrhage, fistula
 
+**VAI intra-op (TO)** — injury in screw hole → **insert the screw to tamponade** · **do not place contralateral screw** (bilateral occlusion → cerebellar stroke) · open injury → finger tamponade + gelfoam · angiogram for dominance: **non-dominant → ligation acceptable**, **dominant → repair / stent** · late pseudoaneurysm / AVF → embolise
+
+**Commonest site (TO)** — **V3 (C1–C2)**: dissection > 1–1.5 cm from midline, high-riding artery · V1 slips laterally under ACDF retractor · V2 corpectomy / pedicle screws
+
+**Major vascular injury (TO)** — mortality up to **80%** · **carotid**: lateral retraction (release every 10 min), long C1 screws · lumbar anterior: **left common iliac vein commonest** (L4–L5, ALIF/OLIF), **venous > arterial** · prophylactic femoral access for balloon · **haemostasis before completing decompression**
+
 **Ligation** — angiogram first (collaterals; left VA usually dominant) · risks **cerebellar infarct (PICA)**, cranial nerve palsy, hemiplegia
 
 **Complex right VA injury during O-C3 fusion, tamponade failed, segmental defect, good collaterals** — **embolisation**\
@@ -167,3 +173,5 @@ Vertebral artery injury
 **"Aggressive spinal AVM factor?"** → **leptomeningeal vein** (TO)
 
 **"Glomus AVM?"** → **type II** (TO)
+
+**"Most commonly injured vessel in anterior lumbar surgery?"** → **left common iliac vein (L4–L5)** (TO)

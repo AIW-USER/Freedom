@@ -13,6 +13,17 @@
 
 **Growth plate layers** — resting · proliferative · hypertrophic
 
+### Macrodactyly (TO)
+
+**Macrodactyly (TO)** — hamartomatous enlargement of toes · associations: **NF**, **congenital lipofibromatosis**, **Proteus**, **Maffucci**
+
+| Type (TO) | Feature |
+|---|---|
+| **Macrodystrophia lipomatosa** | Overgrowth of **all mesenchymal elements** |
+| **Macrodactyly simplex congenita** | **Phalanges enlarged, metatarsals spared** |
+
+**Focal gigantism case (TO)** — **PIK3CA-related overgrowth** / vascular malformation (Klippel-Trenaunay; on **sirolimus**) · X-ray: metatarsals AND phalanges enlarged → growth arrest would need many tiny physes · symptomatic → disarticulation at PIP
+
 ## 3 Presentation
 
 **Symptoms** — pain · **can't fit shoes** · enlarged digit or limb
@@ -36,6 +47,8 @@
 | Recurrence prevention | **Complete ray amputation ↓ recurrence** |
 
 **Goals** — cosmesis + function (shoe wear) · individualised by etiology, site, growth left, severity
+
+**Options (TO)** — soft-tissue debulking (**high recurrence**) · **staged debulking (Kotwal and Paru)** · bony shortening · **ray excision** for severe
 
 **Cosmesis** — after ray resection often **poor** · Syme amputation = excessive\
 ✗ Wrong options: "favorable"

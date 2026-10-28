@@ -10,6 +10,10 @@
 
 **Associated** — **ipsilateral distal radius / forearm 5–10%** (TO) · vascular compromise **5–17%** · nerve injury 10–20%
 
+**Epidemiology (TO)** — \~**60%** of paediatric elbow injuries · age **4–10 yr**
+
+**Site (TO)** — just proximal to **olecranon fossa** (thinnest part of distal humerus)
+
 ### Elbow ossification order
 
 | Centre | Appears (yr) | Fuses (yr) |
@@ -49,6 +53,8 @@
 
 **Brachialis sign** — antecubital ecchymosis, **dimpling/puckering**, palpable bone → proximal fragment buttonholed through brachialis → more arterial injury, swelling, harder reduction
 
+**Bedside nerve tests (TO)** — median / AIN: **OK sign** · radial: **thumbs up**, finger extension · ulnar: **finger abduction**, fist
+
 ## 4 Diagnosis & Classification
 
 ### Classification & radiographic assessment
@@ -68,6 +74,23 @@
 ✗ Wrong options: always fracture
 
 **Baumann angle** — humeral shaft vs lateral condylar physis on AP · **70–75°** · deviation **>5–10°** unacceptable
+
+**Baumann angle (TO)** — normal **64–82°** · every **5° change = 2° change in carrying angle** · **↑ Baumann** in cubitus varus · key **intra-operative guide**
+
+**Anterior humeral line** — middle ⅓ of capitellum **> 5 yr** (Orthobullets) · **> 4 yr** (TO) — read the options
+
+**Other lines (TO)** — **shaft-condylar angle ≈ 40°** (lateral) · **teardrop sign** (lateral) · **crescent sign** = cubitus varus (overlap of capitellum and radial head) · AP: metadiaphyseal angle, humeroulnar (carrying) angle
+
+**Views (TO)** — AP + lateral elbow + **entire humerus and forearm** (floating elbow)
+
+### Other classifications (TO)
+
+| Classification | Feature | Significance |
+|---|---|---|
+| **Gartland IIA** (TO) | Posterior hinge intact, **no rotation** | Cast / CRPP |
+| **Gartland IIB** (TO) | Posterior hinge intact **with rotation** | **CRPP** |
+| **Leitch type IV** (TO) | **Unstable in flexion and extension** — global instability | CRPP |
+| **De Boeck** (TO) | **Medial column comminution** | High risk of **cubitus varus** |
 
 **Angiography** — not indicated (lesion is at fracture)
 
@@ -96,6 +119,14 @@ Supracondylar fracture — timing by neurovascular status
 ### Pin configuration & iatrogenic ulnar nerve injury
 
 **Reduction (extension type)** — traction, correct coronal/rotation, **hyperflexion** · posteromedial → **pronate** · posterolateral → **supinate** (try opposite if fails)
+
+**Reduction order (TO)** — longitudinal traction → correct varus-valgus → flexion + **olecranon pressure** → pronation / supination by periosteal hinge
+
+**Brachialis sign fracture (TO)** — **brachialis milking technique** · **Tansen joystick technique** (Nepal)
+
+**Stable lateral pinning rules (TO)** — **≥ 2 cortices** purchase · pin separation **≥ ⅓ humeral width** at fracture · **two 2 mm pins better than three thin pins**
+
+**Indications for a medial pin (TO)** — **medial oblique** fracture · **intercondylar extension** · **high** supracondylar fracture · **internal rotation instability**
 
 | Construct | Use |
 |---|---|
@@ -130,6 +161,10 @@ Supracondylar fracture — timing by neurovascular status
 
 **Pulseless + poorly perfused after CRPP** → brachial artery injury up to 82%
 
+**After CRPP (TO)** — pale, non-perfused → **immediate exploration** · pink, perfused, no deficit → **close observation** · **pink + poor Doppler or nerve palsy → exploration** · **prophylactic fasciotomy** if prolonged ischaemia
+
+**Emergency surgery (TO)** — open fracture · **skin tenting** · neurovascular compromise · floating elbow · compartment syndrome · otherwise splint, operate next morning
+
 ![Gartland III with vascular risk](../../Orthobullets/attachments/ob4007-g3.jpg)
 
 ### Postoperative care (pin removal, PT, pin infection)
@@ -141,6 +176,8 @@ Supracondylar fracture — timing by neurovascular status
 
 **Pin infection** — 1–2.4% · **only proven risk: age <4.5 yr** · oral antibiotics\
 ✗ Wrong options: delay >24 h · no antibiotics · late follow-up; daily pin care ↑ infection
+
+**Pin tract infection** — **1–2.4%** (Orthobullets) · **≈ 4%** (TO) — read the options
 
 ## 6 Complications
 
@@ -163,6 +200,22 @@ Supracondylar fracture — timing by neurovascular status
 **Osteotomy** — for **cosmesis** · **lateral closing wedge → lateral prominence** · reverse V, step-cut, dome, medial opening with medialisation avoid it
 
 **Cubitus valgus** — malunion → tardy ulnar palsy · **recurvatum** — non-op type II/III
+
+**Cubitus varus = 3-plane deformity (TO)** — coronal **varus** · sagittal **extension** · axial **internal rotation**
+
+**Rotational tests (TO)** — **Yamamoto test** · **Bhende test** · radiology: ↑ Baumann · crescent sign · fishtail (progressive)
+
+**Remodelling (TO)** — **sagittal** deformity may remodel · **varus does NOT remodel**
+
+**Surgery indications (TO)** — cosmesis · function · **PLRI** · **ulnar nerve instability** · **recurrent lateral condyle fractures**
+
+**Surgery criteria (TO lecture 2)** — varus **> 5–10°** · age **> 5 yr** · **≥ 1 yr after trauma** · flexion/extension component · other sequelae: **triceps snapping**, tardy ulnar palsy · options: medial open wedge, lateral closing wedge (most common), step-cut, dome, **French osteotomy** (corrects rotation), guided growth in young · **PLRI → LUCL reconstruction + osteotomy**
+
+**Oblique lateral closing wedge osteotomy (TO)** — **current gold standard** · apex near original fracture · equal-limb · **no lateral prominence** · K-wires or plate · options: simple closing wedge · step-cut · dome
+
+### TRASH lesions (TO)
+
+**TRASH** — "The Radiographic Appearance Seemed Harmless" · unossified **medial condyle** fracture · **transphyseal** distal humerus fracture · entrapped **medial epicondyle** · osteochondral fracture-dislocation · **radial head compression** fracture · **Monteggia variants**
 
 **Fishtail deformity (TO)** — **lateral trochlear ossification centre fails/resorbs** (AVN of posterior vessels to **lateral** trochlea, "type A") → inverted-V distal humerus · hard to see before **~9 yr** · after supracondylar (most), lateral/medial condyle, SH I · (✗ Wrong options: "medial trochlea blood supply") · **Hegemann** = trochlear osteochondrosis\
 ✗ Wrong options: epicondylar
@@ -304,6 +357,10 @@ Supracondylar fracture — timing by neurovascular status
 **"Fishtail deformity seen in?"** → **old supracondylar humerus fractures** (TO)
 
 **"Fishtail — all EXCEPT?"** → **disturbed medial trochlear blood supply** (TO)
+
+**"Current standard osteotomy for cubitus varus?"** → **oblique lateral closing wedge** (TO)
+
+**"Which cubitus varus component does NOT remodel?"** → **varus** (TO)
 
 **"Correcting mild gunstock — result?"** → **improved cosmesis**
 

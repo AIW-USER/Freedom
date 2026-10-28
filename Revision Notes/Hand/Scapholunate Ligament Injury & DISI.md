@@ -94,6 +94,8 @@
 | **Radiolunate angle** (TO) | Normal **15° ext – 15° flex**; **>15° extension → DISI** |
 | **Capitolunate angle** | **>20°** (Orthobullets) · **>15°** (TO) |
 | Carpal height ratio | ↓ as collapse progresses |
+| **Lunate shape on PA (TO)** | DISI → **piece-of-pie** (TO — verify: piece-of-pie classically = palmar-rotated lunate in lunate dislocation) · VISI → **C-shaped / moon lunate** · mild palmar tilt → isosceles |
+| PA with 10° ulnar angulation (TO) | Measures **mid-SL interval** |
 | **VISI** | SL angle **<30°** |
 
 | Modality | Fact |
@@ -105,6 +107,17 @@
 ![DISI: SL angle >70°](../../Orthobullets/attachments/ob6041-disi-lateral-moved.jpg)
 
 ![Terry Thomas + cortical ring sign](../../Orthobullets/attachments/ob6041-disi-ap-terry-thomas-sign-and-cortical-ring-moved.jpg)
+
+### SL dissociation staging (TO)
+
+| Stage (TO) | Description | Treatment |
+|---|---|---|
+| **I** | **Occult** | Conservative |
+| **II** | **Repairable** | **SL repair + dorsal capsulodesis** |
+| **III** | **Dynamic DISI** | **Three-ligament tenodesis** |
+| **IV** | **Reducible static** | Tenodesis |
+| **V** | **Irreducible** | **Radiocarpal fusion + distal scaphoid excision** |
+| **VI** | **SLAC wrist** | **Scaphoid excision + midcarpal fusion** |
 
 ### SLAC stages (TO)
 
@@ -172,6 +185,12 @@ SLIL injury
 
 **Options** — **FCR transfer (modified Brunelli, direct reduction)**, ECRB tenodesis (indirect), **3LT**, SLAM, **RASL** (screw, sacrifices motion), bone-ligament-bone graft; **avoid weave** (late failure)
 
+**Modified Brunelli steps (TO)** — **distally based 8 cm split FCR** → drill **dorsal → palmar** → tendon through scaphoid → **transverse trough in lunate** → suture anchors → tension with **radiotriquetral ligament as pulley** · standard reconstruction for **static SL instability**
+
+**Dorsal approach (TO)** — **lazy-S over Lister's tubercle** · expose **compartments 2 + 4** · optional **PIN neurectomy** · best SL visualisation
+
+**Post-op (TO)** — **thumb spica 2 wk** · **K-wires out at 8 wk** · detachable splint + ROM after 8 wk
+
 **Salvage (TO)** — **4-corner fusion** (keeps ~50% flex-ext; preserves radiolunate) · **PRC** (needs intact **capitate head + lunate fossa**)
 
 ## 6 Complications
@@ -230,3 +249,7 @@ SLIL injury
 **"Mayfield stage I true?"** → **scaphoid fracture not always present** (TO)
 
 **"Rocking lunate results from?"** → **SL + LT ligament tear** (TO)
+
+**"Garcia-Elias stage V (irreducible) SL dissociation — treatment?"** → **radiocarpal fusion + distal scaphoid excision** (TO)
+
+**"Modified Brunelli — tendon used?"** → **distally based split FCR (8 cm)** (TO)

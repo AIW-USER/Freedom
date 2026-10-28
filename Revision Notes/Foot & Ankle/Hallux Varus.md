@@ -24,6 +24,8 @@
 
 **Medial release** — listed as a contributor (OB7610) · not **excessive medial capsular release** (OB220893 — lateral release + medial overplication cause it) — read the options
 
+**Post-op dressing (TO)** — **overcorrection in post-op dressing** is a cause · also over-plication of medial capsule, excess medial eminence resection, tibial sesamoid displaced medially, **overpull of abductor hallucis** (TO)
+
 **Not causes** — **tibial sesamoidectomy** · **inadequate** medial eminence resection · **1st TMT hypermobility** · **inadequate IMA correction** · failed pin fixation · choosing soft-tissue procedure over fusion
 
 **After fibular sesamoid resection (TO)** — **unopposed pull of abductor hallucis** → **medial dislocation of tibial sesamoid** → medial hallux translation · also **MTP joint hyperextension** + **buttonholing of metatarsal head** (TO)\

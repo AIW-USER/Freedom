@@ -27,6 +27,8 @@
 
 **Length-unstable** — **long spiral (length >2× diameter)**, comminuted
 
+**TO rule** — **TENS contraindicated / not alone in length-unstable** fractures → 5–11 yr unstable: **submuscular bridge plate or ex-fix** · TENS nail **30–40% of canal each**, same size, don't bend at entry · rigid nail **trochanteric entry only, never piriformis**, > 11 yr / > 50 kg (40–50 kg TO) · before walking age → suspect NAI
+
 ## 3 Presentation
 
 **Exam** — thigh pain, can't walk, deformity, shortening, swelling
@@ -103,6 +105,10 @@ Pediatric femoral shaft fracture
 ### Spica technique
 
 **Position** — hips **60–90° flexion**, ~**30° abduction**, **external rotation** to correct rotation · mould into **recurvatum + valgus** · single-leg or 1½ spica (special car seat sometimes)
+
+**Spica tips (TO)** — traction during application · **valgus moulding** (prevents varus collapse) · reinforce the **V-junction** · hip and knee flexion equal · **connecting bar** between limbs
+
+**Pavlik for femur (TO)** — < 6 mo · **more proximal fracture → more hip flexion** · usually ≤ 90° · \~**2 wk** · watch femoral nerve · confirm union on X-ray
 
 ![Spica cast](../../Orthobullets/attachments/ob4019-screen-shot-2012-07-26-at-11-11-52-am.jpg)
 

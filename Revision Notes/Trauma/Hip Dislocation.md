@@ -12,6 +12,14 @@
 
 **Stability** — bony geometry + **labrum, capsule, ligamentum teres**, muscles
 
+**Anatomy (TO)** — head = **⅔ of a sphere** · acetabulum covers \~**40%**, **labrum adds 10%** · inverted-U articular surface · **iliofemoral (Y) ligament strongest in body** (AIIS → intertrochanteric line)
+
+**Capsule (TO)** — anterior **on intertrochanteric line** · posterior **\~1–1.5 cm (½ inch) proximal to intertrochanteric crest**
+
+**Head supply (TO)** — **MFCA → posterosuperior retinacular vessels (most crucial)** · ligamentum teres artery significant only in children · dislocation **kinks MFCA** → urgent reduction
+
+**Sciatic nerve variants (TO)** — exits **below piriformis in 80–90%** · pierces / passes above in 10–20%
+
 ### Associated injuries (knee, aorta)
 
 | Dislocation | Associated injury |
@@ -33,6 +41,8 @@
 | **Abduction + ER + extension** | **Anterior superior (pubic)** |
 | **Abduction + ER + flexion** | **Anterior inferior (obturator)** |
 
+**Pure vs fracture-dislocation (TO)** — **↑ flexion + IR / adduction → pure** · ↓ flexion / adduction → **posterior wall fracture-dislocation** · **low femoral anteversion → pure posterior**; high anteversion → fracture-dislocation (TO)
+
 ![Dashboard injury mechanism](../../Orthobullets/attachments/ob1035-dashboard-injury-mechanism.jpg)
 
 ## 3 Presentation
@@ -45,6 +55,14 @@
 | **Irreducible variant** | **Neutral, mildly shortened** — not overtly flexed / IR, limb locked |
 
 **Exam** — ATLS; **sciatic nerve (10–20%)**; knee stability; **CXR for aortic injury**
+
+**Narath sign (TO)** — **feeble / absent femoral pulse** in posterior dislocation (no counter-surface behind artery)
+
+**Why foot drop (TO)** — peroneal fibres **peripheral / superficial** + phylogenetically newer → more stretch-sensitive
+
+**Anterior pubic type (TO)** — compresses **femoral artery → risk of gangrene**; head palpable in groin, limb may be **lengthened**
+
+**Windswept dislocation (TO)** — one hip anterior, other posterior · atraumatic → **cerebral palsy** · adult → high-velocity trauma
 
 **FNB attitude question (TO)** — answer key not provided by the source; map: **FADIR → posterior**, **FABER → anterior obturator**, **extension + abduction (ER) → anterior pubic**
 
@@ -68,6 +86,8 @@
 | **Type 2 — inferior** | **Obturator, thyroid, perineal** |
 | Subtypes | **A** simple · **B** head fracture · **C** acetabular fracture |
 
+**AO/OTA hip dislocation (TO)** — **30D10 anterior** · **30D11 posterior** · **30D30 obturator**
+
 ### Key radiology findings
 
 | Finding | Meaning |
@@ -80,6 +100,8 @@
 | **Post-reduction CT — mandatory in ALL** | Head fractures, **loose bodies / incarcerated fragments** (even if concentric on X-ray), acetabular fractures |
 | Post-reduction AP, inlet / outlet, **Judet** | — |
 | MRI | Controversial, not routine (labrum, cartilage, vascularity) |
+| **Post-reduction 5 views (TO)** | **AP + inlet + outlet + 2 Judets** |
+| **MRI – early AVN predictor (TO)** | **Obturator externus / piriformis injury**; AVN visible at **6–8 wk** |
 
 **Advanced imaging before reduction** — **no** → reduce first
 
@@ -110,11 +132,19 @@ Hip dislocation
 | **East Baltimore lift** | Posterior | Hip + knee 90°, physician + assistant lift under popliteal fossa |
 | **Allis leg extension** | Anterior | Inline traction; **pubic → hyperextension** |
 | **Reverse Bigelow** | Anterior | Traction in line → **adduct, IR, extend** |
+| **Stimson** (TO) | Posterior | **Prone**, gravity-assisted |
+| **Rochester** (TO) | Posterior | Single assistant; needs **both hips flexed** → not for bilateral |
+| **PGI technique** (TO) | Posterior | **Single surgeon, most atraumatic**: flexion → abduction → ER |
+| **Walker modification of Allis** (TO) | **Anterior** | Preferred for anterior |
+
+**Mnemonic SABER (TO)** — Stimson · Allis · Bigelow · East Baltimore · Rochester · Bigelow carries **higher fracture risk**
 
 **Child (10-yr, posterior)** — **closed reduction under GA with fluoroscopy** → avoids **physeal separation (epiphyseal displacement)**, confirms concentricity\
 ✗ Wrong options: ED sedation · no fluoroscopy · open first
 
 **After reduction (TO)** — **WBAT**, ROM / strengthening, **jog 6–8 wk**, **running / sport 3–4 months**; follow **18 months–2 yr** for AVN
+
+**Post-reduction (TO)** — stability test at **90° flexion** · **no role for traction** after concentric reduction · ROM day 1
 
 **Simple dislocation (Orthobullets)** — **protected WB 4–6 wk**
 
@@ -130,6 +160,7 @@ Hip dislocation
 | Indication | Treatment |
 |---|---|
 | **Irreducible** dislocation | **Urgent open reduction** |
+| **Failure of 2 closed attempts** (TO) · **iatrogenic sciatic palsy** (TO) · instability after reduction (TO) | Open reduction (posterior pure → **Ganz surgical dislocation** (TO); PW → KL) |
 | **Incarcerated fragment** on CT, **non-concentric** reduction | Open reduction / fragment removal |
 | **Delayed presentation** | Open reduction |
 | **Associated femoral neck fracture** | **Stabilise neck before reduction** |
@@ -164,6 +195,7 @@ Hip dislocation
 | Complication | Rate / fact |
 |---|---|
 | **Post-traumatic arthritis** | **Up to 20% simple** (commonest long-term, TO); markedly ↑ complex; **anterior 17%** (TO) |
+| **OA – TO lecture (TO)** | **16% isolated** dislocations · **88% with acetabular fracture** |
 | **AVN** | **5–40%** (Orthobullets) · **2–10% if reduced < 6 h** (TO); ↑ with time to reduction; **anterior 4%** (TO) |
 | **Sciatic nerve** (peroneal division) | **8–20%** (Orthobullets) · **10–15%** (TO); ↑ with delayed reduction |
 | HO | **2.8–9%** (TO); repeated reduction attempts |
@@ -211,3 +243,7 @@ Hip dislocation
 **"Hip + wrist injury — next?"** → **closed reduction of hip**
 
 **"Infrafoveal fracture, 8 mm, stable (TO)?"** → **ORIF via anterior approach**
+
+**"Most atraumatic single-surgeon reduction?"** → **PGI technique** (TO)
+
+**"Earliest MRI predictor of AVN after dislocation?"** → **obturator externus / piriformis injury** (TO)

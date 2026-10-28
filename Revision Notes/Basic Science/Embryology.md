@@ -33,7 +33,23 @@
 | **Non-AER dorsal ectoderm (Wnt centre)** | **3rd** | **WNT7a → Lmx1b** | **Dorsoventral** (all dorsal features incl. **nails**) | — |
 | Ventral ectoderm | — | **Engrailed-1** (antagonises WNT7a) | Ventral patterning | — |
 
+**Limb axes – TO summary (TO)** — proximodistal **HOX** (TO) · **AER / FGF8** (Orthobullets) — read the options · dorsoventral **WNT** · anteroposterior **SHH** (defects → radial club hand, fibular hemimelia)
+
 ![Limb bud signalling centres](../../Orthobullets/attachments/ob9078-limb-patterning.jpg)
+
+**Hand timeline (TO)** — limb bud **day 26** (Orthobullets) · \~**day 27** (TO) · arm bud by 30 d · hand paddle **34–38 d** · finger separation starts 38–40 d · complete **50–52 d (7th wk)** · most hand anomalies arise **4th–7th wk** (TO)
+
+| Swanson / IFSSH (TO) | Example |
+|---|---|
+| 1 Failure of formation | Amelia, phocomelia |
+| 2 Failure of differentiation | Syndactyly |
+| 3 Duplication | Polydactyly |
+| 4 Overgrowth | Macrodactyly |
+| 5 Undergrowth | Brachydactyly |
+| 6 Constriction band | Amniotic bands |
+| 7 Generalised skeletal | Syndromes |
+
+**OMT (Oberg-Manske-Tonkin) (TO)** — **malformation** (axis-based: proximodistal, radioulnar, dorsoventral, hand plate) · **deformation** (e.g. constriction band) · **dysplasia** (e.g. macrodactyly) · dorsoventral defects → **nail** hypoplasia, dorsal dimelia
 
 ### Shh gradient
 

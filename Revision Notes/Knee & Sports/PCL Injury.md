@@ -19,11 +19,15 @@
 
 **Size** — 38 mm long × 13 mm diameter · **30% larger than ACL** · strength 2500–3000 N · resists 95% of posterior tibial displacement
 
+**PCL (TO)** — **38 mm** (Girgis) · **\~1.5× stronger than ACL** · tibial insertion in PCL facet **\~1–1.5 cm below posterior rim** · extrasynovial, own synovial sheath
+
 **Synovial status (TO)** — **cruciates = intra-articular, extrasynovial** (own blood supply, not fed by synovial fluid) · collaterals = extra-articular, extrasynovial · menisci = intra-articular, intrasynovial (fed by synovial fluid)
 
 **Blood supply** — **middle geniculate artery** + fat pad
 
 **Meniscofemoral ligaments** — PCL lies between them · **Humphrey anterior, Wrisberg posterior** · arise posterior horn lateral meniscus → insert into PCL substance
+
+**MFL contribution (TO)** — **\~17%** of resistance to posterior drawer
 
 | Bundle | Tight in | Fact |
 |---|---|---|
@@ -36,6 +40,14 @@
 **Function** — **primary restraint to posterior tibial translation** · prevents hyperflexion / sliding · **isolated injury → greatest instability at 90° flexion**
 
 **Popliteus** — synergistic with PCL → controls ER, varus, posterior translation (see PLC)
+
+| Posterior translation (TO, Gollehon) | Amount |
+|---|---|
+| Isolated PCL | **8–10 mm** |
+| Isolated PLC | **3–5 mm at 30°** |
+| **PCL + PLC** | **> 15 mm** + ↑ ER |
+
+**Secondary restraint (TO)** — PCL also resists **ER + varus**
 
 ## 2 Mechanism
 
@@ -101,6 +113,16 @@
 | **MRI** | **Confirmatory** · essential to plan concomitant injuries in avulsions (TO) |
 
 ![Lateral stress radiographs in PCL injury](../../Orthobullets/attachments/ob3009-pcl-injury-lateral-stress-views.jpg)
+
+| Imaging sign (TO) | Meaning |
+|---|---|
+| **Normal PCL** | **6 mm** low-signal curvilinear band |
+| PCL tear | ↑ signal, **thickened > 6 mm**, or discontinuity · partial = one bundle |
+| **Tram-track sign** | **Mucoid degeneration** of PCL |
+| **Double PCL sign** | **Bucket-handle meniscal tear** |
+| **Telos stress view** | **Gold standard** (TO) · abnormal **> 11 mm** translation or **> 3 mm** side-to-side |
+| Kneeling view | Most reliable (TO) |
+| Arcuate sign | Fibular styloid avulsion → PLC |
 
 ### PCL grading
 
@@ -209,6 +231,13 @@ PCL injury
 
 ### Rehabilitation after PCL reconstruction (OKC vs CKC)
 
+| PCL rehab (TO) | Time | Key steps |
+|---|---|---|
+| I | 0–6 wk | Brace **0–90°**, prevent posterior tibial translation, **no hamstring activation** |
+| II | 6–12 wk | Gradual ROM, quads, closed chain |
+| III | 3–6 months | Proprioception, dynamic stability |
+| IV | **> 6 months** | RTS: full strength, no lag, stable |
+
 **Early** — immobilise in extension, **protect against gravity** · early motion **prone** · focus on quadriceps
 
 **Avoid** — **resisted hamstring curls (prone / OKC)** → posterior pull on tibia stresses graft
@@ -239,6 +268,10 @@ PCL injury
 
 **Chronic PCL + PLC, varus thrust, 10° varus** — **HTO to INCREASE slope + correct varus, then PCL + PLC reconstruction**\
 ✗ Wrong options: bracing · PCL alone · ACL + PCL (high failure if coronal alignment untreated)
+
+**HTO timing (TO)** — chronic PCL / PLC varus knee → **HTO first** (correct varus, ↑ slope) → wait **6–8 months** → ligament reconstruction only if instability persists · grade II PCL **with PLC** injury → combined reconstruction
+
+**Sequence (TO)** — always reconstruct **PLC with PCL** → prevents PCL graft overload · **missed PLC = most common cause of failed PCL reconstruction**
 
 **Medial opening-wedge HTO** — **↑ tibial slope + tibia shifts anterior** · addresses varus + PCL deficiency\
 ✗ Wrong options: decreased · posterior
@@ -390,3 +423,9 @@ PCL injury
 **"Gillquist portal (TO)?"** → **central portal through patellar tendon**
 
 **"Gillquist manoeuvre purpose (TO)?"** → **visualise posterior compartment**
+
+**"Most reliable clinical test for PCL (TO)?"** → **posterior drawer test**
+
+**"Tram-track sign of the PCL (TO)?"** → **mucoid degeneration**
+
+**"Most common cause of failed PCL reconstruction (TO)?"** → **missed PLC injury**

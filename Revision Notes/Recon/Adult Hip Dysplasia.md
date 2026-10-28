@@ -212,6 +212,20 @@ Symptomatic adult hip dysplasia
 
 **Options for deficient coverage** — downsize cup · **medialize** · elevate hip centre · **trabecular metal / cement augments** · superolateral bone graft · tantalum revision shells
 
+**TO lecture notes** — **Hartofilakidis preferred for surgical planning** · Crowe by subluxation **< 50% · 50–75% · 75–100% · > 100%** · posterior approach ± trochanteric osteotomy · **true acetabulum found by inferior margin + acetabular notch (teardrop)** · **anterior wall thin** in DDH · cementless cup preferred, **cemented acceptable if poor bone stock** (TO) vs cemented → high loosening (OB) — read the options
+
+**Cup / head size (TO)** — **cups < 40 mm**, heads **≤ 28 mm** · anatomical stems with anterior bow for narrow canals · centre checked with **Köhler + Shenton lines** under C-arm · cup **< 50 mm** (Orthobullets) — read the options
+
+| Hartofilakidis type | Key step (TO) |
+|---|---|
+| **Dysplasia** | Ream medially, deepen · protrusion **≤ 5 mm beyond quadrilateral plate** (Chandler) |
+| **Low dislocation** | Recognise true acetabulum · **≥ 20% cup uncovered → graft / augment** · often cotyloplasty |
+| **High dislocation** | Soft-tissue release + **femoral shortening** + **GT distalization** · anatomic cup |
+
+**Cotyloplasty (TO)** — **deliberate controlled perforation of medial wall** → medialization + centralised cup · femoral-head autograft chips packed beneath cup
+
+**Dunn & Hess shortening (TO)** — osteotomy **just distal to lesser trochanter**, segment removed · **GT distalized** (attached laterally) → abductor tension
+
 **Pseudoacetabulum** — in **ilium**, poor support · cup there → **loosening, malposition, ilium fracture** (avoid)
 
 **High hip centre** — gains bony support but **↓ abductor tension, ↑ JRF, ↑ loosening, ↑ dislocation** · bone poorer higher in ilium
@@ -313,3 +327,7 @@ Symptomatic adult hip dysplasia
 ✗ Wrong options: only reliable <12 yr · Hilgenreiner–Perkin angle
 
 **"Tönnis angle used in?"** → **hip dysplasia** (TO)
+
+**"Deliberate medial wall perforation to medialize the cup in DDH?"** → **cotyloplasty** (TO)
+
+**"DDH classification preferred for surgical planning?"** → **Hartofilakidis** (TO)

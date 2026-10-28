@@ -29,6 +29,12 @@
 
 **Anterior structures** — \~**40%** of pelvic stability (OB)
 
+**Three stabilising elements (TO)** — **ring** · **keystone sacrum** · **suspension bridge** (posterior ligaments)
+
+**Load path (TO)** — standing: sacrum → SI joints → **sciatic buttress** → acetabulum → femur · sitting: posterior ring → **ischium**
+
+**Ligament roles – TO wording (TO)** — **sacrotuberous resists vertical shear** · **sacrospinous resists ER** · anterior SI resists ER · **posterior SI = primary stabiliser** · **iliolumbar (L5 TP → ilium)** important in LC
+
 **Vessels** — internal iliac dives posteriorly at SI joint → **posterior division → superior gluteal** · anterior → obturator · **posterior venous plexus = 80–90% of bleeding**
 
 **Nerves** — **lumbosacral trunk crosses ala + SI joint**; **L5 root over sacral ala \~2 cm medial to SI joint**
@@ -64,6 +70,12 @@
 
 **Instability signs** — **> 5 mm posterior SI displacement**, **posterior sacral gap**, **avulsions (ischial spine / tuberosity, sacrum, L5 TP)** · **lateral sacral avulsion = instability (APC)**
 
+**Avulsion → ligament (TO)** — **L5 transverse process → iliolumbar** (high-energy LC) · **ischial spine → sacrospinous** · **lateral sacral avulsion → sacrotuberous**
+
+**AP pelvis (TO)** — diagnoses **\~90%** · outlet view: **sacral foramina appear round**, best for **vertical displacement** · inlet: AP displacement, rotation, sacral fractures, diastasis
+
+**Exam caution (TO)** — **do not repeat pelvic compression / springing tests** (clot dislodgement) · check perineal sensation, femoral pulses, blood at meatus, vaginal / rectal exam
+
 **Isolated rami fractures — next view (TO)** — answer key not provided by the source; inlet / outlet views complete the pelvic series
 
 **Labs** — **Hb, lactate, base excess**
@@ -86,6 +98,7 @@
 | **A — stable** | A1 avulsion / iliac wing · A2 stable ring · **A3 transverse sacral (Denis III)** |
 | **B — rotationally unstable, vertically stable** | **B1 open book (ER)** · **B2 LC (IR)** (B2-1 ipsilateral rami, **B2-2 contralateral = bucket handle**) · B3 bilateral |
 | **C — rotationally + vertically unstable** | C1 unilateral (iliac / SI / sacral) · C2 one B + one C · C3 bilateral C |
+| **Tile subtypes (TO)** | A2 iliac wing / anterior arch (rami) · A3 transverse sacral / coccygeal · **C1.1 iliac · C1.2 SI dislocation · C1.3 sacral** |
 
 | Young-Burgess | Injury |
 |---|---|
@@ -96,6 +109,7 @@
 | **LC II** | Rami + **ipsilateral posterior ilium crescent fracture-dislocation** |
 | **LC III** | Ipsilateral LC + **contralateral APC (windswept)** — rollover, pedestrian |
 | **Vertical shear** | Posterior + superior force; **highest hypovolaemic shock (63%)**, mortality up to 25% |
+| **Combined mechanism (TO)** | LC / VS or APC / VS vectors (ejection) |
 
 **Tilt fracture** (displaced superior ramus, women) — **lateral compression**; vaginal exam for open fracture
 
@@ -158,6 +172,16 @@ Unstable pelvis + haemodynamic instability
 **Class III shock despite binder + 1:1:1, FAST negative** — **emergent angiography**
 
 **Persistent bleeding after SGA embolisation** — repeat angiogram → **new source (68%)** > re-bleed (18%) > both (14%)
+
+**Haemorrhage – TO (TO)** — **80–90% venous** (retroperitoneal plexus) + bone · arterial \~10% · **CTA contrast extravasation (blush) predicts need for embolisation** · **elderly more likely to need angioembolisation**
+
+**Pre-peritoneal packing (TO)** — persistent instability · **works only with pelvic stabilisation** (ex-fix first) · retropubic tamponade
+
+**REBOA / resuscitative thoracotomy (TO)** — **only in extremis**, temporary proximal aortic control to buy time
+
+**Binder removal (TO)** — within **16–24 h** once physiology stable → replace with ex-fix if still unstable
+
+**Pelvic C-clamp (TO)** — **posterior ring / vertical shear** → rapid closure of SI diastasis · anterior frames: iliac crest vs **supra-acetabular (better bone)**
 
 **Pudendal bleed after splenectomy, lactate > 5** — **IR embolisation** before definitive fixation
 
@@ -239,12 +263,27 @@ Unstable pelvis + haemodynamic instability
 
 **S2 alar-iliac vs iliac screws (TO)** — alar: deeper start (15 mm, less prominence), no connector, **MORE SI joint violation** (incorrect: "less violation")
 
+**Timing (TO)** — definitive fixation best at **24–48 h**; otherwise **delay ≥ 7 days**
+
+**Reduction tools (TO)** — symphysis: **Weber clamp on pectineal eminence** · **Jungbluth clamp** (screw-held) · ramus: 6-hole reconstruction plate · anterior ring reduction realigns sacrum indirectly
+
+**Approaches (TO)** — anterior ring: **Pfannenstiel**, **modified Stoppa** · posterior: anterior iliac window for SI joint, posterior for sacral / crescent fractures
+
+**Iliosacral screws (TO)** — **S1 + S2 only**, cannulated, fully threaded for stability
+
+**Crescent fracture (TO)** — iliac wing fracture + SI joint involvement → **ORIF plate + SI screws**
+
+**Sacral U / H / Y fractures (TO)** — **lumbopelvic fixation** (highest vertical stability) · **trans-iliac plate** for sacral comminution
+
+**Biomechanics (TO)** — more fixation points → more stability · **anterior plate > ex-fix for rotation** · **neither controls vertical shear** → posterior fixation essential
+
 ### Operative criteria
 
 | Operative | Nonoperative |
 |---|---|
 | **Symphysis > 2.5 cm** | **APC I < 2.5 cm**, intact posterior ring |
 | **SI displacement > 1 cm** | **LC I** (< 1 cm posterior displacement) |
+| — | **LC I < 1.5 cm displacement** (TO) — read the options |
 | **Sacral displacement > 1 cm** | Isolated rami |
 | Rotated / displaced hemipelvis | **Peripartum diastasis < 4 cm** (bed rest + binder) |
 | Open fracture | Children with open triradiate (most) |
@@ -358,6 +397,10 @@ Unstable pelvis + haemodynamic instability
 **"Binder centred over?"** → **greater trochanters**
 
 **"Binder controls?"** → **retroperitoneal venous bleeding**
+
+**"L5 transverse process fracture implies?"** → **iliolumbar ligament injury (high-energy LC)** (TO)
+
+**"Iliosacral screws placed in?"** → **S1 and S2 only** (TO)
 
 **"Laparotomy needed — orthopaedic step?"** → **external fixation**
 

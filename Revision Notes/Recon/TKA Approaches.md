@@ -44,6 +44,10 @@
 
 ![Medial parapatellar, quad-sparing, subvastus, midvastus](../../MCQ/attachments/q219773-illa-median-para.jpg)
 
+**Exposure tip (TO)** — always raise the **medial periosteal sleeve** + remove **patellar fat pad** · subvastus / midvastus not for **obese or revision** · **rectus snip** for stiff / revision knees
+
+**Ankylosed knee (TO)** — needs **intact extensor mechanism** (else mesh / allograft) · **flexion > 90° hard to achieve**, high complication rate, poor prognosis
+
 ### Vastus approaches & denervation
 
 **Greatest quadriceps denervation potential** — ✓ **midvastus** (abnormal EMG · blunt interval dissection recovers better than sharp)\

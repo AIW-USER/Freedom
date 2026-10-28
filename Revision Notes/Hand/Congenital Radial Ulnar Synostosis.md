@@ -13,11 +13,15 @@
 
 **Demographics** — **♂ > ♀ (3:2)**; **~60% bilateral** (TO: "more than half")
 
+**Bilateral** — **~60%** (Orthobullets, TO lecture 1) · **80%** (TO lecture 2) — read the options
+
 **Family history** — **~20%**; familial cases **autosomal dominant**
 
 **Associated syndromes (~30%)** — **Apert** · Carpenter · **arthrogryposis** · mandibulofacial dysostosis · **Klinefelter**
 
 **Associated anomaly** — posterior **radial head dislocation**
+
+**Associations (TO)** — + **Poland syndrome**
 
 ### Genes & lab markers
 
@@ -53,6 +57,8 @@
 
 **Findings** — **proximal radioulnar synostosis** · **radius wide and bowed** · **ulna narrow and straight** · radial head ± dislocated/malformed
 
+**MRI (TO)** — shows **fibrous synostosis**
+
 ![Proximal radioulnar synostosis](../../Orthobullets/attachments/ob6071-ru-synostosis.jpg)
 
 **Fall + fixed pronation** — synostosis is congenital, not from acute trauma 3 days ago
@@ -67,6 +73,8 @@
 | 4 | **Short osseous** | **Mushroom-shaped, anteriorly dislocated** | ![Type 4](../../Orthobullets/attachments/ob6071-type4.jpg) |
 
 **Cleary vs Wilkie (TO)** — Cleary & Omer = the better classification
+
+**Mital classification (TO)** — **I fusion without radial head dislocation** · **II fusion with radial head dislocation**
 
 ### Wilkie classification (TO)
 
@@ -115,6 +123,14 @@ Congenital RU synostosis
 | **Bilateral – dominant** | **0–15° pronation** | 10–20° pronation | 20° pronation |
 | **Bilateral – nondominant** | **Neutral** | Neutral | Neutral |
 
+**Interposition procedures abandoned (TO)** — **double-level osteotomy preferred** (vs through / distal to synostosis) · goal functional position, rotation does not return
+
+| Age (TO) | Fixation after osteotomy |
+|---|---|
+| **< 5 yr** | Cast |
+| **5–10 yr** | **Elastic nail** |
+| **> 10 yr** | **Plate** |
+
 **Old teaching** — nondominant in 10–15° (Orthobullets) / 20° (TO) **supination** → no longer recommended (keyboards, phones)
 
 **Bilateral older OB goal** — one forearm modest pronation, other modest supination
@@ -135,6 +151,8 @@ Congenital RU synostosis
 | **Loss of correction** | Casting after osteotomy → **15–20°** (Orthobullets) · up to 20° (TO, Lin method) |
 | **Compartment syndrome** | Up to **36%**; corrections **>60°**; ± prophylactic fasciotomy |
 | **Nerve palsy** | **PIN** (proximal osteotomy), AIN, radial; most resolve in 3 mo |
+
+**Osteotomy complications (TO)** — compartment syndrome · **nonunion** · **elbow stiffness** · **recurrence of deformity by remodelling**
 
 ## How it's asked
 

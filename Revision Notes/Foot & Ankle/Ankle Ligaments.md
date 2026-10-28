@@ -120,6 +120,18 @@
 
 ![Tibiofibular clear space < 5 mm and overlap > 10 mm](../../Orthobullets/attachments/ob7005-tibfib-overlap.jpg)
 
+**MRI planes (TO)** — **ATFL on axial** (level where talus looks egg-shaped / "8"), **never coronal** · **CFL + deltoid on coronal** (coronal = "money image" for medial side) · CFL deep to peronei, trace obliquely over several slices (TO)
+
+**Deltoid on MRI (TO)** — deep layer (anterior + posterior tibiotalar) normally **striated, high-signal fibrofatty** — not a tear · injury = loss of striation, fluid in deep layer, medial marrow contusion (TO)
+
+**Superficial deltoid talar attachment** — inserts talar neck / posteromedial tubercle (Orthobullets) · **does not attach to talus**; tibiocalcaneal + tibiospring + tibionavicular, sling with spring ligament (TO) — read the options
+
+**Sleeve avulsion (TO)** — superficial deltoid origin + MM periosteum + flexor retinaculum strip off together · **tibialis posterior may herniate** into gap (TO)
+
+**Talar tilt stress views (TO)** — always **bilateral** varus stress · **> \~4° or side-to-side difference = ATFL + CFL** (e.g. 1° vs 13°) (TO) · normal < 5° (Orthobullets)
+
+**Scarred ATFL (TO)** — thick grey = remodelling scar · **dark thick scar can look intact but be insufficient** (MRI not dynamic) → stress views (TO) · thick nodular CFL = old tear (TO)
+
 ### Syndesmotic ligament avulsion fragments (AITFL)
 
 **Tillaux fracture** — **AITFL (anterior tibiofibular ligament)** avulses **anterolateral distal tibial epiphysis** · transitional fracture, **anterolateral physis closes last**\
@@ -166,6 +178,8 @@
 | Arch support | **Most important** | Less |
 
 ## How it's asked
+
+**"MRI plane to assess the ATFL?"** → **axial (not coronal)** (TO)
 
 **"Inversion with foot plantar flexed 20° — ligament?"** → **anterior talofibular**
 

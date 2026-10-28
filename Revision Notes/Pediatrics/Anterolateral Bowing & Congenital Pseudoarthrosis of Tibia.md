@@ -40,6 +40,14 @@
 | **Anteromedial** | **Fibular hemimelia (deficiency)** | — |
 | Posterolateral | No specific association | — |
 
+**Describe by apex (TO)** — apex on AP (medial / lateral) + apex on lateral (anterior / posterior) · **anterolateral → CPT** · posteromedial → physiological · **anteromedial ("intramedial") → fibular hemimelia**
+
+### Pathobiology (TO)
+
+**Periosteal disease (TO)** — **not a simple nonunion** · **fibrous hamartoma replaces periosteum** → compression, osteolysis, vascular constriction · bone viable but atrophic · canal obliterated by sclerosis · **↓ BMP** from osteocytes · **↑ osteoclast** activity
+
+**Pathomechanics (TO)** — anterolateral diaphyseal angulation · **proximal migration of fibula** · small cross-sectional area at CPT site
+
 ## 3 Presentation
 
 **Onset** — bowing in **first year** of life
@@ -47,6 +55,8 @@
 **Exam** — anterolateral deformity · **café-au-lait spots** + other NF stigmata
 
 **Fibula** — dysplastic fibula / fibular pseudarthrosis in **two-thirds** (TO) · **one-third** (other TO explanation) — read the options
+
+**Clinical (TO)** — bow at **junction of middle and distal third** · usually unilateral · **skin dimple over apex** · fibular dysplasia · ankle valgus · LLD · always head-to-toe exam for NF1 (café-au-lait "coast of Maine", axillary freckling, Lisch nodules, optic glioma)
 
 ## 4 Diagnosis & Classification
 
@@ -75,6 +85,8 @@
 | V | **Dysplastic fibula** | Good if confined to fibula |
 | VI | Intraosseous **neurofibroma / schwannoma** | Extremely rare |
 
+**Boyd II onset** — fracture **< 2 yr** (TO table above) · "usually presents **after 2 yr**" (other TO lecture) — read the options
+
 ### Crawford classification (TO) — all anterolateral
 
 | Type | Feature | Prognosis |
@@ -85,6 +97,21 @@
 | IV | Established pseudarthrosis (tibia ± fibula) | — |
 
 **Andersen** — dysplastic, cystic, sclerotic, clubfoot types · **El-Rosasy–Paley–Herzenberg** — I atrophic mobile, no surgery · II atrophic mobile, previous surgery · III broad ends, stiff · **Choi fibula** — A (fibula intact) · B (fibular pseudarthrosis, B1–B3)
+
+**Crawford — other TO versions** — lecture A: I non-dysplastic bowing with **medullary sclerosis** · **IIa failure of tubularisation** · IIb cystic · IIc frank pseudarthrosis · lecture B: I bowing no fracture · II cystic · III pseudarthrosis · IV sclerotic segment — read the options
+
+**Paley III** — broad ends, stiff (TO lecture A) · **fracture without frank mobility** (TO lecture B)
+
+### Congenital pseudarthrosis of fibula (TO)
+
+| Type (TO) | Feature |
+|---|---|
+| **1** | Fibular bowing |
+| **2** | Fibular pseudarthrosis, **no ankle deformity** |
+| **3** | Fibular pseudarthrosis + **ankle valgus** |
+| **4** | Fibular pseudarthrosis + **tibial involvement** |
+
+**Rx (TO)** — long-term bracing · **tibiofibular synostosis (Langenskiöld procedure)**
 
 ## 5 Management
 
@@ -110,6 +137,8 @@ Anterolateral bowing / CPT
 
 **Posteromedial bowing case** — "pseudarthrosis, brace" is the **false** statement · observation only, LLD, calcaneovalgus association (TO)
 
+**Bracing (TO)** — **prevents fracture, does NOT correct deformity** · infants before walking: education + protection enough · clamshell (circumferential) to maturity
+
 ### Growth modulation for deformity
 
 **Unfractured anterolateral bowing with cystic change** — **distal tibial anterolateral 8-plate (guided growth)** → gradual cyst resolution + correction (TO, Laine 2020)\
@@ -122,6 +151,16 @@ Anterolateral bowing / CPT
 
 **Goals** — resect pseudarthrosis to normal bone · correct alignment · bone graft + stabilise · **intramedullary splinting**
 
+**Aims (TO)** — union · prevent refracture · LLD · ankle valgus prevention
+
+**Principles (TO)** — **complete excision of fibrous hamartoma to normal fat planes** + abnormal periosteum · **recanalise medullary canal** · **autogenous cancellous graft** (stem cells) · **rigid IM fixation** (↓ refracture) · angular correction at CPT site mandatory · **periosteal grafting** · **large cross-sectional union** · tibiofibular **cross-union prevents refracture**
+
+| Technique (TO) | Union | Note |
+|---|---|---|
+| **IM rod + graft** | **\~85%** | **First line**, any age · retain rod to maturity · rod crossing ankle ↓ valgus |
+| **Vascularised fibula** | **90–95%** | **Refracture up to ⅓** (no permanent IM fixation) |
+| **4-in-1 / cross-union (Choi, popularised by Paley)** | — | Excise fibrous tissue · acute docking + compression · **tibiofibular cross-union** · circumferential corticocancellous graft · 3-layer graft: **periosteum + cancellous graft + BMP-2** · telescoping rod ± Ilizarov · **IV zoledronate** pre + post-op |
+
 | Technique | Key point |
 |---|---|
 | **IM rod + bone graft** | Resect, **shorten tibia**, rod, graft |
@@ -132,11 +171,15 @@ Anterolateral bowing / CPT
 
 **Amputation** — after **multiple failed unions**, severe LLD, dysfunctional deformity · **Syme or Boyd** (ankle disarticulation) preferred over amputation at pseudarthrosis
 
+**Amputation (TO)** — multiple failed surgeries · **shortening > 7.5 cm** · nonfunctional limb
+
 ![Vascularised fibular graft](../../Orthobullets/attachments/ob4056-free-fibula-graft-courtesy-miller-moved.png)
 
 ## 6 Complications
 
 **Refracture** — **≥50%** even after union · decreases with age, ceases after maturity
+
+**Refracture (TO)** — **most common** complication · **14–60%** · prevent with orthosis + retained IM rod to maturity · others: ankle valgus (fibular growth disturbance), LLD, infection, ankle stiffness / OA
 
 **Other** — **valgus** deformity · **LLD ~5 cm** at maturity · no treatment gives predictable results
 
@@ -178,3 +221,7 @@ Anterolateral bowing / CPT
 
 **"Indication for surgery in CPT?"** → **pseudarthrosis (or fracture)** (TO)\
 ✗ Wrong options: bowing >45° · brace failure
+
+**"CPT is primarily a disease of?"** → **periosteum (fibrous hamartoma)** (TO)
+
+**"First-line operative fixation for CPT?"** → **IM rod + bone graft** (TO)

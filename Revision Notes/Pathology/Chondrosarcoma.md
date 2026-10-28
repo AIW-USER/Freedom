@@ -86,6 +86,18 @@
 
 **MRI** — **lobulated**, T1 low–intermediate, **T2 high** (cartilage water) with low-signal septa · **"rings and arcs" septal enhancement** · defines soft-tissue extent
 
+**MRI sequence** — **plain T2** images essential (T2-hyperintense lobulated cartilage tumour) (TO)
+
+**Transformation clues (TO)** — expansion · cortical erosion · **endosteal scalloping** · size **>5 cm** · **marrow oedema** · soft-tissue component
+
+| PET-CT SUV (TO) | Reading |
+|---|---|
+| **< 2** | Benign |
+| **2–3** | Borderline → correlate clinically + radiologically |
+| **> 3** | Malignant |
+
+**PET-CT in low grade** — used to **avoid under-grading** before extended curettage (TO)
+
 **Bone scan** — very hot in all grades · **uptake > ASIS** characteristic (enchondroma < ASIS)
 
 ![Bone scan uptake greater than ASIS](../../Orthobullets/attachments/ob8023-bone-scan-chondrosarc.jpg)
@@ -186,6 +198,8 @@ Chondrosarcoma (chemo- and radio-resistant)
 **Lung metastases** — resect if possible **(TO)**
 
 ### Low-grade lesion — extended curettage
+
+**Grade 1 (TO)** — **extended curettage + cementing** possible · surgery mainstay · **no RT, no chemo** except **mesenchymal / dedifferentiated** · clear cell = **low grade**, radiographs may look benign
 
 **ACT / grade 1 extremity** — **extended intralesional curettage + high-speed burr + adjuvant + bone-void graft ± prophylactic fixation** · same recurrence as wide resection, better function
 

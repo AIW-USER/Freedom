@@ -23,6 +23,16 @@
 
 **Tissue tolerance (TO)** — **cortical bone tolerates only 2%** · **lamellar bone up to 10%** (TO wording) · granulation tissue tolerates the **greatest** strain
 
+| Tissue | Yield strain (TO, Perren 1975) |
+|---|---|
+| Granulation | **100%** |
+| Cartilage | **10%** |
+| Bone | **2%** |
+
+**Fibrous union threshold** — **10–100%** (Orthobullets) · **> 17%** (TO) — read the options
+
+**Callus** — ∝ movement · inversely ∝ stability (TO)
+
 **Osteoblasts** — stimulated at 0.3–2.8% strain · optimal interfragmentary motion **0.2–1 mm**
 
 | Construct | Healing |
@@ -48,6 +58,20 @@
 | **Inflammation** (haematoma) | Haematopoietic cells, macrophages, neutrophils, platelets → **PDGF, TNF-α, TGF-β, IL-1, 6, 10, 12** (from 24 h) · **BMPs ↑**, MSC migration (**SDF-1, G-CSF**) · granulation tissue · **COX-2 → Runx2/osterix** (NSAIDs act here) |
 | **Repair** | **Primary callus within 2 wk** · stable → osteoblasts, unstable → chondrocytes · **type II collagen early → type I** · soft → hard callus (woven bone) · callus amount ∝ 1/immobilisation |
 | **Remodelling** | Starts mid-repair, continues years · Ihh, PTHrP, FGF, BMP · **type X** collagen (hypertrophic chondrocytes, calcification) · chondrocyte apoptosis → **VEGF** → vessels · woven → **lamellar** (Wolff's law, piezoelectric) |
+
+**Frost stages (1989, TO)** — **haematoma** → **granulation tissue** → **callus** (soft → hard, endochondral) → **modelling** (trabeculae reorient to stress) → **remodelling** (woven → lamellar, Wolff "form follows function")
+
+| Perkins timetable (TO) | Callus visible | Union | Consolidation |
+|---|---|---|---|
+| **Upper limb** | 2–3 wk | **4–6 wk** | 6–8 wk |
+| **Lower limb** | 2–3 wk | **8–12 wk** | 12–16 wk |
+
+| Growth factor | Action in healing (TO) |
+|---|---|
+| **BMP** | **Osteoinductive** · MSC → osteoblast |
+| **TGF-β** | Type II collagen + PG synthesis in callus |
+| **IGF-II** | Type I collagen + cartilage matrix |
+| **PDGF** | **Chemotactic** — recruits inflammatory cells |
 
 ### Biologic stages & mediators
 

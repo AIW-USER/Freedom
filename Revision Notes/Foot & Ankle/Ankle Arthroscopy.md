@@ -80,6 +80,8 @@
 
 **Imaging (TO)** — lateral X-ray: os trigonum / Stieda (may be normal) · **MRI best: bone marrow oedema** in talus, calcaneus or os trigonum
 
+**After os trigonum excision (TO)** — scarring + posterior talocalcaneal chondral change · **US-guided fenestration + steroid into scar** can help (TO)
+
 **DDx (TO)** — Achilles tendinosis / tear, **FHL tenosynovitis**, posterior talar process fracture, Haglund's, OCL, retrocalcaneal bursitis
 
 **Treatment** — nonop (NSAID, activity modification, PT) → **excision open lateral or posterior arthroscopy** via posterolateral portal (**sural at risk**) · stress fracture ± FHL tenosynovitis / entrapment

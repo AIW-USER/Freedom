@@ -82,6 +82,8 @@
 | **II Incomplete** | Semilunar — **≤ 80%** (OB) · < 80% / up to 80% (TO) | Normal | |
 | **III Wrisberg** | Near-normal size + shape | **No meniscotibial (coronary) attachment — only Wrisberg MFL** | **Least common**, hypermobile → **snapping knee** · needs **stabilization** |
 
+**Popliteomeniscal fascicles (TO, MRI)** — hypoplastic / torn posterior fascicles → gap between capsule and LM, rounded posterior edge, lost bow tie → **hypermobile lateral meniscus** (slips in and out, degenerates) · may coexist with discoid LM · **discoid medial meniscus = rare**
+
 ![Watanabe classification](../../Orthobullets/attachments/ob3007-watanabe-classification.jpg)
 
 **Frequency order** — complete > incomplete > Wrisberg (OB) · TO: complete + incomplete commoner, Wrisberg least common
@@ -237,3 +239,5 @@ Discoid lateral meniscus (TO)
 **"Watanabe I with radial tear?"** → **partial meniscectomy ± repair**
 
 **"Snapping knee — which type (TO)?"** → **Wrisberg type**
+
+**"Deficient popliteomeniscal fascicles on MRI (TO)?"** → **hypermobile lateral meniscus**

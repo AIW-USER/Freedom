@@ -42,6 +42,8 @@
 
 **Severe CSM** — proximal LL muscles weaker than distal (opposite in lumbar stenosis)
 
+**Other features (TO)** — **gait worse in darkness**, frequent falls · intrinsic (thenar/interosseous) wasting · **glove-and-stocking** sensory loss · **Hoffmann = early myelopathy sign** (TO: "pathognomonic") · finger escape = early sign
+
 ### Clinical diagnosis – UMN signs
 
 | Sign | Fact |
@@ -86,6 +88,8 @@
 
 **Prognostic MRI** — **focal** T2 signal better than **multisegmental** T2 signal · isolated **low T1** = gliosis/cavitation, little improvement · cord shape boomerang → teardrop → **triangular** (worst)
 
+**Cervical MRI read (TO)** — **gradient** sequence for disc/osteophyte, **T2** for cord · **loss of CSF cushion in front of cord** = cord at risk · compressing structure: disc-osteophyte (anterior), flavum (posterior), OPLL · **rule out myelopathy before calling radiculopathy**
+
 **Non-op success predictor** — **transverse cord area > 70 mm²**\
 ✗ Wrong options: ↑ CMCT · low T1 signal · canal < 13 mm · younger age
 
@@ -106,6 +110,8 @@
 | 3 | Gait prevents employment, walks unassisted |
 | **4** | **Walks with assistance** |
 | 5 | Chair / bedbound |
+
+**Nurick wording (TO)** — 2 **mild gait difficulty, independent** · 3 **gait abnormality, needs support** · 4 ambulation only with assistance — vs "fully employed / prevents employment" (Orthobullets) — read the options
 
 | Ranawat | |
 |---|---|
@@ -152,6 +158,14 @@ Cervical myelopathy surgery
 | **Local kyphosis > 13°** | Contraindication to posterior decompression / **strongest predictor of poor laminoplasty outcome** (✗ Wrong options: multilevel stenosis · osteoporosis · CSF effacement) |
 | **Kyphosis > 12° + > 2 levels** | **Combined A/P** (OB) |
 | **≥ 3-level corpectomy** | Anterior alone → **> 70% catastrophic failure** → add posterior |
+
+**Surgical indications (TO)** — **Nurick ≥ 2 with progressive deficit** · severe compression with **T2 signal change** · unstable / kyphotic alignment
+
+**Posterior decompression ineffective (TO)** — **anterior encroachment > 7 mm** · **cervical lordosis < 10°**
+
+**Selective laminectomy C3–C6 (TO)** — **preserve C2 + C7** muscle attachments → ↓ post-laminectomy kyphosis
+
+**Anterior (TO)** — ACDF for single-level soft disc / focal OPLL · **ACCF (corpectomy)** for multilevel / central OPLL · limited to 1–2 levels · **dural tear risk in OPLL**
 
 **Bowstringing** — in kyphosis cord drapes over anterior osteophytes; posterior decompression can't let it drift back
 
@@ -442,3 +456,5 @@ Cervical myelopathy surgery
 **"Canal diameter suggesting stenosis?"** → **< 10 mm** (TO)
 
 **"Commonest site of cervical spondylosis?"** → **C5-6** (TO)
+
+**"Posterior decompression ineffective when?"** → **anterior encroachment > 7 mm or lordosis < 10°** (TO)

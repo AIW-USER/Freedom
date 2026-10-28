@@ -47,6 +47,10 @@
 
 **Most common source** — ✓ **branches of obturator vessels** (near ligamentum teres, TAL, inferior acetabular osteophytes) (TO)
 
+**High-risk zones (TO)** — **inferior edge of TAL → obturator vessels** · **gluteus maximus insertion → profunda femoris branches** · **medial wall penetration → iliac vessels** · avoid deep reaming / over-medialization
+
+**Drain (TO)** — only if a major vessel was injured · **keep clamped 6–8 h** → tamponade
+
 **Others** — **first perforating branch of profunda femoris** (deep to gluteus maximus insertion) · femoral vessel branches near anterior capsule · superior + inferior gluteal branches (TO)
 
 ### Anterior retractor – femoral neurovascular bundle (TO)
