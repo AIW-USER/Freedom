@@ -32,6 +32,16 @@
 | Medial | 3% | Varus / valgus |
 | **Rotational (posterolateral)** | 4% | **Usually irreducible** (buttonholed MFC) |
 
+**Direction frequency (TO)** — anterior **40%** · posterior **33%** · lateral **18%** · medial **4%** · rotatory **5%** — read the options vs table above
+
+**Anterior dislocation (TO)** — hyperextension **> 30°** → posterior capsule → ACL → PCL → **popliteal artery** · vascular injury = **stretch** (anterior) vs **contusion / transection** (posterior)
+
+| Time of presentation (TO) | Duration |
+|---|---|
+| Acute | **< 3 weeks** |
+| Subacute | 3 weeks – 3 months |
+| Chronic | **> 3 months** |
+
 | Schenck | Ligaments torn |
 |---|---|
 | **KD I** | Multiligament with **ACL or PCL** intact |
@@ -83,6 +93,8 @@
 
 ![Knee dislocation radiograph](../../Orthobullets/attachments/ob1043-knee-dislocation.jpg)
 
+**Avulsion signs (TO)** — **Segond → ACL** · **reverse Segond → PCL / PLC** · **arcuate sign → PLC**
+
 ### Vascular injury — incidence, ABI, CT angiography & exploration
 
 **Incidence** — **5–15% all** (Orthobullets) · 10–40% / 18–45% / \~16% / \~25% (OB) · **40–50% anterior or posterior** · **low-velocity anterior \~40%** (OB) — read the options
@@ -100,6 +112,12 @@ After reduction
 **Present pulses** — **do not exclude** popliteal injury (collaterals) · **pulse oximetry** doesn't exclude either
 
 **Ischaemia > 8 h** — **amputation up to 86%** (Orthobullets) · > 6–8 h **\~85%** (OB)
+
+**Vascular incidence (TO)** — **16–64%** · highest in **posterior (44%)**
+
+**Pulses present, ABI > 0.9 (TO)** — observe **24 h** (TO) · serial exams 48 h (above) — read the options
+
+**Warm ischaemia > 6 h (TO)** — **mandatory fasciotomy**
 
 **Bilateral, ABI 0.78 left / 0.96 right** — **CTA left only, observe right**
 
@@ -124,6 +142,8 @@ After reduction
 | Rotatory | Traction + rotate opposite to deformity |
 
 **Splint** — **20–30° flexion**
+
+**Splint (TO)** — long leg splint **in extension** with towel bump under calf · vs 20–30° flexion (above) — read the options · persistent instability → **hinged knee-spanning ex-fix**
 
 **Reduction trick (TO)** — **exaggerate the deformity, then reverse** · posterolateral + dimple → **open reduction only**
 
@@ -183,6 +203,24 @@ After reduction
 
 **Tension angles (TO)** — **PCL at 70–90°** (anterolateral bundle 90°, restore step-off) **first** → **LCL at 20–30°** + slight valgus → rest of PLC at 60°, neutral rotation → **ACL at 30°** → posteromedial corner last
 
+**Early surgery criteria (TO)** — stable reduction, **ROM > 90°**, healthy skin → repair / reconstruction **within 3 weeks** · polytrauma, poor skin, vascular injury → delayed / staged
+
+| Combination (TO, Mohindra) | Acute < 3 wk | Chronic > 3 months |
+|---|---|---|
+| Cruciate + MCL / POL | Cruciate reconstruction + MCL / POL repair | Cruciates first, delayed MCL reconstruction if unstable |
+| ACL + PCL | One-stage ACL + PCL | Two-stage: **PCL first → ACL after 3 months** |
+| ACL + PCL + MCL or PLC | One-stage ACL + PCL + collateral | Stage 1 PCL + PLC / MCL → stage 2 ACL (3 months) |
+
+**Tensioning sequence (TO, Mohindra)** — **PCL at 90°** (anterior drawer) → PLC in slight varus + IR → **ACL in full extension** · vs ACL at 30°, PLC neutral rotation (above) — read the options
+
+| MLKI rehab (TO) | Key rule |
+|---|---|
+| 0–6 wk | PCL brace, NWB, **prone ROM only (no supine knee bending)** |
+| 6–8 wk | Partial WB, ROM > 90°, closed chain only, avoid ER |
+| 8–12 wk | Full WB, squats < 70°, brace |
+| > 12 wk | Open chain, proprioception |
+| RTS | **9 months** |
+
 **PLC before ACL (TO)** — ACL tension in PLC-deficient knee **↑ external tibial rotation**
 
 **ACL + grade 1 MCL (TO)** — **hinged brace (locked 30°) \~2 wk, then ACL reconstruction**\
@@ -239,6 +277,8 @@ After reduction
 ✗ Wrong options: deep / superficial branches alone
 
 **Recovery** — **\~50% partial** (Orthobullets) · complete 30–50% · **partial palsy \~85% vs complete \~35%** · < ⅓ regain dorsiflexion (OB)
+
+**Peroneal palsy (TO)** — **10–40% (avg 15%)**, most with **posterolateral** dislocation · traction > transection · only **50%** regain full function · **superficial peroneal recovers first** · persistent foot drop **50%**
 
 **EMG / NCS** — **unreliable before 4–6 wk**; at **3 months with weak TA firing → NCS / EMG**\
 ✗ Wrong options: PT alone · neurolysis · PTT transfer yet
@@ -369,3 +409,7 @@ After reduction
 **"Commonest Schenck type?"** → **KD IIIM** (TO)
 
 **"Arcuate sign indicates?"** → **PLC / LCL injury** (TO)
+
+**"Irreducible knee dislocation with dimple sign (TO)?"** → **posterolateral — open reduction**
+
+**"Surgical tensioning sequence in multiligament reconstruction (TO)?"** → **PCL at 90°, then PLC, then ACL**

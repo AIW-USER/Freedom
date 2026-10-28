@@ -69,6 +69,8 @@
 
 **MRI** — **pre-slip**: physeal widening + **metaphyseal edema** (T1 ↓, T2 ↑) · CT: physeal closure, osteotomy planning
 
+**Age pattern (TO, radiology)** — hip pain without sport at **11–12 yr → SCFE** · **7–8 yr → Perthes** · frog-leg shows irregular physis · MRI: **physeal widening + fluid**, effusion, head slipped backwards
+
 ![Klein line](../../Orthobullets/attachments/ob4040-kleins-line-moved.jpg)
 
 **"Metaphysis moves, not the epiphysis" (TO)** — metaphysis displaces **anterosuperiorly**, epiphysis stays in acetabulum · weak **hypertrophic zone** + thinned **perichondrial ring** · shear ↑ by obesity, vertical physis, **femoral retroversion**

@@ -10,6 +10,14 @@
 
 **Mortality** — up to **15%**
 
+**Incidence — two sources** — **3–4%** isolated long bone (Orthobullets) · **2–4%** isolated femur, up to **10%** multiple long-bone / pelvis (TO) — read the options
+
+**Mortality — two sources** — up to **15%** (Orthobullets) · **5–20% (avg 10%)** (TO) — read the options · fat embolism itself 65–99% (TO)
+
+**History (TO)** — **Zenker 1862** (autopsy) · **von Bergmann 1873** (first clinical diagnosis) · Sevitt: subclinical / non-fulminant / fulminant
+
+**Severe FES risk (TO)** — high-velocity trauma · **surgical delay > 10–12 h** · fixing multiple fractures in one sitting · lung contusion
+
 **Causes** — long-bone fractures (femur, tibia, pelvis) · **IM nailing** · **hip & knee arthroplasty** · rare: crush, burns, marrow biopsy/transplant, liposuction, CPR, haemoglobinopathy, steroids, pancreatitis, fatty liver **(TO)**
 
 **Risk factors (TO)** — young age · polytrauma, multiple fractures · **closed** fractures · **conservative** treatment of long-bone fractures · IM nailing: over-zealous nailing, reaming, ↑ reaming speed, ↑ nail–cortex gap
@@ -59,6 +67,15 @@
 
 **Additional** — PCO₂ >55 · pH <7.3 · RR >35 · dyspnoea · anxiety
 
+| FES criteria (TO) | Rule |
+|---|---|
+| **Gurd (TO, Tiwari)** | **2 major** or **1 major + 4 minor** |
+| **Gurd–Wilson (TO, Mohindra)** | ≥ 1 major + ≥ 4 minor + 1 lab (↓ platelets > 50%, ↓ Hb > 20%, ↑ ESR, fat globules) |
+| **Schonfeld fat embolism index** | Petechiae **5** · diffuse CXR infiltrates **4** · hypoxia **3** · fever, tachycardia, confusion 1 each → **score ≥ 5 diagnostic** |
+| **Lindeque (respiratory only)** | **PaO₂ < 60** · **PaCO₂ > 55** · **RR > 35** · dyspnoea in sedated patient |
+**Earliest vs confirmatory (TO)** — earliest = **fat in urine / sputum** (non-specific) · earliest confirmatory = **retinal lesions** or **fat-laden BAL macrophages** · most significant = **↓ PaO₂ / ↑ A–a gradient**
+**Retina (TO)** — cotton-wool spots + flame haemorrhages (**Purtscher retinopathy**), \~50%
+
 ### Key radiology findings
 
 **ABG (TO)** — early hypoxia + **hypocarbia, respiratory alkalosis** → later respiratory acidosis · ↑ A–a shunt within 24–48 h without ARDS
@@ -66,6 +83,8 @@
 **CXR (TO)** — initially normal → diffuse fluffy bilateral infiltrates (**"snowstorm"**), bases + periphery
 
 **CT angiogram** — negative for PE (distinguishes)
+
+**HRCT (TO)** — ground-glass + septal thickening → **"crazy paving"** · CT head = diffuse cerebral oedema · TOE shows fat during nailing
 
 ## 5 Management
 
@@ -75,6 +94,9 @@
 ✗ Wrong options: delay fixation, TO
 
 **Techniques** — narrower-shaft reamers · overdrill femoral entry in TKA · **external fixation** in medically unstable patients
+
+**Nailing precautions (TO)** — **venting hole (4.5 mm) in distal cortex** · canal lavage · **unreamed** nail (TO) · ex-fix first if borderline · **steroids before nailing — no role**
+**Ventilation targets (TO)** — FiO₂ < 0.6 · SpO₂ > 90% · pressure-control + PEEP · prone helps oxygenation, no survival benefit
 
 ### Treatment
 
@@ -142,3 +164,5 @@
 ✗ Wrong options: fat embolism (IM rod insertion)
 
 **"NOT a component of BCIS (TO)?"** → **hypertension**
+
+**"Earliest confirmatory test for FES?"** → **retinal lesions / fat-laden BAL macrophages** (TO)

@@ -31,6 +31,10 @@
 | Axillary | Axilla | Elbow, forearm, wrist, hand | — |
 | **Bier block** | IV regional (lidocaine distal IV, tourniquet) | Short (<60 min) hand/forearm (CTR) | **Deflate ≥30 min** → avoid LAST |
 
+**Bier block technique (TO)** — Esmarch exsanguination · **double cuff at SBP + 100 mmHg (or 2.5 × SBP)** · 0.5% plain lidocaine via distal IV cannula · wait 6–8 min → release **distal** cuff, keep proximal · never release early (hypotension, convulsions, arrhythmia, death) · **bupivacaine contraindicated**
+
+**Axillary block (TO)** — arm abducted + ER, inject above + below axillary artery · **does not block intercostobrachial nerve**
+
 ![Interscalene block](../../Orthobullets/attachments/ob9075-interscalene-block.jpg)
 
 **Interscalene contraindications** — ✓ **moderate–severe lung disease (FEV1 45%)** (diaphragm paresis ↓ lung volumes ~30%) · contralateral phrenic injury · LA allergy · infection · uncontrolled seizures · coagulopathy · pre-existing nerve injury\

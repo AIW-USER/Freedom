@@ -30,6 +30,10 @@
 | **Intermediate** | **Lunate fossa** | Load transfer; **short radiolunate** origin (radiocarpal stability) |
 | **Ulnar** | TFCC + distal ulna | DRUJ stability, rotation |
 
+**Three-column concept (Rikli & Regazzoni, TO)** — lateral: radial styloid + scaphoid fossa · **intermediate: lunate facet + sigmoid notch** · medial: ulnar head + TFCC · **intermediate column injury = major predictor of instability**
+
+**Treatment principles "ARMS" (TO)** — **A**rticular congruity · **R**adial alignment + length · **M**otion · **S**tability by preserving anatomical length
+
 **Lister tubercle** — dorsal, \~1 cm above joint; **EPL just ulnar** → long volar screws rupture EPL
 
 **Watershed line** — **most volar prominent rim** (lunate portion highest; short radiolunate) → **keep volar plate proximal**
@@ -59,6 +63,13 @@
 | **Volar tilt (lateral)** | **11°** | **Dorsal angulation < 5° or within 20° of contralateral** (Orthobullets, TO) · **dorsal tilt < 10°** in healthy < 65 (OB) |
 | Ulnar variance | Slightly negative | — |
 
+| Extra parameter (TO) | Normal / meaning |
+|---|---|
+| **Teardrop angle** | **\~70°** · ↑ = volar marginal fragment · **↓ = dorsally angulated fracture** |
+| Dorsal vs volar rim (PA) | Dorsal rim projects **3–5 mm distal** to volar rim |
+| **AP / lunate diameter ratio** | **\~1** · **> 1.3 = AP widening → unstable** |
+| Ulnar variance | Perpendicular method; normal < 1 mm difference |
+
 **TO EXCEPT trap (TO)** — "**dorsal tilt up to 7°**" is **not** acceptable
 
 **Radial length (TO)** — radial styloid \~1 cm distal to ulnar head
@@ -83,6 +94,32 @@
 **Colles complications (TO)** — TFCC tear, DRUJ instability, CRPS, stiffness, **malunion (dinner fork)**, **EPL tear**, nonunion\
 ✗ Wrong options: **gunstock deformity** (supracondylar humerus)
 
+| Smith — Thomas type (TO) | Pattern |
+|---|---|
+| **I** | Extra-articular, volar angulation |
+| **II** | **Intra-articular, volar displacement (= reverse / volar Barton)** |
+| **III** | Extra-articular, volar displacement, more oblique line |
+
+| Fernandez (mechanism, TO) | Pattern | Example |
+|---|---|---|
+| **I Bending** | Metaphyseal bending | Colles, Smith I |
+| **II Shear** | Articular rim | **Barton, chauffeur**, volar / dorsal rim |
+| **III Compression** | Subchondral collapse | **Die-punch** |
+| **IV Avulsion** | Ligament avulsion | **Radiocarpal fracture-dislocation** → always ORIF + ligament repair |
+| **V Combined high energy** | Multifragmentary | Combined dorsal + volar approach + bridge plate + bone graft |
+
+| AO (TO) | Pattern |
+|---|---|
+| A | Extra-articular |
+| B | **Partial articular** (part still attached to metaphysis) |
+| C | **Complete articular** with metaphyseal detachment |
+
+**Mayo (TO)** — extra-articular (non-displaced / displaced) · intra-articular (reducible / irreducible / unstable) · joint involved: I radioscaphoid · II radiolunate · III radioscapholunate
+
+**Frykman (TO)** — extra- vs intra-articular ± ulnar styloid · **limited prognostic value**
+
+**Chauffeur mechanism (TO)** — forced **dorsiflexion + radial deviation**
+
 ## 5 Management
 
 ```
@@ -97,6 +134,8 @@ Distal radius fracture
 ### Instability & indications for fixation
 
 **LaFontaine instability predictors** — **radial shortening (most predictive)**, then **dorsal comminution**; dorsal comminution > 50%, palmar / intra-articular comminution, **dorsal angulation > 20°**, **initial displacement > 1 cm**, **shortening > 5 mm**, severe osteoporosis, associated ulnar fracture; **≥ 3 criteria → ↑ loss of reduction**
+
+**TO instability list (any one)** — dorsal angulation > 20° · dorsal comminution > 50% · intra-articular · ulnar fracture · **age > 60** · **AP widening (ratio > 1.3)** · **carpal malalignment (capitate axis not intersecting radius axis)** · die-punch = treat as unstable
 
 **Redisplacement after closed reduction** — **severity of initial displacement** (esp. shortening), age, metaphyseal comminution\
 ✗ Wrong options: TFCC tear · open · radial head · time to reduction
@@ -222,6 +261,12 @@ Distal radius fracture
 
 **SL disruption seen intra-op** — **separate dorsal incision → repair dorsal SL ligament + K-wires** · results better than isolated SL injuries\
 ✗ Wrong options: immobilise · pins alone · volar extension · arthroscopic
+
+| DRUJ with DRF (TO) | Lesion | Treatment |
+|---|---|---|
+| **I Stable** | Sigmoid notch intact; styloid tip # or stable ulnar neck # | Cast, no DRUJ surgery |
+| **II Unstable** | **TFCC foveal tear or styloid base #**; shuck + | TFCC repair / styloid fixation · **above-elbow cast in supination** ± radioulnar K-wire |
+| **III Sigmoid notch** | Intra-articular palmar / dorsal lip fragments | **Anatomical reduction + fixation**; long arm cast |
 
 ### Rehabilitation & outcomes
 

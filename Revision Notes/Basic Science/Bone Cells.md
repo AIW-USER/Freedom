@@ -42,6 +42,12 @@
 
 **Differentiation signals** — **BMP** (MSC → osteoprogenitor) · **Runx2** · **stable β-catenin** (→ intramembranous bone) · PDGF · IGF
 
+**Osteocalcin (TO)** — **most abundant non-collagenous protein** · marker of osteoblast activity
+
+**Osteoblast differentiation (TO)** — RUNX2, BMP, **WNT/β-catenin**, PDGF, IGF · **cathepsin K NOT involved** (osteoclast enzyme)
+
+**Porosity (TO)** — cortical **5–10%** · cancellous **75–95%**, turnover **8× faster**
+
 | Signal on osteoblast | Effect |
 |---|---|
 | **PTH receptor** | ↑ ALP, type I collagen · → **RANKL** + M-CSF · **intermittent rhPTH (1-34) → anabolic** · chronic ↑ PTH → resorption |
@@ -93,6 +99,8 @@
 **Structure** — high nucleus:cytoplasm · long processes through **canaliculi** → **gap junctions** (connexins; cAMP, IP3 pass) · radial around Haversian canal
 
 **Function** — maintain bone matrix · **Ca/P regulation** · no ALP
+
+**Osteocyte stimulation (TO)** — **stimulated by calcitonin** · regulates Ca / PO₄
 
 **Signals** — **stimulated by calcitonin**, **inhibited by PTH**
 

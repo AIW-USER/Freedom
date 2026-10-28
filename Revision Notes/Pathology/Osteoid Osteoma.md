@@ -65,6 +65,8 @@
 
 **Diagnosis** — clinical history + NSAID response + X-ray/CT → **no biopsy, no staging, no labs needed**
 
+**Femoral neck OO in young athlete (TO)** — marrow oedema + effusion but **no fracture line**, thickened neck cortex → **CT for the nidus** · **intracapsular** location explains the large effusion · can occur in the 20s
+
 ### Histology
 
 **Distinct demarcation nidus vs reactive bone** · uniform **immature osteoid trabeculae (woven bone)** with **osteoblastic rimming** · plump, regular osteoblasts · vascular stroma · **no infiltration** of host bone · no neutrophils/dead bone\

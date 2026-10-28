@@ -46,6 +46,18 @@
 
 ![Essex-Lopresti lesion](../../Orthobullets/attachments/ob1019-essex-lopresti-lesion.jpg)
 
+**Load share (TO)** — **\~75–80%** of wrist axial load crosses the radiocarpal joint → IOM transfers it to the ulna · secondary stabilisers = **IOM central band** + TFCC / DRUJ
+
+**IOM (TO)** — **5 bands**; **central band** most important, runs at **\~20–25°** (angle used for reconstruction, PL or gracilis graft — rarely done)
+
+**Recognise early (TO)** — radial head + forearm tenderness, DRUJ tenderness / instability → **X-ray elbow AND wrist**; **ultrasound** can show IOM tear · missed → painful loss of pronation / supination
+
+**Pull test < 3 mm (TO)** — excision alone acceptable · **≥ 3 mm → radial head replacement**
+
+**DRUJ after head fixation / replacement (TO)** — unstable → **above-elbow slab in supination**, **DRUJ pinning**, or **TFCC repair**
+
+**Neglected Essex-Lopresti (TO)** — salvage **single-bone forearm** (proximal ulna to distal radius, DCP) → pain relief, no rotation · position **slightly more pronated than mid-prone**
+
 ## 3 Presentation
 
 **Exam** — lateral tenderness; **mechanical block to motion** (normal flexion 0–150°, pronation 75°, supination 85°) → **aspirate haematoma + intra-articular lidocaine** · PIN + ulnar nerve · pivot shift / posterolateral drawer (LUCL), valgus stress (MCL) · **palpate wrist + IOM**
@@ -123,6 +135,8 @@ Radial head fracture
 | **Kaplan** | **EDC (PIN) / ECRB (radial)** | **Protects LUCL**, anterior fragment access · **more PIN risk** |
 | EDC split | Through EDC | Anterior half, LCL spared |
 | Posterior | Lateral flap | With olecranon / Monteggia |
+
+**TO approach intervals** — written as **Kocher = ECRB–anconeus** and **Kaplan = ECRL–ECRB** (TO elbow-injuries lecture — verify: standard Kocher = **anconeus–ECU**, Kaplan = **ECRB–EDC**, as in the table above) · avoid deep retraction near annular ligament (PIN) · isolated low-energy comminution → excision (TO)
 
 **Approach** — **forearm pronated** (moves **PIN** anterior) · PIN crosses radius in supinator **\~4 cm distal** to head
 

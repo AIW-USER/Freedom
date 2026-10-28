@@ -21,6 +21,10 @@
 | **3** | **Vibrio vulnificus** (gram-negative rods) | **Marine** exposure |
 | 4 | Fungal | — |
 
+**Type 3 (TO)** — **fungal: mucormycosis** in immunocompromised (COVID period) · Vibrio = type 3 (Orthobullets) · fungal = type 3 (TO) — read the options
+
+**Spread pattern (TO)** — toxins spread **lengthwise along fascial planes** (few barriers) → microcirculation thrombosis → skin red → purple → blue-grey → bullae
+
 **Commonest overall** — **polymicrobial** · **commonest single isolate** — **group A strep** (Fontes, Wong)\
 ✗ Wrong options: GAS · MRSA · S. aureus
 
@@ -40,6 +44,10 @@
 **Skin** — **bullae (purple / haemorrhagic)**, ischaemic patches, cutaneous gangrene, induration, **subcutaneous emphysema (gas only 13%)**
 
 **Red flag** — **worsening despite IV antibiotics** + systemic toxicity
+
+**Clinical clues (TO)** — **non-pitting oedema beyond cellulitis** · **peau d'orange** beyond swelling · **hypo-/anaesthetic skin** · **tenderness beyond erythema** · anxiety, "impending doom"
+
+**Finger test (TO)** — **finger / probe dissects easily along fascia beneath intact skin** = hallmark
 
 ## 4 Diagnosis & Classification
 
@@ -61,6 +69,14 @@
 | **Glucose > 10 mmol/L** | 1 |
 
 **Score** — max **13**; **≥ 6 → high risk**; original **PPV 92%** · later **sens 68%, spec 85%**
+
+| LRINEC score (TO) | Risk |
+|---|---|
+| **≤ 5** | Low (< 50%) |
+| **6–7** | Intermediate (50–75%) |
+| **≥ 8** | **High (> 75%)** |
+
+**LRINEC 6–7** — **high risk** (Orthobullets, ≥ 6) · **intermediate** (TO) — read the options
 
 **NOT in LRINEC** — **ESR**, potassium, bicarbonate, calcium, **SGPT / ALT**
 
@@ -92,6 +108,8 @@ Suspected necrotising fasciitis
 
 **Operative findings** — **liquefied fat**, **"dishwater" pus**, muscle necrosis, venous thrombosis
 
+**Fascia at surgery (TO)** — **grey-green / liquefied fascia** with normal-looking patches · fingers pass easily along normally tough planes · muscle involvement = poor sign
+
 **Multiple debridements** — often required · **multidisciplinary team**
 
 ### Antibiotics
@@ -122,6 +140,10 @@ Suspected necrotising fasciitis
 
 **Strongest predictor of death** — **vasopressor requirement outside anaesthesia**\
 ✗ Wrong options: IVDU · cellulitis · ICU admission · debridement size (predicts final defect)
+
+**Mortality factors (TO)** — **age > 50** · diabetes · **truncal involvement** · **bacteraemia at presentation** · ↑ creatinine · **hypoalbuminaemia** · delay in diagnosis/treatment
+
+**Upper-limb NF reaching shoulder / chest wall (TO)** — **> 75% mortality**
 
 ### Gas gangrene — clostridial toxins
 

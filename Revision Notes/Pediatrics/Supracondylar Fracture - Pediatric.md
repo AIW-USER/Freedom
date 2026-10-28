@@ -77,6 +77,8 @@
 
 **Baumann angle (TO)** — normal **64–82°** · every **5° change = 2° change in carrying angle** · **↑ Baumann** in cubitus varus · key **intra-operative guide**
 
+**Baumann angle — other TO figure** — normal **8–28°** (TO — verify: Orthobullets **70–75°**; TO figure presumably measured as the complement / other reference)
+
 **Anterior humeral line** — middle ⅓ of capitellum **> 5 yr** (Orthobullets) · **> 4 yr** (TO) — read the options
 
 **Other lines (TO)** — **shaft-condylar angle ≈ 40°** (lateral) · **teardrop sign** (lateral) · **crescent sign** = cubitus varus (overlap of capitellum and radial head) · AP: metadiaphyseal angle, humeroulnar (carrying) angle
@@ -141,6 +143,8 @@ Supracondylar fracture — timing by neurovascular status
 **Elbow position for pinning** — **flexion** for extension type · **extension for flexion type**
 
 **Medial pin safety** — place with **elbow extended** (ulnar nerve subluxes anteriorly in flexion) · small incision · anterior-to-posterior sagittal angle ↑ injury
+
+**Medial pin flexion (TO)** — insert with elbow **< 45° flexion** (ulnar nerve) · wires **outside skin if removed < 3 wk, buried if > 6 wk** (TO)
 
 **Post-op ulnar palsy after crossed pins** → **observe + avoid hyperflexion >90°** (TO) · resolves 1–7 months\
 ✗ Wrong options: remove medial pin now · exploration/transposition

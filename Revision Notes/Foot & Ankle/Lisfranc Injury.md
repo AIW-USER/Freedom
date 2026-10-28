@@ -134,6 +134,8 @@
 
 **DDx** — MT base fracture · MT stress fracture · tarsal fracture
 
+**Children (TO)** — rare, often missed · **weight-bearing films** essential · **isolated base-of-2nd-MT fracture = red flag** · **Hardcastle B (partial incongruity) most common in children**
+
 ## 5 Management
 
 ```

@@ -163,6 +163,8 @@ Terrible triad (after reduction)
 
 **Hinged ex-fix** — **last step**, after MCL
 
+**Hinged ex-fix axis (TO)** — **lateral epicondyle → medial trochlear sulcus** (centre of capitellum / trochlea) · Pugh–McKee sequence as above (TO)
+
 ### Postoperative splinting position
 
 | Repaired | Splint / passive motion |

@@ -26,6 +26,12 @@
 
 **IOM** — oblique radius → ulna; load passes **distal radius → proximal ulna** · distal fibres tight in supination, central in neutral
 
+**IOM central band (TO)** — runs **proximal radius → distal ulna** · torn in Essex-Lopresti
+
+**Displacement / cast position by level (TO)** — proximal ⅓ → **supination** · middle ⅓ → neutral · distal ⅓ → pronation
+
+**Compartment syndrome (TO)** — forearm = **2nd commonest site** after leg
+
 | IOM ligaments (5) | Note |
 |---|---|
 | **Central band** | **Key load-bearer; reconstruct this** |
@@ -131,6 +137,14 @@ Adult both-bone forearm fracture (> 10 yr)
 **Pronated during proximal Henry** — **PIN injury → weak thumb (+ finger) extension**\
 ✗ Wrong options: 1st web numbness (superficial radial) · opposition (median) · abduction (ulnar)
 
+**Ulnar approach (TO)** — subcutaneous, **FCU–ECU** plane, protect dorsal cutaneous branch of ulnar n.
+
+**Intra-op rotation check (TO)** — radius: **bicipital tuberosity medial vs radial styloid lateral (160–180°)** · ulna: coronoid vs styloid 180°
+
+**Nailing (TO)** — length = olecranon → ulnar styloid (X): **ulnar nail X − 1 cm, radial nail X − 3 cm** · entry radius just lateral to Lister's, ulna slightly lateral to olecranon tip · indications: open, segmental, osteoporotic, polytrauma
+
+**Nonop (TO)** — isolated stable ulnar fracture (**< 50% displacement, < 10° angulation**, nightstick)
+
 ### Open fractures & bone loss (bone graft, vascularised fibula, GSW)
 
 **Clean 2 cm open wound** — **I&D + ORIF + immediate closure**
@@ -159,6 +173,8 @@ Adult both-bone forearm fracture (> 10 yr)
 | Malunion | Radial bow |
 | Nerve | **PIN (Henry proximal, Monteggia)**; median (modified Henry); dorsal ulnar cutaneous → observe 3 months |
 | **Refracture** | **Up to 10%** |
+
+**Synostosis — further risks (TO)** — **same-level fractures** · comminution · **bone graft at the interosseous border**
 
 **Expected losses** — grip **25%**, pronosupination strength **30%**, wrist flexion 16%, extension 37% strength; motion loss < 10°
 

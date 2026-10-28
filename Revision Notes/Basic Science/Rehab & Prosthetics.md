@@ -46,6 +46,8 @@
 
 **Cane** — held **contralateral** → shifts centre of gravity toward affected side
 
+**Gait aid sizing (TO)** — cane in **opposite hand** · crutch tip **15 cm ahead**, axillary pad **5 cm below axillary fold** · walker: elbows at **30° flexion**
+
 **TTWB / NWB one leg** — ✓ **2 axillary crutches**\
 ✗ Wrong options: single forearm crutch · double cane · single platform crutch
 
@@ -105,6 +107,14 @@
 
 **Partial foot / toe amputation, short stance, poor toe-off** — ✓ **full-length steel shank + rocker sole** (shank restores lever arm, rocker → heel–toe transfer) · (✗ Wrong options: solid AFO, HKAFO, UCBL) · rocker may destabilise knee
 
+**Jaipur foot (TO)** — **flexible keel** → **squatting, cross-leg sitting, barefoot walking**
+
+**SAFE foot (TO)** — **Stationary Attachment Flexible Endoskeletal**
+
+**SACH (TO)** — rigid keel + **cushioned heel → pseudo-plantarflexion**
+
+**Canadian prosthesis (TO)** — for **Syme** amputation
+
 ### Prosthetic knees
 
 | Knee | Indication | Features |
@@ -156,6 +166,37 @@
 **GRAFO** — ✓ **all**: **Newton's third law** · **accelerates knee extension in midstance** (weak quadriceps) · **compensates weak gastrocnemius–soleus** **(TO)**
 
 **Turnbuckle splint** — gradual stretch of contracted joint · **Volkmann's ischaemic contracture, stiff elbow** · ↓ rehab time, good compliance **(TO)**
+
+**Orthosis naming (TO)** — joints spanned, **proximal → distal + "O"** (foot-drop splint = **AFO**) · static (no motion, finger splint) vs dynamic (controlled motion, wrist-drop splint)
+
+| Nerve palsy / lesion (TO) | Orthosis |
+|---|---|
+| **Ulnar (claw hand)** | **Knuckle bender** |
+| **Median** | **Opponens splint** |
+| **Radial (wrist drop)** | **Cock-up / wrist-drop splint** |
+| **Mallet finger** | Finger splint |
+| **Brachial plexus (no avulsion, Toronto > 3.5)** | **Aeroplane splint** up to 3 mo |
+| **Tennis elbow** | **Counter-force strap 5 cm distal to lateral epicondyle** |
+
+**Closed nerve injury (TO)** — observe **3–6 wk** with splint · transected nerve → repair, not splint
+
+| Spinal orthosis (TO) | Use |
+|---|---|
+| Soft collar | Muscle strain |
+| **Philadelphia collar** | **Suspected** C-spine injury |
+| **SOMI** | **Confirmed** fracture |
+| **Halo vest** | **Maximal** stabilisation |
+| Lumbosacral belt | Hydraulic (intra-abdominal pressure) principle |
+| **Taylor brace** | Dorsolumbar **T10–L3** |
+| **ASH brace** | Compression fracture, kyphosis control |
+| **Milwaukee** | High profile; lateral pad on **apical** vertebra |
+| **Boston** | Low profile, commonest; **20 h/day**; brace if **Cobb < 45° + Risser 3–5** (TO — verify: bracing is usually for **Risser 0–2**, skeletally immature) |
+
+**Floor reaction orthosis (TO)** — polio, CP, spina bifida · heel moves down → shell **pushes knee into extension** → assists weak quadriceps + plantarflexors
+
+**Foot orthoses (TO)** — flat foot → **Thomas heel** · metatarsalgia → **metatarsal / rocker bar** · plantar fasciitis → silicone heel pad · hallux valgus → bunion splint
+
+**Paediatric orthoses (TO)** — **Pavlik 23 h/day** (DDH) · **Denis Browne splint** (CTEV, pre-walking) · CTEV shoes at walking age
 
 ### Physical modalities — TENS (TO)
 
@@ -243,3 +284,5 @@
 
 **"True about TENS?"** → **used for generalised muscle pain** **(TO)**\
 ✗ Wrong options: CI with metal · fracture pain · pacemaker relative
+
+**"Foot allowing squatting + barefoot walking?"** → **Jaipur foot** (TO)

@@ -63,6 +63,17 @@
 
 **Hueter–Volkmann** — **sustained compression → decelerated longitudinal growth** · tension accelerates
 
+**Law of ossification (TO)** — secondary centre that appears first **fuses first** — **exception: fibula**
+
+| Growth contribution (TO) | % |
+|---|---|
+| Shoulder (proximal humerus) | **40%** (TO — verify: proximal humerus usually \~80% of humeral growth) |
+| Elbow | **20%** |
+| Wrist | 40% (TO — verify: distal radius usually \~75–80%) |
+| Hip | 12% (TO — verify: proximal femur usually \~30%) |
+| Knee | **70%** |
+| Ankle | 18% (TO — verify: distal tibia usually \~45%) |
+
 ### Embryonic long-bone formation
 
 ```

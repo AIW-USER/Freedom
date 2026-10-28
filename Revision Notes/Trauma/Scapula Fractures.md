@@ -134,6 +134,34 @@ Scapula fracture
 
 **Surgical neck** — medial to coracoid base (common) · **anatomical neck** — lateral (rare, unstable)
 
+| Floating-shoulder history (TO) | Contribution |
+|---|---|
+| **1799 Vogt** | Ipsilateral clavicle + scapula fracture → "unstable shoulder" |
+| **1975 Ganz & Noesberger** | Unstable shoulder: scapular neck + clavicle fracture / AC dislocation + CC + CA ligament rupture |
+| **Herscovici (1980s–90s)** | Coined **"floating shoulder"** = ipsilateral midshaft clavicle + scapular neck |
+| **Goss 1993** | **Superior shoulder suspensory complex (SSSC)** |
+| **Goss 2006** | Floating shoulder = **double disruption of SSSC** |
+
+**SSSC (TO)** — osseoligamentous ring: **glenoid, coracoid, CC ligament, distal clavicle, AC joint, acromion** (+ CA ligament later) · **superior strut = middle third + distal clavicle** · **inferior strut = lateral scapular body–medial glenoid neck junction** · **pelvic-ring analogy**: one break → look for another
+
+**Fragments (TO)** — distal = **glenoid + coracoid** · proximal = acromion, spine, body · double disruption → drooping shoulder, malunion/nonunion, impingement, weakness; high plexus + axillary vessel association
+
+**Sequence (TO)** — **fix clavicle first** (ligamentotaxis realigns neck) → reassess → fix scapula only if GPA <20°, lateralisation, persistent displacement
+
+**Strong bone for fixation (TO)** — **glenoid neck · lateral scapular border · base of spine · coracoid** · 3.5 / 2.7 mm recon or LC-DCP; locking for comminuted/osteoporotic
+
+| Literature (TO) | Recommendation |
+|---|---|
+| Edwards (JBJS 2000) | Nonop if displacement **<5 mm** |
+| Van Noort | Nonop if glenoid well aligned (no caudal displacement) |
+| Goss | Fix both; nonop → **drooping shoulder** |
+| Ada & Miller | Cuff dysfunction if both displaced |
+| Romero / Romeo | Poor outcome if **GPA <20°** or displacement **>1 cm** |
+
+**Glenoid inclination angle (TO)** — AP, glenoid vs medial-border perpendiculars = **caudal tilt**
+
+**Nonop thresholds (TO)** — displacement **< 5 mm**, GPA **> 30°** · operate at **100% translation**
+
 ### Posterior (Judet) approach — internervous interval
 
 **Modified Judet** — **infraspinatus (suprascapular n.) ↔ teres minor (axillary n.)**\
@@ -201,3 +229,5 @@ Scapula fracture
 **"Floating shoulder definition (TO)?"** → **clavicle + scapular neck lateral to coracoid**
 
 **"Commonest carpal fracture (TO)?"** → **scaphoid**
+
+**"Floating shoulder (Goss 2006)?"** → **double disruption of the SSSC** (TO)

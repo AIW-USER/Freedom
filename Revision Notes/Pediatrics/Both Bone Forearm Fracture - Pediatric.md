@@ -102,6 +102,8 @@ Pediatric both-bone forearm fracture
 **Cast index** — **lateral inner width ÷ AP inner width** · **>0.8 → loss of reduction**\
 ✗ Wrong options: pain · physeal arrest · nonunion · swelling
 
+**Ideal cast index (TO)** — **0.7** (sagittal ÷ coronal width)
+
 ![Cast index](../../MCQ/attachments/q4865-illa-cast-index.jpg)
 
 **Remanipulation risk** — **initial fracture displacement** (angulation + translation) · same-level radius + ulna fractures · cast index >0.8 · residual deformity\
@@ -112,6 +114,8 @@ Pediatric both-bone forearm fracture
 ### Operative fixation – intramedullary nails vs plates
 
 **Ulnar nail** — **olecranon tip or through anconeus** (protect ulnar nerve)
+
+**Ulnar nail entry (TO)** — just distal to olecranon apophysis · radius just proximal to physis
 
 **Radial nail** — just proximal to **radial styloid** or dorsal distal radius proximal to physis · dorsal central start risks **EPL**
 

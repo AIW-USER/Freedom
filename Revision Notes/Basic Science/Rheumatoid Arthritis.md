@@ -343,6 +343,8 @@ Ulnar drift at MCP
 
 **TKA** — ✓ **resurface patella** in RA · unresurfaced → ↑ **anterior knee pain** · resurfaced → ↑ extensor rupture, patellar clunk
 
+**Order of surgery in RA (TO)** — lower limb: **foot → hip → knee** · upper limb: **hand → shoulder → elbow**
+
 ### Forefoot & midfoot reconstruction
 
 **Rheumatoid foot** — bilateral, symmetric · **forefoot first** · HLA-DR4 · ~90% develop forefoot deformity (hallux valgus, hammer toes, lesser MTP dislocation)

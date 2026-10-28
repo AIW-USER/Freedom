@@ -14,6 +14,8 @@
 
 **Associated** — elbow dislocation, terrible triad, floating elbow, **Volkmann contracture** (missed forearm compartment syndrome)
 
+**AO definition (TO)** — fracture centred within a **square** whose side = distance between the epicondyles · bimodal: **young males 11–20 y** (high energy) · **elderly females >70 y** (osteoporotic)
+
 ### Anatomy
 
 **Articular orientation** — **6° valgus, 5° ER, 30° flexion** (anterior)
@@ -124,6 +126,8 @@ Distal humerus fracture
 
 **Young, complex articular (motorcycle)** — **olecranon osteotomy + parallel plating** (✗ Wrong options: Bryan-Morrey · TRAP) · or posterior extensile + **chevron** osteotomy (✗ Wrong options: Henry · Kocher · medial column · CRPP)
 
+**TO approach notes** — triceps tongue (**Van Gorder**) less used · TRAP preserves anconeus supply · if **TEA planned → lateral para-olecranon (modified paratricipital), avoid olecranon osteotomy** (TO)
+
 ### Olecranon osteotomy
 
 **Technique** — **chevron, apex distal**, \~**2 cm from tip**, through **bare area**; fix with **TBW, screws, plate**, or **intramedullary cancellous screw angled slightly medially** (proximal ulna varus bow)
@@ -159,6 +163,8 @@ Distal humerus fracture
 **Adult bicolumnar (any age except frail)** — dual plating (90° or 180°)
 
 **Post-op** — splint **70° flexion** → ROM by 7–10 d · osteotomy: active / active-assisted, **no active extension against gravity / resistance for 6 wk** · strengthening 6 wk, full 3 mo
+
+**Reduction tips (TO)** — **no screws in olecranon fossa** (impingement) · min 2 plates, occasionally triple · immobilise **< 3 wk**
 
 ### Ulnar nerve dysfunction
 

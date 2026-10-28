@@ -29,6 +29,10 @@
 
 **Ligaments** — SGHL: inferior translation at 0° abduction · **MGHL: AP at \~45°** · **IGHL: AP at 90°**
 
+**Head geometry (TO)** — articular arc **160°** · radius of curvature **~25 mm** (23–29) · **head–tuberosity distance (HTD) 8–10 mm** · head height **18 mm** (¾ of radius) · NSA **135°** (valgus tolerated, **varus poorly tolerated**) · retroversion **20° (10–40°)** · bicipital groove **~7 mm anterior to medullary axis** = retroversion landmark
+
+**Mechanisms (TO)** — glenoid compression of head · bending at surgical neck · cuff tension → tuberosity avulsion · bimodal: young males high-energy, older females osteoporotic · **3rd commonest non-vertebral osteoporotic fracture**
+
 ### Humeral head vascularity & ischaemia predictors (Hertel criteria)
 
 **Main blood supply (TO)** — **posterior humeral circumflex artery (PCHA) — 64%** (Hettrich)\
@@ -61,6 +65,8 @@
 
 ![Long vs short calcar](../../Orthobullets/attachments/ob1015-shows-long-vs-short-calcar.jpg)
 
+**Campochiaro 2015 (TO)** — Hertel criteria **less predictive than quality of reduction** for AVN · anatomical neck fracture **90–100%** AVN
+
 ## 3 Presentation
 
 **Exam** — ecchymosis chest / arm / forearm · **deltoid + lateral shoulder sensation (axillary)** · chest wall
@@ -86,6 +92,8 @@
 **Neer** — 4 segments: **GT, LT, articular surface, shaft**; part = **> 1 cm displacement or > 45° angulation**
 
 **AO / OTA** — location, surgical neck status, dislocation
+
+**Codman (TO)** — 4 parts: head · GT · LT · shaft (proximal to pec major insertion) · AO/OTA **11-A extra-articular unifocal · 11-B extra-articular bifocal · 11-C intra-articular** (TO)
 
 ![Neer four-part classification](../../Orthobullets/attachments/ob1015-neer-four-part-classification.jpg)
 
@@ -123,6 +131,14 @@ Proximal humerus fracture
 
 **10 months, can't elevate, motion at fracture** — **nonunion** (surgical neck commonest)
 
+**PROFHER (JAMA 2015) (TO)** — no long-term difference surgery vs sling in selected displaced fractures
+
+| Neer rehab (TO) | Activity |
+|---|---|
+| 0–3 wk | Pendulums, avoid ER |
+| 3–9 wk | Active-assisted elevation after radiographic healing |
+| >9 wk | Active + strengthening |
+
 ### Greater tuberosity fractures — displacement thresholds & fixation
 
 **Threshold** — **> 5 mm (general)**, **> 3 mm overhead / active** (OB, Orthobullets) · **> 1 cm** or > 20% head overlap; elderly tolerate **2 cm / 40%** (TO) — read the options
@@ -151,6 +167,8 @@ Proximal humerus fracture
 
 **Spot AP after trauma** — **axillary view** next
 
+**GT / LT fixation by size (TO)** — GT >5 mm: fragment **>2.5 cm → screw**, **<2.5 cm → suture anchor** · LT: <2.5 cm → suture/anchor, >2.5 cm → ORIF
+
 ### CRPP
 
 **Indication** — **2-part surgical neck**; 3-part / valgus-impacted 4-part with good bone, intact calcar · **highest complication rate**
@@ -162,6 +180,8 @@ Proximal humerus fracture
 | **Lateral** | **Anterior branch of axillary nerve** |
 | **Anterior** | **LHB tendon**, **musculocutaneous nerve** (\~17 mm), **cephalic vein** (\~11 mm) |
 | GT pin through medial cortex | **PCHA** |
+
+**Modified Resch (TO)** — **2 lateral-to-medial + 1 anterior-to-posterior** K-wires · contraindicated: calcar deficiency, LT fracture, metaphyseal comminution
 
 ### Locked plating — screw penetration, varus collapse & calcar support
 
@@ -181,6 +201,12 @@ Proximal humerus fracture
 
 **ORIF in > 60 yr** — **failure > 30%**, complications > 40%; **fracture type predicts failure**; fibular strut doesn't beat RSA
 
+**PHILOS position (TO)** — **5–8 mm below GT tip**, **2–4 mm posterior to bicipital groove** · **4–6 head screws incl. 2 inferomedial calcar** · ≥3 shaft screws · **Gavaskar 2016: ≥7 locking head screws** · 10 suture holes for cuff · fill defects with calcium phosphate cement · **torus concept** = head on a "three-legged stool"
+
+**Bone quality (TO)** — **deltoid tuberosity index** correlates with BMD (CACT < 4 mm = poor bone, as above)
+
+**Beach chair (TO)** — BP cuff on dependent leg misreads cerebral perfusion
+
 ### Surgical approaches — axillary nerve at risk
 
 **Axillary nerve** — **\~5–7 cm below acromion** (7 cm); **deltoid-split / extended anterolateral acromial approach → risk** (vs deltopectoral)
@@ -190,6 +216,8 @@ Proximal humerus fracture
 **Indications** — **2-part surgical neck** (± shaft extension), **pathological**, 3-part GT (young), proximal humerus + shaft · not varus posteromedial with both tuberosities, head split, 4-part
 
 **Facts** — superior deltoid split; straight nail through articular cartilage; **cuff pain**, migration · **distal lateral → medial screw: radial nerve**; **A→P: musculocutaneous**
+
+**Nail (TO)** — 2-part surgical neck / 3-part GT · **8–12 mm** · 3 cm anterolateral incision, split cuff along fibres · straight nails enter via cuff split · **MultiLoc** (2nd generation) · complication: **cuff dysfunction + shoulder pain**
 
 ### Hemiarthroplasty — height, tuberosity position & indications
 

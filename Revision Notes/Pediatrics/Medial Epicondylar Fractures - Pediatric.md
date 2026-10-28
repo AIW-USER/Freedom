@@ -34,6 +34,8 @@
 
 **CRITOE (OB214100 variant)** — 1, 3, 4, 5, 7, 9 yr · same text: medial side not ossified before ~5, trochlea complete ~9
 
+**Trochlea seen, medial epicondyle not (TO)** — CRITOE order broken → **avulsed medial epicondyle with entrapment** until proven otherwise
+
 ## 3 Presentation
 
 **Exam** — medial pain · valgus instability · ecchymosis · **document ulnar nerve motor + sensory** · generalised swelling → elbow probably dislocated

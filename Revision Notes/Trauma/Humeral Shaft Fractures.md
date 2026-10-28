@@ -35,6 +35,8 @@
 
 **Radial nerve in contact with bone** — **\~6.5 cm** of diaphysis in spiral groove
 
+**Radial nerve — surgical (TO)** — identify on posterior approach **10–15 cm above lateral epicondyle** · MIPO anterior: **forearm supinated** to protect radial nerve · palsy rate **3–30%**, usually neuropraxia
+
 **Ulnar nerve** — enters posterior compartment at **arcade of Struthers**, \~8 cm above medial epicondyle
 
 **Axillary nerve** — **4–7 cm below acromion** (limits proximal posterior exposure)
@@ -156,6 +158,12 @@ Humeral shaft fracture
 ✗ Wrong options: splint / brace · EMG acutely
 
 **Ex-fix indications** — high-energy comminution, open, defect, floating elbow, **unstable polytrauma**, **vascular injury**; 80% good, **pin-track infection 12%**
+
+| Special situation (TO) | Preferred |
+|---|---|
+| Polytrauma / DCO · open 3B/3C | **External fixator** |
+| **Paraplegic** (weight-bearing on arms) | **Plating** |
+| Pathological / segmental | **IM nail** |
 
 **TEA** — comminuted distal fractures, **low-demand > 65**, osteoporosis / **RA**
 

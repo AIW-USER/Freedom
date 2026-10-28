@@ -67,6 +67,14 @@ Galeazzi (adult) — fracture of necessity
        └─ large ulnar styloid fragment → ORIF styloid + supination
 ```
 
+**TO classification** — **Walsh / Rettig & Raskin type I: within 7.5 cm of articular surface** · type II > 7.5 cm · apex volar (volar ulnar dislocation) vs apex dorsal (dorsal ulnar dislocation) (TO)
+
+**DRUJ fixation (TO)** — reduced + unstable → **2 parallel K-wires 1 cm proximal to the joint** · irreducible → open (**ECU / EDM interposition**)
+
+**Immobilisation position** — **supination** (Orthobullets) · **dorsal Galeazzi in supination, volar Galeazzi in pronation** (TO) — read the options
+
+**Synonyms (TO)** — fracture of necessity · **Piedmont** · **reverse Monteggia** · DRUJ sign: **ulnar variance > 5 mm** (TO)
+
 ### Treatment — radius ORIF then DRUJ assessment
 
 **Indication for surgery** — **all adults**; **acute fixation far superior to late reconstruction**

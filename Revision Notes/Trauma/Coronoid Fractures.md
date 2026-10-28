@@ -114,6 +114,8 @@ Coronoid fracture
 
 **Medial approach** — between **two heads of FCU**, or more anteriorly through **flexor-pronator split**
 
+**Fixation & medial approaches (TO)** — tip: **suture anchor / transosseous** · anteromedial facet: buttress plate via medial approach · **Hotchkiss over-the-top** · **FCU split** (exposes ulnar nerve, also for MCL repair) · **Taylor & Scham**
+
 **Fixation by type** — **type I tip → cerclage / No. 5 suture through ulnar drill holes** · **II / III → retrograde cannulated screws or plate** · **anteromedial facet → buttress plate / pins + lateral ligament repair**
 
 **Still unstable after coronoid ORIF** — repair **LUCL at crista supinatoris** · LUCL injured in **83% (15/18)**\

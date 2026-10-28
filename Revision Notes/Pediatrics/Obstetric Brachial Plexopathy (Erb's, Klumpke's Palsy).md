@@ -15,6 +15,8 @@
 
 **Others** — **macrosomia** (LGA) · multiparous · difficult presentation · **forceps** · **breech** (→ lower plexus) · **prolonged labor** · maternal diabetes · induced labor · prior affected child · **50% have no risk factor**
 
+**Other risk factors (TO)** — **bicornuate uterus** (in utero) · **macrosomia > 4.5 kg** · birth asphyxia · vacuum · humeral / clavicular fracture · **C-section reduces but does not eliminate** risk
+
 ### Anatomy & injury patterns (Erb upper trunk)
 
 | Narakas group | Roots | Deficit | Frequency (TO) | Spontaneous recovery (TO) |
@@ -140,6 +142,10 @@ Obstetric brachial plexus palsy
 **Urgent sub-specialist referral at 7 weeks** → **Horner (miosis, anhidrosis)**\
 ✗ Wrong options: absent biceps (normal at this age) · Moro present
 
+**Cookie test (TO)** — normal: brings food to mouth with elbow flexion + **shoulder adduction** · **failed at 9 months → surgery**
+
+**Intervene (TO)** — **no biceps recovery at 3 months** or **failed cookie test at 9 months**
+
 ### Glenohumeral dysplasia & IR contracture
 
 **Cause** — strong internal rotators vs weak external rotators → **IR contracture** (most common problem needing treatment) → **glenohumeral dysplasia in 70%** · by age 2
@@ -189,6 +195,10 @@ Obstetric brachial plexus palsy
 **Forearm supination contracture** — unopposed biceps (Klumpke / mixed) · **biceps rerouting** (supinator → pronator) if passive pronation intact · + **forearm osteotomy** if passive pronation limited · ± interosseous membrane release (TO)
 
 **Wrist / hand transfers** — wrist drop: **PT → ECRB** · finger extension: **FCR or FCU → EDC** · thumb abduction: **EIP → APB** · force ∝ cross-section, amplitude ∝ length
+
+**Co-contraction (TO)** — partially recovered NBPP; antagonists fire together · **trumpet sign** = shoulder abducts + forearm pronates when bringing hand to mouth · **Botox** for co-contractions
+
+**Secondary OBPI procedures (TO)** — **external rotation osteotomy** · **triangular tilt surgery** · **Mod Quad** (LD, teres major, subscapularis, pectoralis release)
 
 ## 6 Complications
 
@@ -303,3 +313,7 @@ Obstetric brachial plexus palsy
 ✗ Wrong options: biceps tenotomy · capsular release
 
 **"NOT an OBPP assessment tool?"** → **Wechsler Scale for Children-IV** (TO)
+
+**"Failed cookie test at what age mandates surgery?"** → **9 months** (TO)
+
+**"Child abducts shoulder + pronates forearm bringing hand to mouth?"** → **trumpet sign (co-contraction)** (TO)

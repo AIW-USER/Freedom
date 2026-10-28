@@ -16,6 +16,8 @@
 
 **Neck vs body** — defined by the **lateral process** (articulates with **posterior facet of calcaneus**) · fracture **anterior → neck**, **posterior → body**
 
+**Aviator's fracture (TO)** — **forced dorsiflexion** → talar neck impacts anterior tibia · body fracture = **axial load** (TO)
+
 ### Blood supply — artery of the tarsal canal & deltoid branch
 
 | Source | Branch | Supplies |
@@ -24,6 +26,8 @@
 | **Posterior tibial** | **Deltoid branch** (deep deltoid) | **Medial body** · **may be the only supply left in displaced fractures** |
 | Anterior tibial (dorsalis pedis) | — | **Head + neck** |
 | **Perforating peroneal** | **Artery of tarsal sinus** | Head + neck, lateral body |
+
+**Deltoid artery (TO)** — **most important**, supplies **\~70% of talar body** · displaced neck / body fractures disrupt it · **do not remove small medial neck fragments attached to deltoid** (TO)
 
 **Extraosseous sources (TO)** — **posterior tibial, anterior tibial, peroneal** · **artery of tarsal canal = mainly intraosseous** → "NOT extraosseous" (TO)
 
@@ -47,6 +51,8 @@
 | **Canale view** | **Best view for talar neck** — **maximum equinus, 15° pronated, beam 75° cephalad** |
 | **CT** | **Displacement, comminution, congruity**; **gold standard (TO)**; confirms Hawkins I has no step-off |
 | **Mortise X-ray 6–8 wk** | **Hawkins sign** |
+
+**CT (TO)** — for **all suspected talar fractures** · detects **medial comminution** (present in nearly all neck fractures → varus malunion if compressed) · subtalar / tibiotalar involvement (TO)
 
 ![Canale view](../../Orthobullets/attachments/ob1048-canale-view-illustration-moved.jpg)
 
@@ -93,6 +99,10 @@ Talar neck fracture
 | **Anteromedial** | **Tibialis anterior ↔ tibialis posterior** · preserve **deep deltoid** · **medial malleolar osteotomy** if needed |
 | **Anterolateral** | Tibia–fibula proximally, **line of 4th ray** · elevate **EDB**, clear subtalar debris |
 
+**Dual approach (TO)** — **standard of care**; avoids rotational errors · anteromedial: **tip of MM → 1st ray**, protect **saphenous vein** · anterolateral: **tip of fibula → 4th MT base**, split **EDB** (TO)
+
+**Medial malleolar osteotomy** — "if needed" for neck exposure (Orthobullets) · **only for body fractures, never for neck** (TO) — read the options · **short oblique**; **crack the posterior cortex** rather than cutting through (TO)
+
 **Avoid** — dissection superior + inferior to the neck (remaining blood supply)
 
 **Strongest construct (TO)** — **posterior-to-anterior parallel dual screws**\
@@ -100,6 +110,10 @@ Talar neck fracture
 
 **Medial comminution (Hawkins II)** — **ORIF with medial bridge plate + lateral screw in non-lagging mode** · mini-fragment plates buttress against varus\
 ✗ Wrong options: lag screws (shorten medial column → **varus**) · TTC fusion · closed + pins
+
+**Fixation by comminution (TO)** — non-comminuted: **2 compression screws ⟂ fracture** · comminuted (medial): **lateral screw compressive, medial screw positional** ± small medial buttress plate ± bone graft (TO)
+
+**Lateral screw with medial comminution** — **non-lagging** (Orthobullets) · **compressive** (TO) — read the options; both agree: **no compression across the medial comminution**
 
 **Timing** — **delayed fixation does NOT ↑ AVN** · **acute fixation → ↑ infection, skin necrosis, wound dehiscence** (77% vs 2–10%, TO) · open fractures → emergent debridement\
 ✗ Wrong options: acute → ↓ AVN · ↓ subtalar OA · ↓ varus · ↓ dehiscence
@@ -133,6 +147,12 @@ Talar neck fracture
 
 **Order (OB)** — **subtalar arthritis > tibiotalar arthritis > osteonecrosis > varus malunion**
 
+**Infection (TO)** — up to **25% in open** fractures (TO)
+
+**Arthritis rates** — subtalar **\~50%**, tibiotalar **33%** (Orthobullets) · subtalar **up to 81%**, tibiotalar **\~18%** (TO) — read the options
+
+**Commonest complication** — **subtalar arthritis** (Orthobullets) · **varus malunion** (TO), from medial comminution + overcompression → osteotomy, subtalar fusion if advanced — read the options
+
 ### Hawkins sign & osteonecrosis prognosis
 
 **Hawkins sign** — **subchondral lucency of talar dome**, **mortise / AP at 6–8 wk** → **resorption = intact vascularity** → **AVN unlikely** → observe, progress weight bearing\
@@ -144,6 +164,8 @@ Talar neck fracture
 **Absent sign** — doesn't prove AVN · up to **44% revascularise without collapse**
 
 **Not related to Hawkins sign** — fixation construct; **reduction quality** affects AVN
+
+**Absent Hawkins sign (TO)** — no subchondral lucency **after 12 wk → MRI** (TO)
 
 ### Osteonecrosis risk factors (displacement, open fracture; not surgical timing)
 
@@ -267,3 +289,7 @@ Talar neck fracture
 **"AVN + ankle + subtalar arthritis?"** → **TTC fusion**
 
 **"Neck vs body landmark?"** → **lateral process (articulates with posterior facet)**
+
+**"Medial comminution in talar neck — medial screw mode?"** → **positional (non-compressive)** (TO)
+
+**"Medial malleolar osteotomy is used for?"** → **talar body fractures only, never neck** (TO)

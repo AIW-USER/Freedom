@@ -60,6 +60,8 @@
 
 ![Pelvic apophyseal avulsion sites](../../Orthobullets/attachments/ob3000-illustration.jpg)
 
+**Iliac crest apophyseal avulsion (TO)** — adolescent (e.g. 16-yr-old cricketer), sudden crest pain · unfused apophysis pulled off by **core muscles** = **type I physeal injury** · often missed
+
 ## 3 Presentation
 
 **Exam** — ATLS · **rectal + GU exam** (open fracture) · log-roll for ecchymosis · palpate ASIS, crests, SI, symphysis · iliac crest compression / posterior pressure pain · excess mobility = serious injury

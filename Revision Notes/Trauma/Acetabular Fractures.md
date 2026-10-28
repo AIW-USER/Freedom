@@ -158,6 +158,8 @@
 
 **Axial CT orientation (TO)** — column = **horizontal** · transverse = **vertical** · **wall = oblique**
 
+**Column fracture (TO)** — **always crosses the quadrilateral plate** and usually the inferior pubic ramus · anterior vs posterior direction decides the column (Judet views)
+
 ### Congruency – incongruency signs
 
 **Order of assessment (TO)** — **congruency first** → **stability** → **CT planning**; congruent + stable = only nonop candidate

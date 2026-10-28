@@ -17,6 +17,12 @@
 **Natural history** — early hip dysfunction + arthritis · **FAI = most common cause of OA in nondysplastic hips**\
 ✗ Wrong options: Perthes · traumatic labral tear · repetitive high-impact sport · dashboard injury
 
+**Paediatric FAI (TO)** — diagnose only with **all 3: hip pain + restricted ROM + imaging morphology** · **cam = most common in adolescents**, develops during physeal maturation **11–14 yr** (young athletic males) · **mixed = most common overall** · causes: DDH sequelae, SCFE, Perthes, **AIIS avulsion malunion**, dysplasias, acetabular retroversion
+
+**Synonyms (TO)** — **cervicoacetabular impingement** · **acetabular rim syndrome**
+
+**Deep-flexion activities (TO)** — squatting, **Indian toilets**, cross-legged sitting, gymnastics · age **25–50** · also normal morphology with excessive ROM (dancers)
+
 ### Anatomy (capsule, labrum, ligamentum teres)
 
 **Acetabulum** — ilium + ischium + pubis · femoral head anteverted **15°** relative to condyles
@@ -88,6 +94,8 @@
 | Gluteal enthesopathy + bursal scarring | GTPS (lateral pain, abductor weakness) |
 | Ligamentum teres tear + patulous anterior capsule | Hip instability |
 
+**Frequency (TO)** — **mixed > cam > pincer** · cam: **cartilage first → labrum later** · pincer: **labrum first → cartilage later**
+
 ## 3 Presentation
 
 ### Symptoms
@@ -126,6 +134,10 @@
 | Symphysis tenderness, resisted adduction / abduction | Osteitis pubis |
 | Pain on resisted hip flexion / sit-up | Adductor / hip flexor strain |
 
+**Red-flag ROM (TO)** — flexion **< 90–100°** · IR **< 10°** / absent · **obligatory ER on flexion**
+
+**Muscle tightness mimics FAI (TO)** — **Ober** (ITB) · **Ely** (rectus femoris) · **90–90** (hamstrings) · Stinchfield = intra-articular
+
 ## 4 Diagnosis & Classification
 
 ### Key radiology findings
@@ -152,6 +164,26 @@
 **False profile extra** — shows cam deformity + **os acetabuli** (small ossicles beside acetabular roof)
 
 **Cam lesion views (TO)** — frog-leg, cross-table lateral, 45° modified Dunn · anterolateral cam best on lateral + Dunn · quantified by **alpha angle + head-neck offset ratio**
+
+**Ideal AP pelvis (TO)** — symmetric obturator foramina · **coccyx 1–3 cm above symphysis** · teardrops visible · lesser trochanters minimally visible · pincer signs: crossover, posterior wall, **ischial spine sign**, coxa profunda · **labral cyst = chronic labral tear** · 3T MRI replacing MR arthrogram
+
+**First radiological sign (TO)** — cam → **anterolateral migration of femoral head** · pincer → **posteroinferior joint-space narrowing** (counter-coup)
+
+**Coxa profunda (TO)** — acetabular floor **touches Kohler's (ilioischial) line** · protrusio → head **medial** to Kohler's line
+
+**Posterior wall sign (TO)** — **head centre lateral to posterior wall** → acetabular retroversion
+
+**AP pelvis for FAI (TO)** — hip **internally rotated 15°**
+
+**Alpha angle — where to measure (TO, radiology)** — **Dunn / modified Dunn 45°, false profile or MRI oblique axials along the neck** · **not on AP or orthogonal MRI axials** · abnormal **> 55°** (some use **60° or 65°**, activity-dependent) · **MRI coronals often miss FAI**
+
+**False profile pelvis rotation** — **65°** (current chapter) · **about 60°** (TO radiology) — read the options
+
+**GRE axial pincer clue (TO)** — posterior acetabular wall should lie **lateral** to a line from the anterior wall · **in line → think pincer**
+
+**FAI + sports groin (TO)** — young athletes with FAI often also show pubic symphysis irregularity, sclerosis, instability
+
+![Dunn view with alpha angle](../../TO notes/attachments/TOn-notes-mri-of-hip-and-thigh-mar-2026-p04-f011.jpg)
 
 ### Radiographic measurements
 
@@ -255,6 +287,10 @@ Symptomatic FAI
 **Hockey player, 3 wk pain, no mechanical symptoms** — **activity modification, PT, NSAIDs**\
 ✗ Wrong options: bone scan · any surgery yet
 
+**Nonop extras (TO)** — avoid deep flexion (Indian toilets, squatting, cross-legged) · core strengthening · **short course oral steroids** for acute inflammatory phase (symptom relief only)
+
+**Paediatric (TO)** — non-op first (activity modification, stretching, NSAIDs) → **up to 50% improve** · arthroscopy: 70° scope, interportal capsulotomy, **treat cause first (osteochondroplasty), then labral repair** · children: **osteochondroplasty, avoid physis** · **labral repair > debridement** (suction seal)
+
 ### Arthroscopic osteoplasty with labral repair
 
 **Failed 12 wk PT + NSAIDs, cam + labral tear** — **arthroscopic labral repair + femoral osteoplasty**\
@@ -295,6 +331,8 @@ Symptomatic FAI
 **Alternative** — direct anterior approach → limited posterior acetabular view · combined arthroscopic + limited open → early results promising
 
 **Complication** — **trochanteric hip pain**
+
+**Alternatives (TO)** — **Smith-Petersen (anterior)** approach · pincer: **acetabular rim trimming / reorientation osteotomy** (retroversion correction) · cam osteoplasty / cheilectomy — **do not resect > 30% of neck width**
 
 ### Return to sport
 

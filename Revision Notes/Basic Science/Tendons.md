@@ -103,6 +103,23 @@
 **Training (8 wk half-marathon)** — ✓ **net ↑ type I collagen** (↑ turnover; ↓ cross-links with endurance)\
 ✗ Wrong options: known effect on fibril diameter / CSA
 
+### Cumulative trauma / tendinopathy (TO)
+
+**Cumulative trauma (TO)** — repetitive micro-injury without adequate rest → chronic inflammation, fibrosis, pain · risk: poor ergonomics, repetition, forceful grip, **vibration tools**, awkward posture, poor conditioning
+
+| Soft-tissue disorder (TO) | Example |
+|---|---|
+| **Tendinitis** | Inflammatory |
+| **Tendinosis** | **Degenerative, no inflammation** |
+| Paratenonitis / tenosynovitis | Sheath / paratenon |
+| **Enthesopathy** | Tendon–bone junction (lateral epicondylitis) |
+| Myotendinous injury | **Eccentric loading** strains |
+| Bursitis · fasciopathy | Olecranon, prepatellar, trochanteric · plantar fascia, ITB |
+
+**Micro-trauma cycle (TO)** — repetitive load → micro-tears → inadequate recovery → collagen disorganisation → **tendinosis** → partial / complete rupture
+
+**Pathophysiology (TO)** — ↑ fibroblast activity · **neovascularisation with accompanying (painful) nerves** · **type III collagen replaces type I** → weaker
+
 ## 5 Management
 
 ### Healing & adaptation
@@ -117,6 +134,16 @@
 **Repair strength** — ✓ **weakest in inflammatory phase** · **7–10 days** (Orthobullets) · **5–21 days** (OB8271) · most strength by **21–28 days** · max at **6 months** · ✓ **final only ~2/3 normal**
 
 **Early mobilisation** — earlier ROM but ↓ repair strength · ✓ **flexor tendons: prevents adhesions**
+
+| Tendinopathy imaging (TO) | Fact |
+|---|---|
+| X-ray | Usually normal; calcification in chronic enthesopathy |
+| **US** | **Best real-time** evaluation; tears, **neovascularity** |
+| **MRI** | **Gold standard**; tendinosis vs tear vs bursitis vs bone oedema · best for early stress injury |
+
+**Tendinopathy treatment (TO)** — **eccentric loading = cornerstone** · NSAIDs short-term only (avoid long-term in tendinosis) · **steroid for acute inflammation, not chronic tendinosis**, avoid repeats · **PRP for chronic tendinosis** · **shockwave** for chronic tendinopathy · surgery rare (debridement, release)
+
+**Red flags (TO)** — night / rest pain · fever · major swelling · neuro deficit · sudden inability to bear weight · infection · suspected neoplasm → further imaging
 
 ## Tendon vs Ligament
 
@@ -162,3 +189,7 @@
 **"Jersey finger with fragment at A2 — vascular structure injured?"** → **vincula brevia to FDP**
 
 **"Tendon oxygen consumption vs skeletal muscle?"** → **7–8× lower** (TO)
+
+**"Tendinosis is?"** → **degeneration without inflammation** (TO)
+
+**"Cornerstone of tendinopathy rehabilitation?"** → **eccentric loading** (TO)

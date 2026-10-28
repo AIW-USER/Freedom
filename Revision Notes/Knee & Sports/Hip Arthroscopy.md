@@ -89,6 +89,8 @@
 
 **LFCN distance from anterior portal** — **within 3 mm** (TO) · **15.4 mm** average (OB, Robertson) — read the options
 
+**Portal roles (TO)** — **AL = viewing** · **PL = shuttling** · **mid-anterior (intersection of ASIS and GT lines) = working** · traction to **10–12 mm joint distraction** · nerves at risk: LFCN, superior gluteal, sciatic
+
 **LFCA distance (TO)** — femoral nerve + ascending LFCA ~**4 cm** · terminal LFCA branches **as close as 2 mm** · transverse LFCA branch **10.1 mm** (OB)
 
 **LFCN at portal level** — divided into **≥ 3 branches** · runs from inguinal ligament along sartorius, variable branching

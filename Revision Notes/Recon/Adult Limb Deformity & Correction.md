@@ -88,6 +88,26 @@
 
 **Correction order** — **angulation → translation → length → rotation**
 
+**Mechanical vs anatomic axis (TO)** — mechanical axis **always straight** · anatomic axis may be **curvilinear** (femur, sagittal) · **tibial mechanical axis lies lateral to anatomic axis** (TO)
+
+**Normal MAD (TO)** — **1–15 mm** medial · **> 15 mm** = malalignment
+
+**Malalignment test (Paley) (TO)** — MAD → **mLDFA** (abnormal = femoral) → **mMPTA** (abnormal = tibial) → **JLCA > 2°** (laxity / subluxation) → condylar non-parallelism (condylar deficiency)
+
+**Functional CORA (TO)** — any point on the **bisector** of the deformity angle
+
+| Paley osteotomy rule (TO) | Result |
+|---|---|
+| **Rule 1** — CORA = correction axis = osteotomy level | **Pure angulation**, no translation |
+| **Rule 2** — CORA = correction axis, osteotomy elsewhere | Angulation + **relative translation** (bone realigns) |
+| **Rule 3** — correction axis away from CORA | Angulation + **iatrogenic translation** |
+
+**Open vs closed wedge (TO)** — open: simple, **lengthens**, needs **graft**, unstable, NV stretch · closed: **stable, no graft, safer for nerves**, **shortens** · dome: always some translation
+
+**Oblique-plane deformity (TO)** — magnitude = **√(AP² + lateral²)**
+
+**Scanogram set-up (TO)** — hip–knee–ankle on one film · **patella forward** regardless of foot · **level pelvis with shoe raise** in LLD
+
 ![CORA](../../Orthobullets/attachments/ob422974-cora.jpg)
 
 ### Diagnostic criteria – varus vs valgus by angle
@@ -241,3 +261,5 @@ Adult limb deformity
 **"Opening wedge HTO changes tibial slope?"** → **↑ slope** (closing → ↓)
 
 **"Distraction osteogenesis protocol?"** → **5–7 day latency, 1 mm/day**
+
+**"Osteotomy at CORA with correction axis through CORA?"** → **pure angulation (Paley rule 1)** (TO)

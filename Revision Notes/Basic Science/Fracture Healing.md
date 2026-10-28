@@ -23,6 +23,14 @@
 
 **Tissue tolerance (TO)** — **cortical bone tolerates only 2%** · **lamellar bone up to 10%** (TO wording) · granulation tissue tolerates the **greatest** strain
 
+**Strain bands – TO lecture (TO)** — < 2% primary · 2–10% secondary (callus) · **> 17% fibrous union** · **\~100% granulation tissue** · rule: **small gap = high strain, large gap = low strain**
+
+**Locking plate (TO)** — secondary healing (strain 2–10%) · compression plate → primary healing
+
+**Cancellous bone healing (TO)** — minimal callus → **creeping substitution** (direct osteoblastic activity); callus only if a gap exists
+
+**Osteoblast toxins (TO)** — **hydrogen peroxide**, **povidone-iodine (Betadine)**, **bacitracin**
+
 | Tissue | Yield strain (TO, Perren 1975) |
 |---|---|
 | Granulation | **100%** |
@@ -229,3 +237,5 @@ Nonunion
 **"Reverse dynamisation?"** → **early micromotion then rigid fixation**
 
 **"Ex-fix of comminuted MC — healing like all EXCEPT?"** → **Weber B ankle ORIF** (primary)
+
+**"Mechanism of cancellous bone healing?"** → **creeping substitution** (TO)

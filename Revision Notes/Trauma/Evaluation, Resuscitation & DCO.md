@@ -370,6 +370,8 @@ Polytrauma with long-bone / pelvic fractures
 | Classic | **Lucid interval** (10–25%), contralateral hemiparesis, ipsilateral dilated pupil | More brain injury; worse prognosis |
 | Surgery | **> 30 cm³** regardless of GCS; nonop if < 30 cm³ + < 15 mm + MLS < 5 mm + GCS > 8 + no deficit; **GCS < 9 + anisocoria → immediate** | **Thickness > 10 mm or MLS > 5 mm → evacuate regardless of GCS**; else if GCS ↓ ≥ 2, pupils abnormal, ICP > 20 |
 
+**Head CT read (TO)** — scalp → **bone window** (fracture) → extra-axial blood → intra-axial lesions → oedema (lost sulci, Sylvian fissures, basal cisterns) · SAH = feathery in sulci/cisterns · **focal SAH → CT angiogram for aneurysm, secure before orthopaedic surgery** · fresh blood bright, **isodense at \~5–6 days** · central bleed (basal ganglia, thalamus, dentate) = **hypertensive**, not traumatic · **retained metallic fragment → no MRI**
+
 **SDH age on CT (TO)** — acute 1–3 d **hyperdense** · subacute 4 d–3 wk **isodense** · chronic > 3 wk **hypodense** · anticoagulation ↑ ASDH 7× men, 26× women
 
 **Uncal herniation (TO)** — **CN III palsy** (ipsilateral fixed dilated pupil, down + out)
@@ -576,3 +578,5 @@ Polytrauma with long-bone / pelvic fractures
 **"Adult needle decompression site (ATLS 10)?"** → **4th / 5th ICS anterior to mid-axillary line** (TO)
 
 **"Window of opportunity for definitive fixation?"** → **days 5–10** (TO)
+
+**"Focal SAH in a trauma patient before orthopaedic surgery — next?"** → **CT angiogram to exclude aneurysm** (TO)

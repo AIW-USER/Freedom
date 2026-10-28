@@ -26,6 +26,10 @@
 
 **Emissary system** — **venous** only · no "emissary artery"
 
+**Venous flow after reamed nailing (TO)** — normally **centripetal** → reverses to **centrifugal after reamed IM nailing** (TO — verify: standard teaching is that **arterial** flow becomes **centripetal** (periosteal) after reaming)
+
+**Periosteum (TO)** — outer fibrous + **inner cambium (osteogenic)** layer · anchored by **Sharpey's fibres** · **absent over articular surfaces + sesamoids (patella)**
+
 ### Direction of flow
 
 | | Arterial | Venous |

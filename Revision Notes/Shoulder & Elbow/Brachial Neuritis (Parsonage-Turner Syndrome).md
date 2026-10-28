@@ -168,6 +168,8 @@ Brachial neuritis
 
 **Physical therapy** — once pain abated; ROM + strengthening; reduce traction on nerves · reverses atrophy · **observation alone = observation + PT at 1 y**
 
+**Steroid window (TO)** — **high-dose corticosteroids if diagnosed early (within 72 h)**, rarely possible · some spontaneous recovery usual, **full recovery not assured**
+
 ### Operative criteria
 
 | Indication | Threshold |

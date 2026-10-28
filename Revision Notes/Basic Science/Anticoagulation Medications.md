@@ -121,6 +121,12 @@
 
 **ACCP** — mechanical + pharmacological · minimum **10–14 days**, ideally up to **35 days** · LMWH preferred, aspirin acceptable
 
+**NICE (TO)** — **THR: LMWH × 10 d then aspirin × 28 d** · **TKR: aspirin 75 mg × 14 d** (or NOAC)
+
+**Doses (TO)** — enoxaparin **40 mg OD or 30 mg BD** · rivaroxaban **10 mg OD** · apixaban **2.5 mg BD** · warfarin INR **2–3**, reversal vit K / FFP, **fetal warfarin syndrome** · long-term UFH → **osteoporosis**
+
+**Mechanical prophylaxis indications (TO)** — low risk · polytrauma with anticoagulant contraindication · bleeding risk (haemophilia, liver disease) · adjunct in high risk · stockings contraindicated in **arterial insufficiency**, poor skin, open wounds
+
 **Aspirin dose** — **81 mg BID** = efficacy of 325 mg BID with **less GI** · <4 weeks → ↑ mortality + bleeding
 
 **No prophylaxis** — DVT >**50%** after TKA → mechanical alone not recommended

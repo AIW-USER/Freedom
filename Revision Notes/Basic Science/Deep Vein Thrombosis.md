@@ -59,6 +59,25 @@
 
 ![Duplex ultrasound — non-compressible vein](../../Orthobullets/attachments/ob422816-screenshot-2026-01-09-at-2-10-46-pm.jpg)
 
+### Wells score (TO)
+
+| Wells DVT item (TO) | Score |
+|---|---|
+| Paralysis / paresis / recent cast immobilisation | +1 |
+| Bedridden > 3 days or major surgery < 12 wk | +1 |
+| Tenderness along deep veins | +1 |
+| **Unilateral calf swelling > 3 cm** | +1 |
+| Collateral superficial veins | +1 |
+| **Alternative diagnosis likely** | **−2** |
+
+**Wells interpretation (TO)** — ≤ 0 low · 1–2 moderate · **≥ 3 high** → low/moderate → **D-dimer** (negative rules out) · high → **imaging directly**
+
+**Commonest DVT site (TO)** — **calf veins**
+
+**Virchow examples (TO)** — stasis: **bed rest > 4 days**, casts, paralysis · endothelial: surgery, trauma, **bone cement** · hypercoagulable: malignancy, oestrogen / OCP, pregnancy, thrombophilia
+
+**PE (TO)** — triad **dyspnoea + tachycardia + tachypnoea** post-op · **massive** = syncope, hypotension · **submassive** = right-heart strain · low risk = mild symptoms
+
 ### D-dimer
 
 **High sensitivity, low specificity** — excludes VTE in **low clinical probability** · >500 ng/mL suggests PE · **useless after injury/surgery** (false positives)

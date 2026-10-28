@@ -60,6 +60,8 @@ Monteggia fracture
 └─ Transverse / short oblique, easily reduced → closed reduction + IM fixation of ulna
 ```
 
+**TO sequence** — ORIF ulna (plate) → check radial head reduction → persistent dislocation → **correct PUDA (\~15°)** → still out → open reduction (annular ligament interposition) (TO)
+
 ### Treatment options
 
 | Option | Indication |

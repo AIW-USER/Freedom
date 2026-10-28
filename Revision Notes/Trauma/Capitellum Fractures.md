@@ -105,6 +105,8 @@ Capitellum fracture
 **Lateral approach best for** — **complete coronal shear capitellum**\
 ✗ Wrong options: extra-articular DHF (posterior) · proximal radial shaft (Henry / Thompson) · undisplaced radial head (nonop) · trans-olecranon (posterior)
 
+**Reduction manoeuvre (TO)** — **extension + supination + varus** · headless (Herbert) screws **posterior → anterior** (spares cartilage)
+
 ## 6 Complications
 
 | Complication | Fact |

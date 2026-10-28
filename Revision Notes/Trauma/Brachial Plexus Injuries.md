@@ -70,6 +70,8 @@
 
 **Forced abduction (clutching while falling)** — **lower roots (C8–T1)**
 
+**Traction (TO)** — arm pulled down + neck bent away · **compression** — lateral neck flexion · **direct blow at Erb's point**
+
 ## 3 Presentation
 
 **Horner syndrome** — **ptosis, miosis, anhidrosis**; appears **\~3 days** after injury → **C8 / T1 root avulsion** (sympathetic chain)
@@ -140,6 +142,8 @@
 | **CT myelography** | **Gold standard for root level**; avulsion → **meningocele**; do at **3–4 wk** (clot dissipates, meningocele forms) |
 | **MRI** | Lesions **distal to roots**; **pseudomeningocele (T2)**, **empty root sleeves (T1)**, **cord shift away from midline (T1)**, neuromas |
 
+**Preferred initial imaging (TO)** — **MRI brachial plexus** · CT myelography = gold standard for avulsion at 3–4 wk
+
 ### Electrodiagnostics
 
 | Test | Fact |
@@ -196,6 +200,10 @@ Traumatic brachial plexus injury
 ✗ Wrong options: near end plate · synergistic · near sensory target · pure motor (intercostals carry sensation)
 
 **Contralateral C7 (TO)** — harvested in total palsy with minimal donor deficit
+
+**Somsak transfer (TO)** — **nerve to long head of triceps → axillary nerve** → shoulder abduction
+
+**Pedicled muscle transfers for elbow flexion (TO)** — **latissimus dorsi** · **pectoralis major** · free functional **gracilis**
 
 ### Reconstruction priorities
 

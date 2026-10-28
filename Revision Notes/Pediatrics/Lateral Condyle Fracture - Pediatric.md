@@ -171,6 +171,8 @@ Lateral condyle fracture
 
 ![Cubitus valgus after nonunion](../../Orthobullets/attachments/ob4009-illustration-depicting-cubitus-valgus.jpg)
 
+**"Fracture of necessity" (TO)** — displaced (> 2 mm) lateral condyle **always needs fixation** · **Cocker's / Kocher lateral approach**, ≥ 2 parallel or divergent K-wires · **cubitus valgus** from "hyperaemic overgrowth of lateral column" (TO) → **tardy ulnar palsy 20–25 y later**
+
 ### Lateral spur/overgrowth
 
 **Incidence** — up to **50%** regardless of treatment → **counsel families in advance**

@@ -59,6 +59,15 @@
 
 **Mayo** — comminution, displacement, fracture-dislocation
 
+| Mayo (TO) | Pattern | Treatment |
+|---|---|---|
+| **1A / 1B** | Undisplaced, non-comminuted / comminuted | Non-operative (slab / cast) |
+| **2A** | Displaced, stable, non-comminuted | **TBW** |
+| **2B** | Displaced, stable, comminuted | Plate |
+| **3A / 3B** | Unstable ± comminution | Plate |
+
+**Angles to restore (TO)** — **PUDA (proximal ulna dorsal angulation) \~15°** · olecranon–diaphyseal angle \~30° · proximal ulna varus 5–6°
+
 ## 5 Management
 
 ```
@@ -68,6 +77,16 @@ Olecranon fracture
 ├─ Comminuted / oblique past coronoid / Monteggia / fracture-dislocation → plate
 └─ Elderly low-demand → nonop or excision + triceps advancement (< 50% joint)
 ```
+
+**Operative indications (TO)** — displacement **> 2 mm** · extensor mechanism disruption · articular incongruity · elbow instability · open
+
+**TBW (TO)** — Mayo 2A · **contraindicated: comminution, unstable elbow, fracture distal to sigmoid notch** · K-wires toward **anteromedial cortex** · bury under triceps
+
+**IM screw (TO)** — **6.5 mm cancellous + washer** ± TBW · start centre (AP), slightly lateral (ML)
+
+**Plate (TO)** — pre-contoured locking = gold standard for unstable / comminuted · **"home run" screw** olecranon tip → anterior cortex · avoid corner screw (prominence)
+
+**Excision + triceps advancement** — fragment **< 50% of joint** (Orthobullets) · **< 75%** with **coronoid intact** (TO) — read the options · triceps reattached **adjacent to articular surface** (Orthobullets) · **posteriorly** for lever arm (TO) — read the options
 
 ### Operative criteria
 

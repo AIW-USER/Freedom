@@ -95,6 +95,10 @@
 | Complete tear | **US = MRI** (TO) |
 | No | **Venography**, **CT** (TO) |
 
+**Sphygmomanometer test (TO)** — cuff on calf; pressure rise **< 10 mmHg** on contraction → rupture · O'Brien needle test invasive (avoided) · **Thompson = most specific** (TO)
+
+**Dynamic US (TO)** — preferred to assess **actual apposition in plantar flexion** → conservative vs surgical · MRI static, **may overestimate gap**
+
 ### Diagnostic criteria – ultrasound criteria for nonoperative treatment (TO)
 
 | Position | Criterion |
@@ -157,6 +161,8 @@ Chronic / neglected rupture > 4 wk (JAAOS, OB)
 | **Chronic, defect < 3 cm** | **V-Y advancement** (Orthobullets) |
 | **Chronic, defect > 3 cm** | **FHL transfer ± V-Y advancement** — **requires functioning tibial nerve** (Orthobullets) |
 | Defect < 3 cm after debridement + < 3 months | **Direct end-to-end repair** (TO, OB) |
+
+**Conservative (TO)** — never "no role" even in chronic diabetics · walker boot with **heel lift** · plantar flexion 4–6 wk → gradual dorsiflexion · eccentric calf exercises · post-op rehab: 0–4 wk 20° PF NWB → 4–6 wk neutral, partial WB → 6–10 wk ROM → 10–12 wk strengthening → > 3 mo sport (total 3–6 mo)
 
 ### Operative vs nonoperative acute treatment
 
@@ -243,6 +249,18 @@ Chronic / neglected rupture > 4 wk (JAAOS, OB)
 | **> 3 cm** | **FHL transfer ± V-Y** (muscle weak, scarred) | Orthobullets, OB |
 | **> 5 cm** | **FHL transfer** ± V-Y / turndown · ± allograft | OB |
 | **> 10 cm** | **Allograft** (not suitable for local transfer) | OB · (> 5 cm in another OB) |
+
+| Gap (TO lecture) | Treatment |
+|---|---|
+| **< 3 cm** | End-to-end (Krackow / Bunnell / SpeedBridge), epitendinous reinforcement |
+| **3–6 cm** | **V-Y plasty (ideal 3–5 cm)** or turndown flap |
+| **> 6 cm** | **FHL (> FDL) transfer** |
+
+**Turndown (Bosworth / Lindholm, TO)** — bridges chronic gaps **up to 10–12 cm**; long incision, skin problems
+
+**Repair position (TO)** — **5° plantar flexion** · insertional / Haglund: suture anchor (simple) vs **pull-through calcaneal tunnel + button (poor bone stock)**
+
+**FHL preferred over FDL (TO)** — better excursion, similar line of pull, synergistic; best for chronic + diabetic patients
 
 **4 cm chronic defect** — **V-Y ± FHL augmentation** (one OB) · **open FHL transfer** (another OB) — read the options
 

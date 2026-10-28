@@ -92,6 +92,8 @@
 
 **Comminuted intra-articular, failed nonop** — **fragment excision**
 
+**Lateral + posterior process (TO)** — **large fragments → fix · small → excise** · posterior process: forced inversion in slight DF or PF (TO)
+
 | Approach | Use | Interval / risk |
 |---|---|---|
 | **Lateral** | Lateral process | Over **tarsal sinus**, reflect EDB distally |

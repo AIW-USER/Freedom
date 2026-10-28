@@ -112,6 +112,8 @@
 |---|---|
 | **Bleeding disorder** (haemophilia, vWD) · **recent GI bleed** · **recent haemorrhagic stroke** · active liver disease | **Hypercoagulable state** (e.g. ✓ **protein C deficiency**) · **previous documented PE** |
 
+**THR prophylaxis (TO, arthroplasty lecture)** — start immediately post-op, continue **4–6 weeks** · LMWH (enoxaparin) / fondaparinux **3 weeks** or **aspirin 75 mg daily × 6 weeks (NICE)** · **stop LMWH before removing epidural catheter / drain** (spinal haematoma) · untreated THR: **\~70% DVT, \~2% fatal PE** (TO)
+
 ### Operative criteria — who gets prophylaxis
 
 | Procedure | Prophylaxis |

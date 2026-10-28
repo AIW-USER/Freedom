@@ -344,6 +344,8 @@ Add-ons to any correction
 
 **Open physis** — **no proximal MT osteotomy** · severe → **first cuneiform (opening-wedge) osteotomy** · soft tissue alone fails
 
+**Epidemiology (TO)** — HV 20–25% of people · **20–30% begin in childhood** · **guided growth (\~7–8 yr)**: lateral hemi-epiphysiodesis of 1st MT (screw/drill)
+
 **Closed physis** — as adult, but congruent ↑ DMAA needs **second (distal) osteotomy** → **double first metatarsal osteotomy** (HVA **> 25°** moderate / **> 40°** severe + **DMAA > 15°**)
 
 **Cases** — HVA 36, IMA 16, DMAA 21, physis closed → **double first metatarsal osteotomy** (✗ Wrong options: Ludloff + DSTP · cuneiform · MTP fusion · biplanar chevron alone) · ↑ IMA + congruent ↑ DMAA → **proximal and distal first metatarsal osteotomy** (✗ Wrong options: phalanx osteotomy · DSTP) · **HVA 32 + DMAA 25** → double (✗ Wrong options: HVA 32 + DMAA 12 · skeletal immaturity · neuromuscular · TMT hypermobility)

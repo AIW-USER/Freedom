@@ -26,12 +26,18 @@
 
 **Supraclavicular nerves** — vertical cutaneous nerves over clavicle → injured by plating
 
+**Unique clavicle facts (TO)** — **only long bone lying horizontally** · **first bone to ossify, last to complete** · **only long bone ossifying by intramembranous ossification**
+
+**Why middle third (TO)** — junction of medial convex + lateral concave curves · thinnest, subcutaneous · **nutrient artery entry** weakens cortex · mechanism: **direct fall on shoulder (commonest)** > FOOSH
+
 ### Deforming forces
 
 | Fragment | Pulled | By |
 |---|---|---|
 | **Medial** | **Posterosuperior** | **Sternocleidomastoid** |
 | **Lateral** | **Inferomedial** | **Pectoralis major + weight of arm** (± deltoid) |
+
+**Trapezius (TO)** — elevates lateral end / acromion · distal fragment also **medial + anteriorly rotated** (TO)
 
 **Shortening** — pec major pulls medially; shortening ↓ deltoid lever arm
 
@@ -96,6 +102,14 @@
 
 **Allman** — medial / diaphyseal / lateral
 
+| Allman (TO) | Site | Frequency |
+|---|---|---|
+| **I** | Middle third | **80–85%** |
+| **II** | Lateral third | **15%** |
+| **III** | Medial third | **<5%** |
+
+**AO location (TO)** — clavicle = **15**: **15A medial** · **15B middle** · **15C lateral**
+
 ### Differential
 
 | Mimic | Clue |
@@ -123,6 +137,8 @@ Midshaft clavicle fracture
 | **Floating shoulder** | **Segmental** |
 | — | Scapular malposition / winging, obvious deformity (TO) |
 | — | **Bilateral**, **polytrauma**, head injury, seizures, brachial plexus injury (66% recover) |
+
+**Nonop (TO)** — sling, **no reduction attempt**, early pendulums
 
 **Comminuted displaced clavicle + bilateral plateau fractures** — **ORIF plate**\
 ✗ Wrong options: figure-of-8 · pins · sling
@@ -182,6 +198,8 @@ Midshaft clavicle fracture
 ✗ Wrong options: age · male · dual plates
 
 **Plates** — LC-DCP 3.5 mm, reconstruction 3.5 mm, 2.0–2.7 mm for dual
+
+**Approach extras (TO)** — superior = workhorse · anteroinferior = safer but demanding · protect the **three supraclavicular nerve branches** · **TEN = cosmetic but rotationally less stable** · lateral fragment: lateral locking plate or **hook plate under posterior acromion** · CC screw augments construct
 
 **Rehab** — sling 7–10 d → active; strengthen \~6 wk; sport \~3 mo
 

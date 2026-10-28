@@ -118,6 +118,8 @@
 | **Smaller ring diameter** · more rings · 2 central rings near fracture | — |
 | Wires crossing at **90°** · **↑ tension** | ✓ **Tensioned wires → more axial compression, less transverse shear** than half pins |
 
+**Delta frame (TO)** — over-stiff, **abolishes axial micromotion ("nonunion machine")** · Ilizarov biomechanics in full: Trauma → Ilizarov Principles (TO)
+
 ## 5 Management
 
 ### Total hip implants

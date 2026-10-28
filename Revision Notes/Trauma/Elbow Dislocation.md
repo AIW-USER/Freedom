@@ -74,9 +74,13 @@ Elbow dislocation
 
 **Reduction** — analgesia + relaxation → **in-line traction** (coronal) + **forearm supination** (coronoid under trochlea) + **flex elbow with pressure on olecranon** → "clunk"
 
+**Parvin's reduction (TO)** — flex **30°** → traction–countertraction → correct mediolateral shift → **supinate + push olecranon anteriorly while flexing** · irreducible / unstable → open (posterior) ± ligament repair
+
 **Post-reduction test** — unstable in **extension** + **valgus**; test valgus with **forearm pronated** (locks lateral side)
 
 **Splint** — posterior splint **≥ 90° flexion**, rotation of maximum stability: **LCL torn → pronation** · **MCL torn → supination** (O'Driscoll: reduce in supination, immobilise in pronation) · neutral acceptable
+
+**Both LCL + MCL repaired (TO)** — immobilise in **neutral** rotation
 
 **Duration** — **5–10 days** (5–7 d, OB) → **early active ROM** through stable arc; hinged brace with extension block **3–4 wk**; light duty at 2 wk; full extension by **6–8 wk** · avoid varus / valgus loading until 12 wk (TO)
 

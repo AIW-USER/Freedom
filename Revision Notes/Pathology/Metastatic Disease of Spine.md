@@ -121,6 +121,24 @@
 **Tomita** — primary growth + visceral mets + bone mets \
 ✗ Wrong options: **general condition** **(TO)**
 
+| Tomita (TO) | Points |
+|---|---|
+| Primary growth | Slow 1 · moderate 2 · rapid 4 |
+| Visceral metastasis | None 0 · treatable 2 · untreatable 4 |
+| Bone metastasis | Solitary 1 · multiple 2 |
+
+**Tomita score → surgery (TO)** — **2–3: wide / marginal excision (long-term control)** · **4–5: palliative intralesional** · **6–10: non-operative / supportive**
+
+**WBB (Weinstein-Boriani-Biagini) (TO)** — vertebra in **12 radial zones** + layers **A** extraosseous soft tissue · **B** intraosseous superficial · **C** intraosseous deep · **D** extraosseous extradural · **E** extraosseous intradural → decides **en bloc** feasibility
+
+| Age (TO) | Likely lesion |
+|---|---|
+| 10–30 yrs | Benign — osteoid osteoma, osteoblastoma, ABC, osteochondroma |
+| 30–50 yrs | Chordoma, chondrosarcoma, Hodgkin |
+| > 50 yrs | **Metastasis, myeloma** |
+
+**Strategy by primary (TO)** — slow (breast, thyroid, prostate) → aggressive / en bloc · moderate (renal, uterine) → marginal · rapid (lung, stomach) → palliative fixation · **surgery only if expected survival > 6 weeks** (TO) — conflicts with "life > 3 months / > 6 months" thresholds in chapter — read the options
+
 ### NOMS framework
 
 **NOMS** — **N**eurologic (ESCC grade) · **O**ncologic (**radiosensitivity**) · **M**echanical instability (**SINS**) · **S**ystemic illness (disease burden, comorbidity, ECOG) · most comprehensive current decision framework (FNB 2024 key not given — NOMS fits; ✗ Wrong options: Bigliani · DeWald; Tomita is a score) **(TO)**
@@ -302,3 +320,5 @@ Spinal metastasis (NOMS)
 **"Not a Tomita component?"** → **general condition** **(TO)**
 
 **"Most comprehensive current decision framework for spinal mets (FNB 2024)?"** → key not given · **NOMS** fits **(TO)**
+
+**"Tomita 6–10 points?"** → **non-operative / supportive care** (TO)
