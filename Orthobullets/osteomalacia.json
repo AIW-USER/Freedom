@@ -1,0 +1,1220 @@
+{
+  "title": "Osteomalacia",
+  "url": "https://www.orthobullets.com/basic-science/9033/osteomalacia",
+  "subtitle": "Updated: Jun 17 2021",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Osteomalacia is a metabolic bone disease where defective mineralization results in a large amount or unmineralized osteoid.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made based on a thorough evaluation of serum labs, clinical features, and radiographic findings.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment involves medical management with Vitamin D supplementation and resolving the underlying etiology.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Mechanism",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**qualitative** defect as opposed to a quanitative defect like osteoporosis",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "rare in the US (approximately 1 in 1000)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "much less common than osteoporosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "because of adequate exposure to sunlight and dairy products fortified with vitamin D",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "rickets is found in children (open physis)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "osteomalacia is found in adults (closed physis)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "the following conditions predispose a patient to osteomalacia",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**vitamin-D deficient diets**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**malabsorption e.g. celiac disease**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**renal osteodystrophy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "hypophosphatemia",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "chronic alcoholism",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "tumors (tumor-induced osteomalacia)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "drugs",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "drugs associated with vitamin D deficiency",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "**phenytoin**",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "phenobarbital",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "rifampin",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "cholestyramine",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "cadmium",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "glucocorticoids",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "drugs affecting phosphate homeostasis",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "**aluminium-containing phosphate-binding antacid**",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "ifosfamide",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "drugs affecting bone mineralization",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "aluminium",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "etidronate",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "fluoride",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "generalized bone and muscle pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "fractures of long bones, ribs and vertebrae",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "proximal muscle weakness weakness",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "fatigue",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inspection",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "waddling gait",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "from hip pain and thigh weakness",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "difficulty rising from chair and climbing stairs",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "Looser's zones (**insufficiency fractures**)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9033/images/looser%20zone.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "medial femoral cortex",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "pubic ramus",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/9033/images/pubic%20ramus.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "scapula",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "fractures (especially in the proximal femur/femoral neck)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9033/images/patho%20frac%20fem%20neck.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "biconcave vertebral bodies",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "trefoil pelvis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "protrusio acetabuli",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9033/images/protrusio.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bone scan",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "increased activity",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Labs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 8,
+                  "bullets": [
+                    {
+                      "text": "**Lab values**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Serum Ca*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Serum P*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Alk phos*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*PTH*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*25-(OH)vit D*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*1,25-(OH)vit D*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Urinary Ca*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Osteomalacia",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "High",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "High",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Osteoporosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Variable",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Tumor induced osteomalacia",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Very low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Low",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Osteopetrosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "High",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Histology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Characteristic histology includes",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "requires transiliac biopsy for definitive diagnosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "widely separated osteoid seams",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9033/images/histo%20osteomalacia.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9033/images/histo%20osteoid.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "large doses of oral vitamin D (1000IU/day), treat underlying cause",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "most patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "specific subgroups of patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "on long-term anticonvulsant therapy",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "supplement with 400-800IU/day of vitamin D",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "with hepatobiliary disease",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "supplement with 25(OH)-vit D",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "with renal disease",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "supplement with 1,25(OH)2 vit D",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9033/images/looser%20zone.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9033/images/patho%20frac%20fem%20neck.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9033/images/histo%20osteomalacia.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9033/images/histo%20osteoid.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 127,
+  "visitorMode": false
+}

@@ -1,0 +1,3297 @@
+{
+  "title": "TKA Extensor Mechanism Rupture",
+  "url": "https://www.orthobullets.com/recon/12310/tka-extensor-mechanism-rupture",
+  "subtitle": "Updated: Jun 4 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "TKA Extensor Mechanism (EM) Ruptures are traumatic periprosthetic injuries that consist of quadriceps tendon injuries, patella fractures, or patellar tendon injuries.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis can be made clinically in a patient with a history of a TKA who is unable to perform a straight leg raise. Radiographs may show patella alta (patellar tendon rupture) or patella baja (quadriceps tendon rupture).",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment is generally surgical repair versus reconstruction, depending on available patella bone stock and chronicity of injury. Nonoperative management is reserved for poor surgical candidates and partial disruptions.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "overall EM failure incidence 0.1-2.5% of all TKAs; revision TKA carries higher risk",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "quadriceps rupture 0.1%",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patellar tendon rupture 0.17%",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patella fracture 0.05% in unresurfaced cases and 0.2-21% in resurfaced cases",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "patellar tendon ruptures are the most common type",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "presents in typical TKA demographic (mean age 65-75)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "patellar tendon ruptures more common in females",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "patellar fractures more prevalent in men",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "multiply operated knees",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "3-4 prior surgeries increases risk for EM rupture",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "including prior TKA, revision TKA, patellar realignment surgery, high tibial osteotomy",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "systemic conditions",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "renal disease, diabetes mellitus, rheumatoid arthritis, peripheral vascular disease, obesity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "medications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "testosterone replacement therapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "flouroquinolone antibiotics",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "intraoperative technical factors",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "stiff knees with inadequate exposure - patellar eversion risk",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "aggressive resection of the patella",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "residual bone < 12 mm increases fracture risk",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "lateral retinacular release - risk to the superior lateral geniculat artery",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "V-Y quadriceps turndown - disrupts proximal blood supply",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "component malrotation - excessive patellofemoral forces",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "excessive joint line elevation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "maximum acceptable elevation is 4 mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "implant factors",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "single-peg vs tri-peg patella fixation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "single-peg carries a higher fracture risk",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "femoral component with thicker anterior flange",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "iatrogenic / intraoperative injury",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "avulsion of patellar tendon from tibial tubercle during forced flexion of stiff knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "excessive lateral retinacular release – disrupts superior lateral geniculate artery",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "V-Y turndown for difficult exposure – disrupts proximal quadriceps blood supply",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "manipulation under anesthesia post-TKA",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postoperative traumatic injury",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "direct blow to anterior knee (patella fracture)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "eccentric loading of compromised extensor mechanism",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "quadriceps tendon: most commonly tears 1–2 cm proximal to superior patellar pole (watershed zone)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "avascular necrosis (AVN) of patella",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "disruption of anastomotic geniculate ring causes AVN and risks stress fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "risk: lateral retinacular release, V-Y turndown",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "medical",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "renal failure, diabetes, rheumatoid arthritis, peripheral vascular disease",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "orthopaedic",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "periprosthetic joint infection (PJI) – must always be ruled out before reconstruction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "component malrotation or loosening",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "arthrofibrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Extensor mechanism",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "quadriceps tendon",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "patella",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "patellar tendon",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "tibial tubercle",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Muscles",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "quadriceps muscle group",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "rectus femoris – superficial layer; fibers continue over patella into patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "vastus medialis – deep medial layer; medial patellar stabilizer",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "vastus lateralis – deep lateral layer; lateral patellar stabilizer",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "vastus intermedius – deepest layer",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tendons",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "quadriceps tendon",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "distal confluence of the quadriceps muscle complex",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "inserts onto proximal pole of patella",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "superficial fibers from rectus femoris continue over patella to patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "watershed zone 1–2 cm proximal to superior patellar pole",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "most common rupture site",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "patellar tendon",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "originates from inferior pole of patella",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "average 4-6mm thick, 5 cm long",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "insterts into tibial tubercle",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Blood Supply",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "genicular arteries",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "primary blood supply to patella and patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "superior medial, superior lateral, inferior medial, inferior lateral geniculate arteries form anastomotic ring",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "inferior genicular arteries supply patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "superior lateral genicular artery at risk with injury to lateral retinacular release",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "recurrent anterior tibial artery",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "contributes to supply of patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "clinical relevance:",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "disruption of anastomotic ring --> AVN --> patellar stress fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "watershed area of quadriceps tendon 1-2 cm proximal to superior pole of patella",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Biomechanics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "patellofemoral joint forces vary with activity",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "0.5 x body weight - walking",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "3.1 x body weight - ascending/descending stairs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "7 x body weight - squatting",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patella increases quadriceps mechanical advantage 30-50% via lever arm effect",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Ortiguera & Berry Classification – Periprosthetic Patellar Fractures",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "most widely used classification",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "based on three criteria: extensor mechanism integrity, patellar component fixation, bone stock quality",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**ERROR CREATING TABLE**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "History",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "history of prior TKA (primary or revision)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "acute onset: traumatic fall, direct blow, forced flexion, manipulation under anesthesia",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "insidious onset: chronic/attritional rupture, AVN-related fracture",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "inability to perform active knee extension or straight leg raise (most common)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "anterior knee pain",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "knee instability or buckling",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "audible pop at time of injury (acute rupture)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "inspection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "knee effusion / hemarthrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "soft-tissue swelling about anterior knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "extensor lag – inability to actively extend against gravity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patella alta (patellar tendon rupture) or",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patella baja (quadriceps tendon rupture)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "palpation",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "palpable defect in the tendon at rupture site",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "tenderness over anterior knee of patellar fracture site",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "range motion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "passive ROM may be preserved",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "active extension lost",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "weakness with attempted extension against gravity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "special tests",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "straight leg raise",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "inability indicates complete EM disruption",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "AP, lateral, and Merchant (axial patellar) views",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "patella alta - patellar tendon ruptures (Insall-Salvati ratio > 1.2)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "patella baja - quadriceps tendon ruptures (Insall-Salvati ratio < 0.8)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "posterior tibial subluxation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "bony avulsions",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "prior radiographs can aid in determination of component migration or loosening",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "loosening: osteolysis, radiolucent lines, component migration",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "component position, joint line level",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "measurements",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Insall-Salvati ratio",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "lateral knee X-ray in 30° of flexion",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "patellar tendon length to maximum length of patella",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "normal: 0.8 to 1.2",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "evaluation of femoral and tibial component rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "characterization of patellar fracture fragmentation and bone stock quality",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "component loosening assessment",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "imaging modality of choice for confirming and characterizing extent of tendon disruption",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "useful when clinical diagnosis is uncertain (partial vs. complete tear)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "evaluation of patellar AVN – detects earlier than plain radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "metal artifact reduction sequences (MARS) to minimize implant artifact",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ultrasound",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "bedside assessment of quadriceps or patellar tendon continuity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dynamic evaluation of tendon gap",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "benefits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "no metallic artifact; low cost; readily available",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "disruption of tendon continuity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "hematoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "tendon retraction gap",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Labs",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "all patients with EM rupture after TKA must be evaluated for PJI prior to any reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "ESR, CRP",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "knee aspiration",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cell count, differential, Gram stain, cultures",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "alpha-defensin or synovial leukocyte esterase when PJI is suspected",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "BMP, CBC, HbA1c for preoperative optimization",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Differential",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Periprosthetic Joint Infection (PJI)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "key differentiator: elevated ESR/CRP, positive aspiration, systemic signs of infection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "must always be ruled out before operative reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Isolated component loosening",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "pain without extensor lag",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "radiographic loosening, radiolucent lines",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "active extension typically preserved",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Patellar clunk syndrome",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "fibrous nodule in suprapatellar pouch",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "painful clunk at 30–60° flexion during extension",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "no extensor lag",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "treated with arthroscopic debridement",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Patellar maltracking or subluxation",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "lateral tilt or subluxation on Merchant view",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "component malrotation on CT",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "extension intact",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "J-sign on exam",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Arthrofibrosis",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "restricted passive AND active ROM without extensor lag",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Diagnosis",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Clinical: history of TKA + inability to perform straight leg raise + palpable tendon defect",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Confirmed with radiographs (patella alta/baja, fracture) and/or MRI or ultrasound",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "PJI must be ruled out in all cases before surgical planning",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Assess component fixation status on radiographs and CT",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Classify patellar fractures to guide treatment",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "knee immobilizer x6 weeks",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "partial EM rupture with preserved active extension",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "type I patellar fracture (intact EM, well-fixed component)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "non-displaced patellar fracture with intact extensor mechanism [QID 219997]",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "extensor lag < 20° with nondisplaced fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "absolute contraindications to surgery: active PJI, medically unfit for surgery",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "sedentary, low-demand, elderly patients unwilling to accept surgical risk",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "extension splint or immobilizer brace",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "cylinder cast for non-compliant patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "drop-lock brace if no intention of healing",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "weight-bearing as tolerated in brace",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "serial radiographs every 4–6 weeks",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "transition to progressive ROM after 6–8 weeks once healing confirmed",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "good to excellent for Type I patellar fractures",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "~69% of periprosthetic patellar fractures treated conservatively",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "primary repair with suture",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "acute rupture (< 2 weeks) of quadriceps or patellar tendon with intact patella and patellar component",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "rarely indicated for patellar tendon alone due to high failure rate",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "quadriceps tendon acute repair may equal allograft outcomes if < 2 weeks",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "contraindications",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "chronic rupture (> 6 weeks) – insufficient tissue quality; reconstruction required",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "inadequate patellar bone stock",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "active PJI",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "patellar tendon repair: 63% complication rate – largely abandoned",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "quadriceps tendon repair: 25% complication rate",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "reconstruction (allograft, autograft, or synthetic)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "complete EM disruption with inability to perform SLR",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "chronic EM rupture (> 6 weeks)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "failed primary repair",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "type II periprosthetic patellar fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "patellar tendon rupture – preferred over primary repair",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "techniques",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "achilles tendon allograft",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "whole EM allograft",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "synthetic material",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "semitendinosus autograft",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "residual extensor lag",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "synthetic outcomes similar to allograft",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "arthrodesis",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "complete laceration of patellar tendon without adequate patellar bone stock and deficient soft tissues",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "chronic extensor mechanism (patella or quadricep tendon) disruption",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "reconstruction with synthetic polypropylene (ie. Marlex mesh) has been shown to have similar clinical outcomes at a lower cost than allograft techniques",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "reconstruction with synthetic polypropylene is recommended in patients with immune-compromise",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "knee arthrodesis",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "salvage option for multiple failures of extensor mechanism reconstruction, especially if complicated by infection",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Techniques",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Primary repair",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "acute (< 2 weeks)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "intact patella and component",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "adequate tissue",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "rarely indicated due to consistently poor outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "direct anterior midline incision",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "end-to-end repair with heavy non-absorbable sutures (#5 FiberWire or equivalent)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "suture anchors into proximal pole of patella for tendon-to-bone repair",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "bone tunnels through patella for quadriceps-side repairs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "augmentation with allograft strongly recommended due to high re-rupture rate",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "repair performed with knee in full extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cylinder cast or brace in full extension for 6-8 weeks",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "progressive ROM after cast removal",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "largely abandoned for patellar tendons due to poor poutcomes relative to reconstruction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "63% complication rate in patellar tendons",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "25% complication rate in quadriceps tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "some studies show quadriceps tendon repair can be as successful as allograft reconstruction if injury <2 weeks chronicity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction with Achilles tendon allograft",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "patellar tendon rupture",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "intact patella and patellar component",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "patella mobile within 3–4 cm of joint line",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Quadriceps tendon rupture",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "chronic rupture with significant proximal retraction",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "allograft",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "fresh-frozen achilles tendon allograft with calcaneal bone block",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "inferior results with freeze-dried allografts",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "midline anterior incision to expose entire EM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "creation of rectangular trough in proximal tibia to receive calcaneal bone block",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "bone block is press-fit into tough and fixed with cerclage wires or cortical screws",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "proximal portion of graft is sutured into native EM tissue",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "tensioning of the graft is performed in full knee extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cylinder cast in full extension for 6-8 weeks, then progressive ROM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "residual extensor lag",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "unacceptable range of motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dependence on assistive devices",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "persistent instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction with whole extensor mechanism (EM) allograft",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "complete EM rupture with deficient or absent patella",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "failed prior reconstruction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "requires adequate proximal tibial bone stock (5 cm) and sufficient quadriceps tendon (5 cm)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "allograft",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "contains quadriceps tendon, patella, patellar tendon, and proximal tibial bone block",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "allograft should be fresh-frozen",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "midline incision and dissection to expose entire host EM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "full-thickness medial and lateral subcutaneous flaps",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "midline incision through remaining host quadriceps and patellar tendons",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "midline bisection of patella with saw to split patella in half; resect patellar remnants",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "tibial bone block fashioned to fit into rectangular trough on host proximal tibia, secured with screws or wires",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "allograft pulled proximally under host quadriceps while pulling maximal tension on native quadriceps distally in full extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "allograft sutured proximally into overlying host quadriceps with heavy nonabsorbable sutures",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "allograft patella is not resurfaced",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "elevated medial and lateral flaps of host EM are sutured over top of EM allograft",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cylinder cast in full extension for 6-8 weeks, then progressive ROM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "inferior results found with freeze-dried allografts",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "residual extensor lag",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "unacceptable range of motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dependence on assistive devices",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "persistent instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction with synthetic material",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "patellar tendon insufficiency with intact patella, patellar component, and quadriceps tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "immunocompromised patients (avoids allograft disease transmission)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "shown to have similar clinical outcomes to allograft at lower cost",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "synthetic material options",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "synthetic polypropylene mesh (Marlex)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "woven polyester ligament (LARS)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "medial parapatellar arthrotomy after full-thickness subcutaneous flaps medially and laterally",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "distal end of synthetic mesh placed into trough in proximal tibia and secured with screw and or cement fixation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "proximal end of mesh is tunneled along lateral aspect of host patellar tendon from superficial to deep and",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "secured to quadriceps tendon proximally",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "mesh covered with medial and lateral flaps of host tissue",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cylinder cast in full extension for 6-8 weeks, then progressive ROM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "residual extensor lag",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "unacceptable range of motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dependence on assistive devices",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "persistent instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "advantages vs. allograft:",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "similar outcomes [218132, 219933]",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "lower cost [220158, 217844]",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "decreased risk of disease transmission [220458]",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "higher availability",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction with medial gastrocnemius rotational flap",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "EM rupture with inadequate anterior soft-tissue coverage",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "medial parapatellar arthrotomy after full-thickness subcutaneous flaps medially and laterally",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "medial half of gastrocnemius mobilized from musculotendinous junction of Achilles tendon through a separate medial incision",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "muscle belly tunnelled subcutaneously around medial border of tibia",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "fascia of gastrocnemius is secured to atnerior tibial periosteium",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "achilles tendon sutured to distal aspect of quadriceps tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "postoperative casting of knee in full extension for 6-8 weeks prior to beginning ROM",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "residual extensor lag",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "unacceptable range of motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dependence on assistive devices",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "persistent instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "pros/cons",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "provides extra soft tissue coverage of the anterior knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "increases vascularity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Open reduction internal fixation (ORIF) of patella",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "type II with EM disruption and adequate bone",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "type IIIa with symptomatic loose component and bone ≥ 10 mm",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "direct anterior approach; anatomic reduction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "cannulated screw fixation or tension band wiring",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "revision of patellar component at time of ORIF for Type IIIa",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "type IIIb (< 10 mm bone): patellectomy or component removal without revision (patelloplasty)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "AVN",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "nonunion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "hardware failure (wire migration to popliteal fossa reported)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "infection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Knee arthrodesis",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indication",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "salvage for failed reconstruction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "active PJI precluding reimplantation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "massive bone loss",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique options",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "long intramedullary nail – preferred; provides rigid fixation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "external fixator – infected cases or significant bone loss",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "fusion position: 0–15° flexion, 5–7° valgus, neutral rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Persistent extensor lag > 30°",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "most common complication, 45% of cases",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "risk factors: chronic rupture, delayed treatment, inadequate tensioning at reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "treatment: physical therapy; rarely re-operation if severe",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Re-rupture of EM",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "25% of cases",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "higher with primary repair alone vs. augmented reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "higher with freeze-dried vs. fresh-frozen allograft",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "treatment: revision reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Infection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "23% of cases following surgical reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "risk factors: immunosuppression, diabetes, prior infection, allograft use, prolonged OR time",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "diagnosis: elevated CRP/ESR, knee aspiration, intraoperative cultures",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "treatment: two-stage revision (explantation + antibiotic spacer → reimplantation after eradication)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Residiual limited ROM / stiffness",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "mandated 6–8 week immobilization leads to flexion loss",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "average postoperative ROM typically 75–90°",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "treatment: aggressive PT after brace removal; MUA rarely indicated",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Persistent instability / dependence on assistive devices",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "common long-term sequela; many patients require a cane or walker",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Patellar AVN",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "disruption of geniculate anastomotic ring can cause AVN resulting in late stress fracture",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "risk: lateral retinacular release, V-Y turndown",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Hardware failure (ORIF cases)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "wire breakage, screw loosening, migration to popliteal fossa (reported complication)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "high nonunion rate with periprosthetic patellar fractures",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Outcomes after EM reconstruction are universally challenging with high complication rates",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "functional success rates 50–68% at 3–5 years",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "54% 5-year implant survivorship",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "common sequelae: residual extensor lag, limited ROM, dependence on assistive device, instability",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Favorable prognostic factors:",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "acute rupture treated early (< 2 weeks)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "fresh-frozen allograft (vs. freeze-dried)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "intact patellar component at reconstruction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "adequate bone stock",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "absence of infection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Negative prognostic factors:",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "active PJI or prior infection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "chronic disruption with scarred, retracted tissues",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "multiple prior knee surgeries",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "significant systemic comorbidities (renal failure, diabetes, RA)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "freeze-dried allograft use",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "inadequate patellar bone stock",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Natural history without treatment:",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "progressive extensor lag and functional decline",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "instability, falls risk, inability to ambulate independently",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "nonoperative management in poor surgical candidates: functional but limited outcome with assistive device dependence",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/12310/images/extensor_mechanism_rupture.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 448,
+  "visitorMode": false
+}

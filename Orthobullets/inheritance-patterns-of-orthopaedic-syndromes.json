@@ -1,0 +1,695 @@
+{
+  "title": "Inheritance Patterns of Orthopaedic Syndromes",
+  "url": "https://www.orthobullets.com/basic-science/9024/inheritance-patterns-of-orthopaedic-syndromes",
+  "subtitle": "Updated: May 10 2023",
+  "sections": [
+    {
+      "text": "Different inheritance patterns",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Allows for specific patterns of inheritance controlled by a single gene pair (“monogenic”)",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "4 different types of patterns",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "**autosomal dominant**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**autosomal recessive**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**x-linked dominant**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**x-linked recessive**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "additional inheritance effects include",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "**imprinting**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**anticipation**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "In general",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "defective structural proteins = AD",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "defective enzymes = AR",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pedigree Analysis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "A pedigree chart displays a family tree and the members of the family affected by a genetic trait",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Use",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "a pedigree chart can be used to determine the mode of transmission",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "dominance",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "whether the trait is dominant or recessive",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "linkage",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "whether the trait is X-linked or autosomal",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Key",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "shapes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "circles represent females",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "squares represent males",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "color",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "a black circle/square represents an individual affected by the genetic trait",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "a white circle/square represents an individual that is not affected by the trait",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "lines",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "horizontal",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "a male and female connected by a horizontal line have mated and have children",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "vertical",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "vertical lines connect parents to their children",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Autosomal Dominant",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Description",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "only need to get the abnormal gene from one parent in order for you to inherit the disease.",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**Syndactyly**",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**Polydactyly**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Marfan's syndrome**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Cleidocranial Dysostosis**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Hereditary Multiple Exostosis**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**Achondroplasia**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**MED**",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**Metaphyseal chondrodysplasia** (Schmid and Jansen types)",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**Kniest dysplasia**",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**Malignant hyperthermia**",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**Ehlers-Danlos syndrome**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Osteogenesis imperfecta (types I-IV)**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Osteochondromatosis/Multiple Hereditary Exostosis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**Osteopetrosis (tarda, mild form)**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Autosomal Recessive",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Description",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "an autosomal recessive disorder means two copies of an abnormal gene must be present in order for the disease or trait to develop.",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "**Diastrophic Dysplasia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**Friedreich's Ataxia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**Gaucher disease**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**Spinal muscular atrophy**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**Sickle cell anemia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**Hypophosphatasia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**Osteopetrosis (infantile, malignant form)**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sex-linked Recessive (males only)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Description",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "X-linked diseases usually occur in males. Males have only one X chromosome. A single recessive gene on that X chromosome will cause the disease.",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**Duchenne muscular dystrophy**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Becker's muscular dystrophy**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Hunter's syndrome**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Hemophilia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "SED tarda",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "Lesch-Nyhan",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sex-linked Dominant",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Examples",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Hypophosphatemic rickets",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Leri-Weill dyschondrosteosis (bilateral Madelung's deformity)",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Multiple inheritance patterns",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Examples",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**Charcot-Marie-Tooth** (AD, AR, Xlink)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Osteopetrosis** (AD, AR)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Osteogenesis Imperfecta** (AR, AD)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**Neurofibromatosis** (AD, AR)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**SED** (AD, Xlink)",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Miscellaneous Genetic Inheritance",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Imprinting**",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "a genetic phenomenon by which certain genes are expressed in a parent-of-origin-specific manner",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "Examples",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "Angelman Syndrome",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "Prader-Willi Syndrome",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Anticipation**",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "a phenotype occurs earlier (and typically worse) in each subsequent generation",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "common in trinucleotide repeat disorders",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9024/images/autosomaldominant.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9024/images/autosomalrecessive.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 92,
+  "visitorMode": false
+}

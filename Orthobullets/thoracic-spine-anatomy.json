@@ -1,0 +1,708 @@
+{
+  "title": "Thoracic Spine Anatomy",
+  "url": "https://www.orthobullets.com/spine/2070/thoracic-spine-anatomy",
+  "subtitle": "Updated: Aug 14 2024",
+  "sections": [
+    {
+      "text": "Alignment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Sagittal plane alignment",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "normal thoracic kyphosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**average 35°**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "normal range 20-50°",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Osteology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Vertebral prominens**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "the long, prominent spinous process found at C7",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Costal facets**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "articulation between ribs and vertebral segments",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "present on all vertebral bodies and transverse processes from T1 to T9",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "articulation with ribs leads to increased rigidity of thoracic spine (most rigid in axial skeleton)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Vertebral body size",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/2070/images/endplate%20area.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "**increases** progressively from T1 to T12",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Spinal **canal** dimension",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/2070/images/spinal%20canal%20diameter.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "varies from T1 to T12",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Motion",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "The orientation of the **facet** (zygapophyseal) joints determines the degree and plane of motion at that level",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "varies throughout the spine to meet physiologic function",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**cervical spine** (C3-7)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "planes",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "0° coronal",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "45° sagittal (angled superomedially)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/2070/images/cervical%20facets.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "function",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "allow flexion-extension, lateral bending, rotation",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**thoracic spine**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "planes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "20° coronal",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "55° sagittal (facets in coronal plane)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "6 degrees of freedom",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/2070/images/rom.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "function",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "allow some rotation, minimal flexion-extension (also limited by ribs)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/2070/images/rom2.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "prevents downward flexion on the heart and lungs",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/2070/images/thoracic%20facets.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**lumbar spine**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "plane",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "50° coronal",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "90° sagittal (facets in sagittal plane)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/2070/images/lumbar%20facets.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "function",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "allow flexion-extension, minimal rotation",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "helps increase abdominal pressure",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thoracic Pedicle Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pedicle diameter",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "the pedicle wall is twice as thick medially as it is laterally",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**T4 has the narrowest pedicle diameter** (on average)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "T7 can be irregular and have a narrow diameter on the concave side in AIS",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "T12 usually has larger pedicle diameter than L1",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Pedicle length",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pedicle length decreases from T1 to T4 and then increases moving distally in the thoracic spine",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "T1: 20 mm",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "T4: 14 mm (**shortest pedicle**)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "T10: 20 mm",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pedicle angle",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "transverse pedicle angle",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/2070/images/transverse%20pedicle%20angle.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "varies from 10° (mid-thoracic spine) to 30° (L5)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "sagittal pedicle angle",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/2070/images/sagittal%20pedicle%20angle.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "15-17° cephalad for majority of the thoracic spine",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "neutral (0°) for lumbar spine except L5 (caudal)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Erector Spinae Muscles",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Characteristics",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/2070/images/erector%20spinae.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "function to **extend** the trunk",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "located dorsal to the vertebral column",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "innervated by dorsal rami of spinal nerves",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Erector spinae muscles include",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**spinalis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "most **medial**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "origin and insertion: spinous process to spinous process",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**longissimus**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "intermediate",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "origin and insertion: transverse process to transverse process",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**iliocostalis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "most **lateral**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "origin: ilium and ribs",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "insertion: ribs and transverse process",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Surgical Approaches",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Surgical approaches for thoracic disc herniation",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/2070/images/approaches%201.jpg",
+              "caption": ""
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/2070/images/approaches%202.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "laminectomy/hemilaminectomy",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "transpedicular",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "costotransversectomy",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "lateral extracavitary",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "anterior intracavitary",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "thoracotomy",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "video-assisted thoracoscopic surgery (VATS)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/pedicle%20diameter%20illustration%203.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/kim_2.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/thoracic%20vert.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/endplate%20area.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/spinal%20canal%20diameter.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/cervical%20facets.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/2070/images/rom.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 82,
+  "visitorMode": false
+}

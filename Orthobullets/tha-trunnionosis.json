@@ -1,0 +1,517 @@
+{
+  "title": "THA Trunnionosis",
+  "url": "https://www.orthobullets.com/recon/422821/tha-trunnionosis",
+  "subtitle": "Updated: Mar 26 2025",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Trunnionosis is also referred to as Mechanically assisted crevice corrosion (MACC)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "THA Trunnionosis is a complication of hip arthroplasty caused by metal ion release from corrosion at the femoral head-neck interface morse taper leading to hip pain and adverse local tissue reactions.",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        },
+        {
+          "text": "Diagnosis can be suspected in a patient with elevated serum metal ions with cobalt levels being elevated more substantially than chromium levels. MRI studies can be helpful to assess for pseudotumors.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Treatment is observation for patients without symptoms. Single stage revision THA is indicated for patients with a painful THA in the absence of an infection.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "modular designs",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "large cobalt chrome femoral heads",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "larger heads may put more torsional forces on the trunnion.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "taper design",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "shorter taper length may afford less interference fit and more micromotion",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "**greater rigidity** of the taper may lead to less wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "metal on metal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "serum metal ions may contribute to taper wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "no pathognomonic serum metal ion level for trunnionosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "serum cobalt >1 ng/ml (ppb) should lead to consideration for mechanically assisted crevice corrosion (MACC)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "mixed alloy components",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "**Galvanic corrosion**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "corrosion caused by an electrochemical transfer of electrons between dissimilar metals",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "i.e. cobalt-chromium (CoCr) alloy femoral head on a titanium alloy stem",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**Fretting corrosion**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422821/images/trunnion_wear.jpg",
+                  "caption": "Photograph demonstrating trunnion wear"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "corrosion from relative micromotion between two materials causing wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "i.e. tolerance between male and female morse taper allows for micromotion and wear",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "contributes to **trunniononsis**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**Crevice corrosion**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "physicochemical interaction between a metal and environment leading to altered mehcanical properties",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "stainless steel most prone to crevice corrosion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The adverse reaction to metal debris generation may result in an aseptic lymphocyte-dominant vasculitis association lesion (ALVAL; also referred to as pseudotumor) similar to that seen in metal-on-metal hips",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "History",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain and limp are the most common complaints",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "occasionally if ALTR is large enough a palpable pseudocyst can be felt",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "abduction weakness if ALTR has caused soft tissue destruction of abductors",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "AP and lateral hip views should be obtained",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "imaging studies may be normal in the setting of trunnnionosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Judet views and/or CT scan may be obtained if advanced osteolysis is present",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "MARS MRI",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/422821/images/pseudotumor.jpg",
+              "caption": "MARS MRI showing an example of a pseudotumor following ALTR"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "findings may include periarticular pseudotumors and/or soft tissue destruction",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Infection should be ruled out",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "ESR, CRP, WBC",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Aspiration",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "consider manual cell count as metal debris can cause a false elevation of automated cell count",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Metal ion levels",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "cobalt and chromium ion levels",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**cobalt levels are elevated substantially more than chromium levels**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "ratio of at least 2:1 encountered when caused by head-neck junction trunnionosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "ratio of 1:1 is suggestive of metal-on-metal implant wear",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "revision total hip",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "painful THA with the above risk factors and elevated serum cobalt level compared to serum chromium level elevation",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "frozen-sections and intraoperative cultures",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "extensive synovectomy",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "inspection of the taper and decision for retention of stem versus revision stem",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422821/images/trunnionosis_example_2.jpg",
+                          "caption": "Example of trunnionosis of the taper and cobalt chrome head"
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "to **ceramic head with titanium sleeve and new polyethylene liner**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/422821/images/a5f3fe08-ecbe-4fdc-9340-eac2cb4aa6b2_macc.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422821/images/305cf623-6b9d-4c5f-b797-e46a34cf6c84_macc_or.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422821/images/pseudotumor.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422821/images/trunnion_wear.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422821/images/trunnionosis_example_2.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 63,
+  "visitorMode": false
+}

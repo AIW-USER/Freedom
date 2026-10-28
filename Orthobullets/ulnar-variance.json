@@ -1,0 +1,973 @@
+{
+  "title": "Ulnar Variance",
+  "url": "https://www.orthobullets.com/hand/6046/ulnar-variance",
+  "subtitle": "Updated: Mar 3 2023",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Ulnar Variance is the length of the ulna compared to the length of the radius at the wrist.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made radiographically with PA wrist radiographs. Positive ulnar variance indicates a longer ulna compared to the radius and a negative ulnar variance indicates a shorter ulna.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment depends on severity of symptoms and underlying condition.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Demographic",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "male:female relationship",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "UV is **lower in males** than females",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "age bracket",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**UV increases with age**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**positive UV** may be present in **child gymnasts**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "distal radial growth plate injury leading to premature closure of distal radial physis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "congenital",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "Madelung deformity (positive UV)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "reverse Madelung deformity (negative UV)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "trauma/mechanical",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "distal radius/ulnar fracture with shortening",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "growth arrest (previous Salter-Harris fracture)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "DRUJ injuries (Galeazzi and Essex-Lopresti)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "iatrogenic",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "joint leveling procedures (radial or ulnar shortening/lengthening)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "radial head resection (positive UV)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "positive ulnar variance",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6046/images/Ulnar%20positive%20variance%20OT04-266_moved.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**ulnar abutment syndrome**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "SLD",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**TFCC tears**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "arthrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "ulnar head",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "lunate",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "triquetrum",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "lunotriquetral ligament tears",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "negative ulnar variance",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6046/images/Negative%20ulnar%20variance_moved.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**Kienbock's disease**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "ulnar impingement syndrome",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "ulna impinges on the radius proximal to the sigmoid notch",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 5,
+                  "bullets": [
+                    {
+                      "text": "**Ulnar Variance**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Ulnar Variance",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Length Difference (ulnar - radial length)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Load Passing Through Radius",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Load Passing Through Ulna",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Positive",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "+2mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "60%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "40%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Positive",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "+1mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "70%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "30%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6046/images/positive.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Neutral",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "0 (< 1mm)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "80%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "20%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6046/images/neutral.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Negative",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "-1mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "90%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "10%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Negative",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "-2mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "95%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "5%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6046/images/negative.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Neutral ulnar variance (ulnar zero)**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "difference between ulnar and radial length is <1mm",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Positive ulnar variance",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "ulnar sided wrist pain from increased impact stress on the lunate and triquetrum",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "UV becomes more positive in **pronation**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "UV becomes more positive during **grip**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Negative ulnar variance",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "UV decreases in supination",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended view",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**PA of the wrist with shoulder abducted 90 deg, elbow flexed 90 deg, neutral forearm rotation**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Method to determine ulnar variance",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "draw 2 lines",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "1 line tangential to the articular surface of the ulna and perpendicular to its shaft",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "1 line tangential to the lunate fossa of the radius and perpendicular to its shaft.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "measure the distance between these 2 lines (normal is 0mm)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "if the ulnar tangent is distal to the radial tangent = positive UV",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "if the ulnar tangent is proximal to the radial tangent = negative UV",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "can estimate but not quantify degree of UV",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "because specific wrist position cannot be duplicated in MRI",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Depends on specific condition",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**ulnar abutment syndrome**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**TFCC tears**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**Kienbock's disease**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/6046/images/Negative%20ulnar%20variance_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6046/images/neutral.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6046/images/positive.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6046/images/negative.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 100,
+  "visitorMode": false
+}

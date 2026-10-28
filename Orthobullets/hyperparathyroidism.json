@@ -1,0 +1,931 @@
+{
+  "title": "Hyperparathyroidism",
+  "url": "https://www.orthobullets.com/basic-science/9089/hyperparathyroidism",
+  "subtitle": "Updated: Sep 21 2025",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Hyperparathyroidism is the increase in serum parathyroid hormone (PTH) production that may be of primary, secondary or tertiary causes.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made based on evaluation of serum labs and clinical evaluation.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment can be medical management or tumor resection depending on underlying cause of disease.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "5",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "occurs in **0.1%** of the population",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "90% result form a **single adenoma**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "remaining 10% from **parathyroid hyperplasia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "more common in women",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "hyperparathyroidism and malignancy make up the majority of patients with **hypercalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "PTH indirectly stimulates osteoclasts by binding to its receptor on osteoblasts, inducing RANK-L and M-CSF synthesis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Excessive PTH leads to **over-stimulation of bone resorption**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "cortical bone affected more than cancellous",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**Brown tumor**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "resembles a giant cell tumor of bone relating to focal demineralization of bone in the setting of hyperparathyroidism.",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Primary",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "typically the result of **hypersecretion of PTH** by a parathyroid **adenoma/hyperplasia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "may result in **osteitis fibrosa cystica**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "breakdown of bone, predominently subperiosteal bone",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "commonly involves the jaw",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Secondary",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "secondary parathyroid hyperplasia as **compensation from hypocalcemia or hyperphosphatemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "↓ gut Ca2+ absorption",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "↑ phosphorous",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "associated conditions",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**chronic renal disease**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "renal disease causes hypovitaminosis D",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "leads to ↓ Ca2+ absorption",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "**renal osteodystrophy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "bone leisons due to secondary hyperparathyroidism",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tertiary",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "**parathyroid glands become dysregulated after secondary hyperparathyroidism**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "secrete PTH regardless of Ca2+ level",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 4,
+                      "bullets": [
+                        {
+                          "text": "**Primary, Secondary and Tertiary hyperparathyroidism**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Serum Ca*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Serum Phos*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Serum PTH*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Primary",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Decreased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Secondary",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Normal or decreased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Tertiary",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Increased",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "often asymptomatic",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "weakness",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "kidney stones (\"stones\")",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "bone pain (\"bones\")",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "constipations (\"groans\")",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "uncommon cause of secondary hypertension",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Evaluation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Serology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "primary",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**hypercalcemia**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**↑ PTH**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "secondary",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**hypocalcemia/normocalcemia**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**↑ PTH**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "malignancy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**↓ PTH**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "↑ alkaline phosphatase",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "normal anion gap metabolic acidosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "↓ renal reclamation of bicarbonate",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Urinalysis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "primary",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**hypercalciuria (renal stones)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "↑ cAMP",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Radiograph",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**cystic bone spaces (\"salt and pepper\")**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "often in the skull",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "loss of phalange bone mass",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "↑ concavity (see key image of this topic)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "EKG",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**shortened QT**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Acute hypercalcemia",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**IV fluids**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**Loop diuretics**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Symptomatic hypercalcemia is treated surgically",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "treat with **parathyroidectomy**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**complications include post-op hypocalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "manifests as numbness, tingling, and muscle cramps",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**should be treated with IV calcium gluconate**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Peptic ulcer disease**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "↑ gastrin production stimulated by ↑ Ca2+",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Acute pancreatitis**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "↑ lipase activity stimulated by ↑ Ca2+",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**CNS dysfunction**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "anxiety, confusion, coma",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "result of metastatic calcification of the brain",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Osteoporosis**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "bone loss occurs as result of bone resorption due to excess PTH",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "orthopedic surgeons should recognize lab abnormalities as patients may present with fragility fractures",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9089/images/subperiosteal_resorption.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 109,
+  "visitorMode": false
+}

@@ -1,0 +1,1844 @@
+{
+  "title": "Femoral Head Fractures",
+  "url": "https://www.orthobullets.com/trauma/1036/femoral-head-fractures",
+  "subtitle": "Updated: Feb 4 2024",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Femoral head fractures are rare traumatic injuries that are usually associated with hip dislocations.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Diagnosis can be made by pelvis/hip radiographs but frequently require CT scan for surgical planning.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment may be nonoperative or operative depending on the location of the fracture and degree of fracture displacement.",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "rare",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "seen in 12% of patients with hip dislocations",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "increased incidence due to higher MVAs and better resuscitation",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "mechanism of injury",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "impaction, avulsion or shear forces involved",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "unrestrained passenger MVA (knee against dashboard)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "falls from height",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "sports injury",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "industrial accidents",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pathoanatomy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "the location and size of the fracture fragment and degree of comminution depend on the **position of the hip** at the time of dislocation",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/hip%20position.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**5-15% of posterior hip dislocations** are associated with a femoral head fracture because of **contact between femoral head and posterior rim of acetabulum**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "anterior hip dislocations are associated with **impaction/indentation fractures of the femoral head**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "femoral neck fracture (see Pipkin Classification below)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "acetabular fracture (see Pipkin Classification below)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "sciatic nerve neuropraxia",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "femoral head AVN",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "ipsilateral knee ligamentous instability (knee vs dashboard)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Blood supply",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**medial femoral circumflex artery (MFCA)**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/1036/images/blood%20supply.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "main blood supply to the weightbearing portion of the femoral head",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "MFCA originates from the profunda femoris",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "artery to the ligamentum teres",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "lesser blood supply (10-15%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "from the obturator artery or MFCA",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "supplies perifoveal area",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 3,
+                  "bullets": [
+                    {
+                      "text": "**Pipkin Classification**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type I",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Fracture below fovea/ ligamentum (small)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "Does **not involve the weight-bearing portion** of the femoral head",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%201.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type II",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Fracture above fovea/ ligamentum (larger)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "Involves the **weight-bearing portion** of the femoral head",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%202%204.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20ii.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type III",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type I or II with an **associated femoral neck** fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "High incidence of AVN",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20iii.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type IV",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Type I or II with associated **acetabular fx (usually posterior wall fracture**)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20iv.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "History",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "frontal impact MVA with knee striking dashboard",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "fall from height",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "localized hip pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "unable to bear weight",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "other symptoms associated with impact",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inspection",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "shortened lower limb",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "with large acetabular wall fractures, little to no rotational asymmetry is seen",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "posterior dislocation",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "limb is flexed, adducted, internally rotated",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "anterior dislocation",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "limb is flexed, abducted, externally rotated",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "ipsilateral knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "ligamentous stability",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "neurovascular",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "may have signs of **sciatic nerve injury**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "AP pelvis, hip series",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "both pre-reduction and post-reduction",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "judet views",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "associated acetabular fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "inlet and outlet views",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "associated pelvic ring injury",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT scan",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "post reduction to evalute for loose bodies and presence/size of fracture fragments",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "femoral head fracture (size, location, comminution)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "plane of femoral head fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "intra-articular fragments",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "posterior pelvic ring injury",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "impaction",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "acetabular fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "hip reduction",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**acute dislocations**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "reduce hip dislocation within 6 hours",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "5-40% incidence of femoral head osteonecrosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "increased risk with increased time to reduction",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "TDWB x 4-6 weeks, restrict adduction and internal rotation",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "Pipkin I",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "nondisplaced Pipkin II with < 1 mm step off",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "no interposed fragments",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "stable hip joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "satisfactory results if <1mm step off",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "serial radiographs required",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "development of post-traumatic arthritis based on joint incongruity and initial cartilage damage",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "ORIF",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**Pipkin II with > 1 mm step off**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**if performing removal of loose bodies** in the joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**associated neck or acetabular fx** (Pipkin type III and IV)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "polytrauma",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "irreducible fracture-dislocation",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "**Pipkin IV**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "treatment dictated by characteristics of acetabular fracture",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "small posterior wall fragments can be treated nonsurgically and suprafoveal fractures can then be treated through an anterior approach",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "outcomes mimic those of their **associated injuries** (hip dislocations and femoral neck fractures)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "high rate of AVN and catastrophic failure following ORIF of Pipkin III injuries",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "poorer outcomes associated with",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "use of posterior (Kocher-Langenbeck) approach",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "use of 3.0mm cannulated screws with washers",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "arthroplasty",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "Pipkin I, II (displaced), III, and IV in **older patients**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "fractures that are significantly displaced, osteoporotic or comminuted",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "best resereved for older patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "higher dislocation risk than THA performed for OA",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "arthroscopy",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "removal of loose bodies",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "dependent on ability to remove incarcerated fragments and initial cartilage damage",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Techniques",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**hip reduction**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "adequate sedation and muscular relaxation are vital",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "traction in-line with the thigh, extremity slightly adducted, counterforce on pelvis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "forceful reduction should be avoided",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "obtain **post reduction CT**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**TDWB x 4-6 weeks, restrict adduction and internal rotation**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "perform serial radiographs to document maintained reduction",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**ORIF of femoral head (Pipkin I, II, III)**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**anterior (Smith-Peterson) approach**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "utilizes **internervous plane** between the superior gluteal and femoral nerves",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "improved visualization",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "reduced surgical time",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "improved fracture reduction",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "femoral head fracture is commonly anteromedial",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "lower incidence of AVN",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "less blood loss",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "higher rate of functionally significant HO compared to posterior approach",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**anterolateral (Watson-Jones)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "utilizes **intermuscular plane** between the tensor fascia lata and gluteus medius (both superior gluteal nerve)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**surgical hip dislocation with trochanteric flip osteotomy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "allows for complete exposure of femoral head and acetabulum",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "similar functional outcomes to other approaches",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "higher rates of HO compared to non-osteotomy-based approaches",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "lower rates of subsequent AVN and post-traumatic osteoarthritis compared to alternative approaches",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "exposure",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**periacetabular capsulotomy** to preserve blood supply to femoral head",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "fixation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "two or more 2.7mm or 3.5mm lag screws",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/fixation%20with%20screws.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20iii.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/fixed%20fracture.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**countersink** the heads of the screws to avoid screw head prominence",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "headless compression screws",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "bioabsorbable screws",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "postop",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "rehabilitation",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "mobilization",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "immediate early range of motion",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "weightbearing",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "delay weight bearing for 6-8 weeks",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "stress strengthening of the quadriceps and abductors",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "radiographs after 6 months to evaluate for AVN and osteoarthritis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**ORIF of femoral head and acetabulum **(Pipkin IV)",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**posterior (Kocher-Langenbeck) approach with digastric osteotomy**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/digas%20osteotomy%201.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/1036/images/digas%20osteotomy%202.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "trochanteric osteotomy allows access to both the femoral head fracture and posterior wall acetabular fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "preserves the medial circumflex artery supply to the femoral head",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "utilizes plane created by **splitting of gluteus maximus** (no true internervous plane)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**anterior (Smith-Peterson) approach**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "for fixation of suprafoveal fractures",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "small posterior wall fractures may not need to be addressed surgically",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Arthroplasty**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "can use any hip approach for arthroplasty",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "posterior (**Kocher-Langenbeck**) approach provides the best visualization of acetabular **posterior wall** fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pros & cons",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "allows immediate postoperative mobilization and weightbearing",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "hemiarthroplasty can be utilized if no acetabular fracture present",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Heterotopic ossification**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/1036/images/ho%20after%20fem%20head%20fracture.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "overall incidence is 6-64%",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "anterior approach has increased heterotopic ossification compared with posterior approach",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "treatment",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "administer **radiation therapy** if there is concern for HO",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "especially if there is an associated **head injury**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**AVN**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "incidence is 0-23%",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "risk is greater with delayed reduction of dislocated hip",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "anterior approach not associated with increased AVN risk",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Sciatic nerve neuropraxia**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "incidence is 10-23%",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "usually peroneal division of sciatic nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "spontaneous recovery of function in 60-70%",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**DJD**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "incidence 8-75%",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "due to joint incongruity or initial cartilage damage",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Decreased internal rotation**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "may not be clinically problematic or cause disability",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%201.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20ii.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%20iv.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/1036/images/pipkin%202%201.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/1036/images/fixed%20fracture.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 221,
+  "visitorMode": false
+}

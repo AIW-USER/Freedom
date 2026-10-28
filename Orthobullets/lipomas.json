@@ -1,0 +1,723 @@
+{
+  "title": "Lipomas",
+  "url": "https://www.orthobullets.com/pathology/8067/lipomas",
+  "subtitle": "Updated: Jun 22 2021",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Lipomas are common benign tumors of mature fat which may be subcutaneous, extramuscular, or intramuscular.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "The condition is typically seen in patients 40-60 years of age who present with a stable, mobile, and painless mass.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made with MRI studies showing a homogenous lesion with signal intensity matching adipose tissue on all image sequencing.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Treatment is observation for asymptomatic lesions. Marginal surgical resection is indicated for symptomatic lesions or lesions that are rapidly growing",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "slightly more common in men",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "affects predominantly patients between 40-60 years old",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "develops in sedentary individuals",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Anatomic location",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "superficial/subcutaneous location is common",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "superficial lesions are common in the upper back, thighs, buttocks, shoulders and arms",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "deep lesions are affixed to surrounding muscle, in the thighs, shoulders and arms",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "~5-10% of patients with a known superficial lipoma, will have multiple lesions",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Common variants of lipoma include",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**spindle cell lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "common in male patients ages 45-65 years",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "stain positive for CD34 but negative for S-100",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**treated with marginal excision**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**pleomorphic lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "common in middle aged patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "may be confused with liposarcomas",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**angiolipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "unique in that it is **painful when palpated**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "often present with small nodules in the upper extremity",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**intramuscular lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "often symptomatic and require marginal resection",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**hibernoma**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8067/images/800px-hibernoma1.jpg",
+                  "caption": "Shows cytology of a hibernoma"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "tumor of brown fat",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "affects younger patients (20-40 years old)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Symptoms",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**usually a painless mass** that has been present for a long time",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "exception is the angiolipoma, which is painful when palpated",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "palpable, mobile, painless lesion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "may show a radiolucent lesion in the soft tissues",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "may see mineralization, which should raise concern for synovial cell sarcoma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "may see calcifications or presence of bone within the lesion",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT scan",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "well demarcated lesion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "lesion looks akin to subcutaneous fat",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "well demarcated lesion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "homogenous, signal intensity matches adipose tissue on **all image sequencing**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "shows well demarcated lesion with same characteristics as mature fat",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "high signal intensity **on T1** weighted images",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma%20t1%20axial_moved.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma_moved.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "high signal intensity **on T2** weighted images, entirely suppressed by STIR or fat saturated sequences",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "low signal intensity **on STIR** image",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma%20t2_moved.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Histology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Biopsy often not necessary as diagnosis can be made by imaging (MRI)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Gross appearance",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Lipomas are soft, lobular, may be encapsulated and whitish/yellowish in color",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Hibernoma are reddish brown because of rich vascular supply in addition to high numbers of mitochondria",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Histology in general shows bland acellular stroma with neoplastic cells that lack cellular atypia.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Histology varies by variant",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**spindle cell lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "mixture of mature fat cells and spindle cells",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "mucoid matrix with varying number of birefringent collagen fibers",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**pleomorphic lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "lipocytes, spindle cells, and scattered atypical giant cells",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**angiolipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "mature fat cells with nests of small arborizing vessels",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**intramuscular lipoma**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**pathology shows lipoblasts and muscle infiltration**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma%20histology.jpg",
+                      "caption": "lipoma histology"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "observation only",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "lesion is painless and MRI is determinate for a benign fatty lesion",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "marginal resection (may be intralesional)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**symptomatic** lesions",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "mass is **rapidly growing**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "tumors located deep to the fascia or in the retroperitoneum",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "deep or retroperitoneal lipomas show a higher likelyhood to be/become atypical lipomatous tumors",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/8067/images/0014.jpg",
+                              "caption": "Histology of Atypical lipoma"
+                            }
+                          ],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "in the retroperitoneum, referred to as well-differentiated liposarcoma",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "in the extremities, referred to as atypical lipomas",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "spindle cell/pleomorphic lipomas are treated by marginal resection",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Local recurrence**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "uncommon (< 5%)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Size typically plateaus after initial growth",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma%20t1%20axial_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8067/images/lipoma%20histology.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8067/images/histology.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8067/images/800px-hibernoma1.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 89,
+  "visitorMode": false
+}

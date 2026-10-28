@@ -1,0 +1,9 @@
+{
+	"id": "mcq-scheduler",
+	"name": "MCQ Scheduler",
+	"version": "0.1.0",
+	"minAppVersion": "1.7.2",
+	"description": "Browse orthopaedic MCQs by section and topic, answer them in a side pane, and reveal the hidden answer in the open note.",
+	"author": "Phaneendra",
+	"isDesktopOnly": false
+}

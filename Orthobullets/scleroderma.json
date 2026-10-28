@@ -1,0 +1,1440 @@
+{
+  "title": "Scleroderma",
+  "url": "https://www.orthobullets.com/basic-science/322121/scleroderma",
+  "subtitle": "Updated: Jun 18 2021",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Scleroderma is an autoimmune skin disease caused by collagen deposition with fibrosis in soft tissue, that presents with progressive hardening and induration of the skin, subcutaneous tissues, muscles, and internal organs.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made based on a constellation of clinical and physical examination findings along with laboratory studies such ANA, anti-centromere antibodies, and anti-Scl-70 antibodies.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Treatment is medical management with NSAIDS, immunosuppressive therapies, and calcium channel blockers in the presence of Raynaud's disease.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**females > males (3-14:1)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "African Americans > Caucasians",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "30-50 years old but can affect all ages",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "can be rapidly progressive in pediatric patients",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "genetic predisposition",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "exposure to potential triggers",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "silica, solvents (such as benzene), radiation",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "multifactorial",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "includes genetic predisposition and environmental triggers",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "pathophysiology",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "triad",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "**collagen deposition with fibrosis**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "excessive deposition of collagen and other elements of the extracellular matrix in skin and internal organs",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**noninflammatory vasculopathy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "due to **fibroproliferation of microvasculature**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**autoimmunity**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "chronic inflammation with alterations of humoral and cellular immunity",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "increased release of inflammatory cells help initiate and propagate the fibrotic process",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Genetics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inheritance pattern",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "usually sporadic",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "mutations",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "HLA",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "STAT4",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "associated with **limited scleroderma**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "IRF5",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "associated with **diffuse scleroderma**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "other autoimmune diseases",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**esophageal dysmotility**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "atrophy of smooth muscles in esophagus can cause decreased lower esophageal sphincter pressure and dysmotility, leading to increased dysphagia and acid reflux",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Based on extent of involvement",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**limited**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "limited involvement of the skin (mostly affects face and hands)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "subtype is **CREST syndrome**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "Calcinosis cutis/anti-Centromere antibody",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "Raynaud phenomenom",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "Esophageal dysmotility",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "Sclerodactyly",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "Telangiectasia",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**diffuse**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "widespread involvement of the skin",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "affects internal organs (kidneys, lungs, heart)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "rapidly progressive",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "skin",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**diffuse pruritus**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**Raynaud phenomenon**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/322121/images/4484e729-bf25-43aa-b4ca-1b838a494a8f_raynauds1..jpg",
+                      "caption": "Raynaud's"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "decreased blood flow to skin due to vasospams from either cold temperatures or stress",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "color of affected area, commonly the digits, change from white (ischemia) to blue (hypoxia) to red (reperfusion)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "musculoskeletal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "mylagias",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "arthralgias",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "osteolysis (especially calcaneal)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "gastrointestinal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**acid reflux**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "respiratory",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "progressive dyspnea",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "**dry cough** due to restrictive lung disease",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "cardiac",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "palpitations or irregular heart beats",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "renal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**hypertension**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "skin",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma1.jpg",
+                  "caption": "Scleroderma - typical contracted tissues, discoloration, shiny skin"
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**tightness, induration, and hardening**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "affecting the fingers (**sclerodactyly**)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma2.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma3.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "shiny with loss of “wrinkles” from skin folds",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "limited mobility due to skin tightening",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "**PIP flexion contractures with compensatory MCP hyperextension**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        },
+                        {
+                          "text": "**1st webspace adduction contractures**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "digital ulceration",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma4.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "edema not responsive to diuresis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "**hyper- and hypopigmentation**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/322121/images/8f71ee20-0810-46e8-bf01-23d7b0bfd596_left_arm_scleroderma_patient..jpg",
+                      "caption": "The classic presentation of hypo and hyperpigmentation"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "telangiectasias on skin and mucosa",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "intracutaneous or subcutaneous calcinosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "respiratory",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**dry rales** if there is pulmonary involvement",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "cardiac",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "symptoms of **cor pulmonale** if there is pulmonary involvement",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "jugular venous distention",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "edema",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "hepatomegaly",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "CT",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**to evaluate pulmonary involvement**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/322121/images/f89c0a3a-8f6e-458e-b625-4571ed7f4ef5_screen_shot_2017-10-12_at_11.19.17_am.jpg",
+                  "caption": "Honeycomb and ground-glass appearance indicative of early lung fibrosis"
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**ground-glass appearance** may indicate early lung fibrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "honeycombing and bronchiolectasis indicate developed interstitial fibrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Angiography",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma_angio.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "loss of flow to the digits",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Labs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**anti-centromere antibody**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "associated with **limited scleroderma (CREST syndrome)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "seen in ~50% of patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**anti-Scl-70 (anti-DNA topoisomerase I) antibody**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "associated with **systemic scleroderma**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "seen in ~30% of patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**anti-nuclear antibody**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "seen in ~90-95% of affected patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "speckled or centromere pattern",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "nucleolar pattern is specific for systemic sclerosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**anti-histone antibody**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "also seen in drug-induced lupus, SLE, and RA",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**elevated inflammatory markers (ESR, CRP)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**serum creatinine**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "to monitor for renal involvement",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**CXCL4**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "increase may indicate pulmonary fibrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**N-terminal probrain natriuretic peptide**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "increase may indicate early pulmonary hypertension",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Manometry",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**aperistalsis in distal esophagus and decreased lower esophageal sphincter tone**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pulmonary function tests",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "used to detect early signs of pulmonary fibrosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "EKG",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "perform routine EKG to assess for cardiac involvement",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Differential",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nephrogenic systemic fibrosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Eosinophilic fasciitis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Graft-versus-host disease",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "immunosuppressive therapies",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "to prevent progression of sclerosis, especially if the pulmonary system is involved",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "drugs",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "**methotrexate**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**mycophenolate mofetil**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**cyclophosphamide**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "reserved for disease refractory to either methotrexate or mycophenolate mofetil",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "angiotensin-converting enzyme (ACE) inhibitor",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "renal involvement of systemic sclerosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "anti-histamines",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "pruritus",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "calcium-channel blockers",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "Raynaud phenomenon",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "ambrisentan (endothelin receptor antagonist) and tadalafil (phosphodiesterase type 5 inhibitor) combination therapy",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "pulmonary hypertension",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "I&D",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "symptomatic calcinosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "PIP joint arthrodesis",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "fixed PIP joint flexion deformity",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MCP joint resection arthroplasty",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "fixed MCP joint hyperextension deformity",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "adductor pollicis release +/- trapeziectomy",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "1st webspace contracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "amputation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "digital gangrene",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Digital infarct/gangrene**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        },
+        {
+          "text": "**Pulmonary hypertension**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        },
+        {
+          "text": "**Pulmonary fibrosis**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        },
+        {
+          "text": "**Renal failure**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Diffuse scleroderma is rapidly progressive",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pulmonary, renal, or cardiac involvement indicates a more severe prognosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "has one of the highest mortalities among systemic autoimmune diseases",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma1.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma2.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma3.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma4.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/322121/images/scleroderma_angio.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 183,
+  "visitorMode": false
+}

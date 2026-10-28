@@ -1,0 +1,911 @@
+{
+  "title": "Radiation Therapy",
+  "url": "https://www.orthobullets.com/pathology/8004/radiation-therapy",
+  "subtitle": "Updated: Jun 18 2021",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Two mechanisms of action",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**production of free radicals**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**direct genetic damage**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Indications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Indications of external beam irradiation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "definitive control **(**primary malignant bone tumors)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**Ewing sarcoma/primative neuroectodermal tumor**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**primary lymphoma of bone**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8004/images/Histology%20A%20-%20high%20power%20-%20Parsons_moved.png",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**hemangioendothelioma**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**solitary plasmacytoma of bone**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8004/images/38c_moved.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**adjuvant to surgical excision**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**soft tissue sarcomas**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8004/images/myxoid%20liposarcoma%20histology.jpg",
+                      "caption": "Histology slide of an extremity myxoid liposarcoma, a very radiation sensitive tumor"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "may be given pre or post-operatively as adjuvant to surgical excision",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "no difference exists in overall survival and the timing of radiation",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "palliative care and impending fracture fixation",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**metastatic bone disease**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8004/images/Histology%20A%20-%20parsons_moved.png",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "needed after fixation of impending/pathologic fractures to reduce overall tumor burden",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "prostate tumors are very radiosensitive",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "breast cancer is 70% sensitive, 30% resistant",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "GI and renal tumors are not radiosensitive",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Technique",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "1 rad = 1 centiGray",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Typical dose is 180-200 cGy/day",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "radiation is given in \"fractions\" as **radiotherapy is cumulative**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "the total dose of therapy is the summation of all the separate fractions given during treatment",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Total dose",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "< 45 Gray: usually leads to uncomplicated tissue healing",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "45 - 55 Gray: tissue usually heals but with problems",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "> 60 Gray: tissue unlikely to heal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Preoperative vs. Postoperative",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 4,
+                  "bullets": [
+                    {
+                      "text": "**Preoperative vs. Postoperative Radiation**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Preoperative RT",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "(neoadjuvant)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Postoperative RT",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "(adjuvant)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Wound complications",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "More **wound** complications",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "(up to 40%)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Less wound complications (<20%)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Edema, fibrosis, joint stiffness",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Less (<15%)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "More edema, fibrosis, joint stiffness (>20%)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "(usually temporary)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Radiation field",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Smaller field",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Larger field",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Pseudocapsule",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Allows formation of pseudocapsule to facilitate close-margin resection",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "No pseudocapsule advantage",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Tumor shrinkage",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Helps shrink tumor prior to surgery",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "No tumor shrinkage advantage",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Local recurrence",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Lower local recurrence rates",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Higher local recurrence rates",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Soft tissue complications**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "early effects",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**delayed wound healing**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**infection**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**desquamation**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "late effects",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**fibrosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**joint stiffness**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**secondary sarcoma (below)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**fractures** (below)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Post-radiation sarcoma**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "defined by the development of a sarcoma in a region previously radiated for malignancy",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "incidence is ~13%",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "more frequent in patients with prior chemotherapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "overal patient prognosis is very poor",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Post-radiation fractures**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "approximately 25% incidence following soft tissue sarcoma resection and external beam irradiation",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "risk factors for post radiation fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "radiation **dose ≥ 59Gy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "weight bearing bones esp. **femur**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "**female**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "volume of bone receiving it",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "anterior femoral compartment resection",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "age",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "periosteal stripping",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "some advocate prophylactic fixation if periosteal stripping is performed",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "osteoporosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/8004/images/radiation%20therapy.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8004/images/Histology%20A%20-%20high%20power%20-%20Parsons_moved.png",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8004/images/38c_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8004/images/myxoid%20liposarcoma%20histology.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8004/images/Histology%20A%20-%20parsons_moved.png",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 93,
+  "visitorMode": false
+}

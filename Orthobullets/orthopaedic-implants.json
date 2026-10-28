@@ -1,0 +1,1188 @@
+{
+  "title": "Orthopaedic Implants",
+  "url": "https://www.orthobullets.com/basic-science/9063/orthopaedic-implants",
+  "subtitle": "Updated: Sep 10 2026",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Characteristics of orthopaedic implants depends on",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**material properties**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**structural properties**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Screws",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Definitions",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/cortical-screws%20(google).jpg",
+              "caption": "cortical screw"
+            }
+          ],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pitch",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "distance between threads",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "lead",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "distance advanced with one revolution",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**screw working distance** (length)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "defined as the length of bone traversed by the screw",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outer diameter",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "root (inner) diameter",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "bending strength is proportionate to inner (minor) diameter^3",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/screw.jpg",
+                  "caption": "Relationship between pullout strength, bending strength, and change in inner (minor) diameter"
+                }
+              ],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "pullout strength is proportionate to outer (major) diameter^2",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/screw.jpg",
+                  "caption": "Relationship between pullout strength, bending strength, and change in inner (minor) diameter"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "maximized by",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "large outer diameter difference",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "fine pitch",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "pedicle screw pullout most affected by **quality of bone** (degree of osteoporosis)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Types of screws",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "cortical screws",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/cortical-screws%20(google).jpg",
+                  "caption": "cortical screw"
+                }
+              ],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "cancellous screws",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/cancellous%20screw.jpg",
+                  "caption": "cancellous screw"
+                }
+              ],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "locking screws",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/lock-screw-2%20(google).jpg",
+                  "caption": "locking screw"
+                }
+              ],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Plate Properties",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview & definitions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "a load-bearing device that is most effective when placed on the tension side",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**plate working distance**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "the length between the 2 screws closest to the fracture on each end of the fracture.",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "decreasing the working distance increases the stiffness of the fixation construct",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Structural properties",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "bending rigidity proportional to **thickness to the 3rd power**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**titanium has Young's modulus of elasticity that most closely approximates cortical bone**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Biomechanics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**absolute stability**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "constructs heal with primary (intramembranous/Haversian) healing",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "must eliminate micromotion with lag screw fixation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "must be low strain at fracture site with high fixation stiffness",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**relative stability**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "constructs heal with secondary (endochondral) healing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "strain rates must be <10%, or fibrous union will predominate",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Plate functions",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Compression",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Buttress",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Tension band",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Bridging",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Protection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Plate Variations",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Concave plates",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "placing a concave bend on a plate is useful in transverse fractures to ensure compressive forces occur on both the far and near cortices of the fracture",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Compression plates",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/compression%20(aaos.org).jpg",
+              "caption": "Compression"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "compression plates work by placing a cortical screw eccentrically into an oval hole in the plate",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/eccentric%20(google).jpg",
+                  "caption": "eccentric"
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "place the cortical screw eccentrically AWAY from the fracture in order to achieve compression",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/80cdc3cc-ee2d-40e7-b842-a41cf536a6d5_screen_shot_2022-07-29_at_12.16.45_pm.jpg",
+                  "caption": "Compression plating"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Locking plates",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/distal-femoral-plate(boneandspine.com).jpg",
+              "caption": "locking plate"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "advantages of locking plates",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "locked plate/screw constructs compared to non-locked plate/screw constructs result in **less angulation in comminuted metaphyseal fractures**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "indications for locking plate technology",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indirect fracture reduction",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "diaphyseal/metaphyseal fractures in osteoporotic bone",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "bridging severely comminuted fractures",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "plating of fractures where anatomical constraints prevent plating on the tension side of the bone (e.g. short segment fixation).",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "locking plate screw biomechanics",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "bicortical locking screws have significantly more resistance to all applied forces, with resistance to torsion increased the most (versus unicortical)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "far cortical locking screws may decrease construct stiffness enough to promote interfragmentary motion and callus formation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "unicortical locking screws have less torsion fixation strength than non-locking bicortical constructs",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "percutaneous locking plates",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "application has less soft-tissue stripping but higher chance malunion",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "hybrid locked plates",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "utilize locking and nonlocking screws in order to assist with fracture reduction (nonlocking screws) as well as provide a fixed angle construct (locking screws).",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "locking plate construct stiffness and stability increases with:",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "bicortical locking screws",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "increased number of screws",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "screw divergence from screw hole < 5 degrees",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "longer plate",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bridging plates",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/bridge%20plate%20(jbjs).jpg",
+              "caption": "Bridge plate"
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "provides relative stability, relative length and alignment",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "preserves the blood supply to the fracture fragments as the fracture site is undisturbed during the operative procedure",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "this theoretically improves secondary bone healing",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "allows some motion at fracture site; relative stability leads to callus formation",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Intramedullary nails",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "a load-sharing device",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Structural Properties",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "stiffness",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**torsional rigidity**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "defined as amount of torque needed to produce torsional (rotational) deformation",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "proportional to the **radius to the 4th power**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "depends on",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "shear modulus",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "polar moment of inertia",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "increased by reaming",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "decreased by slotting of nail",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**bending rigidity**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9063/images/nail%20(google).jpg",
+                      "caption": "imn"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "proportional to the radius to the **4th power** for a **solid nail**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "area moment of inertia of a solid cylinder",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "proportional to the radius to the **3rd power** (approximately) for a **hollow nail**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "area moment of inertia of a hollow cylinder",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "where r1 is inner radius and r2 is outer radius",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "for thin cylinders, {\\displaystyle r\\equiv r_{1}\\approx r_{2}}and {\\displaystyle r_{2}\\equiv r_{1}+t}. and",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "depends on",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "material properties",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "Young modulus of elasticity of material",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "structural properties",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "area moment of inertia",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "length",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Radius of curvature",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**intramedullary nail radius of curvature is greater** (straighter) than the radius of curvature of the femur",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/perf(jbjs).jpg",
+                  "caption": "perf"
+                }
+              ],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Interlocking options",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "dynamic locking-->axially and rotationally stable fractures",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "static locking-->axially and rotationally unstable fractures",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "secondary dynamization for nonunion",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "remove proximal interlocking screw or move proximal interlocking screw from the static to dynamic slot",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "External fixators",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Factors that increase stability of conventional external fixators",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/exfix%20(colleague).jpg",
+              "caption": "Ex-fix"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "**contact of ends of fracture**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**larger diameter pins (most important)**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "additional pins",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "decreased bone to rod distance",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "pins in different planes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "increasing size or stacking rods",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "rods in different planes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "increased spacing between pins",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Factors that increase stability of circular (Ilizarov) external fixators",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9063/images/external_ilizarov%20rad%20(med.wayne).jpg",
+              "caption": "Ilizarov"
+            }
+          ],
+          "importance": "2",
+          "children": [
+            {
+              "text": "larger diameter wires",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "decreased ring diameter",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "olive wires",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "extra wires",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "wires cross perpendicular to each other",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "increased wire tension",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "tensioned wires produce more axial compression with less interfragmentary shear than half pins",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "placement of two central rings close to fracture",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "increased number of rings",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Total Hip Implants",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Structural Properties",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "rigidity depends on length and radius of femoral stem",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9063/images/hip%20(orthosupersite).jpg",
+                  "caption": "Hip implant"
+                }
+              ],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Biomechanics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "place femoral component in neutral or slight valgus to reduce moment arm and stress on cement",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "increasing femoral offset does the following",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "advantages",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9063/images/offset%20illustration%20(google).jpg",
+                      "caption": "offset"
+                    }
+                  ],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "increase abductor moment arm",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "decreases joint reaction forces",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "reduces abductor force required for normal gait",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "disadvantages",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "increased strain on implant",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "increases strain on medial cement mantle",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9063/images/compression%20(aaos.org).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9063/images/distal-femoral-plate(boneandspine.com).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9063/images/lock-screw-2%20(google).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9063/images/bridge%20plate%20(jbjs).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9063/images/cortical-screws%20(google).jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 145,
+  "visitorMode": false
+}

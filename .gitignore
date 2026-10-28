@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Obsidian per-device state, not worth versioning
+.obsidian/workspace.json
+
+# Plugin build dependencies
+node_modules/
+
+# Images: kept locally, never uploaded
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.gif
+*.GIF
+*.webp
+*.WEBP
+*.svg
+*.SVG
+*.bmp
+*.BMP
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.heic
+*.HEIC
+*.avif
+*.AVIF

@@ -1,0 +1,732 @@
+{
+  "title": "Renal Osteodystrophy",
+  "url": "https://www.orthobullets.com/basic-science/9030/renal-osteodystrophy",
+  "subtitle": "Updated: Jun 17 2021",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Renal Osteodystrophy is a form of metabolic bone disease seen in patients with chronic renal insufficiency characterized by bone mineralization deficiency due to electrolyte and endocrine abnormalities. Patients present with osteomalacia, osteonecrosis and pathologic fractures.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made based on a thorough evaluation of serum labs, clinical features, and radiographic findings.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment involves medical management to resolve the etiology of the underlying renal condition.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**hypocalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "due to the inability of the damaged kidney to convert vitamin D3 to calcitrol (the active form)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "because of phosphate retention (hyperphosphatemia)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**hyperparathyroidism and secondary hyperphosphatemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "caused by hypocalcemia and lack of phosphate excretion by damaged kidney",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**uremia related phosphate retention**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "is a key pathological step",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "orthopaedic manifestations",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "osteomalacia (adults) and growth retardation (children)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "AVN",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "tendinitis and tendon rupture",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "carpal tunnel syndrome",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "deposition of amyloid (β2 microglobulin)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "pathologic fracture",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20patho%20frac.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "from brown tumors (hyperparathyroidism) or amyloid deposits",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "osteomyelitis and septic arthritis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Two different forms:",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "**High-turnover renal bone disease (high PTH disease)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "chronically elevated phosphate leads to secondary hyperparathyroidism",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "hyperphosphatemia lowers serum Ca, stimulating PTH",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "phosphorus impairs renal 1α-hydroxylase, reducing 1,25(OH)2 vitamin D3 production",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "phosphorus retention directly stimultes PTH production",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "hyperplasia of chief cells of parathyroid gland",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "associated lab values",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "decreased calcium, increased serum phosphate, increased alkaline phosphate, increased parathyroid hormone",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**Low turnover renal bone disease (normal PTH disease)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "characterized by lack of secondary hyperparathyroidism",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "normal levels of PTH with characteristic bone lesions marked by low levels of bone formation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "excess deposition of aluminium into bone affects bone mineralization",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "impairs differentiation of precursors into osteoblasts, and osteoblast proliferation",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "impairs PTH release from parathyroid gland",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "disrupts mineralization",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptom",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "weakness",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "bone pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "pathological fracture",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20patho%20frac.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "commonest complication",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "skeletal deformity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "symptoms of **hypocalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "abdominal pain",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "muscle cramps",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "dyspnea",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "convulsions/seizures",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "mental status changes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**provocative tests for tetany**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**Trousseau's Sign**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "carpalpedal spasm after blood pressure readings",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**Chvostek's Sign**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**facial muscle contractions after tapping on the facial nerve**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "Looser's zones",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/looser%20zones.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/looserzone2.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "brown tumor",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/brown.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "osteosclerosis",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/sclerosis.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "from mineralization of osteomalacic bone",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "rugger jersey spine",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/9030/images/rugger%20jersey%20spine.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "widened growth plate and zone of provisional calcification (children)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "varus deformity of the femurs (children)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/sclerosis.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "fracture",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20patho%20frac.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "soft-tissue calcification",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/tumoral%20calcinosis.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/patella%20calcification.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9030/images/chondrocalcinosis.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "osteopenia",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "osseous resorption",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20ct.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Evaluation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Histology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "thinned trabeculae",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20histo.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "amyloid stains pink on Congo red stain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Labs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "decreased serum calcium",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "increased serum phos",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**increased PTH**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "treat underlying renal condition or relieve urologic obstruction",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/renal%20od%20patho%20frac.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/looser%20zones.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/looserzone2.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/brown.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/sclerosis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9030/images/rugger%20jersey%20spine.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 85,
+  "visitorMode": false
+}

@@ -1,0 +1,923 @@
+{
+  "title": "Patella Sleeve Fracture",
+  "url": "https://www.orthobullets.com/pediatrics/4120/patella-sleeve-fracture",
+  "subtitle": "Updated: Mar 3 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Patellar Sleeve Fractures are rare injuries seen in children between 8 and 12 years of age characterized by separation of the cartilage \"sleeve\" from the ossified patella.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made with radiographs of the knee.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment is cylindrical casting for nondisplaced fractures with intact extensor mechanism. Operative management is indicated for displaced fractures associated with disrupted extensor mechanism.",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "<1% of pediatric fractures",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "accounts for >50% of patella fractures in children",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**more common in males** (5:1)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "occurs in children **8-12 years old**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "when patellar ossification is nearly complete",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "mechanism of injury",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**indirect injury caused by powerful contraction of the quadriceps muscle applied to a flexed knee**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "pathoanatomy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "separation between the cartilage \"sleeve\" and main part of the patella and ossific nucleus",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4120/images/psa.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Osteology",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4120/images/faee3a41-c1c2-4d45-8141-39b090fc582d_osteology_of_the_patella..jpg",
+              "caption": "Osteology of the patella"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "patella is largest sesamoid bone in body",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**ossification begins at 3-5 years old**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "superior 3/4 of posterior surface covered by articular cartilage",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "articular cartilage thickest in body (up to 1cm)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "posterior articular surface comprised of medial and lateral facets",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "lateral facet is larger",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "facets separated by vertical ridge",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Soft tissue attachments",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4120/images/d2ac9012-5c89-4f32-8515-6400c6b5a9d3_soft_tissue_attachments_of_the_patella..jpg",
+              "caption": "Soft tissue attachments of the patella"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "quadriceps tendon and fascia lata attach to anterosuperior margin",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "quadriceps tendon comprised of 3 layers",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "superficial layer formed from rectus femoris tendon",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "middle layer formed by vastus medialis and vastus lateralis tendons",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "deep layer formed by vastus intermedius tendon",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "patellar tendon attaches to inferior margin",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Blood Supply",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4120/images/e08b67a4-39a6-4b1b-8b4f-403d674762e6_blood_supply..jpg",
+              "caption": "Blood supply surrounding the patella. S, supreme geniculate; MS, middle superior geniculate; MI, middle inferior geniculate; ATR, anterior tibial recurrent; LI, lateral inferior geniculate; LS, lateral superior geniculate"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "derived from anastomotic ring originating from geniculate arteries",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "most important blood supply to the patella is located at the inferior pole",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Anatomic",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "superior pole",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "least common",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "inferior pole",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**most common**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "History",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indirect injury",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "not associated with a direct blow to the knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "severe knee pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "inability to bear weight",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inspection",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "soft tissue swelling",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "diffuse tenderness",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "hemarthrosis of the knee joint is often present",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "**high-riding patella or palpable gap at the distal end of the patella**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indicates disruption of the extensor mechanism",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "motion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**difficulty with active extension of the knee, especially against resistance**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "AP",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "lateral",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "tangential",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**small flecks of bone adjacent to superior or inferior pole**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "diagnosis may be missed because the distal bony fragment is not readily discernible on radiographs",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**slight anterior tilt of superior pole**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "seen with proximal fractures",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**patella alta**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "seen with distal fractures",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4120/images/8a921f0d-a7b2-4db9-a510-db3de561fa1b_patellar_sleeve_fx..jpg",
+                          "caption": "Inferior patellar sleeve fracture"
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4120/images/f2447d65-7259-4622-9a72-d5c7fc3aadfc_patella_sleeve_inferior..jpg",
+                          "caption": "Inferior patellar sleeve fracture"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**patella baja**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "seen with proximal fractures",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4120/images/52ee9101-4d71-4c20-a4b9-c2b72bc51ea3_patella_sleeve_superior..jpg",
+                          "caption": "Superior patellar sleeve fracture"
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "MRI or ultrasound",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "may be useful for identifying a sleeve fracture when the diagnosis is not clear from the clinical and radiographic findings",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "cylinder cast for 6 weeks",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**nondisplaced fractures** with intact extensor mechanism",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "rare (most require ORIF)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "open reduction and internal fixation",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "> 2-3mm displacement",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "> 2-3mm articular step-off",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "disrupted extensor mechanism",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Technique",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Open reduction and internal fixation**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4120/images/psorif.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "medial parapatellar approach to knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "soft tissue",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "repair torn medial/lateral retinaculum and/or quadricept/patellar tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "instrumentation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "stabilize fracture using",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "transosseous sutures",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "modified tension band wiring",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4120/images/prepost.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "intraosseous suture anchors",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "interfragmentary screws",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "post-operative care",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "cylinder cast in extension for 2-3 weeks",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Patella alta**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "**Extensor lag**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "**Quadriceps atrophy**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "**Malunion**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "**Nonunion**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "**Painful hardware**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Higher risk of complications associated with greater degree of",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "comminution",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "displacement",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/4120/images/patella%20sleeve%20fracture.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4120/images/psorif.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4120/images/prepost.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 114,
+  "visitorMode": false
+}

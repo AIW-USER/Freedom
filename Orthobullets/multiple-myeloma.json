@@ -1,0 +1,2767 @@
+{
+  "title": "Multiple Myeloma",
+  "url": "https://www.orthobullets.com/pathology/8024/multiple-myeloma",
+  "subtitle": "Updated: Oct 13 2025",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Multiple Myeloma is neoplastic proliferation of plasma cells that commonly results in multiple skeletal lesions, hypercalcemia, renal insufficiency, and anemia. Patients typically present at ages > 40 with localized bone pain or a pathologic fracture.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made with a bone marrow biopsy showing monoclonal plasma cells ≥10%.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment is usually chemotherapy and radiation. Surgical management is indicated for associated fractures.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "most common primary bone malignancy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "occurs in 3-4:100,000",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "accounts for 1% of all malignancies",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**patients > 40 years of age (median age is 60)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "affects **males > females**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "2x more common in **African Americans**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Forms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**neoplastic plasma cells produces immunoglobulins**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "heavy chains: IgG (52%), IgA (21%), IgM (12%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "light chains: kappa, lambda",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "aka Bence Jones proteins",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "disease takes multiple forms that vary in treatment and prognosis and includes",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**multiple myeloma** (see below)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**solitary plasmacytoma**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**osteosclerotic myeloma**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**results from osteoclastic stimulation by malignant cells**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "malignant cells bind bone marrow stromal cells to stimulate the production of receptor activator of nuclear factor-κ B ligand (RANKL) and other pro-osteoclastic mediators (macrophage colony-stimulating factor (M-CSF, IL-6, IL-11, )",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "osteoprotegerin (OPG) synthesis is suppressed, resulting in further osteoclast activation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "OPG competes with RANK to bind to RANKL as a decoy receptor",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "osteoblastic differentiation may also be inhibited",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "TNF and Dickkopf-1 (DKK-1) have been shown to down regulate osteoblast function",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Multiple myeloma**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "most common form",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "diagnostic criteria",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "monoclonal plasma cells ≥10% on bone marrow biopsy or biopsy-proven bony/extramedullary plasmacytoma and ≥1 of the CRAB features and myeloma-defining events (MDEs)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "CRAB features of end-organ damage",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "**hyperCalcemia**: serum calcium >0.25 mmol/L (>1mg/dL) higher than the upper limit of normal or >2.75 mmol/L (>11mg/dL)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "**Renal insufficiency**: creatinine clearance <40 mL/min or serum creatinine >177µmol/L (>2mg/dL)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "**Anemia**: hemoglobin >20g/L below the lowest limit of normal or hemoglobin <100g/L",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "**Bone lesions**: ≥1 osteolytic lesion on radiographs, CT, or PET/CT",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "if bone marrow has <10% clonal plasma cells, >1 bone lesion is required to distinguish from solitary plasmacytoma with minimal marrow involvement",
+                              "table": null,
+                              "images": [],
+                              "importance": "1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "MDEs",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "≥ 60% clonal plasma cells on bone marrow biopsy",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "serum involved:uninvolved free light chain ratio of ≥ 100",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "only applies if the absolute level of the involved light chain is at least 100mg/L",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "“involved” free light chain is the one that is above the normal range",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "“uninvolved” free light chain is the one that is typically at/below the normal range",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "≥ 1 focal lesion on MRI that is ≥ 5mm in size",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "staging",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 3,
+                      "bullets": [
+                        {
+                          "text": "**Internation Staging System (ISS)**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Criteria",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Prognosis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Stage I",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Beta-2 microglobulin < 3.5 mg/L",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "Serum albumin≥ 3.5 g/dL",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "62 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Stage II",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Beta-2 microglobulin 3.5-5.4 mg/L",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "44 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Stage III",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Beta-2 microglobulin≥ 5.5 mg/L",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "29 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Solitary plasmacytoma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "plasma cell tumor occurring in a single skeletal location and lacking appropriate criteria for diagnosis of multiple myeloma",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**sensitive to radiation**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "progresses to multiple myeloma in over 50% of patients",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "diagnostic criteria",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "solitary lesion on skeletal survey",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "histologic biopsy confirmation of plasmacytoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "negative bone marrow biopsy (i.e. no plasma cells in bone marrow)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**obtain MRI and FDG-PET**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "additional lesions identified in 33% of patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Osteosclerotic myeloma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "rare syndrome characterized by POEMS",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**Polyneuropathy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "often symmetric",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "begins distally and migrates proximally",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "usually does not improve",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**Organomegaly**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**Endocrinopathy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "sclerotic bone lesions occur in both the axial and appendicular skeleton",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**M protein**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**Skin changes**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "characteristic",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "occurs predominantly in the trunk",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "up to 25-50% of skin lesions occur in the extremities",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "usually presents with",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**localized bone pain (usually spine or ribs)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**pathologic fracture**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**fatigue** secondary to anemia, renal insufficiency, hypercalcemia",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "multiple \"punched-out\" lytic lesions",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8024/images/Case%20B%20-%20femur%20-%20xray%20-%20Parsons_moved.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "only visible once >50% destruction has occurred",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "lytic appearance",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "caused by osteoclastic bone resorption via RANKL, **IL-6 and MIP-1alpha**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "punched-out appearance",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "absence of slerotic border",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "results from the lack of osteoblastic activity in myeloma",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "obtain skeletal survey if there is a suspicion for multiple myeloma given that bone scans are cold in 30%",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "more sensitive than XR for pelvis, spine",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8024/images/Case%20A%20-%20femur%20-%20MRI%20T1%20and%20T2_moved.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "dark on T1",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "bright on T2",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bone scans",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**cold in 30% so skeletal survey is recommended**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "bone scans are \"hot\" due to radio-tracer integration into the inorganic phase of bone caused by osteoblastic activity",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "multiple myeloma often lacks osteoblastic activity",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Fluorodeoxyglucose-positron emission tomography (FDG-PET)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "93% sensitivity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "more sensitive than plain radiographs in diagnosing/screening for MM",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "may uncover additional sites in \"solitary\" plasmacytoma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "uptake into cancer cells due to increased glucose metabolism in most types of tumors",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Labs",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Serum labs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**anemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**elevated creatinine**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**hypercalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "present in 30% of patients due to excessive resorption of bone",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "ESR often elevated",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**SPEP (serum protein electrophoresis)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "M spike present (50% IgG, 25% IgA)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**beta-2 microglobulin**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "marker of prognosis/disease severity",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Urine",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**proteinuria**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**UPEP** (urine protein electrophoresis)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "may show **Bence Jones proteins (secreted immunoglobulin kappa and lambda light chains)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Histology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Distinctive histology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "round plasma cells with an **eccentric nucleus**, prominent nucleolus, and **clock face organization of chromatin**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8024/images/Histology%20C%20-%20Parsons_moved.png",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "characteristic clear area (Hoffa clear zone) next to the nucleus represents the prominent Golgi apparatus involved in immunoglobulin (protein) production",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8024/images/Histology%20B%20-%20Parsons_moved.png",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/8024/images/Histology%20A%20-%20Parsons_moved.png",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Bone marrow aspirate",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "percentage of plasma cells on bone marrow aspirate is one major criteria used to distinguish plasmacytoma (10-30% plasma cells) vs. multiple myeloma (>30% plasma cells)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "normal amount of plasma cells on bone marrow aspirate is < 2%",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Immunohistochemical stains",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "CD138+",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Differential",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 5,
+                  "bullets": [
+                    {
+                      "text": "Differential of Multiple Myeloma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Bone lesion in older patient**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Multiple lesion in older patient**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Benefits from Bisphosphonate therapy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Treatment is chemotherapy and radiotherapy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Myeloma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Metastatic bone disease",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Lymphoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "MFH",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Secondary sarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Paget's disease",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Fibrous dysplasia",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Synovial sarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Hyperparathyroidism",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Glomus tumor",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Treatment(by treatment type)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "annual surveillance",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**monoclonal gammopathy** of unknown significance, asymptomatic myeloma",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "external beam irradiation alone",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**solitary plasmacytoma**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "multiagent chemotherapy +/- stem cell transplantation +/- bisphosphonates",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "multiple myeloma",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "techniques",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "chemotherapy",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "non-transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "melphalan + prednisone + thalidomide or bortezomib",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "thalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + thalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "surgical stabilization and external beam radiation therapy",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "complete or impending fractures",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "life expectancy >3 months",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "kyphoplasty",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "vertebral compression fractures with instability or neural compression resistant to radiation",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment (by disease type)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Monoglonal gammopathy of unknown significance, asymptomatic myeloma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "annual surveillance",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Multiple myeloma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "multiagent chemotherapy +/- autologous and allogeneic stem cell transplantation",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "chemotherapy alone for non-transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "multiple medical comorbidities",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "advanced age >65 years old",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "poor physical condition",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "induction chemotherapy and stem cell transplantation for transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "autologous and allogeneic stem cell transplantation isnot curative but increases disease free survival by 2-3 years",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "agents",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "non-transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "melphalan + prednisone + thalidomide or bortezomib",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "thalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "transplant candidates",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + lenalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "bortezomib + thalidomide + dexamethasone",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "bisphosphonates",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "helps reduce the number of skeletal events in multiple myeloma patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "surgical stabilization and external beam radiation therapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "complete or impending fractures",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        },
+                        {
+                          "text": "life expectancy >3 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "vertebral compression fractures with instability or neural compression resistant to radiation",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "techniques",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "kyphoplasty/vertebroplasty",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "painful vertebral compression fractures",
+                              "table": null,
+                              "images": [],
+                              "importance": "5",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "currettage, PMMA and modified Harrington pins",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "periacetabular lesions with intact acetabular subchondral plate",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "complex THA with acetabular cage",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "periacetabular lesions where acetabular subchondral plate is violated",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Solitary plasmacytoma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "external beam irradiation (45-50 Gy)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "mainstay of treatment",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "surgical stabilization",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "complete or impending fractures",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Osteosclerotic myeloma**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "chemotherapy, radiotherapy, and plasmapheresis",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "mainstay of treatment",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "neurologic changes usually do not improve with treatment",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Prognosis is variable",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Data suggests 5-year survival rate of 30% and 10-year survival rate of 11%",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "overall survival is related to stage of disease and secondary factors like renal failure or hypercalcemia",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**median survival is 3 years from diagnosis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "shortest survival is seen in patients with renal failure",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Poor prognostic factors in multiple myeloma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "chromosome 13 deletion or translocation (t4;14), 4(14;16)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "circulating plasma cells",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "increased beta 2 microgloblulin (indicates elevated tumor burden)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "decreased serum albumin",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "increased marrow microvessels",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Solitary plasmacytoma** has the best prognosis",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Case%20A%20-%20femur%20-%20xray%20b%20-%20Parsons_moved.gif",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Case%20A%20-%20femur%20-%20MRI%20T1%20-%20Parsons_moved.gif",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Histo%2038c_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Case%20B%20-%20femur%20-%20xray%20-%20Parsons_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Case%20A%20-%20femur%20-%20MRI%20T1%20and%20T2_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8024/images/Histology%20C%20-%20Parsons_moved.png",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 305,
+  "visitorMode": false
+}

@@ -1,0 +1,613 @@
+{
+  "title": "Anti-inflammatory Medications",
+  "url": "https://www.orthobullets.com/basic-science/9060/anti-inflammatory-medications",
+  "subtitle": "Updated: Sep 17 2025",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Non-steroidal anti-inflammatory drugs (NSAIDS) have the following effects",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "anti-inflammatory",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "antipyretic",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "analgesic",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "antiplatelet",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Mechanism",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "inhibit the COX (cyclooxygenase) enzymes ultimately inhibiting the synthesis and release of prostaglandins",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9060/images/arach.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "COX enzymes catalyze the formation of prostaglandins and thromboxane from arachidonic acid",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "There are two different COX enzymes targeted",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**COX inhibitors**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "target both COX-1 and COX-2",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**COX-2 specific inhibitors**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "target COX-2 alone and do not affect COX-1 function",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Indications",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "heterotopic ossfication prophylaxis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Contraindications",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "severe renal disease",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "gastric ulcers",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "COX Inhibitors",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "NSAIDS inhibit both COX-1 and COX-2",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9060/images/arach.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "**Aspirin (ASA)**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**salicylate that irreversibly binds** a serine COX enzyme residue",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "half life >1 week",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "binds to COX and blocks active site",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "inhibits thromboxane A2 blocking platelet aggregation",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**ibuprofen**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "reversible competitive COX inhibitor",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**indomethacin**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "acts on the cyclooxygenase side of the arachidonic metabolic pathway",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "inhibits prostaglandin and thromboxane inflammatory mediators",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "COX-2 Specific Inhibitors",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Introduction",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "selectively target COX-2 enzymes and do not affect COX-1 function",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9060/images/arach.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "examples",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "celecoxib (Celebrex)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "rofecoxib (Vioxx)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Benefits",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "selective inhibition of COX-2 results in anti-inflammatory action without disrupting the beneficial effects of COX-1 (maintaining gastric mucosa, regulating renal blood flow, influencing platelet aggregation)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "can be used in the perioperative period because they do not affect platelet function",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "no more efficacious in treating osteoarthritis than non-specific COX inhibitors",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Side effects",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "cardiac toxicity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Side Effects",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Renal dysfunction",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Gastrointestinal side effects",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain and dyspepsia",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "peptic ulcer perforation, bleeding, or obstruction",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "2% to 4% occurence in chronic users",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "risk factors",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "concurrent anticoagulant use (most important)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "age >60 years",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "history of previous gastrointestinal disorder",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Delayed fracture healing",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "animal fracture models have shown decreased endochondral ossification in the absence of a COX-2 enzyme",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "delayed union and nonunion due to inhibition of chondrogenic differentiation of mesenchymal stem cells",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "inhibit callus formation by inhibiting endochondral ossification",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "secondary bone healing more likely to be effected than primary bone healing",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Increased risk with prolonged use, large doses, and adult patients",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "no effect demonstrated in pediatric fracture healing",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Platelet dysfunction",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Cardiac Toxicity",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Corticosteroids (Systemic)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Steroid Dose Pack",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "efficacy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "side effects",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "adverse skeletal effects in the setting of prolonged oral glucocorticoids can be seen within three months and with daily doses as low as 2.5 - 5.0 mg",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "consider bisphosphonate therapy in patients at high risk for fracture who are receiving extended oral glucocorticoid therapy",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Corticosteroid Intra-articular-Injections",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Efficacy",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Side Effects",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "Local flare",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Fat atrophy",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Skin pigmentation changes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Facial flushing",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Epidural steroid injections associated with loss of lumbar BMD",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "loss of lumbar BMD not associated with other medium/large joint injections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9060/images/arach.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9060/images/ulcer.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 78,
+  "visitorMode": false
+}

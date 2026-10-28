@@ -1,0 +1,793 @@
+{
+  "title": "Glenohumeral Internal Rotation Deficit (GIRD)",
+  "url": "https://www.orthobullets.com/shoulder-and-elbow/3055/glenohumeral-internal-rotation-deficit-gird",
+  "subtitle": "Updated: Mar 10 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Glenohumeral internal rotation deficit (GIRD) is a condition resulting in the loss of internal rotation of the glenohumeral joint as compared to the contralateral shoulder, most commonly seen in the throwing athlete.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made clinically with a decrease in internal rotation, increase in external rotation, with a decrease in total arc of rotation compared to the contralateral shoulder.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment consists of physical therapy with a focus on posteroinferior capsular stretching.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "occurs primarily in overhead athletes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "often seen in baseball pitchers",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "mechanism",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "caused by repetitive throwing",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "thought to occur during the late cocking and early acceleration phase",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pathoanatomy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "tightening of posterior capsule or posteroinferior capsule leads to translation of humeral head (**capsular constraint mechanism)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "translation of humeral head is in the OPPOSITE direction from area of capsular tightening",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "posterior capsular tightness leads to anterosuperior translation of humeral head in flexion",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/3055/images/antsup.jpg",
+                      "caption": "Anterosuperior translation (because of posterior capsular tightness)"
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "posterorinferior capsular tightness leads to **posterosuperior** translation of humeral head in ABER",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/3055/images/peelback.jpg",
+                      "caption": "Peel back"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "anterior capsule is stretched",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "**glenohumeral instability**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**internal impingement**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "abutment of the greater tuberosity against the posterosuperior glenoid during abduction and external rotation leads to pinching of posterosuperior rotator cuff",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/3055/images/Illustration_moved.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**articular-sided partial rotator cuff tears**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "tensile failure in excessive rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "internal impingement",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**SLAP lesion**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "throwers with GIRD are 25% more likely to have a SLAP lesion",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "peel-back mechanism (biceps anchor and postero superior labrum peels back) during late cocking",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "because of posterosuperior translation of humeral head and change in biceps vector force posteriorly",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/3055/images/peelback.jpg",
+                          "caption": "Peel back"
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Glenohumeral joint",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "vague shoulder pain",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "sometimes painless",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "may report a decrease in throwing performance",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**stabilize the scapula** to obtain true measure of glenohumeral rotation",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "increased **sulcus sign**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "due to stretching of anterior structures that resist external rotation (coracohumeral ligament, rotator interval)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "characterized by altered glenohumeral range of motion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "decrease in internal rotation and increase in external rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "if the GIRD (loss of internal rotation) is less than external rotation gain (ERG), the shoulder maintains normal kinematics",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "if the GIRD exceeds external rotation gain (ERG), this leads to deranged kinematics",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "decrease in internal rotation is usually greater than a 25° difference as compared to non-throwing shoulder",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "AP and lateral of glenohumeral joint",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "usually normal",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "may show increased **glenoid retroversion**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/3055/images/retroverted%20glenoid.jpg",
+                  "caption": "radiograph showing a retroverted glenoid."
+                }
+              ],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**MRI**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "**ABER view on MRI can show associated lesions**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/3055/images/aber.005.jpg",
+                  "caption": "shows technique for ABER view with MRI"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/3055/images/mri%20labral%20tear.jpg",
+                  "caption": "shows ABER view of the GH joint"
+                }
+              ],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**rest from throwing and physical therapy for 6 months**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "first line of treatment",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "physical therapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "posteroinferior capsule stretching",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "**sleeper stretch**",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/3055/images/sleeper%20stretch_moved.jpg",
+                              "caption": ""
+                            }
+                          ],
+                          "importance": "5",
+                          "children": [
+                            {
+                              "text": "performed with internal rotation stretch at 90 degrees abduction with scapular stabilization",
+                              "table": null,
+                              "images": [],
+                              "importance": "5",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "roll-over sleeper stretch",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/3055/images/rollover.jpg",
+                              "caption": "Rollover sleeper stretch"
+                            }
+                          ],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "arm flexed 60° and body rolled forward 30°",
+                              "table": null,
+                              "images": [],
+                              "importance": "1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "doorway stretch",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/3055/images/doorway.jpg",
+                              "caption": "Doorway stretch"
+                            }
+                          ],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "cross-body adduction stretch",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/3055/images/crossbody.jpg",
+                              "caption": "Cross body adduction stretch"
+                            }
+                          ],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**pectoralis minor stretching**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "rotator cuff and periscapular strengthening",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "90% of young throwers respond to sleeper stretches/PT",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "10% of older throwers do not respond, and will need arthroscopic release eventually",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "posteroinferior capsule release vs. anterior stabilization",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "only indicated if extensive PT fails",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Techniques",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Posterior capsule release vs. anterior stabilization**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/3055/images/capsular_release.jpg",
+              "caption": "Arthroscopic capsular release"
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "some advocate posterior capsule release while others advocate anterior stabilization",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "repair thinned rotator cuff if significantly thinned (transcuff or takedown and repair)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "technique controversial",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "for throwing athlete with posteroinferior capsular contracture, release posterior inferior capsule and posterior band of IGHL",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "electrocautery inserted through posterior portal, camera from anterior portal",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "from 9 to 6 o'clock position",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "at level of glenoid rim",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "until rotator cuff fibers (behind the capsule) can be seen from within joint",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "insert arthroscopic shaver to widen gap in capsule (prevents recurrence)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "gentle manipulation at the end completes release of any remaining fibers, maximizes IR and flexion",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "results",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "will immediately gain 65° of internal rotation postop",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": []
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/Clinical%20photo%20-%20colorado_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/Illustration_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/sleeper%20stretch_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/throwing%20phases.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/retroverted%20glenoid.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/aber.005.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/3055/images/mri%20labral%20tear.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 93,
+  "visitorMode": false
+}

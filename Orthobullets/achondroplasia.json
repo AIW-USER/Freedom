@@ -1,0 +1,3341 @@
+{
+  "title": "Achondroplasia",
+  "url": "https://www.orthobullets.com/pediatrics/4094/achondroplasia",
+  "subtitle": "Updated: Jun 15 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Achondroplasia is a common congenital skeletal dysplasia caused by a sporadic or autosomal dominant gain-of-function mutation in FGFR3 gene. Patients present with rhizomelic dwarfism, lumbar and foramen magnum stenosis, frontal bossing, and normal intelligence.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is usually made based on typical clinical and radiographic features on skeletal survey.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment involves observation and physical therapy for majority of anomalies. Surgery is indicated in patients with foramen magnum stenosis with sleep apnea or cord compression and progressive spinal stenosis that fails nonoperative treatment",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "incidence",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "most common skeletal dysplasia",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "80-90% of cases of dwarfism",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "prevalence",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "1 in 15,000-30,000",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "no gender predominance",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "most diagnosed in early infancy and in utero",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "advanced paternal age",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": ">50 years of age is 1 in 1,875",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": ">35 years of age still increased risk",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4094/images/63f30b35-1b78-4e78-bc55-875eb7bf2a58_achondroplasia_pathogenesis_.jpg",
+              "caption": "Proposed mechanisms by which mutations lead to gain of FGFR3 function"
+            }
+          ],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "receptors",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**FGFR3**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "3 components",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "extracellular ligand-binding domain",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "**transmembrane domain**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "mutated in achondroplasia",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "intracellular domain with a split tyrosine kinase subdomain",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "normal function",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "FGF induces dimerization of FGFR3 receptor monomers, activating cascade",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "Activated FGFR3 targeted by ubiquitin to be degraded to terminate signal shortly after activation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "**inhibit proliferation and terminal differentiation of chondrocytes in growth plate**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "abnormal function",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "FGFR3 dimers stabilized by mutation in transmembrane domain preventing ubiquitin degradation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "persistent activation leads to continuous inhibition of chondrocyte proliferation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "signaling pathways",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "four main pathways activated by FGFR3",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "**STAT1** (signal transducer and activator of transcription 1)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "inhibit chondrocyte proliferation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**MAPK** (mitogen activated protein kinase)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "signal inhibits proliferation, terminal differentiation and post-mitotic matrix synthesis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**PLCγ** (phospho lipase C γ)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**PI3K-AKT** (phosphatidylinositol phosphate-3-kinaseserine/threonine kinase; protein kinase B)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "modulators",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**C-type natriuretic peptide (CNP)** binds to natriuretic peptide receptor B (NPR-B)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "increase intracellular cyclic guanosine monophosphate (cGMP)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**reduces FGFR3 activtiy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "mechanism of vosoritide (phase III medication)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Genetics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inheritance pattern",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**sporadic mutation 80%**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "risk increases with **advanced paternal age**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**autosomal dominant (AD) 20%**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "100% penetrance",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "mutation",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "chromosome 4P",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**point mutation FGFR3 (Gly1138 to Arg substitution)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**gain of function activating FGFR3**",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/histology%20and%20zone%20structure%20of%20the%20physis.jpg",
+                          "caption": "Shows the zone structure of the physis"
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/zone%20structure%20of%20the%20physis.jpg",
+                          "caption": "Shows the zone structure of the physis"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "increases **inhibition of chondrocyte proliferation** in the **proliferative zone** of the physis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**defect in endochondral bone formation**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "quantitative cartilage defect",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "medical conditions",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "short stature",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "average terminal height for male 4'4\" and female 4'",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "6 to 7 standard deviations below normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "height deficit increases markedly in first two years of life then stable until puberty",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "obesity",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "**hearing loss**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "tonsillar hypertrophy",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "frequent otitis media",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "spinal manifestations",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**thoracolumbar kyphosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "decreases over time for most",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "~87% at 1-2 years of age",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "~10% at 5-10 years of age",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "**foramen magnum stenosis (FMS)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "may cause periods of apnea",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "sudden infant death syndrome (SIDS)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**lumbar stenosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "37% to 89% of patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "25% requires surgery",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "multifactorial",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "short and thicker pedicles",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "interpedicular distance decreases from L1-L5",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "hyperplastic intervertebral disc and ligamentum flavum",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "most likely to cause disability in 3rd or 4th decade",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**lumbar hyperlordosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "up to 80%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "more apparent as child begin to stand and walk",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "compensation due to excessive anterior pelvic tilt",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "general",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**normal intelligence**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "short stature",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "delayed motor milestones",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "hearing impairment",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "recurrent ear infections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "weight gain",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "symptoms of foramen magnum stenosis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "excessive snoring or apnea",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "difficulty swallowing",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "cranial nerve dysfunction",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "weakness",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "symptoms of spinal stenosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "pseudoclaudication and standing discomfort",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "numbness and paresthesias",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "weakness",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**rhizomelic dwarfism**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20clinical%20features.jpg",
+                  "caption": "Shows the clinical features of achondroplasia"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "proximal portion of limb is shorter than distal (ie humerus shorter than forearm)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**normal trunk**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "adult height ~ 50 inches",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**facial features**",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "macrocephaly",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "frontal bossing (broad forehead)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "midface hypoplasia",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "chest",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "anterior flarring of ribs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "AP narrowing of ribs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "small thoracic cage",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "extremities",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "brachydactyly (short digits)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**trident hands** (fingers same length with divergent ring and middle fingers)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20trident%20hand%20clinical%20photograph.jpg",
+                      "caption": "Shows a trident hand"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "limited elbow extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "radial head subluxation",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "posterior bowing of humerus",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**hypermobile hips and knees**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "genu varum",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "muscular hypotonia",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "spine",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**thoracolumbar kyphosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**lumbar hyperlordosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**foramen magnum stenosis**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "lower cranial nerve dysfunction",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "hyperreflexia or clonus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "weakness or paresis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4094/images/ap%20and%20lateral%20spine%20radiographs%20in%20achondroplasia.jpg",
+              "caption": "Show the characteristic features of achondroplasia"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**skeletal survey**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "AP pelvis and femur",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "most diagnostic features are appreciated",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "thoracolumbar spine",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "**decreased interpedicular distance from L1-S1** (pathognomonic)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "**shortened pedicles**",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/Xray%20-%20lateral%20-%20spine%20-%20colorado_moved.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "vertebral wedging in thoracolumbar kyphosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "posterior vertebral scalloping",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20lateral%20spine%20radiograph.jpg",
+                          "caption": "Shows posterior vertebral scalloping"
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "hyperlordosis with flat sacrum",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/0b06dac4-134c-4c57-a0b1-51fdbb856fb1_hyperlordosis_with_flat_sacrum.jpg",
+                          "caption": "achondroplasia lumbar and sacral spine"
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "pelvis and extremities",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4094/images/0921bf21-9d18-4555-8bdc-106136c5965c_ap_pelvis_and_fem_of_achondroplasia.jpg",
+                      "caption": "AP pelvis and femur of achondroplasia"
+                    }
+                  ],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "**champagne glass pelvis** (pelvis is wider than deep)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/ap%20pelvis%20xray.jpg",
+                          "caption": "Shows a &quot;champagne glass&quot; pelvis"
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "narrowing of sacrosciatic notch",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "squared iliac wings",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "flat horizontal acetabula",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "proximal femoral radiolucency",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "inverted V in distal femur physis",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/4094/images/2ef715e1-b190-4357-8f0b-0c4fa4744bef_inverted_v.jpg",
+                          "caption": "AP radiograph of the distal femur demonstrating an inverted-V-shaped physis characteristic of achondroplasia"
+                        }
+                      ],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "evaluate spinal stenosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "assess foramen magnum stenosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "narrowing of foramen with obliteration of posterior subarachnoid space",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4094/images/98a72d5c-aa0d-456a-ab5a-27e754f3c041_obliteration_of_sas.jpg",
+                      "caption": "foramen magnum stenosis in achondroplasia"
+                    }
+                  ],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "posterior \"nicking\" or \"waisting\" of cord",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "cord signal changes on T2",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20t2%20sagittal%20mri.jpg",
+                      "caption": "Shows foramen magnum and cervical stenosis"
+                    }
+                  ],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "syrinx",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "DIAGNOSIS",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Prenatal diagnosis",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "ultrasound",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "incidentally found during 2nd or 3rd trimester ultrasound",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "shorten long bones with wide metaphyses",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "increased biparietal diameter (>95th percentile)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "cell-free fetal DNA",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "noninvasive prenatal testing with high sensitivity/specificity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Skeletal survey",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "confirms diagnosis along with typical clinical features in most cases",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Molecular genetic testing of FGFR3 mutation",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indication",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "atypical presentation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "diagnosis can usually be made on clinical and radiographic assessment",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "differentiate from similar disorders",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Sleep studies",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "indication",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "evaluate for apnea in all infants",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "DIFFERENTIAL DIAGNOSIS",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Hypochondroplasia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "rhizomelic dwarfism with similar presentation",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "defining features",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "milder shortness (taller) and bodily disproportions",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "seizures and cognitive abnormalities more common with hypochondroplasia",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "issues related to craniocervical junction less common",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "different mutation of FGFR3 gene (Asn540 to Lys substitution)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Thanatophoric dysplasia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "rhizomelic dwarfism",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "defining features",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "typically lethal in perinatal period",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "due to respiratory insufficiency",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "different mutation of FGFR3 gene (Lys650 to Glu substitution)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Severe achondroplasia with developmental delay and acanthosis nigricans (SADDAN syndrome)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "rhizomelic dwarfism",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "defining features",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "more severe global developmental delays",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "seizures more common",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "acanthosis nigricans - progressive skin disorder with thick, dark, velvety skin",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "different mutation of FGFR3 gene (Lys650 to Met substitution)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Pseudoachondroplasia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "spondyloepiphyseal dysplasia with few similarities except for rhizomelic dwarfism",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "defining features",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "no craniofacial features",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "generally normal at birth and diagnosed at 2-3 years of age with a significant drop in growth",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "early, severe dysplasia of hips",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "lack of spinal stenosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "cervical instability due to odontoid hypoplasia",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "COMP gene mutation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment - Spine Conditions",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Foramen magnum stenosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "observation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "indication",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "absence of central sleep apnea",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "absence of cord compression",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "neurologically intact",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "repeat MRI at 6-12 months of age",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "surgical decompression of foramen magnum",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "central sleep apnea",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "cord compression",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "neurologic deficits including weakness, hyperreflexia and clonus",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "foramen magnum decompression with upper cervical laminectomy +/- duraplasty",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "intraoperative ultrasonography to confirm satisfactory spinal canal decompression",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "duraplasty performed if compression persisted after bony/fibrous decompression",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcome",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "10% recurrent stenosis requiring surgery",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Thoracolumbar kyphosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "observation",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indication",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "initial management for most",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "early prohibition of unsupported sitting",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "use firm-backed seating devices",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "avoid curling the infant into a C-position",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "use hand counterpressure when holding infant",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "prohibit sitting up more than 60°",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "limit putting significant weight on anterior portion of vertebrae",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcome",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "90% improve",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "more pronounce when infant begin to sit",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "most resolve at 12-18 months as trunk strength improves and child begins to walk",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "90% from 1-2 years of age",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "39% from 2-5 years of age",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "11% from age 5-10 years of age",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "bracing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indication",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "fixed component >30 deg (prone lateral radiographs)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "substantial anterior vertebral wedging",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "posterior displacement of the vertebrae at the apex",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "TLSO orthosis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "worn until the child walks independently",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "anterior corners of vertebrae reconstitute",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "fixed component of the curve stops improving",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "kyphosis responds to brace treatment",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "8° mean residual kyphosis and patients tend not to develop progressive kyphosis",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "may be poorly tolerated",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "posterior fusion with instrumentation +/- anterior decompression",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "neurologic compromise",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "kyphosis of > 45-60°",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "bracing has failed",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "delay until age of 4 so patient is large enough to use of instrumentation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "corpectomy if severe anterior cord impingement or severe fixed deformity",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "fluoroscopic guidance for pedicle screw placement",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lumbar stenosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "weight loss, physical therapy, corticosteroid injections",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**indications**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "**first line of treatment**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "multilevel laminectomy and fusion",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "25% will require surgery",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "severe neurogenic claudication",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "failed nonoperative management",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "neurologic symptoms at rest",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "adress lateral recess stenosis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "laminectomy should extend 3 levels cephalad to myelographic block and caudad to at least S2 to throughly decompress and avoid early recurrence",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "instrumentation entering canal (wires, laminar hooks) are contraindicated due to narrow canal",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "pedicle screw fixation preferred but challenging",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "**morphology of pedicle different than normal spine**",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "pedicle directed cranially at all levels",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "on average, 10mm shorter",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "similar transverse pedicle diameter but smaller sagittal diameter",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "high rate of revision with limited improvement with laminectomy alone",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "**post-laminectomy kyphosis common complication** (despite preserving >50% facet)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "consider fusion if performing laminectomy at 5 or more levels or skeletally immature patient",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Lumbar hyperlordosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "observation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "typically asymptomatic and treatment not required",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "physical therapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "low back, lower abdominal muscle strengthening, psoas stretching",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "low compliance",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Spine-related complications",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "recurrent foramen magnum stenosis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "cerebral spinal fluid leaks",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "malpositioned screw",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "abnormal pedicle morphology",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "neurologic complication",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "overcorrection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "malpositioned screw",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "use of wiring or laminar hooks",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "post-laminectomy kyphosis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "very common following decompression for spinal stenosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "add instrumentation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment - Extremity Conditions",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Genu varum",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "indication",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "initial treatment for most",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "symptomatic treatment",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "bracing",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "bracing generally unsuccessful",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "tibial +/- femur osteotomies",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "progressive, severe deformity",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "fibular thrust",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "tibial osteotomy +/- femoral osteotomy",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "opening or closing wedge",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "with internal or external fixation",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "based on CORA",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "lower extremity rotational profiles",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "persistently decreased external tibial torsion",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "lack of normal decrease in femoral anteversion during growth",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Short stature",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "growth hormone therapy",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "indication",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "controversial",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "daily injections",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "gain 6-8 cm over 5 years",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "vosoritide",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "increase growth in children with achondroplasia 5 years or older and open physis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "daily injection",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "mechanism",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "**C-type natriuretic peptide (CNP) analogue**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "reduces activity of FGFR3",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "phase III trials",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "lower limb lengthening",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**indications**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "very controversial",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "femur or tibia",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "two approaches",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "delay lengthening until early adolescence",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "increase patient's participation with rehabilitation process",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "text": "lengthening performed at two separate occasions (age 7 and 12)",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "potential for greater correction",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "prolonged recovery",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "average gain in leg length was 20.5 ± 4.7 cm",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "upper extremity lengthening",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**indications**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "**upper extremity lengthening required to maintain ADL's**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": [
+                            {
+                              "text": "**head and perineum for hygiene care**",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "technique",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "humerus",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "outcomes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "average gain in arm length was 10.2 ± 1.25 cm",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "complications",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "25-43% rate of complication following limb lengthening",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "fractures",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "early consolidation",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "failed union",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "malalignment",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "joint stiffness",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "infection",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Medical",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "**hydrocephalus**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "treatment",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "ventricular shunting needed in 5%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**otolaryngeal problems**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "incidence",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "90% otitis media before age 2",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "can lead to hearing loss",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "treatment",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "50% require placement of tympanostomy tube",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**apnea**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "risk factors",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "adenotonsillar hypertrophy can cause obstructive sleep apnea",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "FMS causes central sleep apnea",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**sudden infant death syndrome (SIDS)**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "incidence",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "2-5% mortality rate in 1st year",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "risk factors",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "due to FMS",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "PROGNOSIS",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Life expectancy",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "61 years of age",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "10 years less than general population",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "highest mortality rates are <4 years of age",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "risk of sudden unexpected death in infancy",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "rates have decreased over time",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "improved recognition, evaluation and intervention related to FMS",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Quality of life",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "lower quality-of-life across four subdomains",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "health and functioning",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": ">50% mental health disorder",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "lower education",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "social and economic",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "lower self-esteem values",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "lower annual income",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "psychological spiritual",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "family",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "less likely to be married",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": []
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/Clinical%20photo%20-%20colorado_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/histology%20and%20zone%20structure%20of%20the%20physis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/zone%20structure%20of%20the%20physis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20clinical%20features.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/achondroplasia%20trident%20hand%20clinical%20photograph.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4094/images/ap%20and%20lateral%20spine%20radiographs%20in%20achondroplasia.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 435,
+  "visitorMode": false
+}

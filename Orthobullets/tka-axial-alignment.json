@@ -1,0 +1,636 @@
+{
+  "title": "TKA Axial Alignment",
+  "url": "https://www.orthobullets.com/recon/5014/tka-axial-alignment",
+  "subtitle": "Updated: Feb 22 2025",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Important consideration",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pre-op planning",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "component insertion",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "ligament balancing",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "prosthetic design selection",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Normal anatomy",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "distal femur is ~9 degrees of valgus (anatomic axis compared to joint line)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "5-7 deg valgus of femur refers to difference of anatomic axis to mechanical axis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "proximal tibia is 2-3 degrees of varus (anatomic axis to joint line)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Technical goals",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "restore **mechanical alignment** (mechanical alignment of 0°)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "restore **joint line (** allows proper function of preserved ligaments. e.g., pcl)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**balanced ligaments** (correct flexion and extension gaps)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "maintain **normal Q angle** (ensures proper patellar femoral tacking)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "Robotic assistance is associated with a reduction in outliers in achieving alignment targets",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Mechanical axis of Limb",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20copy.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "axis from center of femoral head to center of ankle",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Preoperative Evaluation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**standing AP and lateral of knee**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**to evaluate for**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "joint space narrowing",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "collateral ligament insufficiency",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "lateral gapping in varus & medial gapping in valgus deformities",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "subluxation of femur on tibia",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "bone defects",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**standing full-length radiographs** (AP and Lateral)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "are indicated to determine an accurate valgus cut angle when the patient has",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "femoral or tibial deformity",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "very tall or short stature",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**extension and flexion laterals**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**sunrise view**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Femoral Alignment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Anatomic axis femur (AAF)",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20copy.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "a line that bisects the medullary canal of the femur",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "determines entry point of femoral medullary guide rod",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "intramedullary femoral guide goes down anatomic axis of the femur",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Mechanical axis femur",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20copy.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "defined by line connecting center of femoral head to point where anatomic axis meets intercondylar notch",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "obtaining a neutral mechanical axis allows even load sharing between the medial and lateral condyles of a knee prosthesis",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Valgus cut angle (~5-7° from AAF )",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "difference between AAF and MAF",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "perpendicular to mechanical axis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "jig measures 6 degrees from femoral guide (anatomic axis)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "will vary if people are very tall (VCA < 5°) or very short (VCA > 7°)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "can measure on a standing full length AP x-ray",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Tibial alignment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Anatomic axis of tibia (AAT)",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20copy.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "a line that bisects **medullary canal**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "tibia medullary guide (internal or external) runs parallel to it",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "determines entry point for tibial medullary guide rod",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Mechanical axis of tibia",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20copy.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "line from center of proximal tibia to **center of talus**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "proximal tibia is cut perpendicular to mechanical axis of tibia",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "usually mechanical axis and anatomic axis of tibia are coincident and therefore you can usually can cut the proximal tibia perpendicular to anatomic axis (an axis determined by an **intramedullary jig**)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "if there is a tibia deformity and the mechanical and anatomic axis are not the same, then the proximal tibia must be cut perpendicular to the mechanical axis (therefore an **extramedullary tibial guide** must be used)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Patellofemoral Alignment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Q angle**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "**Abnormal patellar tracking, although not the most serious, is the most common complication** of TKA.",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "The most important variable in proper patellar tracking is preservation of a normal Q angle (11 +/- 7°)",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "the Q angle is defined as angle between axis of **extensor mechanism** (ASIS to center of patella) and **axis of patellar tendon**(center of patella to tibial tuberosity)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Any increase in the Q angle will lead to increased lateral subluxation forces on the patella relative to the trochlear groove, which can lead to pain and mechanical symptoms, accelerated wear, and even dislocation.",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "It is critical to avoid techniques that lead to an **increased Q angle**. Common errors include:",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "internal rotation of the femoral prosthesis",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "medialization of the femoral component",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "internal rotation of the tibial prosthesis",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "placing the patellar prosthesis lateral on the patella",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Q angle management in TKA",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Joint Line Preservation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Goal is to restore the joint line by inserting a prosthesis that is the same thickness as the bone and cartilage that was removed",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "this preserves appropriate ligament tension",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "if there are bone defects they must be addressed so the joint line is not jeopardized",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**elevating the joint line** (> 8mm leads to motion problems) and can lead to",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "mid-flexion instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "patellofemoral tracking problems",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "an \"equivalent\" to patella baja",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "never elevate joint line in a valgus knee until after balancing to obtain full extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**lowering joint line** can lead to",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**lack of full extension**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**flexion instability**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/5014/images/mechanical%20alignment%20corrected.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 81,
+  "visitorMode": false
+}

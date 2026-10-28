@@ -1,0 +1,252 @@
+{
+  "title": "Structural Properties",
+  "url": "https://www.orthobullets.com/basic-science/9061/structural-properties",
+  "subtitle": "Updated: Jun 17 2021",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Charateristics of orthopaedic implants depend",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**structural properties** (this topic)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**material properties**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Structural characteristic differs from strength characteristic",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "not only depends on the material, but also the structural configuation of the object (cylinder, rectangle)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "the stuctural properties can also be demonstrated in a stress vs. strain curve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Bending Rigidity (stiffness)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Definitions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "defined as the slope of the curve in the **elastic range** on a structure stress-strain curve",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "stress shielding of proximal bone in THA is related to implant **stem stiffness**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Solid Cylinder**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9061/images/Rigidity_moved.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "proportional to the radius to 4th power for a solid cylinder",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "cylinder A has great rigidity than cyliner B on illustration above (and thus has greater radius)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Hollow Cylinder**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "proportional to the radius to the 3rd power for a hollow cylinder",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Rectangular Object**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "proportional to the thickness to the 3rd power",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Area Moment of Inertia (I)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Area moment of inertia",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "is a property of shape that is used to predict deflection, bending and stress in beams, and is proportional to Length to the power of four",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "is a function of: structure width, thickness, and polar moment of inertia (J)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "measure of the flexural stiffness of a beam (i.e. bending rigidity)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Polar moment of inertia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "represents an object resistance to torsion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Moment of inertia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "is a measure of an object's resistance to change in rotation direction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": []
+    },
+    {
+      "text": "Deflection",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Deflection is the degree to which a part of a structural element is displaced under a load (because it deforms)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Proportional to: (applied force/elastic modulus)(area moment of inertia)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9061/images/Rigidity_moved.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 31,
+  "visitorMode": false
+}

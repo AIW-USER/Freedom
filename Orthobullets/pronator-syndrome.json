@@ -1,0 +1,603 @@
+{
+  "title": "Pronator Syndrome",
+  "url": "https://www.orthobullets.com/hand/6020/pronator-syndrome",
+  "subtitle": "Updated: Oct 6 2024",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Pronator Syndrome is a compressive neuropathy of the median nerve at the level of the elbow.",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made clinically with pain at the proximal volar forearm, sensory changes over the palmar cutaneous branch, and positive Tinel's over the proximal volar forearm.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Treatment involves a prolonged nonoperative course, and rarely, surgical decompression.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "rare",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "< 1 per 100,000 annually",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "female > male",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "common in 5th decade",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "associated with **well-developed forearm muscles** (e.g. weight lifters)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathoanatomy",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "5 potential sites of entrapment include",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**supracondylar process**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/ps%20anatomy.jpg",
+                      "caption": "PS anatomy"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "residual osseous structure on distal humerus present in 1% of population",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**ligament of Struthers**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/slide1.jpg",
+                      "caption": "Ligament of Struthers"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "travels from tip of supracondylar process to medial epicondyle",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "not to be confused with arcade of Struthers which is a site of ulnar compression neuropathy in cubital tunnel syndrome",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**bicipital aponeurosis (a.k.a. lacertus fibrosus)**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/slide2.jpg",
+                      "caption": "Bicipital aponeurosis"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**between ulnar and humeral heads of pronator teres**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/slide3.jpg",
+                      "caption": "FDS arch and two heads of pronator teres"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "considered the most common site of entrapment",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**FDS aponeurotic arch**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/slide3.jpg",
+                      "caption": "FDS arch and two heads of pronator teres"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "commonly associated with **medial epicondylitis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "paresthesias in thumb, index, middle finger and radial half of ring finger as seen in carpal tunnel syndrome",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "in pronator syndrome paresthesias often made worse with repetitive **pronosupination**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "should have **characteristics differentiating from carpal tunnel syndrome (CTS)**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**aching pain** over proximal volar forearm",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "sensory disturbances over the **distribution of palmar cutaneous branch of the median nerve** (palm of hand)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/palmar_branch.jpg",
+                      "caption": "Distribution of palmar branch of median nerve"
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/median_n.jpg",
+                      "caption": "Median N"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "arises 4 to 5 cm proximal to carpal tunnel",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**lack of night symptoms**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**provocative tests** are specific for different sites of entrapment",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "positive Tinel sign in the proximal anterior forearm but no Tinel sign at wrist nor provocative symptoms with wrist flexion as would be seen in CTS",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "resisted elbow flexion with forearm supination (compression at **bicipital aponeurosis)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "resisted forearm pronation with elbow extended **(compression at two heads of pronator teres)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "resisted contraction of FDS to middle finger **(compression at FDS fibrous arch)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "possible coexisting medial epicondylitis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "recommended views",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**elbow** films are mandatory",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6020/images/sp.jpg",
+                      "caption": "SP"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "may see supracondylar process",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "EMG and NCV",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "may be helpful if positive but are usually inconclusive",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "may exclude other sites of nerve compression or identify double-crush syndrome",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Differential",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "AIN compressive neuropathy",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Carpal tunnel syndrome",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Pronator teres strain",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "rest, splinting, and NSAIDS for 3-6 months",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "mild to moderate symptoms",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "splint should avoid forearm rotation",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "surgical decompression of median nerve",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "only when **nonoperative management fails for 3-6 months**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "decompression of the median nerve at all 5 possible sites of compression",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "of surgical decompression are variable",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "80% of patients having relief of symptoms",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/6020/images/sp.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 73,
+  "visitorMode": false
+}

@@ -1,0 +1,938 @@
+{
+  "title": "TKA Kinematic Alignment",
+  "url": "https://www.orthobullets.com/recon/423129/tka-kinematic-alignment",
+  "subtitle": "Updated: Mar 30 2026",
+  "sections": [
+    {
+      "text": "**Summary**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "**Kinematic alignment (KA)** is a technique for total knee arthroplasty that aims to reconstruct patient-specific limb alignment and knee biomechanics based on the pre-arthritic kinematic axes of the patient’s femur.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "KA aims to **restore the patient’s pre-arthritic limb alignment and joint lines** by resurfacing the distal femur and proximal tibia.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "KA is considered a **“ligament sparing” technique** as it relies on bone cuts to recreate pre-arthritic knee laxities and compartment forces.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "**Anatomic Rationale**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Humans have alignments of the Hip-Knee-Ankle (HKA) axis that range from significant varus to neutral to significant valgus.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "The obliquity of the femoral-tibial joint line also ranges from varus to neutral to valgus.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "The HKA axis and the joint line obliquity are independent anatomic considerations that can be present in 9 different combinations",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/423129/images/1862f538-fa1a-441f-b84d-41e895514f83_screenshot_2023-08-28_at_6.32.54_pm.jpg",
+              "caption": "9 alignments"
+            }
+          ],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "**Only approximately 15% of native knees, arthritic or otherwise, have a 180-degree HKA axis and joint line perpendicular to that axis.**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Therefore, traditional mechanical alignment surgical techniques alter approximately 85% of patients from their normal anatomy and biomechanics.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "**Foundational Principles**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Outside of extreme circumstances",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "there is minimal to no femoral bone wear in the arthritic process",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "there is minimal to no attenuation or contracture of the ligaments and soft tissues",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "the PCL is usually intact and functional",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Varus and valgus arthritic deformities result from cartilage loss and tibial bone wear",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "**The normal biomechanics of the human knee are defined by the three kinematic axes found in the femur**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Therefore, a resurfacing of the femur will restore the three femoral axes",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Restoring tibial wear and cartilage loss will result in a “balanced” joint with appropriate patellar tracking without the need for releases of healthy ligaments**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Normal “balance” of the knee comprises different medial and lateral laxities in extension and flexion",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "medial and lateral laxities are the least when the knee is in extension",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "when the knee is in flexion, the lateral compartment usually exhibits more laxity than the medial compartment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Elevation or depression of the joint line is avoided to reduce the risk of patellar baja/alta",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "**The Three Kinematic Axes of the Femur**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "**The flexion-extension axis**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "The tibia flexes and extends around one axis located across the distal femur",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "This axis is oriented differently than the transepicondylar axis (TEA)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/423129/images/686e95a6-fce5-458c-b0f0-6424bc1ea083_screenshot_2024-10-14_at_9.17.35_am.jpg",
+                      "caption": "Kinematic axes"
+                    }
+                  ],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**The internal-external rotation axis**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "The tibia internally and externally rotates around one axis located in the medial compartment (i.e., a medial pivot)",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423129/images/8bf08ad8-8374-4c6d-8afd-1d3779b03838_screenshot_2024-10-14_at_9.24.02_am.jpg",
+                  "caption": "IR axis"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "While the knee flexes, internal rotation of the tibia contributes to the “roll back” of the lateral femoral condyle’s contact point on the lateral tibial plateau",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**The patellar tracking axis**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "The patella travels through the femoral trochlea around an isometric rotation axis located across the medial condyle",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "This is analogous to Schottle’s start point on the medial cortex in MPFL reconstruction",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/423129/images/c2d5175b-6b5a-42d5-b9f8-1e5d3115a9f5_screenshot_2024-10-14_at_9.24.10_am.jpg",
+                      "caption": "Schottle"
+                    }
+                  ],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Each of the three femoral kinematic axes are either parallel or perpendicular to the native femoral joint line**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/423129/images/2faf47a8-7a0a-4dd7-8b17-eafc76b3c8db_screenshot_2023-08-27_at_2.50.17_pm.jpg",
+              "caption": "Kinematic Alignment"
+            }
+          ],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "**Surgical Technique in Kinematic Alignment**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Femoral surgical technique",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "First, the surgeon computes the femoral resection KA targets to restore the joint surface",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "**The KA target is the thickness of the condyle of the femoral component minus 1 mm for the saw blade's kerf and 2 mm for complete cartilage loss**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "\"Balancing\" the tibia in kinematic alignment",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "After resurfacing the femur, the tibial bone cut must be adjusted to achieve the desired balance and account for any tibial bony wear **(See Algorithm Chart)**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423129/images/18fab854-53ab-4dd4-9890-6b8adb5c38d5_screenshot_2023-08-28_at_5.01.49_pm.jpg",
+                  "caption": "KA Algorithm"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Gap Assessment:",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**In extension, a rectangular gap** should be created to achieve equal medial and lateral compartment balance with negligible varus-valgus laxity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Flexion:",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "In flexion, there should be comparable laxities in the medial compartment compared to full extension",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "However, the lateral side should progressively loosen as the knee flexes, thereby forming **a trapezoidal gap in the flexed position**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Optimizing the varus/valgus and slope of the tibial cut is used to balance the knee",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**Soft tissue releases are not used to balance the knee**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "The PCL is not sacrificed or recessed to balance the knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "If resurfacing the patella:",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Resection target is the thickness of the patellar component minus 1 mm for the saw blade’s kerf and 4 mm for complete cartilage loss",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Recommended to leave at least 13 mm of residual patellar bone stock to avoid fracture",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "**Methods of Performing Kinematic Alignment**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Caliper-Verified Technique",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Benefits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Minimal change from traditional surgical workflows",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Can be performed with any instrument set as long as a bone caliper is used to verify the cut thicknesses",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "Intraoperative caliper measurements determine whether the thicknesses of the **bone resections are within ± 0.5 mm of the KA target**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Can be utilized with any vendor or implant design, although medial pivoting implants are helpful to restore the internal-external rotation axis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Limitations",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Difficult to accurately restore the native sagittal alignment (i.e., flexion-extension of the femoral component) using an intramedullary rod",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Tibial recuts are commonly needed to optimize varus/valgus and slope",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Difficult to pre-operatively determine component sizes and positions",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Patient-Specific Cutting Guides",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Benefits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Detailed pre-operative planning to optimize component position and size",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Minimal trays and instruments are required",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Limitations",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Tibial recuts are still necessary",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Advanced imaging is necessary for planning",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Typically closed-vendor systems where only the implant of the PSI guide vendor can be used",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Navigation (Infrared, Bluetooth, Augmented Reality, etc.)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Benefits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Detailed pre-operative planning to optimize component position and size",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Intra-operative adjustments can be made to avoid the need for recuts",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Limitations",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "May require pre-operative advanced imaging",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Typically closed-vendor systems where only the implant of the navigation vendor can be used",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Purchase and maintenance costs for the navigation hardware",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Robotics",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Benefits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Detailed pre-operative planning to optimize component position and size",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Intra-operative adjustments can be made to avoid the need for recuts",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Limitations",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "May require pre-operative advanced imaging",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Typically closed-vendor systems where only the implant of the robotic vendor can be used",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Intraoperative machine and equipment burden",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Purchase and maintenance costs for the robotic hardware",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "**Kinematic Alignment versus Mechanical Alignment**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Common differences between mechanical and kinematic alignment",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/423129/images/7a2c7eab-a436-4e6e-bca2-114347b32156_tka_ka.jpg",
+              "caption": "Before and after KA TKA"
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/423129/images/5a3225c4-18d0-4ef6-95e9-449f55e98483_ma_vs._ka_bone_cuts.jpg",
+              "caption": "KA vs MA bone cuts"
+            }
+          ],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Varus knees in kinematic alignment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**Varus tibia cuts or varus limb alignment are not associated with bony or hardware failures of the reconstruction**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "A well-reconstructed varus knee may still be in residual varus which represents the correct pre-arthritic condition of the patient’s knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Valgus knees in kinematic alignment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**Valgus knees do not have hypoplastic lateral femoral condyles**; rather, valgus knees have distal femur joint lines in natural positions of valgus with comparably sized condyles",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Valgus arthritic alignment is a combination of lateral compartment cartilage wear and lateral tibial wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "A well-reconstructed valgus knee may still be in residual valgus which represents the correct pre-arthritic condition of the patient’s knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Component rotation in kinematic alignment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**External rotation of the femoral component and tibial component are not necessary to optimize patellar tracking**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Many native trochleae, and therefore many kinematically placed femoral components, are internally rotated when referenced to traditional landmarks like the TEA",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "Patellar tracking is optimized by:",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "The correct HKA, joint line obliquity, and joint line height",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "The internal rotation of the tibial tubercle as the knee flexes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Implant design in kinematic alignment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**It is difficult to achieve normal knee biomechanics without utilizing a medial-pivot implant design** that facilitates isolated lateral compartment roll-back",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "There are mechanical concerns about sheer loading a cam-and-post mechanism of a PS knee",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "**Related Techniques**",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Restricted KA",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Limits are placed on the magnitude of the varus or valgus position of the femoral component and tibial component",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Limits are placed on the magnitude of the varus or valgus alignment of the overall HKA axis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "When necessary, minor soft tissue releases are utilized to achieve the desired balance as opposed to cutting more bone beyond the pre-set limits",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Functional Alignment",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "The bony resections of both the femur and tibia are adjusted intraoperatively to achieve either symmetric or asymmetric joint spaces",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Soft tissue releases are avoided",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Patient-Specific Alignment (i.e., “Inverse” KA)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "A pre-determined tibial cut is made based on patient-specific factors, and then the femoral component is gap balanced to achieve either symmetric or asymmetric joint spaces",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Soft tissue releases are avoided",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/2faf47a8-7a0a-4dd7-8b17-eafc76b3c8db_screenshot_2023-08-27_at_2.50.17_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/686e95a6-fce5-458c-b0f0-6424bc1ea083_screenshot_2024-10-14_at_9.17.35_am.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/8bf08ad8-8374-4c6d-8afd-1d3779b03838_screenshot_2024-10-14_at_9.24.02_am.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/c2d5175b-6b5a-42d5-b9f8-1e5d3115a9f5_screenshot_2024-10-14_at_9.24.10_am.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/5a3225c4-18d0-4ef6-95e9-449f55e98483_ma_vs._ka_bone_cuts.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/7a2c7eab-a436-4e6e-bca2-114347b32156_tka_ka.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/1862f538-fa1a-441f-b84d-41e895514f83_screenshot_2023-08-28_at_6.32.54_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423129/images/18fab854-53ab-4dd4-9890-6b8adb5c38d5_screenshot_2023-08-28_at_5.01.49_pm.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 116,
+  "visitorMode": false
+}

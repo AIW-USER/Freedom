@@ -1,0 +1,3929 @@
+{
+  "title": "Chondrosarcoma",
+  "url": "https://www.orthobullets.com/pathology/8023/chondrosarcoma",
+  "subtitle": "Updated: Mar 23 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Chondrosarcoma is the second most common malignant primary bone tumor. These cancers are composed of malignant chondrocytes. There are various subtypes of chondrosarcoma, each with unique characteristics. \"Conventional\" chondrosarcoma accounts for >90% of chondrosarcomas and typically presents in adults over 40 with progressive pain",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made by correlating clinical and imaging (x-ray, CT, MRI) findings with lesional biopsy showing malignant cartilage that permeates and entraps pre-existing bone trabeculae",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        },
+        {
+          "text": "Treatment is usually wide surgical resection; conventional chondrosarcomas do not respond to chemotherapy or radiation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Demographics (conventional chondrosarcoma)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "occurs in **older adults (40 to 75 years)**",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "most >50 years",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "slight male predominance",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "specific subtypes of chondrosarcoma may present at younger ages (see below)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Anatomic location (conventional chondrosarcoma)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "most common locations include the **pelvis (25% of all cases)**, proximal femur, distal femur, proximal humerus, distal tibia, and scapula. Rarely involves the spine or craniofacial bones",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "typically metaphyseal or diaphyseal, rarely epiphyseal (except clear cell chondrosarcoma)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "tumor location is important for diagnosis: cartilage tumors of the small bones of the hands and feet are mostly benign, whereas **those of the flat bones (pelvis, scapula, ribs, sternum) are malignant until proven otherwise**",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "specific subtypes of chondrosarcoma have specific anatomic predilections (see below)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Majority of chondrosarcomas are sporadic (primary chondrosarcomas), but they may develop from the malignant transformation of osteochondromas or enchondromas (secondary chondrosarcomas)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "**Primary chondrosarcoma**",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "conventional type",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**account for >90% of all chondrosarcomas**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "can be central intramedullary (99%) or juxtacortical / periosteal (~1%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "non-conventional",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "dedifferentiated chondrosarcoma (<10%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "clear cell chondrosarcoma (<5%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "mesenchymal chondrosarcoma (<1%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Secondary chondrosarcoma**",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "arise from a pre-existing benign cartilage lesion",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "osteochondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**account for the majority (>80%) of secondary chondrosarcomas**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**solitary osteochondromas have <1% risk of malignant transformation**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**multiple hereditary exostosis (5-10% risk of malignant transformation)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "enchondromas (1% to 9% risk of malignant transformation)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**Ollier's disease (25-30% risk of malignant transformation)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**Maffucci's (>50% risk of malignant transformation)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "histologically indistinguishable from conventional chondrosarcoma",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Genetics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "mutations of isocitrate dehydrogenase 1 and 2 (IDH1 and IDH2) identified in primary and secondary conventional chondrosarcomas and enchondromas",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "mesenchymal chondrosarcomas are characterized by HEY1-NCOA2 fusion protein",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Chondrosarcoma subtypes",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Conventional chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**account for >90% of all chondrosarcomas**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "graded 1 through 3",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Grade 1 (60%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "grow slowly and almost never metastasizes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "histologic features similar to enchondroma, requiring clinical and radiographic features to support diagnosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Grade 2 (25%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "more locally aggressive and metastasis in 10-15%",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Grade 3 (5%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "locally aggressive and >50% metastasize",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "*imaging features, histology, and treatment*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see sections below",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "De-differentiated chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "*pathology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "a secondary, **high-grade spindle-cell sarcoma** (typically undifferentiated pleomorphic sarcoma, osteosarcoma, or fibrosarcoma) arises **adjacent to a (typically low-grade) conventional chondrosarcoma**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "~10% of chondrosarcomas may dedifferentiate",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "may be considered \"grade 4\" chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*demographics*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "typically arise in older patients (~60 years)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*anatomic location*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "similar to conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*presentation*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "similar to conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "pathologic fracture is common",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*imaging and histology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see below sections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*treatment*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "wide surgical resection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "spindle-cell component may respond to **chemotherapy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*prognosis*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "malignant, aggressive neoplasm with poor prognosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**poor prognosis, <20% 5-year survival**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Clear cell chondrosarcoma",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/8023/images/clear%20cell%202.jpg",
+              "caption": ""
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/8023/images/clear%20cell.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "*pathology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "low-grade malignant chondrogenic neoplasm characterized by lobules of clear cells",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*demographics*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "occurs in **younger patients (20 to 40 years)** than conventional chondrosarcomas",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "rare (~5% of chondrosarcomas)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*anatomic location*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**strong predilection for the epiphysis** of long bones",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "2/3 of cases present in the humeral or femoral head",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "may be mistaken for a benign chondroblastoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "*presentation*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "commonly presents with pain, which can be severe",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "locally destructive and may present with pathologic fracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*imaging and histology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see below sections",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*treatment*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "wide resection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*prognosis*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "10-year survival is nearly 80%",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "metastasis in ~15%",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mesenchymal chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "*pathology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "high-grade biphasic chondrosarcoma characterized by poorly differentiated **small round blue cells** and islands of hyaline cartilage",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "may be difficult to distinguish from other round blue cell tumors like Ewing's and rhabdomyosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "*demographics*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "occurs in **younger** patients (20 to 40 years) than conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "rare (<1%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*anatomic location*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "widespread anatomical distribution",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "30% of cases are isolated to the soft tissue",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "most common in the flat bones (ilium, ribs, skull)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*presentation*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "painful mass",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*imaging and histology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see below sections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*treatment*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "wide resection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "may respond to **chemotherapy and radiation**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*prognosis*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "poor, <50% 5-year survival",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "metastasis common",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Periosteal (juxtacortical) chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pathology",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "low-grade sub-periosteal cartilaginous tumor that develops on the **surface of bone**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "erosion of the underlying bone helps to differentiate from a benign periosteal chondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "demographics",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "occurs in **younger patients** (2nd to fourth decade of life) than conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "rare (~1%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "anatomic location",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "metaphysis of long bones, especially the femur and humerus",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "presentation",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "painless or painful mass",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*imaging and histology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see below sections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "treatment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "wide resection",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "prognosis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "slow, indolent course, and metastasis are rare",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Secondary chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "pathology",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "chondrosarcoma (usually low grade) that arises from an enchondroma or osteochondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "demographics",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "usually found in significantly **younger patients** (3rd and 4th decades) than primary conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*anatomic location*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "~40% of secondary chondrosarcomas in HME arise from the ilium",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*presentation*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "osteochondromas account for >80% of secondary chondrosarcomas",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "new pain or enlargement of previously non-growing osteochondroma after skeletal maturation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "enchondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "new onset pain at site of known enchondroma that is **attributable to the lesion**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "*imaging and histology*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "see below sections",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*treatment*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "same as for primary chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "*prognosis*",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "most are low grade with similar prognosis to low-grade primary chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Signs and Symptoms",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain is the most common symptom",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**pain attributable to the lesion** as opposed to other causes (e.g. rotator cuff tear) is important to differentiate low grade chondrosarcoma from enchodroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "variable rapidity of presentation dependent on tumor grade and location",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "may present with slowly growing mass or symptoms of bowel/bladder obstruction due to **mass effect in the pelvis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "new pain or increasing size of a known osteochondroma (secondary chondrosarcoma)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "50% of de-differentiated chondrosarcomas present with **a pathologic fracture**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Radiographs",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "views",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "orthogonal views of the region are mandatory",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "findings vary somewhat with different subtypes",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "malignant cartilage has characteristic imaging features best exemplified by conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "chondrosarcomas are typically large (>4cm) at the time of diagnosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "subtypes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "conventional chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "lytic lesion with **intralesional calcifications (matrix mineralization)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "lobules of malignant cartilage undergo dystrophic calcification, forming characteristic \"**rings and arcs**\" or \"**popcorn calcification**\"",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/8023/images/fd92a959-5d1c-4693-9a66-cdbe4a621344_endosteal_scalloping.jpg",
+                              "caption": ""
+                            },
+                            {
+                              "src": "https://upload.orthobullets.com/topic/8023/images/3e656f20-b4f6-4a44-a316-90d16590e6d1_popcorn_calcifications.jpg",
+                              "caption": ""
+                            },
+                            {
+                              "src": "https://upload.orthobullets.com/topic/8023/images/5d3f0182-4e23-46a7-8911-e11ba9f8a889_prox_humerus_large_chondrosarc_xr.jpg",
+                              "caption": ""
+                            }
+                          ],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "periosteal reaction may be present",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "low-grade tumors may lack signs of aggressive behavior and are difficult to distinguish from enchondromas",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "see \"Differential\" section below",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "higher-grade chondrosarcomas often show less matrix mineralization and appear more lytic with extensive endosteal scalloping, have permeative borders, and may break through the cortex with soft-tissue extension",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "de-differentiated chondrosarcoma",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20A%20-%20pelvis%20-%20xray%20-%20Parsons_moved.png",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20B%20-%20prox%20femur%20-%20xray%20-%20Parsons_moved.png",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "bi-morphic appearance with **aggressive appearing unmineralized mass (spindle component) adjacent to the mineralized chondroid tumor** is characteristic",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/53c96d0f-d1da-44dc-9bc5-eae71345cefe_dedifferentiated_chondrosarcoma_xr.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "there may be no radiographic evidence of an underlying chondroid tumor",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "soft-tissue mass is common",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "clear cell chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "**well-defined osteolytic lesion in the epi-metaphyseal region**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "2/3 of cases involve the humeral or femoral head",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "often a thin sclerotic border and may show matrix mineralization",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "may simulate a benign lesion, especially chondroblastoma",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "may present as a secondary aneurysmal bone cyst and pathologic fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "usually no periosteal reaction",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "mesenchymal chondrosarcomas",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/mesenchymal_chondrosarcoma.jpg",
+                      "caption": "AP view of left hip demonstrating a mesenchymal chondrosarcoma"
+                    }
+                  ],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "moth-eaten or permeative lytic lesion with variable matrix calcification",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "cortical destruction and extraosseous extension is common",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/Case%20B%20-%20femur%20-%20xray%20-%20Parsons_moved.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "periosteal chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "juxtacortical soft-tissue mass with sharply defined borders",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "often contains ring-and-arc calcifications or popcorn calcification",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "**underlying cortex is usually eroded, thickened, or saucerized**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "secondary chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "osteochondroma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "cartilage cap >2cm on MRI or CT highly concerning for secondary chondrosarcoma",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/8023/images/d06e8435-3a07-42af-bde7-3d2bb1a9fcc5_secondary_chondrosarcoma_(osteochondroam)_pelvis_ct.jpg",
+                              "caption": ""
+                            }
+                          ],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "intralesional lysis of calcifications",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "cortical destruction",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "enchondroma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "see \"differential\" below",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "MRI",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "MRI helpful in determining size of tumor soft-tissue involvement",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20A%20-%20scapula%20-MRI%20%20-%20Parsons_moved.png",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**lobulated mass** with low to intermediate signal on T1 and **high T2 signal** (due to the high water content of cartilage), separated by low-intensity septa. Calcifications are dark on T1 and T2",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/c58162d3-d442-4e4d-b72d-93b1c1307989_chondrosarcoma_mri.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "gadolinium: heterogeneous and moderate uptake",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "enhancement of septa is common, corresponding to the fibrovascular septations between cartilage lobules - \"rings and arcs enhancement\"",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "mesenchymal and dedifferentiated chondrosarcomas may have a biphasic appearance: separated calcified (cartilaginous) and non-calcified (cellular) areas",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CT",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "CT most useful study for low-grade cartilage neoplasms to determine cortical involvement",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**matrix calcifications** more easily identified on CT compared to radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "deep endosteal scalloping suggests chondrosarcoma instead of enchondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "90% have cortical breach",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Bone scan",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "can help distinguish (not definitively) chondrosarcoma and enchondroma",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "can determine location of metastastic disease",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "usually very hot in all grades of chondrosarcoma",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "**greater uptake than the anterior superior iliac spine** is characteristic",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/0f9d4c2c-ddea-43ae-9963-4c2ecb0335ab_bone_scan_chondrosarc.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Histology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "percutaneous **core needle biopsy or open biopsy** (gold standard) are necessary",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "large chondrosarcomas are heterogenous and often have low- and high-grade regions",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "area of reduced T2 signal intensity may represent foci of dedifferentiation and should be the preferred biopsy site",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "enchondromas of hand, Ollier's disease, Maffucci's disease, periosteal chondromas, and low-grade chondrosarcoma may all have similar histology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Conventional chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "graded 1 through 3",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "grade is based on histologic features of cellularity, cytological atypia (nuclear size and hyperchromasia), myxoid stroma, and mitotic activity",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "grade 1",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "features similar to normal cartilage or benign enchondroma",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "**diagnosis requires correlation of histologic, radiographic, and clinical data**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "bland hyaline cartilage appearance with low cellularity",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "bi-nucleated chondrocytes",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/Histology%20A_moved.jpg",
+                          "caption": ""
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/Histology%20D%20-%20multinucleated%20-Parsons_moved.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "**invasion and \"entrapment\" of pre-existing bone trabeculae is diagnostic**",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/d1347657-4cbe-4648-b5ba-d0c721332401_trabeculae_entrapped.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "*grade 2*",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "plump cartilage cells that are **bi- or tri-nucleated**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "increased cellularity, nuclear atypia, and hyperchromasia",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/7822ba10-1872-434d-bc3e-90d642dc56dd_chondrosarcoma_histo3.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "myxoid change or necrosis may be prominent",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "occasional mitotic figures",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "grade 3",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "permeative hypercellular stroma with rare if any hyaline cartilage matrix",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/Histology%20C%20-%20invading%20bone%20-Parsons_moved.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "**myxoid** stroma is common",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "more disorganization, more pleomorphism, and more mitotic figures",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Dedifferentiated chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "\"grade 4\" chondrosarcoma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "malignant, aggressive neoplasm with poor prognosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "characterized by a **bimorphic histology**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "low grade (although sometimes high grade) chondrosarcoma component adjacent to a **high grade spindle cell component** (usually osteosarcoma, fibrosarcoma, MFH)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/Chondrosarcoma%20-%20Dedifferentiated_moved.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/Histology%20B%20-%20Parsons_moved.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/8023/images/f86b8bae-5e10-4f87-8fa9-4b9e4e1a1036_dedifferentiated_chondrosarcoma_histo.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "there is an abrupt transition between the two components and they are not admixed",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mesenchymal chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "poorly differentiated \"**small round blue cells**\" with scant cytoplasm",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8023/images/mesenchymal_histo.jpg",
+                  "caption": "Histology slide demonstrating the biphasic appearance of mesenchymal chondrosarcoma"
+                }
+              ],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**staghorn vascular pattern** is characteristic",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "interspersed islands of malignant hyaline cartilage",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "HEY1-NCOA2 rearrangement",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Clear cell chondrosarcoma",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "lobular architecture similar to other cartilage neoplasms, but **cells are large and vacuolated with ample pale cytoplasm**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/8023/images/clear_cell_chondrosarcoma.jpg",
+                  "caption": "Histology slide demonstrating the appearance of clear cell chondrosarcoma"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/8023/images/00deaf5a-d526-4ee9-968f-924a6d358004_clear_cell_chondrosarcoma_histopathology.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "minimal chondroid matrix",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "frequently (~50%) have areas resembling conventional low-grade chondrosarcoma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "t(12:22)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "S100+ and PAS positive (heavy glycogen accounts for clear cytoplasm)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Differential",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Differentiating a low grade chondrosarcoma from enchondroma in a long bone is a common diagnostic challenge",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 3,
+                  "bullets": [
+                    {
+                      "text": "Enchondroma vs Low Grade Chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Enchondroma**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Chondrosarcoma**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Age**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "younger (<50)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "older (>50)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Tumor size**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "small (ie. <5cm)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "larger (ie. >5cm)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Location**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "axial skeleton and pelvis rare",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "hands and feet common",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "axial skeleton and pelvis common",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "hands and feet rare",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Pain**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "no, or pain is due to other locoregional pathology (ie. subacromial impingement)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "yes, pain attributable to lesion",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**soft tissue mass**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "no",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "yes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**cortical destruction**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "no",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "yes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**periosteal reaction**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "no",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "yes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**endosteal scalloping**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "<2/3 cortex",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": ">2/3 cortex",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/8023/images/1f4ca601-964f-4f73-9dc4-f5b6968804fc_high_grade_chondrosarc_radiograph_femur.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**bone expansion**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "no",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "yes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**bone scan**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "uptake less than ASIS",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "uptake greater than ASIS",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 5,
+                  "bullets": [
+                    {
+                      "text": "Differential of Chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Malignant lesion in older patient**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**May have similar chondrogenic histology**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Sacral lesions in older patients**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "**Treated with wide resection alone**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Metastatic disease",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Lymphoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Myeloma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "MFH",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Secondary sarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Enchondroma / Olliers / Maffuccis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Periosteal chondroma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Osteochondroma (MHE)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Parosteal osteosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Adamantinoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Chordoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Squamous cell",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "o",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "chemotherapy & radiation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "not indicated",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "chondrosarcomas are **resistant to chemotherapy and radiation**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "intra-lesional curettage",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "Grade 1 lesions in the extremities (minimal rate of metastasis)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "treatment of grade 1 lesions located in the pelvis or axial skeleton is controversial (higher rate of local recurrence and metastasis)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "most authors recommend wide excision of all chondrosarcomas (even grade 1) if located in the pelvis",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "curettage, high-speed burring, and adjuvant treatment with subsequent packing of the defect, with internal fixation as needed",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "common adjuvants include cryotherapy, liquid nitrogen, argon beam, phenol, ethanol, and hydrogen peroxide",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "wide surgical excision",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "grade 2 or 3 lesions",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "any lesion in the pelvis",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "wide surgical excision combined with multi-agent chemotherapy",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "mesenchymal chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "may also respond to radiation",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "possible role for chemotherapy in dedifferentiated chondrosarcoma",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Local recurrence**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "for high-grade lesions, local recurrence is associated with distant metastasis and decreased survival",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "grade 1 chondrosarcoma:",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "rare after wide resection with negative margins",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "5-15% after curettage with adjuvant treatment",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "grade 2 chondrosarcoma:",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "varies depending on resection margins",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "grade 3 chondrosarcoma:",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "25% local recurrence rate and >30% rate of metastasis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Histologic grade and subtype correlates with survival",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Grade I",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "90% 5-year survival",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "grade 1 chondrosarcomas are generally slow growing",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Grade II",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "60-70% 5-year survival",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Grade III",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "30-50% 5-year survival",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "De-differentiated chondrosarcoma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "<20% 5-year survival",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Poor prognostic variables**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "axial and proximal extremity lesions",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "have a more aggressive course",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "pelvic location",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "advanced patient age",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "inadequate surgical margins",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Increased telomerase activity**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "as determined by reverse transcriptase-polymerase chain reaction (RT-PCR), increased telomerase activity has been shown to directly correlate with the rate of recurrence",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "referral to orthopedic oncologist is necessary for best prognosis",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20E%20-%20prox%20femur%20-%20xray%20-%20Parsons_moved.png",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20E%20-%20prox%20femur%20-%20MRI%20-%20Parsons_moved.png",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/Case%20F%20-%20prox%20humerus%20-%20xray%20-%20Parsons_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/chondrosarcoma.high%20power.histology.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/clear%20cell%202.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8023/images/clear%20cell.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 424,
+  "visitorMode": false
+}

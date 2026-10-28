@@ -1,0 +1,3496 @@
+{
+  "title": "Hip Magnetic Resonance Imaging",
+  "url": "https://www.orthobullets.com/recon/422846/hip-magnetic-resonance-imaging",
+  "subtitle": "Updated: Jun 9 2021",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "MRI basics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "patient is positioned in a large magnetic field",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "protons in body align with the magnetic field",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-23_at_9.33.12_am.jpg",
+                      "caption": "Diagram depicting protons aligning with the magnetic field"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "external radiofrequency current pulses through patient and stimulates protons, causing to spin out of equilibrium",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-23_at_9.38.30_am.jpg",
+                      "caption": "Diagram external freq spine out of alignment"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "once external radiofrequency current is discontinued energy is released by protons",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-23_at_10.09.06_am.jpg",
+                      "caption": "Diagram of the energy being released from protons"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "sensors detect the energy released by the protons and the time it takes the protons to return to equilibrium",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "Fourier transformation is used to convert sensor data at each location into image data",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "relaxation time",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "time required for protons to align with external magnetic field corresponds to T1 and T2",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "T1 - displays tissues high fat content as bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "T2 - displays tissues with high water content as bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "gadolinium contrast",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "paramagnetic agent (contains heavy metal)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "shortens T1 interval",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "increases signal intensity of T1 images",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "direct hip arthrography",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "contrast injected directly in femoroacetabular joint under fluoroscopic guidance",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "indirect hip arthrography",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "intravenous contrast injected",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "patient then exercises the femoracetabular joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "contast diffuses into the femoracetabular joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "magnetic strength",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "1.5 T",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "standard MRI magnetic strength",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "faster scan times than 1.2 T magnets",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "3.0 T",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "extemely high resolution",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "good for visualing small bones, small ligaments, neurolgic tissues, and vascular tissues",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "higher machine cost",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "studies can be perfromed faster than 1.5T MRI",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "increased artifact than 1.5T",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "flow artifact from movement of blood and body fluids",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 4,
+                  "bullets": [
+                    {
+                      "text": "**Tissue Appearance on MRI**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Tissue*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*T1*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*T2*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Synovial fluid",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Blood",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Fat",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Inflammation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Muscles",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Gray",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark Gray",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Paramagnetic substances (Iron, hemosiderin, gadolinium, etc.)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Bright",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Dark",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Normal Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Osteology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Pelvis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "innominate bone",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/inominate_bone.jpg",
+                      "caption": "Diagram with each portion of the innominate bone identified"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "ilium",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "ishcium",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "pubis",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "fuse together at the triradiate cartilage",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "acetabulum",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "socket",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "contains articular surface, cotyloid fossa, and acetabular notch",
+                          "table": null,
+                          "images": [
+                            {
+                              "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-09_at_7.43.57_pm.jpg",
+                              "caption": "Diagram of the acetabulum detailing the articular surface, fossa, and notch"
+                            }
+                          ],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "highly constrained joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "congruity increased with labrum",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Femur",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/proximal_femur.jpg",
+                  "caption": "Diagram of the proximal femur"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "strongest bone in the body",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "femoral head",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "ball that articulates with acetabulum",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "spherical in shape",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "greater trochanter",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "insertion of abductors",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/abductor.jpg",
+                          "caption": "Diagram of the abductor muscle insertion"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "gluteus minimus",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "gluteus medius",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "vastus ridge",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/vastus_ridge.jpg",
+                          "caption": "Diagram of the vastus ridge"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "origin of vastus lateralus",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Labrum",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/422846/images/labrum_and_ligamentum_teres.jpg",
+              "caption": "Diagram of the labrum and ligamentum teres"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "rim of fibrocartilage that surrounds the acetabulm",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "triangular in shape on cross section",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "horseshoe shaped surrounding acetabulum",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "increases congruity and depth of the femoroacetabular joint",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "adds to the suction cup stability of the acetabulofemoral joint",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "originates from the transverse acetabular ligament",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "small percentage of patients do not have a labrum",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "approximately 3%",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ligaments",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "ligamentum teres",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "ligamentous connection between femoral head and acetabulum",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "fovea of femoral head",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "cotyloid fossa of acetabulum",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "in patients with developmental hip dysplasia the ligamentum teres can be hypertrophied and elongated",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "iliofemoral ligament",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/iliofemoral_ligament.jpg",
+                  "caption": "Diagram of the iliofemoral ligament"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "also referred to as ligament of Bigelow or Y-ligament",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "anterior to femoroacetabular joint and is major ligamentous stabilizer of the femoroacetabular joint",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Muscles",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 2,
+                  "bullets": [
+                    {
+                      "text": "**Muscle on MRI**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Muscle*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*MRI*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Iliopsoas",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/ip_mri.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the iliopsoas muscle (green arrow) and iliopsoas tendon (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Pectineus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_pectineus.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the pectineus muscle (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Sartorius",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_sartorius.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the sartorius muscle (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Rectus femoris",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_rectus_femoris.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the direct head (blue arrow) and indirect head (green arrow) of the rectus femoris labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Vastus lateralis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_vastus.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the vastus lateralis (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Gluetus maximus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1__gmax.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the gluteus Maximus (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Gluteus medius",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_glut_med.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the gluteus medius (blue arrow) and tendon (green arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Gluteus minimus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_glut_min.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the gluteus minimis muscle (blue arrow) and tendon (green arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Tensor fascia lata",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_tfl.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the tensor fascia lata muscle (blue arrow) and iliotibial band fascia (green arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Semitendinosus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_semit.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the semitendinosus muscle (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Semimembranosus",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_semim.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the tendon of the semimembranosus (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Biceps femoris",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_conjoined_tendon.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the conjoined tendon (blue arrow) labeled. The conjoined tendon is the common proximal tendon of the biceps femoris and semitendinosus."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Quadratus femoris",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_quadratus_femoris.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the quadratus femoris (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Piriformis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_piriformis.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the piriformis (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Nerves",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 2,
+                  "bullets": [
+                    {
+                      "text": "**Nerves on MRI**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Nerve*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*MRI*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Femoral nerve",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_femoral_nerve.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the femoral nerve (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Sciatic nerve",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_sciatic_nerve.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the sciatic nerve (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Obturator nerve",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_obturator_nerve.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the branches of the obturator nerve (blue arrows) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Blood vessels",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "",
+          "table": [
+            {
+              "header": true,
+              "cells": [
+                {
+                  "colspan": 2,
+                  "bullets": [
+                    {
+                      "text": "**Blood vessels on MRI**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*Blood vessel*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "*MRI*",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Femoral artery",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_femoral_artery.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the femoral artery (blue arrow) labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "header": false,
+              "cells": [
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "Femoral vein",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "colspan": 0,
+                  "bullets": [
+                    {
+                      "text": "",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/t1_femoral_vein.jpg",
+                          "caption": "Axial T1 MRI of the right hip with the femoral vein labeled."
+                        }
+                      ],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Anatomic Variants",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Labral variants",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "sublabral sulci",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-20_at_7.29.59_pm.jpg",
+                  "caption": "Diagram depicting a sublabral sulcus"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "present in up to 25% of patients",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-20_at_9.26.30_pm.jpg",
+                      "caption": "Coronal T2 MRI of the right hip demonstrating a sublabral sulcus"
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-20_at_9.30.08_pm.jpg",
+                      "caption": "Axial T2 MRI of the right hip with a sublabral sulcus labeled"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "most common positions",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "posterosuperior (48%)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "anterosuperior (44%)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "can be mistaken for a labral tear",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "can be differentiated from labral tears by:",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "sulci have smooth labral edges",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "tears tend to have rough edges",
+                              "table": null,
+                              "images": [],
+                              "importance": "1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "sulci tend to span all anatomic positions",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "tears tend to be more focal",
+                              "table": null,
+                              "images": [],
+                              "importance": "1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "sulci are not associated with perilabral pathology",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "labral tears are typically associated with chondral lesions and perilabral cysts",
+                              "table": null,
+                              "images": [],
+                              "importance": "1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "transverse acetabular ligament labral junction sulcus",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-20_at_9.42.58_pm.jpg",
+                  "caption": "Coronal T2 MRI of the right hip with a transverse acetabular ligament labral junction sulcus"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "can appear in the anterior an posterior intersection of the transverse acetabular ligament and the labrum",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "can be present in up to 33% of hips",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "usually present on the inferior acetabulum",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "uncommon place for a labral tear to occur",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "can occur in conjunction with a periligamentous recess anteromedial to the ligamentum teres",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "perilabral sulcus",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "anatomic space between the joint capsule and labrum",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.08.47_am.jpg",
+                      "caption": "Coronal T1 MRI arthrogram of the left hip with a perilabral sulcus labeled"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "more apparent adjacent to the superior labrum than the anterior and posterior labrum",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "can be mistaken for a perilabral cyst",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "MRI arthrogram with joint distension can differentiate between perilabral cyst and perilabral sulcus",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "anterosuperior cleft",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "partial extension of fluid into the anterosuperior labrum on sagittal and coronal images",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.25.50_am.jpg",
+                      "caption": "Coronal T1 MRI arthrogram with an anterosuperior cleft identified"
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.25.43_am.jpg",
+                      "caption": "Sagittal T1 MRI arthrogram with an anterosuperior cleft identified"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "usually due to labral hypertrophy from developmental ip dysplasia",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nonlabral variants",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "synovial herniation pits",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.37.31_am.jpg",
+                  "caption": "Coronal T2 MRI of the right hip with a synovial herniation Pitt identified"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "also known as Pitt pits",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "predominantly found on the anterosuperior femoral neck",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "usually subchondral or subcortical",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "found in up to 33% of patients with femoroacetabular impingement",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "thought to be a reactive lesion to impingement against anterior acetabulum or pressure caused by iliopsoas",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "os acetabuli",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "ossicle adjacent to the superior acetabular rim",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.48.11_am.jpg",
+                      "caption": "Coronal T1 MRI of the right hip with an os acetabuli present over the superior acetabulum"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "due to perisistent secondary ossification center that remains unfused to the acetabulum",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "also thought be be from ossification of the superior labrum",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "accessory iliacus tendon",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "seperated iliacus tendon from the iliopsoas tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "present in up to 66% of patients undergoing hip arthrograms",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "can be mistaken for a longitudinal tear of the iliopsoas tendon",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "can be differentiated by a tear with fat suppression MRI",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.53.47_am.jpg",
+                          "caption": "Axial T1 MRI of the right hip demonstrating an accessory iliacus tendon with interposed fatty fascia"
+                        },
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_10.54.09_am.jpg",
+                          "caption": "Axial T2 MRI of the right hip with an accessory iliacus tendon identified"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "fat containing fascia interposed between the two tendons",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "plicae",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "synovial folds that are embyronic remnants and are located at the interface of the articular surface",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_11.22.48_am.jpg",
+                      "caption": "Axial T1 MRI arthrogram of the left hip with a plicae identified"
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_11.22.30_am.jpg",
+                      "caption": "Axial T1 MRI arthrogram of the left with a perilabral plicae identified"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "mostly are asymptomatic",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "can sometimes slip into the articular surface leading to mechanical symptoms and mass effect",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pectinofoveal fold",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "also known as the middle retinaculum of Weitbrecht",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-23_at_2.29.50_pm.jpg",
+                      "caption": "Coronal T1 MRI arthrogram of the left hip with a pectinofoveal fold (white arrow) labeled."
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "extends from lesser trochanter to fovea capitis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "contains the posteroinferior retinacular arteries and branches of the medial femoral circumflex artery",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "found in 95% of hip MRI arthrograms",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "almost never becomes symptomatic",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "supraacetabular fossa",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "typically located at the 12 O'clock position of the acetabulum",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_11.45.19_am.jpg",
+                      "caption": "Coronal T1 MRI of the right hip with a supraacetabular fossa present"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "can be filled with synovial fluid or cartilage",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "cartilage most common",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "can be mistaken for an acetabular cartilage defect",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "differentiated by lack of underlying bone marrow changes and preserved catilage during arthroscopy",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "does not communicate with the acetabular fossa",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "stellate crease",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "area of the acetabulum that is bare of hyaline cartilage",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-21_at_12.01.42_pm.jpg",
+                      "caption": "Sagittal T1 MRI arthrogram of the hip with a stellate crease identified"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "usually medial to where supraacetabular fossa would be located",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "in continuity with the acetabular fossa",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pathology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Femoroacetabular impingement",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "impingement between the acetabulum and femoral neck",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "most often the anterolateral femoral neck and anterosuperior acetabulum",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "two types of impingement:",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "cam impingement",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "nonspherical femoral head articulates with a hemispheric acetabulum",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "pincer impingement",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "overcoverage of the femoral head by the acetabular labrum or bone",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "high association with labral tears",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "radiographic assessment",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "head-neck offset",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "assessed with frog-leg lateral radiographs",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/head_neck_offset.jpg",
+                          "caption": "Frog leg radiograph of the right hip with head-neck offset calculated"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": ">0.17 is considered normal",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "alpha angle",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "can be assessed on frog-leg lateral radiographs or axial T1 MRI",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/alpha_angle_mri.jpg",
+                          "caption": "Axial T1 MRI with an alpha angle measurement"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "oblique axials are preferred for measuring alpha angle",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "slices are made parallel to the femoral neck axis",
+                              "table": null,
+                              "images": [
+                                {
+                                  "src": "https://upload.orthobullets.com/topic/422846/images/oblique_axial_mri.jpg",
+                                  "caption": "Coronal T1 MRI of the hip demonstrating the axial oblique slice angle"
+                                }
+                              ],
+                              "importance": "5",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "measured as the angle between the region of the aspheric femoral head and axis of the femoral neck",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "<50° considered normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "occaisonally decreased marrow signal will be present at the site of the cam lesion on T1 weighted imaging",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "corresponds to reactive bone marrow edema",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "acetabular version",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "best assessed on straight axials",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "retroversion determined by the anterior wall projecting more lateral than posterior wall",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "corresponds to cross-over sign on pelvis radiographs",
+                              "table": null,
+                              "images": [
+                                {
+                                  "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-10_at_3.56.04_pm.jpg",
+                                  "caption": "AP pelvis radiograph with cross-over sign suggesting acetabular retroversion"
+                                }
+                              ],
+                              "importance": "5",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Labral tears",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "intrasubstance tear or detachment of the labrum from the acetabulum",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/coronal_t1_with_labral_tear.jpg",
+                  "caption": "Coronal T1 MRI with a labral tear present in superior labrum"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "occurs most commonly in the anterosuperior quadrant",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/_con_as_tear.jpg",
+                      "caption": "Axial T1 MRI with contrast and an anterosuperior labral tear"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "interval between anterior labrum and iliopsoas tendon can be mistaken for a labral tear",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/ip_tendon.jpg",
+                          "caption": "Axial T1 MRI with contrast demonstrating the iliopsoas tendon running anterior to the anterior labrum. It can commonly be mistaken for a labral tear."
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "freuqently occurs in conjunction with femoroacetabular impingement and developmental hip dysplasia",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "radiographic assessment:",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "MRI arthrogram is the most sensitive study for diagnosing labral tears",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "axial T1 and sagittal T1 are best for charactizing anterosuperior labrum",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Hip avascular necrosis",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "necrosis of the bone involving the femoral head",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/cor_t1_avn.jpg",
+                  "caption": "Coronal T1 MRI of the hip with avascular necrosis"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "occurs in the epiphysis",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "idiopathic etiology is most common",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "radiographic assessment",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "usually presents with hypointense signal on T1 weighted imaging localized to the epiphysis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "modified Kerboul combined necrotic angle",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "summation of the angle of necrotic zones in the coronal and mid-sagittal sections of T1 MRI",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/modified_kerboul_angle.jpg",
+                          "caption": "Coronal and sagittal T1 MRI of the hip demonstrating the measurement of the modified Kerboul combined necrotic angle"
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "prognosticates the risk of femoral head collapse",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 2,
+                      "bullets": [
+                        {
+                          "text": "**Modified Kerboul Combined Necrotic Angle**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Risk group*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Combined Angle*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Low-risk",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "<190°",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Medium-risk",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "between 190° and 240°",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "High-risk",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": ">240°",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Transient osteoporosis of the hip",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "localized hyperemia of the proximal femur with decreased venous return and increase marrow pressure",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "radiographic assessment:",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "hypointense signal on T1 and hyperintense singal on T2 that spans the metaphysis and epiphsysis",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/transient_osteoporosis.jpg",
+                      "caption": "Coronal T1 MRI of the hip demonstrating transient osteoporosis of the hip"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "best visualized on coronal imaging",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Trochanteric bursitis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "inflammation involving the greater trochanteric bursa",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/422846/images/right_hip_greater_trochanteric_bursitis.jpg",
+                  "caption": "Coronal T2 MRI with greater trochanteric bursitis"
+                }
+              ],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "can be classified based on location of inflammation on MRI imaging",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "sub-gluteus maximus (most common)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "sub-gluteus medius",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "sub-gluteus minimis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "radiographic assessment",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "high signal present in the trochanteric bursa on T2 sequences",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "best visualized on the coronal and axial images",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Osteomyelitis",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "bacterial of fungal infection of bone",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "most often due to hematogenous spread",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "frequently involves the metaphysis in pediatric patients",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "sluggish blood flow in metaphysis allows for baceterial adhesion to marrow trabeculae",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "radiographic assessment:",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "MRI is most sensitive and specific for diagnosing early osteomyelitis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "decreased signal on T1 sequence",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": [
+                            {
+                              "text": "\"penumbra sign\" - intraosseus abscess with dark central portion and bright internal wall",
+                              "table": null,
+                              "images": [
+                                {
+                                  "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-12_at_8.20.08_pm.jpg",
+                                  "caption": "Sagittal T1 MRI of the tibia with a pneumbra sign present"
+                                }
+                              ],
+                              "importance": "5",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "increased signal on T2 sequence",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "abscesses will have rim enhancement with intravenous gadolinium",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ischiofemoral impingement",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "impingement of soft tissue beween the lesser trochanter and the ischial tuberosity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "radiographic assessment:",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "axial T1 weighted images can be used to calculate distance between lesser trochanter and ischial tuberosity",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/422846/images/ischiofemoral_distance..jpg",
+                      "caption": "Axial T1 MRI of the left hip with ischiofemoral distance measuredc"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "distance <15 mm is considered abnormal",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "diagnosis is presence of symptoms with distance <15 mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "fatty atrophy of the quadratus femoris may be present",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "axial T2 weighted images",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "hyperintense signal in the quadratus femoris muscle belly",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/422846/images/ischiofemoral_impingement.jpg",
+                          "caption": "Axial T2 MRI of the right hip with edema in the quadratus femoris muscle belly consistent with ischiofemoral impingement"
+                        }
+                      ],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "can extend to the hamstrings and iliopsoas muscle",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "treatment:",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "nonoperative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "correction of LLD, physical therapy, NSAIDs, injections",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "operative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "address concomitant pathology",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "DDH, gluteal tendon tear, hamstring pathology",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "lesser trochanter resection",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Osteoarthritis",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "degenerative changes of the femoroacetabular joint that leads to cartilage loss",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "radiographic assessment:",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "diagnosis predominantly made with plain radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "MRI has low utility in diagnosis and treatment modification",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "can detect early focal cartilage defects",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "best seen with T1 weighted images with intraarticular contrast",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "chondrosis grading:",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "grade 1: signal changes with preserved thickness",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "grade 2: signal changes with <50% loss of thickness",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "grade 3: signal changes with >50% loss of thickness",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "grade 4: full thickness cartilage defect with underlying bone marrow edema and subchondral cysts",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "cartilage degeneration typically occurs on the acetabulum first",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Metastic disease",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "most common cause for detructive bone lesions in adults",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "proximal femur is the most common site for metastasis next to the spine",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "50% femoral neck",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "20% pertrochanteric region",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "30% subtrochanteric",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "radiographic assessment",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "most surgical decision making is done with standard AP and lateral hip and full-length femur radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "magnetic resonance imaging",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "bright on T2 sequence",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "dark on T1 sequence",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/transient_osteoporosis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-10_at_12.57.13_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/coronal_t1_with_labral_tear.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/t2_coronal_mri_with_a_hip_effusion.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/normal_joint..jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/right_hip_greater_trochanteric_bursitis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/screen_shot_2020-04-10_at_3.49.05_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/_con_as_tear.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/ip_tendon.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/iliopsoas.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/422846/images/tfl.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 344,
+  "visitorMode": false
+}

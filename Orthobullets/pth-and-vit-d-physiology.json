@@ -1,0 +1,414 @@
+{
+  "title": "PTH & Vit D Physiology",
+  "url": "https://www.orthobullets.com/basic-science/9091/pth-and-vit-d-physiology",
+  "subtitle": "Updated: Mar 9 2026",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Vitamin D and PTH play an important role in calcium homeostasis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "skin, liver, parathyroid gland, kidney, bone, and small intestine all play a role",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "increased PTH and Vitamin D leads to increase serum calcium levels",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vitamin D Physiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9091/images/vitamin%20d%20and%20pth%20metabolism.jpg",
+              "caption": "Combined"
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/9091/images/jci0629449_f3_moved.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "Vitamin D and PTH play an important role in calcium homeostasis",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "skin, liver, parathyroid gland, kidney, bone, and small intestine all play a role",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "Increased PTH and Vitamin D leads to increase serum calcium levels",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Synthesis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**7-Dehydrocholesterol**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "precursor to calcitriol is stored in the skin where UV exposure converts it to previtamin D3.",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**cholecalciferol (Vitamin D3)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "Previtamin D3 is then bound to **vitamin-D binding protein** (DBP) where it is carried to the liver and metabolized to **25-hydroxyvitamin D3**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**25-hydroxyvitamin D3**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "when calcium is low, **parathyroid hormone (PTH)** levels become elevated which activates 1-alpha-hydroxylase in the kidney",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**1-alpha-hydroxylase** converts 25-hydroxyvitamin D to the active Vitamin D (calcitriol)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "laboratory study of choice to determine Vitamin D deficiency",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**1,25-dihydroxyvitamin D3 (Vitamin D, calcitriol)**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "active form that controls calcium homeostasis in body by targeting intestines and bones (see function below)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Function",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**↑ serum Ca**2+ **and phosphate via**",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "↑ absorption of calcium and phosphate from the intestine",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "↑ bone resorption of Ca2+ and phosphate",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "recall **PTH** functions to ↑ serum Ca2+ but **↓ serum phosphate**",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Regulation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "PTH stimulates 1,25-(OH)2 vitamin D production",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "hypocalcemia/hypophoshatemia stimulates 1,25-(OH)2 vitamin D production",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "1,25-(OH)2 vitamin D feedback negatively on itself",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Bone Healing",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Serves as an important regulator of the inflammatory response at the site of injury",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Promotes vasculogenesis and invasion into the wound healing bed by regulating VEGF and other growth factors",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Stimulates mesenchymal stem cell (MSC) commitment to osteoblastic lineage through adhesion to matrix proteins and the expression of integrins",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Stimulates the production of collagenous and non-collagenous extracellular matrix (ECM) proteins including collagen I, osteocalcin, and osteopontin",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Potential for an increased rate of fracture and arthrodesis nonunion with vitamin D deficiency",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "PTH Physiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Synthesis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "secreted by the **chief cells of parathyroid**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Function",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**↑ serum Ca2+ and ↓ serum phosphate in response to hypocalcemia/hypomagnesemia** via",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "↑ bone resorption of calcium and phosphate (bone is destroyed)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "PTH receptor is on the osteoblasts which secretes IL-1 to activated osteoclasts",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "↑ kidney resorption of calcium in distal convoluted tubule",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "↓ kidney resorption of phosphate",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "↑ 1,25-(OH)2 vitamin D production",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Clinical Conditions",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Conditions related to PTH",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**hypoparathyrodism**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**pseudohypoparathyroidism**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**renal osteodystrophy**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Conditions related to Vitamin D",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Rickets",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9091/images/vitamin%20d.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9091/images/vitamin%20d%20and%20pth%20metabolism.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 52,
+  "visitorMode": false
+}

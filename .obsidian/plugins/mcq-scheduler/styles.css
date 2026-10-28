@@ -1,0 +1,742 @@
+/* MCQ Scheduler
+ *
+ * Everything here goes through Obsidian's own CSS variables so the pane tracks
+ * the active theme in both light and dark, and so a snippet can override it.
+ * No colours are set from TypeScript; state is carried by class names only.
+ */
+
+.mcq-view {
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-4-2);
+	height: 100%;
+	padding: var(--size-4-2);
+	font-size: var(--font-ui-small);
+	color: var(--text-normal);
+}
+
+/* ------------------------------------------------------------------ header */
+
+.mcq-header {
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-4-1);
+	flex: 0 0 auto;
+}
+
+.mcq-breadcrumb {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	/* Each crumb carries its own padding now, so the gap only has to separate
+	 * the chips from the separators. */
+	gap: var(--size-2-1);
+}
+
+/* Padding is a single value on purpose: the highlight should have as much room
+ * above and below the text as it has to either side. */
+.mcq-crumb {
+	background: none;
+	border: none;
+	box-shadow: none;
+	padding: var(--size-2-3);
+	border-radius: var(--radius-s);
+	line-height: 1;
+	cursor: pointer;
+	color: var(--text-accent);
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-crumb:hover {
+	background-color: var(--background-modifier-hover);
+	color: var(--text-accent-hover);
+}
+
+.mcq-crumb:focus-visible {
+	outline: 2px solid var(--background-modifier-border-focus);
+	outline-offset: 0;
+}
+
+/* Keeps the padding so the trail stays on one baseline, but takes no fill —
+ * only the crumbs you can actually click light up. */
+.mcq-crumb.is-current {
+	background: none;
+	color: var(--text-muted);
+	cursor: default;
+}
+
+.mcq-crumb-sep {
+	padding: 0;
+	color: var(--text-faint);
+}
+
+.mcq-search {
+	display: flex;
+	gap: var(--size-2-2);
+}
+
+.mcq-search-input {
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.mcq-search-scope {
+	flex: 0 0 auto;
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-rebuild {
+	flex: 0 0 auto;
+}
+
+.mcq-search-scope.is-active {
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+}
+
+/* Browse | Modules switch. */
+.mcq-mode {
+	display: flex;
+	gap: var(--size-2-1);
+}
+
+.mcq-mode-btn {
+	flex: 1 1 0;
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-mode-btn.is-active {
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+}
+
+/* ----------------------------------------------------------------- modules */
+
+.mcq-card {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: var(--size-2-2);
+	margin-bottom: var(--size-4-2);
+	padding: var(--size-4-2);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+}
+
+.mcq-card.is-banner {
+	border-color: var(--interactive-accent);
+}
+
+.mcq-card-kicker {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+
+.mcq-card-title {
+	font-weight: var(--font-semibold);
+}
+
+.mcq-card-meta,
+.mcq-mod-summary {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	font-variant-numeric: tabular-nums;
+}
+
+.mcq-card-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--size-2-2);
+}
+
+.mcq-mod-summary {
+	margin-bottom: var(--size-2-3);
+}
+
+.mcq-mod-tabs {
+	display: flex;
+	gap: var(--size-2-1);
+	margin-bottom: var(--size-2-3);
+}
+
+.mcq-mod-tab {
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-mod-tab.is-active {
+	background-color: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+.mcq-row.is-module {
+	align-items: center;
+	cursor: default;
+}
+
+.mcq-row-text {
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.mcq-row.is-module .mcq-row-label,
+.mcq-row.is-module .mcq-row-meta {
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.mcq-row-tools {
+	display: flex;
+	flex: 0 0 auto;
+}
+
+.mcq-summary-complete {
+	color: var(--text-success);
+	font-weight: var(--font-semibold);
+}
+
+/* -------------------------------------------------------------------- list */
+
+/* A basis of 0 makes the list take only the space the quiz leaves, rather
+ * than claiming its full content height and squeezing the quiz below it. */
+.mcq-list {
+	flex: 1 1 0;
+	min-height: 4em;
+	overflow-y: auto;
+}
+
+/* The ten sections are a fixed, known set, so the list is pinned to exactly ten
+ * rows' height rather than left to share the pane.
+ *
+ * No font-size is set here: the rows keep whatever Obsidian resolves for the
+ * pane. The measurements are in em so they follow it — a 1.25 line box plus
+ * 0.375em of padding top and bottom makes each row exactly 2em, and the list
+ * 20em. Both the list and the rows inherit the same font-size, so the em
+ * resolves identically in each and the ten rows fill the box exactly. With
+ * border-box the content box comes out at one line, which is what keeps the
+ * section name and its count on a shared baseline in the taller row.
+ *
+ * The quiz below gives way instead; it has its own scrollbar. */
+.mcq-view.is-sections {
+	--mcq-section-line: 1.25;
+	--mcq-section-pad: 0.375em;
+	--mcq-section-row: calc(1em * var(--mcq-section-line) + 2 * var(--mcq-section-pad));
+}
+
+.mcq-view.is-sections .mcq-list {
+	flex: 0 0 auto;
+	height: calc(10 * var(--mcq-section-row));
+	min-height: 0;
+}
+
+.mcq-view.is-sections .mcq-row.is-section {
+	box-sizing: border-box;
+	height: var(--mcq-section-row);
+	padding-top: var(--mcq-section-pad);
+	padding-bottom: var(--mcq-section-pad);
+	line-height: var(--mcq-section-line);
+}
+
+.mcq-row {
+	display: flex;
+	align-items: baseline;
+	gap: var(--size-2-3);
+	padding: var(--size-2-2) var(--size-4-2);
+	border-radius: var(--radius-s);
+	cursor: pointer;
+}
+
+.mcq-row:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+.mcq-row:focus-visible {
+	outline: 2px solid var(--background-modifier-border-focus);
+	outline-offset: -2px;
+}
+
+.mcq-row.is-active {
+	background-color: var(--background-modifier-active-hover);
+}
+
+.mcq-row-label {
+	flex: 1 1 auto;
+	min-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* Question rows are a compact index: position, family, id. The question
+ * itself is read in the note, so the row never wraps. */
+.mcq-row.is-question {
+	padding: var(--size-2-1) var(--size-4-2);
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-row-index {
+	flex: 0 0 2.5em;
+	text-align: right;
+	color: var(--text-faint);
+	font-variant-numeric: tabular-nums;
+}
+
+.mcq-row.is-question .mcq-row-label {
+	color: var(--text-muted);
+}
+
+.mcq-row.is-question.is-active .mcq-row-label {
+	color: var(--text-normal);
+	font-weight: var(--font-semibold);
+}
+
+.mcq-row-meta {
+	flex: 0 0 auto;
+	color: var(--text-faint);
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-row-badge {
+	flex: 0 0 auto;
+	padding: 0 var(--size-2-2);
+	border-radius: var(--radius-s);
+	background-color: var(--background-modifier-border);
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-list-footer {
+	padding: var(--size-4-2);
+	color: var(--text-muted);
+	text-align: center;
+	font-size: var(--font-ui-smaller);
+}
+
+/* -------------------------------------------------------------------- quiz */
+
+/* Sized to its content, so the options and the Previous/Next pair are always
+ * on screen in full and the list above scrolls instead. Only when the options
+ * alone are taller than the pane does it shrink (min-height: 0 overrides a
+ * flex item's default `auto`) and scroll, and then the actions stay pinned. */
+.mcq-quiz {
+	flex: 0 1 auto;
+	min-height: 0;
+	overflow-y: auto;
+	border-top: 1px solid var(--background-modifier-border);
+	padding-top: var(--size-4-3);
+}
+
+.mcq-quiz-empty {
+	color: var(--text-faint);
+	text-align: center;
+	padding: var(--size-4-3);
+}
+
+.mcq-options {
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-2-2);
+}
+
+/* --mcq-option-scale is set on the pane from the size slider in settings;
+ * the fallback keeps these rules sensible if it is ever absent.
+ *
+ * The answer colours are a translucent wash of the theme's own green and red
+ * rather than --background-modifier-success / --background-modifier-error,
+ * which in recent Obsidian are the fully-saturated colours and read as a solid
+ * block. Tinting keeps the option text legible and tracks the theme in both
+ * light and dark. Raise --mcq-tint in a snippet for a stronger fill. */
+.mcq-options {
+	--mcq-option-pad: calc(var(--size-4-3) * var(--mcq-option-scale, 1));
+	--mcq-tint: 0.12;
+	--mcq-tint-border: 0.35;
+}
+
+.mcq-option {
+	display: flex;
+	align-items: baseline;
+	gap: var(--size-4-2);
+	width: 100%;
+	text-align: left;
+	white-space: normal;
+	height: auto;
+	padding: var(--mcq-option-pad) var(--mcq-option-pad);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	background-color: var(--background-secondary);
+	color: var(--text-normal);
+	font-size: calc(var(--font-text-size) * var(--mcq-option-scale, 1));
+	line-height: var(--line-height-tight);
+	box-shadow: none;
+	cursor: pointer;
+}
+
+.mcq-option:hover:not(.is-disabled) {
+	background-color: var(--background-modifier-hover);
+}
+
+.mcq-option.is-disabled {
+	cursor: default;
+}
+
+.mcq-option-label {
+	flex: 0 0 1.4em;
+	color: var(--text-muted);
+	font-variant-numeric: tabular-nums;
+	font-weight: var(--font-semibold);
+}
+
+.mcq-option-text {
+	flex: 1 1 auto;
+}
+
+.mcq-option-mark {
+	flex: 0 0 auto;
+	display: inline-flex;
+	align-items: center;
+}
+
+.mcq-option.is-correct {
+	background-color: rgba(var(--color-green-rgb), var(--mcq-tint));
+	border-color: rgba(var(--color-green-rgb), var(--mcq-tint-border));
+}
+
+.mcq-option.is-wrong {
+	background-color: rgba(var(--color-red-rgb), var(--mcq-tint));
+	border-color: rgba(var(--color-red-rgb), var(--mcq-tint-border));
+}
+
+.mcq-option.is-chosen {
+	font-weight: var(--font-semibold);
+}
+
+.mcq-option.is-correct .mcq-option-mark {
+	color: var(--color-green);
+}
+
+.mcq-option.is-wrong .mcq-option-mark {
+	color: var(--color-red);
+}
+
+.mcq-feedback {
+	min-height: 1.4em;
+	margin-top: var(--size-4-2);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+}
+
+.mcq-feedback.is-correct {
+	color: var(--text-success);
+}
+
+.mcq-feedback.is-wrong {
+	color: var(--text-error);
+}
+
+.mcq-actions {
+	position: sticky;
+	bottom: 0;
+	display: flex;
+	gap: var(--size-2-2);
+	margin-top: var(--size-4-2);
+	padding-bottom: var(--size-2-2);
+	background-color: var(--background-primary);
+}
+
+/* The side docks paint with the secondary background, so the pinned bar has
+ * to match it there or it shows as a stripe. */
+.mod-sidedock .mcq-actions {
+	background-color: var(--background-secondary);
+}
+
+.mcq-btn {
+	font-size: var(--font-ui-smaller);
+}
+
+/* Dimmed rather than hidden at the ends of a topic, so the pair does not
+ * reflow as you move through it. */
+.mcq-btn:disabled {
+	opacity: 0.4;
+	cursor: default;
+}
+
+/* answer/total, pushed to the right end of the Previous/Next bar. Tabular
+ * figures stop the digits jittering as they change. */
+.mcq-clock {
+	margin-left: auto;
+	align-self: center;
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	font-variant-numeric: tabular-nums;
+	color: var(--text-muted);
+}
+
+/* ------------------------------------------------------------------ modals */
+
+.mcq-cmd {
+	user-select: all;
+	white-space: pre-wrap;
+	word-break: break-all;
+	padding: var(--size-4-2);
+	border-radius: var(--radius-s);
+	background-color: var(--background-secondary);
+}
+
+.mcq-report {
+	max-height: 18em;
+	overflow: auto;
+	white-space: pre-wrap;
+	padding: var(--size-4-2);
+	border-radius: var(--radius-s);
+	background-color: var(--background-secondary);
+	font-size: var(--font-ui-smaller);
+}
+
+.mcq-warn {
+	color: var(--text-warning);
+}
+
+.mcq-ack {
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-2);
+	margin: var(--size-4-2) 0;
+}
+
+/* ------------------------------------------------- reading-view hiding */
+
+/* Hiding is render-time only. The post-processor in reading.ts labels each
+ * block with the gate it belongs to before Obsidian inserts it, so a hidden
+ * answer never gets a painted frame, and the markdown on disk is untouched —
+ * Ctrl+E shows the whole file.
+ *
+ * Whether the answer gate is open is one class on the reading-view container,
+ * not a class on each block. Obsidian renders the reading view lazily and
+ * detaches every section outside the render range, so per-block state cannot be
+ * kept in step with a note taller than the viewport: an explanation far below
+ * the fold is not in the DOM to be updated, and comes back still hidden when
+ * you scroll to it. A container class needs no updating — a section is styled
+ * correctly the moment it is re-attached.
+ *
+ * Scoped to .markdown-reading-view deliberately. That class is on the reading
+ * pane and on anything rendered inside it, but not on the Live Preview editor
+ * and not on the PDF-export container, so both of those show the complete
+ * note. An export should be the document, and Live Preview is an editing view.
+ *
+ * Both selectors hide; nothing anywhere un-hides. That keeps the plugin out of
+ * a specificity fight with Blue Topaz and its several hundred
+ * .markdown-rendered selectors.
+ *
+ * NOT display: none, however tempting. Obsidian measures each section as
+ *
+ *     height = (nextSibling ? nextSibling.offsetTop : offsetTop + offsetHeight)
+ *              - el.offsetTop
+ *
+ * A display:none element reports offsetTop 0, so a hidden block measures as
+ * the *absolute* offset of the block after it rather than as a delta — deep in
+ * a note that is hundreds of phantom pixels — and a hidden last block measures
+ * 0, which Obsidian treats as "not measured yet" and pads with the average
+ * section height. Either way the virtual scroll geometry no longer matches the
+ * real one, and the correction as you scroll in throws the view to the end of
+ * the file. Staying in flow at 1px keeps every measurement honest.
+ *
+ * content-visibility does the actual hiding: the subtree is skipped entirely,
+ * so nothing inside is painted, laid out, selectable, reachable by Ctrl+F, or
+ * fetched — the illustration images are not requested until the answer is
+ * revealed. */
+.markdown-reading-view .mcq-gate-always,
+.markdown-reading-view:not(.mcq-answered) .mcq-gate-answer {
+	content-visibility: hidden;
+	height: 1px;
+	min-height: 0;
+	max-height: 1px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow: hidden;
+}
+
+/* ---------------------------------------------------------- progress bars
+ * Absorbed from the Progress Keeper plugin: bars, status-bar items, heat maps. */
+
+/* Progress Keeper — every colour and font comes from the active theme. */
+
+.pk-bar,
+.pk-heatmap {
+	--pk-color: var(--interactive-accent);
+	--pk-cell: 11px;
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	background: var(--background-secondary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	padding: 8px 12px 10px;
+	margin: 4px 0;
+}
+
+.pk-ahead { --pk-color: var(--color-green); }
+.pk-behind { --pk-color: var(--color-red); }
+.pk-on-track { --pk-color: var(--color-blue); }
+.pk-none { --pk-color: var(--interactive-accent); }
+
+.pk-head,
+.pk-foot {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	gap: 12px;
+}
+
+.pk-head { margin-bottom: 6px; }
+.pk-title { color: var(--text-normal); }
+.pk-percent { color: var(--text-normal); font-weight: var(--font-semibold); }
+.pk-fraction { color: var(--text-muted); }
+
+.pk-track {
+	position: relative;
+	height: 8px;
+	border-radius: 4px;
+	background: var(--background-modifier-border);
+	overflow: hidden;
+}
+
+.pk-fill {
+	height: 100%;
+	border-radius: inherit;
+	background: var(--pk-color);
+	transition: width 300ms ease, background-color 300ms ease;
+}
+
+.pk-tick {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 2px;
+	margin-left: -1px;
+	background: var(--background-secondary);
+	opacity: 0.8;
+}
+
+/* Where you should be right now. */
+.pk-expected {
+	position: absolute;
+	top: -1px;
+	bottom: -1px;
+	width: 2px;
+	margin-left: -1px;
+	background: var(--text-normal);
+	opacity: 0.7;
+}
+
+.pk-foot {
+	margin-top: 6px;
+	font-size: var(--font-ui-smaller);
+}
+
+.pk-schedule { color: var(--pk-color); font-weight: var(--font-semibold); }
+.pk-dates { color: var(--text-faint); }
+
+.pk-warning,
+.pk-error {
+	margin-top: 6px;
+	font-size: var(--font-ui-smaller);
+	color: var(--text-error);
+}
+
+.pk-error {
+	font-family: var(--font-interface);
+	padding: 8px 12px;
+	border: 1px dashed var(--text-error);
+	border-radius: var(--radius-m);
+}
+
+/* ---- Status bar ---- */
+
+.status-bar-item.pk-status {
+	/* Core items sit at order 0; this puts pinned bars to their left. */
+	order: -1;
+	--pk-color: var(--interactive-accent);
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	cursor: pointer;
+}
+
+.pk-status.pk-ahead { --pk-color: var(--color-green); }
+.pk-status.pk-behind { --pk-color: var(--color-red); }
+.pk-status.pk-on-track { --pk-color: var(--color-blue); }
+
+.pk-status-track {
+	position: relative;
+	width: 60px;
+	height: 6px;
+	border-radius: 3px;
+	background: var(--background-modifier-border);
+	overflow: hidden;
+}
+
+.pk-status-percent { color: var(--pk-color); font-variant-numeric: tabular-nums; }
+
+/* ---- Heat map ---- */
+
+.pk-grid-scroll { overflow-x: auto; padding-bottom: 2px; }
+
+.pk-grid {
+	display: grid;
+	gap: 3px;
+	width: max-content;
+}
+
+.pk-grid-day {
+	grid-auto-flow: column;
+	grid-auto-columns: var(--pk-cell);
+}
+
+.pk-grid-hour,
+.pk-grid-week,
+.pk-grid-month { grid-auto-rows: var(--pk-cell); }
+
+.pk-cell {
+	display: inline-block;
+	width: var(--pk-cell);
+	height: var(--pk-cell);
+	border-radius: 2px;
+}
+
+.pk-cell-pad { visibility: hidden; }
+
+.pk-level-0 { background: var(--background-modifier-border); }
+.pk-level-1 { background: color-mix(in srgb, var(--color-green) 30%, var(--background-modifier-border)); }
+.pk-level-2 { background: color-mix(in srgb, var(--color-green) 55%, var(--background-modifier-border)); }
+.pk-level-3 { background: color-mix(in srgb, var(--color-green) 78%, var(--background-modifier-border)); }
+.pk-level-4 { background: var(--color-green); }
+
+.pk-legend {
+	display: inline-flex;
+	align-items: center;
+	gap: 3px;
+	color: var(--text-faint);
+}
+
+.pk-legend .pk-cell { width: 9px; height: 9px; }
+
+.pk-badge {
+	margin-left: 8px;
+	padding: 0 6px;
+	border-radius: var(--radius-s);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	background: var(--background-modifier-hover);
+}
+
+.pk-hint {
+	margin-top: 6px;
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	font-style: italic;
+}

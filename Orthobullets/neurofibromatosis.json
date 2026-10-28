@@ -1,0 +1,1268 @@
+{
+  "title": "Neurofibromatosis",
+  "url": "https://www.orthobullets.com/pediatrics/4054/neurofibromatosis",
+  "subtitle": "Updated: Jun 17 2026",
+  "sections": [
+    {
+      "text": "summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Neurofibromatosis is an autosomal dominant disorder caused by a mutation in the NF1 gene that codes for the neurofibromin protein that typically presents with skin lesions, lower and upper extremity deformities, and spinal involvement.",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is made with the NIH Consensus Development Conference Statement criteria with the presence of a combination of cafe-au-lait spots, neurofibromas, freckling in axillary/inguinal region, optic glioma, lisch nodules, and the presence of a 1st degree relative with NF-1.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Treatment depends on presence and severity of forearm, lower extremity or spinal deformity.",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "1:3,000 births for NF1",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Anatomic location",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**extremity deformities**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**congenital anterolateral bowing and pseudoarthrosis of tibia/ fibula and forearm**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**hemihypertrophy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**spine involvement**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "scoliosis & kyphosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "atlantoaxial instability",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Genetics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "autosomal dominant (AD)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "mutation in NF1 gene on chromosome 17q11.2",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "codes for **neurofibromin protein**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "**negatively** regulates **Ras** signaling pathway",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "neurofibromin deficiency leads to increased Ras activity",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "affects **Ras-dependent MAPK activity** which is essential for osteoclast function and survival",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "Selumetinib selectively inhibits MEK1/2, a critical kinase downstream of RAS",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "neurofibromatosis is the most common genetic disorder caused by a new mutation of a single gene",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**scoliosis**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**anterolateral** bowing of tibia",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "bowing of forearm bones with obliteration of medullary cavity",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/ulnar_2.jpg",
+                  "caption": "Bowing of forearm bones with obliteration of medullary cavity"
+                }
+              ],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "ulnar pseudoarthrosis",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/ulnar_1.jpg",
+                      "caption": "Ulnar pseudoarthrosis"
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "radius pseudoarthrosis",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/radius.jpg",
+                      "caption": "Radius pseudoarthrosis"
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**neoplasias**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Diagnosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Diagnostic criteria",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "according to the NIH Consensus Development Conference Statement (1987) the diagnostic criteria for NF-1 are met in an individual if two or more of the following are found",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "six or more café-au-lait macules over 5 mm in greatest diameter in prepubertal individuals and over 15 mm in postpubertal individuals.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "two or more neurofibromas of any type or one plexiform neurofibroma.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "freckling in the axillary or inguinal region.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "optic glioma.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "two or more Lisch nodules (iris hamartomas).",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "a distinctive osseous lesion such as sphenoid dysplasia or thinning of long bone cortex with or without pseudarthrosis.",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "a first-degree relative (parent, sibling, or offspring) with NF-1 by the above criteria.is based on presence of both",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "NF1 (von Recklinghaussen disease)",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "most common",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "NF2",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "associated with bilateral vestibular schwannomas",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Segmental NF",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "features of NF1 but involving a single body segment",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Presentation General",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Presentation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "often presents with anterolateral bowing of tibia",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/18A_moved.JPG",
+                  "caption": ""
+                }
+              ],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "often presents with radial bowing",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/radial%20bowing.jpg",
+                  "caption": "Shows radial bowing"
+                }
+              ],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Physical exam",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "verrucous hyperplasia",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**hemihypertrophy**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/hemihypertrophy%20-%20courtesy%20of%20Miller_moved.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**cafe-au-lait spots**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/Cafe%20au%20lait%20-%20colorado_moved.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "axillary freckling",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "scoliosis",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**anterolateral bowing or pseudoarthrosis of tibia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "dermal Plexiform-type neurofibroma may be seen",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "Lisch nodules",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/lisch%20nodules.jpg",
+                  "caption": "Shows Lisch nodule"
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "are benign pigmented hamartomas of the iris",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Neoplasias (Neurofibromatosis)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Neurofibromas (plexiform-type)",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4054/images/plexiform%20neurofibroma%20-%20courtesy%20of%20Miller_moved.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "is pathognomonic for NF1",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "present in 4% of NF1",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "may be dermal or in deep tissues",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "often associated with limb overgrowth",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Inoperable tumors may be treated with selumetinib",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "can undergo malignant transformation to neurofibrosarcoma",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Wilms Tumor",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Scoliosis (Neurofibromatosis)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Introduction",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/4054/images/scoliosis%20-%20courtesy%20of%20Miller_moved.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "2",
+          "children": [
+            {
+              "text": "spine is most common site of skeletal involvement in **NF-1**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "scoliosis is NOT associated with NF-2",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "can take two forms",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "idiopathic-like form (nondystrophic)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "longer curve and treatment resembles that for idiopathic scoliosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**dystrophic form**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "curve is typically **thoracic kyphoscoliosis** with a **short segmented and sharp curve** with distorted ribs and vertebrae",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "usually recognized earlier than nondystrophic form",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "generally characterized by a sharp angular curve involving 4 to 6 vertebrae",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Imaging",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "radiographs show",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**vertebral scalloping**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**penciling of ribs** (penciling of 3 or more ribs is a poor prognostic finding and associated with **rapid curve progression**)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**enlarged foramina**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "MRI",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "always obtain preoperative MRI to identify dural ectasia and **dumbbell lesion** (neurofibroma on nerve root)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "paraspinal masses are useful to distinguish from idiopathic scoliosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Treatment",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "observation vs. bracing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "bracing is not effective for dystrophic form",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "nondystrophic scoliosis in NF is treated like adolescent idiopathic scoliosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "decompression, anterior spinal fusion (ASF) & posterior (PSF) with instrumentation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "dystrophic scoliosis",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "perform early in young children (< 7 yrs) with dystrophic curves",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "complications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "high rate of **pseudoarthrosis** with PSF alone (40%)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "pseudoarthrosis rate still high with ASF&PSF (10%)",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "some recommend augmenting the PSF with repeat iliac crest bone grafting 6 months after the primary surgery",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anterolateral Tibial Bowing (Neurofibromatosis)",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Introduction",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "epidemiology",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "anterolateral bowing is often associated with neurofibromatosis (NF1)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/congenital%20pseudo.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "50% with anterolateral bowing have NF1",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "10% of NF1 have anterolateral bowing",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "pathophysiology",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "may progress to pseudoarthrosis",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/congenital%20pseudo.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "differentials for tibia bowing",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**anteromedial**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "associated with **fibular hemimelia** and congenital loss of lateral rays of the foot",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**posteromedial**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/posteromedial%20bowing.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/posteromedial%20bowing2.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "usually congenital due to",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "abnormal intrauterine positioning",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "dorsiflexed foot pressed against anterior tibia",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "will develop **leg length discrepancy**",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "associated with **calcaneovalgus** deformity",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Imaging",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "radiographs",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "obtain AP and lateral of tib/fib",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/congenital%20pseudo.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Treatment",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nonoperative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "bracing in total contact orthosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "bowing **without pseudoarthrosis or fracture** (goal is to prevent further bowing and fractures)",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        },
+                        {
+                          "text": "spontaneous remodeling is not expected",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "osteotomy for bowing alone is contraindicated",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "operative",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "bone grafting with surgical fixation",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "in bowing with **pseudoarthrosis or fracture**",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "amputation with prosthesis fitting",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "three failed surgical attempts",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "Syme's often superior to BKA due to atrophic and scarred calf muscle in these patients",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Techniques",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**intramedullary nailing with bone grafting**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/IM%20nailing%20-%20courtesy%20Miller_moved.png",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "resect pseudoarthrosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "insert Charnley-Williams rod",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/charnley-williams.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "antegrade through resection site, then retrograde through the heel",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/ante-retro.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "< 4 y.o., extend fixation to calcaneus",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "5-10 y.o., extend fixation to talus",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "2 yrs. postop, typically a 2nd surgery to push rod proximally to free the ankle joint",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**free fibular graft**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/4054/images/Free%20fibula%20graft%20-%20courtesy%20Miller_moved.png",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "often need to take fibula from contralateral side because ilpsilateral fibula is not normal",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "Illizarov's external fixation",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/4054/images/iliz.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Studies show between 8-10 years of decreased life expectancy compared to general population",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "High incidence of malignancy and hypertension",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/4054/images/18A_moved.JPG",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4054/images/hemihypertrophy%20-%20courtesy%20of%20Miller_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4054/images/Cafe%20au%20lait%20-%20colorado_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4054/images/scoliosis%20-%20courtesy%20of%20Miller_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/4054/images/pseudoarthrosis%20-%20courtesy%20of%20Miller_moved.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 153,
+  "visitorMode": false
+}

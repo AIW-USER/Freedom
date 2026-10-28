@@ -1,0 +1,858 @@
+{
+  "title": "Shoulder Arthroscopy: Indications & Approach",
+  "url": "https://www.orthobullets.com/shoulder-and-elbow/12064/shoulder-arthroscopy-indications-and-approach",
+  "subtitle": "Updated: Nov 30 2024",
+  "sections": [
+    {
+      "text": "Indications pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Diagnostic surgery",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/12064/images/illustration.arthroscopic%20approach.aaron%20bott.jpg",
+              "caption": "Shows arthroscopic portals of shoulder"
+            }
+          ],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Loose body removal",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Rotator cuff repair or debridement",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Labral/SLAP and instability repair",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Subacromial decompression",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "AC joint pathology",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Distal clavicle resection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Release of suprascapular nerve entrapment",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Release of scar tissue/contractures",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Synovectomy",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Biceps tenotomy/tenodesis",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Positioning pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "**Beach chair**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/3073/images/beachchair.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "advantages",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "easy conversion to open deltopectoral approach if needed",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "decreased venous pressure and bleeding",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "disadvantages",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "failure to properly position and pad the patient can result in neuropraxia",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "supraorbital nerve: face mask too tight or poorly padded across forehead",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "paresthesias over forehead and anterior scalp",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**great auricular nerve**: face mask straps too tight or poorly padded at mastoid process",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "paresthesias over ear, posterior auricular area and angle of mandible",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**lateral femoral cutaneous nerve**: lateral abdominal support poorly positioned and padded",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "paresthesias over anterolateral thigh",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "higher risk in obese patients due to weight of pannus",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "failure to position the neck in neutral",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "hyperextension: increased risk of stroke and cranial nerve palsy (CN12 hypoglossal)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "hyperflexion: increased risk of spinal cord ischemia and resultant paraplegia",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "increased risk of **cerebral hypoperfusion compared to lateral position**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Lateral decubitus**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/3073/images/lateraldecub.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "advantage of joint distraction",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "can be associated with neuropraxias from traction",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Primary Portals pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "**Posterior portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "primary viewing portal used for **diagnostic arthroscopy**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location and technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "located 2 cm inferior and 1 cm medial to posterolateral corner of acromion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "portal may pass between infraspinatus (suprascapular nerve) and teres minor (axillary nerve) or pass through the substance of infraspinatus",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "this is usually the first portal placed",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "direct anteriorly towards tip of coracoid",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Anterior portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "viewing and subacromial decompression",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "lateral to coracoid process and anterior to AC joint",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "portal passes between pectoralis major (medial and lateral pectoral nerves) and deltoid (axillary nerve)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "this portal is usually placed under direct supervision from the posterior portal with aid of spinal needle",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Lateral portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "subacromial decompression",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "located 1-2 cm distal to lateral edge of acromion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "portal passes through deltoid (axillary nerve)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Secondary Portals pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "**Anteroinferior (5 o'clock) portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "placement of anchors in anterior labral repair",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "located slightly inferior to coracoid",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "this portal is usually placed under direct supervision from the posterior portal with aid of spinal needle",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Posteroinferior (7 o'clock) portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "placement of anchors for **posterior labral repair**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "this portal is usually placed under direct supervision from the posterior portal with aid of spinal needle",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Nevasier (supraspinatus) portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "anterior glenoid visualization and SLAP repairs",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "located just medial to lateral acromion",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "goes through supraspinatus muscle (suprascapular nerve)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Port of Wilmington (posterolateral) portal**",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "function",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Used to evaluate/repair posterior SLAP and RTC lesions",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "location & technique",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "just anterior to posterolateral corner of acromium",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "this portal is usually placed under direct supervision from the posterior portal with aid of spinal needle",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Diagnostic Scope pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Performed with 30° scope through the posterior portal to identify Biceps tendon Supraspinatus Infraspinatus and teres minor. Rotator interval (formed by biceps tendon, superior edge of subscapularis, and glenoid) Anterior ligamentous complex (MGHL, IGHL) Subscapularis recess (loose bodies) Anterior labrum Glenoid Humeral head",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Anatomic variations",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "region of **anterosuperior labrum and MGHL** has wide anatomic variability",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/3073/images/labralvariant.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "**attached labrum** with broad MGHL is most common",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**sublabral hole** with cordlike MGHL",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "**Buford complex**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/3073/images/buford.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "has absent labrum and cordlike MGHL",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**bare areas of cartilage** are normal on",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "central glenoid",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "posterior humeral head",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Dangers pagebreak",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Posterior portal",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "**axillary nerve**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "leaves axilla through quadrangular space and winds around humerus on deep surface of the deltoid muscle and passes ~ 7 cm below tip of acromoium",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "at risk if the posterior portal is made too inferior",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**suprascapular nerve**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "runs through supraspinatus fossa and infraspinatus fossa before innervating both of these muscles.",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "at risk if the posterior portal is made too medial",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Anterior portal",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "**cephalic vein**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "runs in deltopectoral groove & at risk if portal is too lateral",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**musculocutaneous nerve**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "enters muscles 2-8 cm distal to tip of coracoid",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "at risk if anterior portal is made too inferior",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Anesthesia",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "phrenic nerve",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "with intrascalence block (anesthesia)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/illustration.arthroscopic%20approach.aaron%20bott.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/beachchair_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/lateraldecub_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/labralvariant_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/buford_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/12064/images/shoulder%20arthroscopy%20portals%20image%201.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 107,
+  "visitorMode": false
+}

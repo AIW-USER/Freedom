@@ -1,0 +1,9 @@
+{
+	"id": "progress-keeper",
+	"name": "Progress Keeper",
+	"version": "0.1.0",
+	"minAppVersion": "1.7.2",
+	"description": "Text-defined progress bars with deadlines, ahead/behind colouring, status-bar pins and activity heat maps.",
+	"author": "Phaneendra",
+	"isDesktopOnly": false
+}

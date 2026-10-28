@@ -1,0 +1,862 @@
+{
+  "title": "Patient Specific Talus Spacer",
+  "url": "https://www.orthobullets.com/implants/423363/patient-specific-talus-spacer",
+  "subtitle": "Updated: May 22 2026",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "The Paragon 28® Patient Specific Talus Spacer is indicated for total talus replacement in adult patients with avascular necrosis (AVN) of the ankle joint.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "It achieves this through a patient-specific, additively manufactured 3D-printed implant designed from CT imaging data to anatomically replicate the native talus while preserving ankle joint motion.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "This joint-sparing platform is utilized during total talus replacement procedures as an alternative to fusion or amputation, leveraging preoperative anatomical planning, intraoperative trial sizing, and fluoroscopic guidance to optimize implant fit, articulation, and restoration of ankle biomechanics.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Indications",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Indications",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "avascular necrosis of the ankle joint in an adult patient",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Contraindications",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "use of the implant greater than 6 months from the date of the patient’s CT scan",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "degenerative changes in the tibiotalar, subtalar, or talonavicular joints",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "presence of an active infection",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "gross deformity in the sagittal or coronal plane",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "more than 15 degrees of varus or valgus deformity in the coronal plane",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "more than 50% anterior or posterior talar subluxation in the sagittal plane",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "osteonecrosis of the calcaneus, distal tibia, or navicular",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Osteology",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "talar body forms the tibiotalar articulation with the tibial plafond and malleoli",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "talar dome geometry is critical for ankle dorsiflexion and plantarflexion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "talar head articulates with the navicular at the talonavicular joint",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "talar neck connects the head and body and is the site of the dorsal closing wedge osteotomy",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Muscles",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "extensor hallucis longus (EHL) and extensor digitorum longus (EDL) define the anterior surgical interval",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "tibialis anterior lies medial to the EHL",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "EHL is retracted medially or laterally depending on surgeon preference and neurovascular bundle mobilization",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Ligaments",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "anterior tibiotalar capsule must be opened and elevated while preserving capsular tissue",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "anterior talonavicular ligament is released to remove the anterior talar segment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "interosseous talocalcaneal ligament spans the talus and calcaneus within the sinus tarsi and sulcus tarsi",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "cervical ligament attachments may require release during posterior interosseous talocalcaneal ligament release",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Nerves",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "deep peroneal nerve travels with the anterior neurovascular bundle in the anterior ankle",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "anterior neurovascular bundle must be identified and mobilized during the EHL and EDL interval approach",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "superficial peroneal nerve branches may cross the anterior incision and should be protected",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Blood supply",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "talar blood supply is limited and vulnerable because much of the talus is covered by articular cartilage",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "contributions arise from branches of the posterior tibial, dorsalis pedis, and perforating peroneal arteries",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "sinus tarsi artery contributes to lateral talar vascularity",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Approach",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Skin incision/exposure",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "make a straight anterior ankle incision similar to the anterior approach used for total ankle replacement",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/7ebea602-55a7-4bee-a954-09b9d3eae9d1_screenshot_2026-05-22_at_3.17.58_pm.jpg",
+                  "caption": "Make a straight anterior ankle incision similar to the anterior approach used for total ankle replacement"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "mobilize the anterior neurovascular bundle",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "open the anterior capsule of the tibiotalar joint",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "elevate the capsule subperiosteally medially and laterally",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "elevate from the tibial capsular attachments to the talar capsular attachments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "elevate the capsule to the talonavicular joint",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Technique",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Dorsal closing wedge osteotomy",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "place the ankle in maximal plantarflexion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "perform a dorsal closing wedge osteotomy at the talar neck",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/110a26ee-c69d-497c-b76a-a11d5dce8ce8_screenshot_2026-05-22_at_3.19.01_pm_copy.jpg",
+                  "caption": "Perform a dorsal closing wedge osteotomy at the talar neck"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "remove the dorsal bone wedge",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Middle talus resection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "use bone saws, osteotomes, chisels, tamps, and/or mallet to resect the middle talar wedge",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "remove the middle talar segment to create working space for sequential talus extraction",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/4658e6f2-2393-4b2c-852e-4fc8ac718a9c_screenshot_2026-05-22_at_3.25.33_pm_copy.jpg",
+                  "caption": "Remove the middle talar segment to create working space for sequential talus extraction"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Anteromedial talonavicular ligament release",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "release the anterior talonavicular ligament",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/f6ceaccb-4a4c-406a-91b7-1222c84c07c0_screenshot_2026-05-22_at_3.26.29_pm_copy.jpg",
+                  "caption": "Release the anterior talonavicular ligament"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "distract the anterior talar segment posteriorly with tension on the interosseous talocalcaneal ligament",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "release the remaining soft-tissue attachments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "remove the anterior talar segment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Talar head resection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "protect the cartilage on the navicular side of the talonavicular joint",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "use bone saws, osteotomes, chisels, tamps, and/or mallet to remove the talar head",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/9ba79555-7bdf-4284-97bd-e3ba4dd52fb1_screenshot_2026-05-22_at_3.27.24_pm_copy.jpg",
+                  "caption": "Use bone saws, osteotomes, chisels, tamps, and/or mallet to remove the talar head"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "avoid iatrogenic injury to the navicular articular surface",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Posterior interosseous talocalcaneal ligament release",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "release the lateral talocalcaneal ligament",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/d993584a-1028-44e7-9c05-7d4d92236bf1_screenshot_2026-05-22_at_3.29.24_pm_copy.jpg",
+                  "caption": "Release the lateral talocalcaneal ligament"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "distract the posterior talar segment superiorly",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "ligate the sinus tarsi artery in the sulcus tarsi",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "release the interosseous talocalcaneal ligament",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "release any cervical ligament attachment if present",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Release of ligamentous attachments within the posterior process of the talus",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "distract the posterior segment anteriorly",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "release the posterior talofibular ligament",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "release the posterior tibiotalar segment of the deltoid ligament",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "distract the posterior segment superiorly",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "use an inferior approach to release the posterior and medial talocalcaneal ligament",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/1ba13cea-79c9-4593-94e6-5ba97e16f0c5_screenshot_2026-05-22_at_3.31.20_pm.jpg",
+                  "caption": "Use an inferior approach to release the posterior and medial talocalcaneal ligament"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "resect the posterior segment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Posterior talar body resection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "use bone saws, osteotomes, chisels, tamps, and/or mallet to resect the posterior talar segment",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "remove residual talar body fragments that prevent implant seating",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/f97a3627-1a6e-458e-b4de-31e1a4a1ceee_screenshot_2026-05-22_at_3.32.12_pm_copy.jpg",
+                  "caption": "Remove residual talar body fragments that prevent implant seating"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Implant sizing and selection",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "insert patient-specific nylon trials from small to nominal to large when trials are used",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "assess implant fit through ankle dorsiflexion and plantarflexion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "assess subtalar and hindfoot motion through inversion and eversion",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "insert patient-specific metal implants at surgeon discretion to assess fit, flexibility, and range of motion",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/134752fb-561f-4bfd-8383-476deec9bffb_screenshot_2026-05-22_at_3.33.14_pm_copy.jpg",
+                  "caption": "Insert patient-specific metal implants at surgeon discretion to assess fit, flexibility, and range of motion"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "evaluate bone quality before implanting the spacer",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Implantation of patient specific talus spacer",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "insert the appropriately sized patient-specific talus spacer",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "confirm implant fit with fluoroscopy",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/ed8670ab-1757-4d72-aebc-6330a470c01f_screenshot_2026-05-22_at_3.34.22_pm.jpg",
+                  "caption": "Confirm implant fit with fluoroscopy"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "assess tibiotalar, subtalar, and talonavicular articulation after implantation",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "confirm dorsiflexion, plantarflexion, inversion, and eversion without impingement or instability",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "return unused spacers to the manufacturer or destroy them according to institutional and manufacturer requirements",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "provide a certificate of destruction when unused spacers are destroyed according to manufacturer requirements",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Technical specifications",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Metal material options",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "cobalt chromium spacers",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/01c8e4e2-f872-475b-bd6d-3b71cf46a41e_screenshot_2026-05-22_at_3.15.52_pm.jpg",
+                  "caption": "Cobalt Chrome Cobalt-28 Chromium-6 Molybdenum"
+                }
+              ],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "cobalt chromium metal alloy",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "titanium spacers",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423363/images/112b37b4-045d-49cf-945c-fa07434e5d2b_screenshot_2026-05-22_at_3.16.08_pm.jpg",
+                  "caption": "Titanium-6 Aluminum-4 Vanadium ELI"
+                }
+              ],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "titanium alloy with titanium nitride coating",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Three patient-specific metal implant sizes",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "small",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "nominal",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "large",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Patient-specific nylon trials",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "small",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "nominal",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "large",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/423363/images/cfb4e065-b799-42e0-a6e5-2d10c1bbd227_screenshot_2026-05-21_at_3.37.21_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423363/images/671b0977-4037-4f87-ad30-793c665d301f_screenshot_2026-05-21_at_3.37.34_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423363/images/e813a795-e694-44c5-a4ba-cdde7414a8b6_screenshot_2026-05-22_at_3.35.02_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423363/images/560a1ae7-a712-4e5f-b705-8d6e91fc1d13_screenshot_2026-05-22_at_3.35.06_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423363/images/327a8664-5f83-4822-ae19-0c3d85accccf_screenshot_2026-05-21_at_3.37.39_pm.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 106,
+  "visitorMode": false
+}

@@ -1,0 +1,4419 @@
+{
+  "title": "Peripheral Nerve Injury & Repair",
+  "url": "https://www.orthobullets.com/hand/6066/peripheral-nerve-injury-and-repair",
+  "subtitle": "Updated: Apr 5 2026",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Peripheral nerve injury is a relatively common condition that encompasses a range of reversible and irreversible impairments determined by injury level, axonal disruption, and time to treatment.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Diagnosis is typically clinical with a combination of known injury with a nerve deficit. Advanced imaging such as ultrasound or MRI may be used to characterize nerve morphology after injury; however, EMG/NCS is a mainstay of evaluating both nerve injury and nerve recovery. Surgical exploration is confirmatory for traumatic nerve injuries.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Treatment may involve observation, primary repair, nerve reconstruction with grafting, tendon transfers, nerve transfers, or a combination thereof depending on acuity, degree of injury, nerve quality, and mechanism of injury.",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Epidemiology",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Incidence",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "16.9 per 100,000 per year",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "peripheral nerve injury sustained in 2.6% of upper extremity trauma and 1.2% of lower extremity trauma",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "nerve injuries account for approximately 3% of injuries affecting the upper extremity and hand",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Demographics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "males (80%) >> females",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "younger in age, average age of 32-39",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "penetrating and/or high energy trauma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "crush injuries",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "significantly displaced fractures",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Etiology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Pathophysiology",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "mechanism of injury",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**stretching injury**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "8% elongation will diminish nerve's microcirculation by 50% in rat sciatic nerve model",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "15% elongation will disrupt bloodflow by 80% in the same model",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "examples",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "**\"stingers\"** refer to neurapraxia from brachial plexus stretch injury",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        },
+                        {
+                          "text": "suprascapular nerve stretching injuries in volleyball players",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "correction of valgus in TKA leading to common peroneal nerve palsy",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "**compression/crush**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "fibers are deformed",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "local ischemia",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "increased vascular permeability",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "endoneurial edema leads to poor axonal transport and nerve dysfunction",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "fibroblasts invade if compression persists",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "scar impairs fascicular gliding",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "chronic compression leads to **Schwann cell proliferation** and **apoptosis**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**30mm Hg** can cause **paresthesias**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "increased latencies",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**60 mm Hg** can cause complete **block of conduction**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**laceration**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "sharp transections have a better prognosis than crush injuries",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "continuity of nerve disrupted",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "ends retract",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "nerve stops producing neurotransmitters",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "nerve starts producing proteins for axonal regeneration",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pathophysiology",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**presynaptic terminal & depolarization**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "electrical impulse transmitted to other neurons or effector organs at presynaptic terminal",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "resting potential established from an unequal distribution of ions on either side of the neuron membrane (lipid bilayer)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "action potential transmitted by depolarization of resting potential",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "caused by influx of Na across membrane through three types of Na channels",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "voltage gate channels",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "mechanically gated channels",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "chemical-transmitter gated channels",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "**regeneration process after transection**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "distal segment undergoes **Wallerian degeneration** (axoplasm and myelin are degraded by phagocytes)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "existing Schwann cells proliferate and line endoneurial basement membrane",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "proximal budding (occurs after 1 month) leads to sprouting axons that migrate at **1mm/day** to connect to the distal tube",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**variables affecting regeneration**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "contact guidance with attraction to the basal lamina of the **Schwann cell**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "neurotropism",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "neurotrophic factors (factors enhancing growth and preferential attraction to other nerves rather than other tissues)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**functional recovery during regeneration** (in order)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "sympathetic activity",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "pain",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "temperature sensation",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "touch",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "proprioception",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "motor function",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "**motor function is the first to be lost and the last to recover**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "pathobiology",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "Schwann cells proliferate and trophic factors are upregulated to promote regeneration",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "pathoanatomy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "involvement of the axon, myelin, and supporting connective tissues influence regeneration potential",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "myelin disruption typically occurs before axon disruption",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "axonal disruption leads to distal degeneration, requiring regeneration or repair to regain function",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "neuronal connective tissue structure provides a framework for regeneration",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": [
+                            {
+                              "text": "endoneurium",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "perineurium",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "epineurium",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Associated conditions",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "predictable nerve injuries arise from certain fracture patterns and clinical scenarios",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**axillary nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "anterior shoulder dislocation",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**radial nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "distal 1/3 humeral shaft (Holstein-Lewis) fractures",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6066/images/screen_shot_2020-01-22_at_12.46.39_pm.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "prolonged compression along the humerus while intoxicated (Saturday night palsy)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "extension-type supracondylar humerus fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**ulnar nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "distal humerus ORIF",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "improper positioning on OR table",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "flexion-type supracondylar humerus fracture",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**anterior interosseus nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "extension-type supracondylar humerus fracture",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6066/images/extension_supracondylar_humerus_fx.jpg",
+                          "caption": "Supracondylar humerus fracture"
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "prominent pins through anterior ulnar cortex in tension band construct for olecranon fixation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**sciatic nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "posterior hip dislocation",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**common peroneal nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "correction of valgus alignment during a total knee arthroplasty",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**superficial peroneal nerve**",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "percutaneous plating of tibial fractures (holes 11-13)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Blood supply",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "extrinsic vessels",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "run in loose connective tissue surrounding nerve trunk",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "intrinsic vessels",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "plexus lies in epineurium, perineurium, and endoneurium",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Nerve structure",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "**epineural sheath**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "surrounds peripheral nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**epineurium**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "surrounds a group of fascicles to form peripheral nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "functions to **cushion fascicles against external pressure**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**perineurium**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "connective tissue covering **individual fascicles**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "primary source of **tensile strength** and **elasticity** of a peripheral nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "provides extension of the blood-brain barrier",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "provides a connective tissue sheath around each nerve fascicle",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**fascicles**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "a group of axons and surrounding endoneurium",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**endoneurium**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "loose fibrous tissue covering axons",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "participates in the formation of Schwann cell tube",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**myelin**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "made by Schwann cells",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "insulates axons to increase conduction velocity",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "conduction occurs at nodes of Ranvier",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**neuron cell**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "cell body - the metabolic center that makes up < 10% of cell mass",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "axon - primary conducting vehicle",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "dendrites - thin branching processes that receive input from surrounding nerve cells",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 5,
+                      "bullets": [
+                        {
+                          "text": "**Nerve fiber types**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Fiber Type*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Diameter (uM)*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Myelination*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Speed*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Example*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "A",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "10-20",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "heavy",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "fast",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "touch",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "B",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "< 3",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "moderate",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "medium",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "autonomic nervous system (ANS)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "C",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "< 1.3",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "none",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "slow",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "pain",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Classification",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Seddon Classification",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**neurapraxia**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "same as Sunderland 1st degree, \"focal nerve compression\"",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "nerve contusion or stretch leading to **reversible** conduction block **without Wallerian degeneration**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "pathophysiology",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "usually caused by local ischemia",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "histopathology shows **focal temporary demyelination of the axon** (axon remains intact)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "endoneurium remains intact",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "electrophysiologic studies",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "**nerve conduction velocity slowing** or a **complete conduction block**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**no fibrillation potentials**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "prognosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "recovery prognosis is excellent",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**axonotmesis**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "same as Sunderland 2nd-4th degree",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "incomplete nerve injury more severe than neurapraxia",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "pathophysiology",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "axon and myelin sheath disruption leads to focal **conduction block with Wallerian degeneration**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**variable degree of connective tissue disruption**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "electrophysiologic studies",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "**fibrillations and positive sharp waves on EMG**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "prognosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "unpredictable recovery",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**neurotmesis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "encompasses Sunderland 5th degree",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "complete nerve division with **disruption of endoneurium**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "pathophysiology",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "all connective tissues disrupted",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "focal conduction block **with Wallerian degeneration**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "electrophysiologic studies",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**fibrillations and positive sharp waves on EMG**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "prognosis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "no recovery unless surgical repair performed",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "neuroma formation at proximal nerve end may lead to chronic pain",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 5,
+                      "bullets": [
+                        {
+                          "text": "**Seddon Classification**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Seddon Type*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Myelin intact*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Endoneurium intact*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Wallerian Degeneration*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Reversible*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "**Neuropraxia**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "No",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Yes",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "No",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Reversible",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "**Axonotmesis**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "No",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Variable",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Yes",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Variable",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "**Neurotmesis**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "No",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "No",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Yes",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Irreversible",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Sunderland Classification",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**1st degree**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "same as Seddon's neurapraxia (**loss of myelin sheath)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**2nd degree**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "included within Seddon's axonotmesis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**intact endoneurium, perineurium and epineurium**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**3rd degree**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "included within Seddon's axonotmesis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "endoneurium injured with endoneurial scarring",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**intact perineurium and epineurium**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "most variable degree of recovery",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**4th degree**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "included within Seddon's axonotmesis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "endoneurium and perineurium injured",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**intact epineurium**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "nerve in continuity but at the level of injury there is complete scarring across the nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "unsatisfactory regeneration",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "may lead to **neuroma-in-continuity**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**5th degree**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "same as Seddon's neurotmesis",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "completely severed or transected nerve involving all layers",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "regeneration not possible without repair",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "",
+                  "table": [
+                    {
+                      "header": true,
+                      "cells": [
+                        {
+                          "colspan": 5,
+                          "bullets": [
+                            {
+                              "text": "**Sunderland Classification**",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "*Grade*",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "*Axon*",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "*Endoneurium*",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "*Perineurium*",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "*Epineurium*",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "I",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "II",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "III",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "IV",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Intact",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "header": false,
+                      "cells": [
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "V",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "colspan": 0,
+                          "bullets": [
+                            {
+                              "text": "Disrupted",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Ultrasound (High-resolution ultrasound)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Indication: neuropathy from entrapment/compression or trauma may help localize entrapment, nerve ends in lacerations, neuromas",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Findings: may help localize entrapment, nerve ends in lacerations, neuromas",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "real time dynamic evaluation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "better assessment of superficial nerves",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Compliments electrodiagnostic studies",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "MRI/MRN (Magnetic resonance neurography)",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Indication: traumatic nerve injury, particularly brachial plexus injuries",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Findings: similar to ultrasound",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "better detection of muscle denervation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "better as assessment of deeper structures",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "better static resolution than ultrasound",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Studies",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Electrodiagnostic studies",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Electromyography (EMG)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Nerve conduction velocity (NCV)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "EMG",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "assesses function at the neuromuscular junction",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "often the only objective evidence of a compressive neuropathy (valuable in workers' compensation patients with secondary gain issues)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "characteristic findings",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "denervation of muscle",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "fibrillations",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "**positive sharp waves** (PSW)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "fasciculations",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "neurogenic lesions",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "fasciculations",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "myokymic potentials",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "myopathies",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "complex repetitive discharges",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "myotonic discharges",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "NCV",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "assesses large myelinated fibers",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "focal compression and demyelination leads to",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "increase latencies (slowing) of NCV",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**distal sensory latency of > 3.2** ms are abnormal for CTS",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "**motor latencies > 4.3 ms** are abnormal for CTS",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "decreased conduction velocities less specific that latencies",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**velocity of < 52 m/sec** is abnormal",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "motor action potential (MAP) decreases in amplitude",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "sensory nerve action potential (SNAP) decreases in amplitude",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Nonoperative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "observation with sequential EMG",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "neuropraxia (1st degree)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "axonotmesis (2nd degree)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "gunshot wounds affecting brachial plexus",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "assess extent of recovery over 3 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "variable recovery depending on degree of injury",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "most nerve deficits that present after a closed fracture or dislocation will resolve with observation alone",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Operative",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "direct muscular neurotization",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "transected unrepairable nerve ending at risk of forming neuroma",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "plan for integrated prosthesis",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "degree of functional recovery varies",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "decreases neuroma formation",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "promising results with **targeted muscle reinnervation (TMR)** and regenerative **peripheral nerve interfaces (RPNI)** for amputees",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "surgical repair",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "neurotmesis (3rd-5th degree)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "early surgical exploration: penetrating trauma, iatrogenic injury, vascular injury, progressive deficits",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "exception: gunshot wounds affecting brachial plexus may be observed",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "1-3 weeks after **gunshot** injury with confirmed neurotmesis",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "allows time for zone of injury to be declared",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "variable and dependent on multiple factors (i.e., patient age, level of injury, type of injury, time to repair, etc.)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "fascicular repair outcomes are similar to epineurial repair",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "best recovery when performed within **7-14 days** of injury",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "reinnervation and sensory re-education may take several years",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "nerve grafting",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6066/images/4331a03e-401b-4b17-af4b-ac694f559232_post_recon.jpg",
+                  "caption": "Median N with Sural N Cable Grafting"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6066/images/1b9c4c13-f72b-4f08-9eac-9cc4024d1d41_screenshot_2024-10-20_205259.jpg",
+                  "caption": "Median N Cable Grafting"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "gaps that prevent tension-free direct repair",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "variable and dependent on multiple factors (i.e., patient age, level of injury, type of injury, time to repair, etc.)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "quality of nerve recovery drops with gaps >5mm",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "nerve transfer",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "proximal nerve injury",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "goal to deliver new axons and stimulus before degeneration of motor endplates and irreversible muscle damage",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "priority is to restore shoulder abduction/external rotation, elbow flexion, and finger function",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "proximal injuries to the ulnar nerve may benefit from end-to-side transfer of the AIN to deep motor branch of ulnar nerve to improve early hand intrinsic function",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Key motor nerve transfers",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "**shoulder abduction and external rotation**",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "spinal accessory nerve (CN XI) to suprascapular nerve",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "**shoulder abduction and flexion**",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "Leechavengvong procedure: medial triceps motor branch of radial nerve to axillary nerve",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "**elbow flexion**",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": [
+                            {
+                              "text": "Oberlin transfer**:** FCU motor branch of ulnar nerve to biceps brachii branch of musculocutaneous nerve",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            },
+                            {
+                              "text": "Double Oberlin transfer: Oberlin + redundant median nerve fascicle from FCR or FDS to brachialis branch of musculocutaneous nerve",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "**ulnar intrinsic function**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "AIN to ulnar motor \"**supercharge**\"",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Sensory transfers have also been described",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "can vary widely based on patient demographics, mechanism of injury, time from injury, and status of motor endplates",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "success is defined as M3 motor or greater, with many patients achieving M4",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "advantage over tendon transfer is easier rehabilitation; no need for cortical reorganization",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "tendon transfer",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "indications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "return of function through nerve regeneration is not expected",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Key tendon transfers",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "**shoulder external rotation**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "lower trapezius to infraspinatus",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**elbow flexion**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "proximal advancement of flexor-pronator mass",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "pec major, latissimus dorsi, triceps, or trapezius muscle to biceps",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**radial neuropathy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "wrist extension: PT to ECRB",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "thumb extension/abduction: PL or FDS IV (ring) to EPL",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "when using FDS IV, you can split so one slip is in EPL and the other is in EIP for index finger extension",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "finger MCPJ extension:",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "Jones: FCU to EDC",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "Brand: FCR to EDC",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "Boyes: FDS to EDC",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**median neuropathy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "thumb opposition: EIP to APB **opponensplasty**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "thumb flexion: BR to FPL",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "index finger flexion: side-to-side FDP transfer",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**ulnar neuropathy**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "MPJ stabilization (determined by Bouvier test):",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "simple claw (positive Bouvier): zancolli lasso FDS around A1 pulleys",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "complex claw (negative Bouvier): extrinsic extensors unable to extend IPJ when MPJ flexed",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "FDS into lateral bands",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "FCR into lateral bands with intercalary grafting",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ulnar sided finger flexion",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "side to side FDP transfer of ring and small fingers into FDP of median innervated FDP tendons",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "outcomes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "better with age <30 and more distal locations due",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "improved in children due to neuroplasticity",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "one grade of motor strength loss is expected following transfer",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Techniques",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Observation with sequential EMG**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "'active surveillance' weekly by the same surgeon",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "baseline EMG/NCS typically done at 3-4 weeks",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "exploration indicated if no functional recover after **3 months**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "functional splinting",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "rehabilitation focusing on sensory reeducation and prevention of joint contracture",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Direct muscular neurotization**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "insert proximal nerve stump into nearby muscle belly",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Surgical repair**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "Epineurial repair",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "approach",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "primary repair of the **epineurium**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "requires resection of proximal neuroma and distal glioma to healthy fascicles",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "alignment aided by epineurial blood vessels",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "resect zone of injury until \"mushrooming\" of the fascicles is observed",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "repair should be tension free in well-vascularized wound bed",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "tensioned closures compromise perfusion; inhibit Schwann cell activation and regeneration; and cause scar formation",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "length can be gained with nerve transposition and neurolysis",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Fascicular repair",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "approach",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "similar to epineural repair, but also repair the perineural sheaths (individual fascicles are approximated under a microscope)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "theoretically provides more accurate alignment of axons over epineurial repair",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "technique",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "fascicular matching",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "topographical sketches can be used for visual alignment",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "electrical stimulation",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": [
+                            {
+                              "text": "proximal end: identifies sensory fascicles in awake patients",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "distal end: identifies motor fascicles in acute injuries, before significant Wallerian degeneration",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "histologic staining",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "complications",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "potentially increased scarring and damage to blood supply",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Nerve grafting**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "create tension-free repair by using a graft that is at least **10%** longer than gap",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "ensure scar from nerve ends is completely resected",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "**autologous graft**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "gold standard for segmental defects **> 5cm**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "nerve autografts harvested should result in the least morbidity possible",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "medial and lateral antebrachial cutaneous",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "posterior interosseus nerve terminal branches",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "sural",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "**cabling** can be used for donor-recipient size mismatch",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**acellular/decellular allograft**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "provides a scaffold for the host Schwann cells to build upon",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "shown to be effective for gaps up to 7cm",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "not as effective as autograft, but have shown promise for large defects unable to be bridged by autograft alone",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**conduits**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "**made up of type 1 collagen**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "indications",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "defects up to 20 mm",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": [
+                            {
+                              "text": "rely on the formation of a fibrin clot formation to serve as a scaffold for host cell Schwann cells to build upon",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "allow coaptation ends without tension, typically small sensory nerves",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "synthetic polyglycolic acid, polycaprolactone, and collagen-based",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            },
+                            {
+                              "text": "collagen conduits allow nutrient exchange and accessibility to neurotrophic factors to the axonal growth zone during regeneration",
+                              "table": null,
+                              "images": [],
+                              "importance": "2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "donor nerve neuroma formation",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "immune response and rejection of allograft",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Nerve transfer**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "redundant or non-essential nerve transferred to a nerve affected by a **proximal injury**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "select donor motor nerves close to target muscles",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "coaptation techniques",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "end-to-end",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "traditional end-to-side or reverse end-to-side",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "traditional: recipient, injured nerve distal stump is attached to donor nerve through perineurial window",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "reverse: donor nerve attached to the recipient, damaged nerve through perineurial window",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "goal to \"supercharge\" damaged nerve by preservation of motor endplates until new axons can regenerate from more proximal injury",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Tendon transfer**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "approach",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "maintain or restore passive joint mobility before tendon transfer",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "redundant or non-essential muscle-tendon unit transferred to restore a lost function",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "optimal to have one straight line of pull and transfer of muscle synergistic to lost function",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "one tendon transfer should perform one function",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "technique",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "select donor and recipient with similar power",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "power determined by cross-sectional area",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "select synergistic donor and recipient",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "i.e. wrist extensors and finger flexors",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "set appropriate excursion",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "can be adjusted with pulley or tenodesis effect",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "Smith 3-5-7 rule",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "3 cm excursion - wrist flexors, wrist extensors",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "5 cm excursion - EDC, FPL, EPL",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        },
+                        {
+                          "text": "7 cm excursion - FDS, FDP",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "complications",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "adhesions, poor tendon gliding",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Neuroma formation**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "incidence",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "true incidence unknown due to most being asymptomatic",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "up to 30% in amputees has been reported",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "treatment",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "non-operative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "pharmacolgical (i.e., gabapentin, anticonvulsants, antidepressants, etc.)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "local nerve distruction (i.e., injection of phenol or botulinum toxin, cautery, etc.)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "rehabilitation",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "work modification",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "operative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "resection",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "targeted muscle reinnervation (TMR)",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "regenerative peripheral nerve interface (RPNI)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Prognosis",
+      "table": null,
+      "images": [],
+      "importance": "5",
+      "children": [
+        {
+          "text": "Natural history of disease",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "pain is first modality to return",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "**advancing Tinel sign** is most reliable indication of recovery",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "nerve repair or reconstruction is unpredictable after **6 months**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "reinnervation by 18 months is the goal for muscle preservation",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Prognostic variables",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "**favorable**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**younger age**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "most important factor influencing success of nerve recovery (children have more favorable prognosis)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**distal level of injury**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "second most important (the more distal the injury the better the chance of recovery)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "peripheral nerve injuries include those affecting the **Brachial Plexus**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**sharp transections and stretch injuries**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "have better prognosis than crush or blast injuries",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "negative",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "**older age**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**proximal level of injury**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**crush injuries**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**repair delay**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "worse prognosis of recovery (time limit for repair is **18 months**)",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Prognosis with treatment",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "variable on several factors including injury location, age of patient, and type of injury",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "neurapraxia resolves with conservative measures",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "axonotmesis and neurotmesis may improve with repair, tendon transfers, and/or nerve transfers",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "the **endoneurium** must be intact for full recovery of an injured peripheral nerve",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "may lead to chronic neuropathic pain",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/Peripheral%20Nerve%20Illustration_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/bb53b952-e2a8-4292-a5ec-5a94a3da3e45_pre_recon.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/4331a03e-401b-4b17-af4b-ac694f559232_post_recon.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/8fe88f27-de21-4a08-9ddb-1da7175c4344_screenshot_2024-11-20_203447.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/1b9c4c13-f72b-4f08-9eac-9cc4024d1d41_screenshot_2024-10-20_205259.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/screen_shot_2020-01-22_at_12.46.39_pm.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/humerus_fracture.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6066/images/extension_supracondylar_humerus_fx.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 531,
+  "visitorMode": false
+}

@@ -1,0 +1,1347 @@
+{
+  "title": "Embryology",
+  "url": "https://www.orthobullets.com/basic-science/9078/embryology",
+  "subtitle": "Updated: Jul 22 2022",
+  "sections": [
+    {
+      "text": "Limb Development",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "the appendicular system forms between the 4-8 weeks of gestation",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "limb bud development",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "appears to be under the control of fibroblast growth factors (FGF)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "enlargement of the limb bud is due to the interaction between the apical ectodermal ridge (AER) and the mesodermal cells in the progress zone.",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "first identifiable by transvaginal ultrasound at 8 weeks",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Steps of limb development",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9078/images/chrono.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "notochord expresses Shh",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "Shh regulates limb bud formation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "limb bud is combination of lateral plate mesoderm and somatic mesoderm",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "growing outwards into ectoderm (called apical ectodermal ridge)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/mesoderm.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "limb bud formed at embryonic stage 12 (26 days after fertilization)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "mesenchyme condenses into preskeletal blastemal at core of limb bud",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "chondrification occurs where mesenchyme differentiates into chondrocytes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "All upper limb bones are endochondral except distal parts of distal phalanges (membranous)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "From proximal (humerus, 36 days after fertilization) to distal (distal phalanges, 50 days)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "Factors required for chondrification",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "transcription factors – Sox-5, Sox-6, Sox-9",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "transforming growth factor superfamily – TGF-b, BMP-2",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "FGF family",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "receptor mutation leads to acrocephalosyndactyly (Apert syndrome)",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "patients with severe craniofacial features have mild hand syndactyly (gain of function in FGFR2c affinity for FGF2 expressed in craniofacial area )",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "patients with mild craniofacial features have severe hand syndactyly (loss of function in FGFR2c specificity for FGF2, and is now able to bind FGF10, more expressed in hands)",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "retinoids",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "hedgehog gene products",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "PTHrP",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "cadherins",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        },
+                        {
+                          "text": "WNT5a and WNT7a",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Formation of joints requires repression of chondrogenesis at sites of future joints",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "proteins involved – WNT4, WNT14, growth and differentiation factor 5 (also known as cartilage-derived morphogenetic protein 1)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "shoulder interzone appears at 36 days, hand interzones appear at 47 days",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Finger separation",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "digital rays are evident within hand paddle at stage 17 (41 days)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "interdigital mesenchyme cells undergo programmed cell death (stage 19 to 22)( days 47-54)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "transcription factor Msx2 is expressed in interdigital mesenchyme, regulates BMP4-mediated programmed cell death pathway",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "transcription factor Hox-7 also expressed in interdigital zones",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Limb patterning",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9078/images/limb%20bud1.jpg",
+              "caption": ""
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/9078/images/limb_patterning.jpg",
+              "caption": ""
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/9078/images/another_image.jpg",
+              "caption": "another image"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "Proximodistal",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "**first signaling center to appear is AER**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "controls proximal to distal growth",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "forms under FGF10 stimulation",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "removal /defect in AER results in proximal limb truncation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "example is central deficiency (cleft hand)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "another example is radial clubhand (radial dysplasia, absence of radius)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**FGFs** are the signaling molecule",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "FGFs expressed in AER include FGF4, FGF8, FGF9, and FGF 17",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "**FGF8** expressed earliest and is **obligatory** for normal limb development",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "FGF4, 9 and 17 are redundant",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "disrupted FGF signalling leads to arrested limb development",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Anteroposterior",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/screen_shot_2016-07-11_at_6.05.12_pm.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**second signaling center to appear is ZPA (zone of polarizing activity),** along posterior limb bud",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_and_radial.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "controls anteroposterior (radioulnar) limb growth",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "grafting ZPA on anterior limb margin leads to mirror-image digit duplication (ulnar dimelia, or mirror hand)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_dimelia.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "signaling molecule is **Shh** compound (dose dependent)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "normal",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "high concentration of Shh on posterior (ulnar) side for small finger development",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "low concentration of Shh on anterior (radial) side for thumb development",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "posterior/ulnar side abnormalities",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "abnormal **upregulation** of Shh in the ZPA results in **polydactly** on the **ulnar** (posterior) side",
+                          "table": null,
+                          "images": [],
+                          "importance": "5",
+                          "children": [
+                            {
+                              "text": "extent of duplication is dose dependent (higher dose = more replication)",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "text": "downregulation of Shh (on the posterior/ulnar side) leads to loss of ulnar digits",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "anterior/radial side abnormalities",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "abnormal **upregulation** of Shh in the anterior aspect of the limb bud (where Shh concentration is supposed to be low) leads to **loss of thumb**",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "timing",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "posterior elements (little finger/ulna) are formed EARLY prior to anterior elements which are formed LATE (radius/thumb)",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "disruption of AP patterning will result in loss of later forming elements (radius/thumb)",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Dorsoventral axis",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/screen_shot_2016-07-11_at_6.05.12_pm.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**third signaling center is non-AER limb ectoderm /Wnt signalling center (progress zone, PZ)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "dorsal limb ectoderm expresses WNT7a",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "activates Lmx1b (LIM-homeodomain factor) to regulate dorsal patterning",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "WNT7a is responsible for all dorsal features (including nails)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "ventral ectoderm expresses en-1 (engrailed-1 protein, antagonistic to WNT7a)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "inhibits WNT7a (and restricts it to dorsal ectoderm)",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "allows ventral limb development",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Key Genes",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**Sonic Hedgehog (Shh) genes**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "secreted by ZPA",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "involved with HOX gene expression",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "anterior-posterior (radioulnar) growth",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "anterior (radial) mesoderm expresses **ALX4**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "posterior (ulnar) mesoderm expresses **Hox8**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "concentration gradient dictates formation of digits",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "little finger develops where there is **highest** Shh concentration",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "thumb develops where there is **lowest** Shh concentration",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "activates Gremlin",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "Gremlin inhibits BMPs that would otherwise block FGF expression in the AER",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**Hox genes**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "anterior-posterior (radioulnar) patterning",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "together with Shh",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "regulate somatization of the axial skeleton, essentially patterning digit formation",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**Wnt genes** (Wnt7a)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "expressed in dorsal (non-AER) ectoderm (Wnt signalling center)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**dorsal-ventral growth**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Mutations",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "removal of AER",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "truncated limb",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "duplication of ZPA",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "mirror-image duplication of the limb",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_dimelia.jpg",
+                      "caption": ""
+                    },
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_dimelia_xr.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "",
+              "table": [
+                {
+                  "header": true,
+                  "cells": [
+                    {
+                      "colspan": 3,
+                      "bullets": [
+                        {
+                          "text": "**Key Genes/Regions**",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Gene/Region",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Expresses*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "*Regulates*",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Apical ectodermal ridge (AER)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "FGF8 is dominant (also FGF 4, 9, 17, which are redundant)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Proximal to distal growth and interdigital necrosis",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Zone of polarizing activity (ZPA)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "SHH",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Anterior-posterior (radio-ulnar) growth",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Non-AER limb ectoderm (dorsal)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Dorsal ectoderm expresses WNT7a, that activates Lmx1b (regulates dorsal patterning)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Dorso-ventral growth",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "header": false,
+                  "cells": [
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Non-AER limb ectoderm (ventral)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Ventral ectoderm expresses en-1, antagonistic to WNT7a (regulates ventral patterning)",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "colspan": 0,
+                      "bullets": [
+                        {
+                          "text": "Dorso-ventral growth",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Spine and Spinal Cord Development",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Somites",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "the spinal column originates from pairs of mesodermal structures known as somites",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "somites develop in a **cranial to caudal direction** on either side of the notochord and neural tube",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "this process is dependent on the presence of the paraxis gene",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "somite layers",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**sclerotome**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/sclerotome.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "layer will become the vertebral bodies and annulus fibrosus",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**myotome**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "will lead to myoblasts",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**dermatome**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "becomes skin",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Dorso-vental patterning",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "dorso-vental patterning of the neural tube determined by counteracting activities of",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**Sonic Hedgehog** (Shh)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "in the floor plate and notochord (ventral)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/9078/images/wnt.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**canonical Wnt/β-catenin**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "in the roof plate (dorsal)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/9078/images/wnt.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Metameric shift phenomenon",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "the phenomenon of how the spinal nerves, which originally ran in the center of the sclerotome, exit between the two vertebral bodies at each level.",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Progression",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "neural crest",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/crest.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "forms PNS, pia mater, spinal ganglia, sympathetic trunk",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "neural tube",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/crest.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "forms spinal cord",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "notochord",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "forms anterior vertebral bodies and nucleus pulposus",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9078/images/sclerotome.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Ossification centers",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "vertebrae have 3 primary ossification centers",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "centrum (anterior vertebral body)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "neural arch (posterior elements, pedicles, small portion of anterior vertebra)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "costal element (anterior part of lateral mass, transverse process, or rib)",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Intervertebral disc",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "nucleus pulposus forms from **notochord**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/sclerotome.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "annulus fibrosus forms from **sclerotome**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9078/images/sclerotome.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9078/images/limb%20bud.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_and_radial.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_dimelia.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9078/images/ulnar_dimelia_xr.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9078/images/sclerotome.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 151,
+  "visitorMode": false
+}

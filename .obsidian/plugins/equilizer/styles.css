@@ -1,0 +1,51 @@
+.equilizer-pair {
+	padding: var(--size-4-2) 0;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.equilizer-pair-inputs {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+}
+
+.equilizer-pair-inputs .equilizer-box {
+	flex: 1 1 0;
+	min-width: 0;
+	font-family: var(--font-monospace);
+}
+
+.equilizer-eq {
+	font-weight: var(--font-bold);
+	color: var(--text-muted);
+}
+
+.equilizer-status {
+	margin-top: var(--size-4-1);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	overflow-wrap: anywhere;
+}
+
+.equilizer-status.is-ok {
+	color: var(--text-success);
+}
+
+.equilizer-status.is-error,
+.status-bar-item.equilizer-error {
+	color: var(--text-error);
+}
+
+.status-bar-item.equilizer-running:not(.equilizer-error) {
+	color: var(--text-accent);
+}
+
+.equilizer-pair-interval {
+	margin-top: var(--size-4-1);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+}
+
+.equilizer-pair-interval .equilizer-seconds {
+	width: 5em;
+}

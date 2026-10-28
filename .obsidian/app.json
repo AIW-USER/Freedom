@@ -1,0 +1,14 @@
+{
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "attachmentFolderPath": "./Attachments",
+  "readableLineLength": false
+}

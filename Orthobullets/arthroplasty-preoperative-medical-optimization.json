@@ -1,0 +1,768 @@
+{
+  "title": "Arthroplasty Preoperative Medical Optimization",
+  "url": "https://www.orthobullets.com/recon/422808/arthroplasty-preoperative-medical-optimization",
+  "subtitle": "Updated: May 9 2026",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "preoperative optimization of the patient who is planned for a THA or TKA is critical to improving outcomes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Optimization can be broken down into the following categories",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**medical optimization**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**preoperative counseling**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "**VTE prophylaxis**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**anesthesia plan**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**pain management plan**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Medical optimization",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "The goal is to identify possible **risk factors** that increase the risk of complications postoperatively",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "diabetes",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "Screening patients with hyperglycemia with HbA1C testing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "**HbA1C> 6.7** is associated with an increased risk of wound complications",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "Exact HbA1C target (roughly <8) varies by surgeon and hospital",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "Not all patients will be able to achieve target",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "obesity",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "Consistently shown to increase the risk of postoperative complications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "acute kidney failure, CV complications, wound complications, infection",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**BMI >40** has been used in many studies as having an increased risk of complications, but this is a continuous variable without a clear cutoff",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "**Weight loss of >5% may be needed to decrease risk**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "Bariatric surgery may have a role",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "cardiovascular disease",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "Preoperative cardiovascular disease and older age are major risk factors for postoperative cardiovascular events",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "Delay elective surgery in patients whose dual antiplatelet therapy will be stopped within",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**30 days from bare-metal stent (BMS)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    },
+                    {
+                      "text": "**12 months after drug-elution stent (DES)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Clopidogrel management should be discussed with a cardiologist and restarted as soon as possible",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**Stopping 7 days preop** can lower bleeding events and the need for transfusion without increasing perioperative cardiovascular events.",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "blood transfusion",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "perioperative blood transfusions are associated with higher rates of postoperative complications",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "renal disease",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "Patients on dialysis at time of THA or TKA have a **10-20 times increased risk of complications**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "ESRD patients may have improved outcomes if they undergo elective kidney transplant prior to arthroplasty",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "have to weigh risk of transient septicemia from dialysis versus immunosuppression following transplant",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "methicillin-Resistant Staphylococcus aureus",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "some screen for MRSA colonization and decolonize with mupirocin ointment or chlorhexidine wipes",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "some implement a universal decolonization protocol which has some evidence to be cost-effective",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**tobacco abuse**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "Increased risk of postoperative complications and infection",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "Referral to formal smoking cessation program",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "6 weeks of cessation",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "nicotine testing pre-operatively",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "illicit drug use",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "History of substance abuse/misuse have a 5x increase risk of mortality",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "increased risk of infectious and non-infectious complications as well",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Higher risk of mortality, readmission, and reoperation in patients who failed a toxicology screen",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Inflammatory arthritis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "Biologic medications should generally be held before surgery",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Preoperative counseling",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Expectations",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "patient satisfaction after arthroplasty may be heavily based on expectations rather than functional outcome",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "patients tend to be overly optimistic and have too high of expectations",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "preoperatively setting expectations for pain, functional outcomes, and possible complications can help make expectations more realistic",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Social support",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "preoperative assessment of social support may allow for optimization and discharge planning prior to surgery",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "psychologic distress may impact pain management postoperatively",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "absence of anxiety may lead to lower pain scores and better functional outcome postoperatively",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "social support can affect length of stay, readmission rates, and non-home discharge",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "VTE prophylaxis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Balance in each individual patient weighing the risk of bleeding versus postoperative VTE event and subsequent complications or mortality",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**ACCP recommends** mechanical compression devices plus one of the following:",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "vitamin K antagonists (warfarin)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "low-molecular-weight heparins (enoxaparin)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "aspirin",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "factor Xa inhibitors (apixaban or rivaroxaban)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "pentasaccharides (fondaparinux)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "direct thrombin inhibitors (dabigatran)",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**AAOS recommends**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "a pharmacologic agent, mechanical compression device, or both for VTE prophylaxis in patients with no increased risk of VTE event",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Aspirin is preferred by many surgeons given its oral route, compliance rates, cost, and low bleeding rates",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anesthesia",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Neuraxial anesthesia (e.g. spinal) is felt to lower postoperative complications due to lower stress than general anesthesia",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Retrospective studies have shown neuraxial anesthesia to have lower surgical time, infection, postoperative CV events, transfusion rates, and length of stay",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Pain management plan",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "The goal is adequate pain control for early mobilization, improved patient-reported outcomes and shorter length of stay",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Mutlimodal approach",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "oral medications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "preoperative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "**NSAIDs** (COX-2 inhibitors) and **pregabalin** given preoperatively decreased opiate consumption, lower pain scores, and improve range of motion without affecting bleeding",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "postoperative",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "continuation of the above with the addition of judicious use of oral opiate medication with different durations of action",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    },
+                    {
+                      "text": "Opiate-related adverse drug events have been found to cause up to 50% or postarthroplasty complications",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "periarticular injections",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "Concoction often of local anesthetic, opiates, and NSAIDs injected into the capsule and soft tissues around a THA or TKA",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "In TKA, periarticular injections have been shown to be equally as effective as femoral nerve blocks and may be cheaper, safer, and easier",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "In THA, periarticular injections are felt to decrease opioid, improve pain control and improve function postoperatively",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "peripheral nerve block",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "excellent for pain control but depending on nerve may affect muscle function and recovery",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": [
+                    {
+                      "text": "THA",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "options include",
+                          "table": null,
+                          "images": [],
+                          "importance": "3",
+                          "children": [
+                            {
+                              "text": "lumbar plexus blockspsoas, femoral nerve, sciatic nerve block",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "psoas",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "femoral nervesciatic nerve block",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            },
+                            {
+                              "text": "sciatic nerve block",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "TKA",
+                      "table": null,
+                      "images": [],
+                      "importance": "3",
+                      "children": [
+                        {
+                          "text": "options include",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "femoral nerve block",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": []
+                            },
+                            {
+                              "text": "adductor canal",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": [
+                                {
+                                  "text": "gives similar pain control to femoral block without causing quad weakness",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "text": "sciatic nerve block",
+                              "table": null,
+                              "images": [],
+                              "importance": "3",
+                              "children": [
+                                {
+                                  "text": "may help posterior knee pain but can affect muscle function significantly",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [],
+  "domBulletCount": 102,
+  "visitorMode": false
+}

@@ -1,0 +1,584 @@
+{
+  "title": "MY01 Continuous Perfusion Sensing Technology Platform",
+  "url": "https://www.orthobullets.com/implants/423231/my01-continuous-perfusion-sensing-technology-platform",
+  "subtitle": "Leg Compartment Syndrome Updated: Nov 6 2025",
+  "sections": [
+    {
+      "text": "Summary",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "MY01's Continuous Perfusion Sensing Technology (CPST) is a platform designed to aid in the early and objective diagnosis of compartment syndrome. Unlike traditional spot-check methods, the CPST Platform provides up to 18 hours of real-time data, enabling continuous trend analysis of intramuscular compartment pressure.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Once inserted into the patient's affected extremity, the sensor transmits pressure readings via Bluetooth to the MY01 Mobile Application, allowing clinicians to visualize pressure trends without manual documentation in real time, over time, rather than relying on single pressure measurements, removing the need to manually record data.In the US and Canada, the MY01 Mobile Application also calculates muscle perfusion pressure over time based on clinician-entered diastolic blood pressure values.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "**Note:** Diagnosis of compartment syndrome should always be made in conjunction with clinical assessment.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "The MY01 Mobile Application (MY01 App) provides a graphical user interface for storing and displaying identical pressure values from the MY01 device.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "The version of the MY01 App that is authorized for use in the US and Canada, in addition to the muscle compartment pressure, calculates and displays the muscle perfusion pressure over time based on manual entries of the patient’s diastolic blood pressure.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "Diagnosis should always be made in conjunction with clinical assessments.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Indications",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "The CPST Platform is indicated for continuous monitoring of intramuscular pressure in patients at risk for developing acute compartment syndrome (ACS), including but not limited to",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "continuous monitoring",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "monitoring for the future development of acute compartment syndrome (ACS) in high risk patients including",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "patients on anticoagulation or with cirrhosis",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "revascularization cases",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "crush injuries",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "high-energy extremity injuries",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "polytrauma or obtunded patients",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anatomy",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Extremity muscle compartments at risk for acute compartment syndrome (ACS) include",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "lower leg compartments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "anterior",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "lateral",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "deep posterior",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "superficial posterior",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "forearm compartments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "volar (anterior)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dorsal (posterior)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "mobile wad (lateral)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "hand compartments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "thenar",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "hypothenar",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "adductor pollicis",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dorsal interosseous (4 compartments)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "palmar interosseous (3 compartments)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "central (midpalmar)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "foot compartments",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "medial.",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "lateral",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "superficial central",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "deep central",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "calcaneal",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "dorsal",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Technology",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "MEMS-based (Micro-Electro-Mechanical Systems) continuous intracompartmental pressure monitors provide technical advantages over traditional fluid-based pressure monitors in the management of acute compartment syndrome.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "achieve higher accuracy in pressure measurement due to advanced sensor technology and digital output.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "maintain performance stability under varying physiological conditions, showing minimal sensitivity to body temperature fluctuations, position changes, and dielectric changes.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Self-calibration feature of these devices ensures consistent and reliable readings over time, while also reducing the risk of user error during calibration—a common issue with manual calibration in fluid-based systems.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        },
+        {
+          "text": "The design of MEMS-based monitors as self-contained units simplifies the setup process, reducing the risk of errors associated with assembly or component malfunction.",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Technique",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Prepare",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Peel the Tyvek lid where indicated. Lift the top cover and remove the device from the packaging.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "While holding the Introducer, remove the Needle Cap before turning on the device.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/19b21bf2-7acb-4a80-bbca-717242cabb4b_screenshot_2025-08-03_at_3.34.58_pm.jpg",
+                  "caption": "While holding the Introducer, remove the Needle Cap before turning on the device"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Activate the Pressure Monitor by pressing and holding the Push-Button until the MY01 logo appears.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "The Display will subsequently show the MY01 logo and a pressure value of 0.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Insert Introducer",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Without applying excessive force on the Display, insert the Needle gently into the muscle compartment in a controlled linear motion.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/6bf774aa-b9f9-4df1-ae3e-1a3605e9b8e6_screenshot_2025-08-03_at_3.35.24_pm.jpg",
+                  "caption": "Without applying excessive force on the Display, insert the Needle gently into the muscle compartment in a controlled linear motion"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Markings on the Needle should be used to estimate the depth of the insertion.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Secure Monitor",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "When the Sensor is in the desired position and readings have stabilized, eject the Pressure Monitor from the Introducer by pressing gently through the back opening of the Introducer.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/c545007d-ba6d-489e-a1c7-5d33661e7566_screenshot_2025-08-03_at_3.44.03_pm.jpg",
+                  "caption": "When the Sensor is in the desired position and readings have stabilized, eject the Pressure Monitor from the Introducer by pressing gently through the back opening of the Introducer"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/f5a5172e-7a53-44aa-b3f5-aa40029e35da_screenshot_2025-08-03_at_3.36.22_pm.jpg",
+                  "caption": "When the Sensor is in the desired position and readings have stabilized, eject the Pressure Monitor from the Introducer by pressing gently through the back opening of the Introducer"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "An adhesive strip will be exposed on the back of the Device Body when ejected.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "While holding the Introducer in one hand, use the other hand to adhere the Device Body to the patient’s skin using the exposed adhesive strip on the back of the Device Body.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/d066f407-bf87-4d1a-a4b6-8a2cc383f297_screenshot_2025-08-03_at_3.44.37_pm.jpg",
+                  "caption": "Release Sensor Monitor from Introducer"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/957935ba-bc48-4a5a-b0c2-ea2812863dc5_screenshot_2025-08-03_at_3.44.51_pm.jpg",
+                  "caption": "Set Pressure Monitor on Patient"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Position the Device Body face-up on the patient’s skin near the insertion point, ensuring sufficient slack in the Lead-Wire.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "The Lead-Wire should extend straight out from the insertion site indicating the insertion angle of the Sensor.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Remove Introducer",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "To disengage the Sensor, use a finger to firmly press the lead-wire against the skin on the insertion site, then rotate the Introducer 180 degrees.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/98e50048-a707-4fcf-a275-076e9dd72212_screenshot_2025-08-03_at_3.45.32_pm.jpg",
+                  "caption": "Apply Pressure on Sensor Wire at Site of Entry"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "While keeping the finger pressed on the lead-wire, gently remove the Introducer from the patient.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/39c0def8-650f-483d-b7a6-9680d81261fd_screenshot_2025-08-03_at_3.45.49_pm.jpg",
+                  "caption": "Remove Introducer While Maintaining Pressure on Sensor Wire at Site of Skin Entry"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "After removing the Introducer, dispose of it in a biohazard-sharps receptacle, following facility guidelines.",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/423231/images/4dc67644-14c5-45f2-9a92-3114e7b9f994_screenshot_2025-08-03_at_3.46.08_pm.jpg",
+                  "caption": "Apply Dressing to Keep Sensor Wire Secure at Site of Skin Entry"
+                }
+              ],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Monitor",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "Monitor pressure readings for a period of up to 18 hours.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "The Pressure Monitor should be routinely checked to ensure that it is secured to the patient throughout the monitoring period and that the Lead-Wire does not pull on the Sensor and displace it.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Remove Sensor",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "When monitoring is complete, remove the dressing and gently pull on the Lead-Wire by hand to remove the Sensor from the patient. Dispose the Pressure Monitor in a biohazard container, as per facility guidelines.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/423231/images/943f985c-1784-40bc-9de3-0ff2bbb7d615_my01_case__1.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423231/images/02f012f4-7f6c-4f41-8f6d-de03fec07f6f_my01_case__4.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/423231/images/d066f407-bf87-4d1a-a4b6-8a2cc383f297_screenshot_2025-08-03_at_3.44.37_pm.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 71,
+  "visitorMode": false
+}

@@ -1,0 +1,657 @@
+{
+  "title": "Hip Physical Exam - Adult",
+  "url": "https://www.orthobullets.com/recon/5037/hip-physical-exam--adult",
+  "subtitle": "Updated: Jun 9 2021",
+  "sections": [
+    {
+      "text": "Inspection",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Skin",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Discoloration, wounds, or gross deformity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Bony",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Length - compare to contralateral side",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Position - internally or externally rotated; flexion contractures",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Gross deformity",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Gait",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Observe the stride length, foot rotation, pelvic rotation, stance phase",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Antalgic (painful)",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "shortened stance phase on affected side",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Trendelenberg",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/5037/images/37264f9b81e151755f494569ed41291a_medium.jpg",
+                  "caption": "Trendelenburg"
+                }
+              ],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "secondary to abductor weakness",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "weight bearing on the affected hip leads to a contralateral hip drop",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Palpation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Greater Trochanter / Bursea",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "Pain can be attributable to bursitis, tendonitis, infection, or fracture",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Snapping Iliotibial band",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "ITB can snap over GT and cause pain",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Anterior Superior Iliac Spine",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain with sartorius avulsions / injuries",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Ischial tuberosity",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain with hamstring avulsions / tendinopathy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Iliac crest",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "pain with oblique avulsions / hip pointers",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Iliotibial band / TFL",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "Neurovascular",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Motor",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "hip adduction - obturator nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "thigh abduction - superior gluteal nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "hip flexion - femoral nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "hip extension - inferior gluteal nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Sensory",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "proximal anteromedial thigh - genitofemoral nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "inferomedial thigh - obturator nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "lateral thigh - lateral femoral cutaneous nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "anteromedial thigh - femoral nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "posterior thigh - posterior femoral cutaneous nerve",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Pulses",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "femoral",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Reflexes",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "none",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ROM",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Flexion",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "120-135 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Thomas test",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "evaluates hip flexion contractures",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Extension",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "20-30 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Abduction",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "40-50 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Adduction",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "20-30 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Internal rotation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "30 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "External rotation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "50 deg",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Special Tests",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**FADIR test**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5037/images/ecd03f1c5c65e037d034002a15fc8420.jpg",
+              "caption": "FADIR"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "hip **F**lexed to 90 deg, **AD**ducted and **I**nternally **R**otated",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "positive test if patient has hip or groin pain",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "can suggest possible labral tear or FAI",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**FABER test (aka Patrick's test)**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5037/images/dsc_3377.jpg",
+              "caption": "FABER"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "hip **F**lexed to 90 deg, **AB**ducted and **E**xternally **R**otated",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "positive test if patient has hip or back pain or ROM is limited",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "can suggest intra-articular hip lesions, iliopsoas pain, or sacroiliac disease (posteriorly located pain)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Log roll test**",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "passive maximal internal and external rotation of lower extremity while supine",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "clicking or popping suggest acetabular labral tear",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "increased total ROM compared to contralateral side suggests ligament or capsular laxity",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Thomas test**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5037/images/thomas_test.jpg",
+              "caption": "Thomas test"
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "with patient supine, fully flex one hip.",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "if contralateral hip lifts off table, there is likely a fixed flexion deformity",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Ober's test**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5037/images/8-14.jpg",
+              "caption": "Ober&#39;s"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "patient placed in lateral position with affected side up",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "with hip in slight extension, abduct the leg then allow it to drop into adduction",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "if unable to adduct leg, suspect tight ITB",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Stinchfield resisted hip flexion test**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5037/images/20141026105426.jpg",
+              "caption": "stinchfield"
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "with patient supine and extended knee, examiner resists active hip flexion past 30-45 deg",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "a positive test ellicits pain which is likely to be associated with an intraarticular hip pathology",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/37264f9b81e151755f494569ed41291a_medium.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/thomas_test.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/ecd03f1c5c65e037d034002a15fc8420.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/dsc_3377.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/8-14.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5037/images/20141026105426.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 80,
+  "visitorMode": false
+}

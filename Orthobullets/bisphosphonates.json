@@ -1,0 +1,623 @@
+{
+  "title": "Bisphosphonates",
+  "url": "https://www.orthobullets.com/basic-science/9058/bisphosphonates",
+  "subtitle": "Updated: Jun 22 2021",
+  "sections": [
+    {
+      "text": "Overview",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Overview",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "class of drugs that prevent bone mass loss by inhibiting osteoclast resorption",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**prevent formation of osteoclast ruffled borders microtubules, causing apoptosis**",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/9058/images/ruffledborder.jpg",
+                      "caption": "Illustration of bisphosphonates"
+                    }
+                  ],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "**inhibition of osteoclasts also infereres with normal bone healing and remodeling**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "there are two types of bisphosphonates",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/9058/images/types.jpg",
+                  "caption": "types of bisphosphonates"
+                }
+              ],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "non-nitrogen containing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "tiludronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "clodronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "etidronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "nitrogen containing",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "alendronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "risedronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "pamidronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "zolendronate",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "zoledronic acid - relatively new and appealing to patients, due to IV adminstration every 12 months",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Indications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Indications",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "osteoporosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "can resume 1-week postop from osteoporotic hip fracture surgery",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "metastatic bone disease",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "multiple myeloma",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "paget's disease",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "polyostotic fibrous dysplasia",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "total joint arthroplasty to prevent osteolysis",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "early stage avascular necrosis",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "**osteogenesis imperfecta**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**metastatic hypercalcemia**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Contraindications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Contraindications",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**severe renal disease**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "primary mode of excretion is renal",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**following lumbar fusion**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "decreased spinal fusion rates in lab animal models (increased fusion mass size, but decreases the actual fusion rate)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mechanism",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Delivery",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "bisphophonates accumulate in high concentration in bone due to binding affinity to calcium",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "bisphosphonates are ingested by osteoclasts and work by two different methods depending on presence of **nitrogen atom on the alkyl chain**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Nitrogen containing bisphosphonates mechanism",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9058/images/types.jpg",
+              "caption": "types of bisphosphonates"
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "inhibits osteoclast **farnesyl pyrophosphate synthase enzyme, required in mevalonate (cholesterol pathway)**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "inhibits GTPase formation",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Non-nitrogen containing bisphosphonates (simple) mechanism",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9058/images/types.jpg",
+              "caption": "types of bisphosphonates"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "induce osteoclasts to undergo premature death and **apoptosis**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "does so by forming a **toxic adenosine triphosphate (ATP) analogue**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Treatment",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Vertebral Compression Fractures",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "vertebral compression fracture in osteoporotic patient",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "**bone mineral density 2.5 or more standard deviations below that of young healthy adults (T score < 2.5 SD)**",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "1 year of treatment with a pharmacologic antiosteoporotic medication, the risk of vertebral fracture decreases by 50-60%",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Non-vertebral Fragility fractures",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "fragility fracture in osteoporotic patient",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "effective in reducing the risk of multiple fractures",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Osteogenesis imperfecta",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": [
+            {
+              "text": "cyclical IV pamidronate administration",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "reduces bone pain and fracture incidence",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "increases level of ambulation and bone density",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Multiple myeloma",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "diagnosis of multiple myeloma",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "reduced incidence of skeletal events in multiple myeloma",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Avascular necrosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "indications",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "early, **precollapse** AVN",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "outcomes",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "still considered investigational",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "randomized clinical trial showed that **bisphosphonate treatment was more effective at preventing head collapse than placebo at 2 years** (bisphosphonate collapse 6.9% vs placebo collapse 76%)",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Side Effects & Complications",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Jaw osteonecrosis**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9058/images/osteonecrosis-of-the-jaw%20(flapsblog.com).jpg",
+              "caption": "ON of jaw"
+            }
+          ],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "**Atypical subtrochanteric and femoral stress fractures**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/9058/images/stress%20fx%20(therapilates.files.wordpress.com).jpg",
+              "caption": "Stress fx femur"
+            },
+            {
+              "src": "https://upload.orthobullets.com/topic/9058/images/fx%20after%20(radiology.casereports.net).jpg",
+              "caption": "Fx completed"
+            }
+          ],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Radiographic changes consistent with osteopetrosis",
+          "table": null,
+          "images": [],
+          "importance": "4",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/9058/images/450px-l4_compressionfracture2008_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9058/images/stress%20fx%20(therapilates.files.wordpress.com).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9058/images/fx%20after%20(radiology.casereports.net).jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/9058/images/ruffledborder.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 75,
+  "visitorMode": false
+}

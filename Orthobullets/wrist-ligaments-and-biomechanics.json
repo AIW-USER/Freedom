@@ -1,0 +1,1222 @@
+{
+  "title": "Wrist Ligaments & Biomechanics",
+  "url": "https://www.orthobullets.com/hand/6005/wrist-ligaments-and-biomechanics",
+  "subtitle": "Updated: Mar 16 2026",
+  "sections": [
+    {
+      "text": "Wrist Planes of Motion",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Joints involved",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "radiocarpal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "intercarpal",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Three axes of motion",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "flexion-extension",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "radial-ulnar deviation",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "prono-supination",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Normal and function motion",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**flexion** (65 normal, 10 functional)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "40% radiocarpal, 60% midcarpal",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**extension** (55 normal, 35 functional)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "66% radiocarpal, 33% midcarpal",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**radial deviation** (15 normal, 10 functional)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "90% midcarpal",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**ulnar deviation** (35 normal, 15 functional)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "50% radiocarpal, 50% midcarpal",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Wrist Biomechanics",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Three biomechanic concepts have been proposed:",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "Link concept",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/6005/images/link%20joint.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "three links in a chain composed of radius, lunate and capitate",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "head of capitate acts as center of rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "proximal row (lunate) acts as a unit and is an intercalated segment with no direct tendon attachments",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "distal row functions as unit",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "advantage",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "efficient motion (less motion at each link)",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "strong volar ligaments enhance stability",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "disadvantage",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "more links increases instability of the chain",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "scaphoid bridges both carpal rows",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": [
+                    {
+                      "text": "resting forces/radial deviation push the scaphoid into flexion and push the triquetrum into extension",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "ulnar deviation pushes the scaphoid into extension",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Column concept",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**lateral (mobile) column**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "comprises scaphoid, trapezoid and trapezium",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "scaphoid is center of motion and function is mobile",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**central (flexion-extension) column**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "comprises lunate, capitate and hamate",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "luno-capitate articulation is center of motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "motion is flexion/extension",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**medial (rotation) column**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "comprises triquetrum and distal carpal row",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "motion is rotation",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Rows concept",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "comprises proximal and distal rows",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "scaphoid is a bridge between rows",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "motion occurs within and between rows",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Carpal Relationships",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Carpal collapse",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "normal ratio of carpal height to 3rd metacarpal height is 0.54",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Ulnar translation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "normal ratio of ulna-to-capitate length to 3rd metacarpal height is 0.30",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Load transfer",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "distal radius bears 80% of load",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "distal ulna bears 20% of load",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "ulna load bearing **increases** with ulnar **lengthening**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "ulna load bearing **decreases** with ulnar **shortening**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Wrist Ligaments",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "The ligaments of the wrist include",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "extrinsic ligaments",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "bridge carpal bones to the radius or metacarpals",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "include **volar** and **dorsal** ligaments",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "intrinsic ligaments",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "originate and insert on carpal bones",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "the most important intrinsic ligaments are the **scapholunate interosseous ligament** and **lunotriquetral interosseous ligament**",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Characteristics",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "volar ligaments are **secondary stabilizers** of the **scaphoid**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "volar ligaments are stronger than dorsal ligaments",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "dorsal ligaments converge on the **triquetrum**",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Space of Poirier**",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/6005/images/space%20of%20poirier.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "5",
+          "children": [
+            {
+              "text": "center of a double \"V\" shape convergence of ligaments",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "central weak area of the wrist in the **floor of the carpal tunnel at the level of the proximal capitate**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "between the volar **radioscaphocapitate** ligament and volar **long radiolunate** ligament (radiolunotriquetral ligament)",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "wrist palmar flexion",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "area of weakness disappears",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "wrist dorsiflexion",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "area of weakness increases",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "in perilunate dislocations, this space allows the distal carpal row to separate from the lunate",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "in lunate dislocations, the lunate escapes into this space",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Extrinsic Ligaments",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Volar radiocarpal ligaments",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "radial collateral",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20radial%20collat.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "**radioscaphocapitate**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/rsc%20diagram.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20of%20rsc%20and%20volar%20rl%20lig.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/scope%20rsc%20and%20long%20rl%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "at risk for injury with excessively large radial styloid",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "from radial styloid to capitate, creating a sling to support the waist of the scaphoid",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "preserve when doing proximal row carpectomy",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "acts as primary stabilizer of the wrist after PRC and prevents ulnar drift",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "long radiolunate",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/rsc%20and%20long%20rl%20lig.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20of%20rsc%20and%20volar%20rl%20lig.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/scope%20rsc%20and%20long%20rl%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "also called radiolunotriquetral or volar radiolunate ligament",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "counteracts ulnar-distal translocation of the lunate",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "abnormal in **Madelung's deformity**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "referred to as **Vickers ligament**",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "radioscapholunate",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/rsl.jpg",
+                  "caption": "RSL"
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/rsl%20nv%20bundle.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "Ligament of Testut and Kuentz",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "only functions as **neurovascular conduit**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "not a true ligament",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "does not add mechanical strength",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "short radiolunate",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20short%20rl.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/cadaver%20short%20rl.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "stabilizes lunate",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Volar ulnocarpal ligaments",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/6005/images/ulno.jpg",
+              "caption": "ulnocarpal"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "ulnotriquetral",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/diagram%20volar%20ul%20and%20ut%20lig.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20volar%20ut%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "ulnolunate",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/diagram%20volar%20ul%20and%20ut%20lig.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20volar%20ul%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "ulnocapitate",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Dorsal ligaments",
+          "table": null,
+          "images": [],
+          "importance": "2",
+          "children": [
+            {
+              "text": "**radiotriquetral**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/diagram%20dorsal%20rt%20and%20dic%20ligament.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20dorsal%20rt%20and%20dic%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "also referred to as **dorsal radiocarpal ligament (DRC)**",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "must also be disrupted for VISI deformity to form (in combination with rupture of lunotriquetral interosseous ligament rupture)",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6005/images/disi-visi.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**dorsal intercarpal (DIC)**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/diagram%20dorsal%20rt%20and%20dic%20ligament.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/mra%20dorsal%20rt%20and%20dic%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": []
+            },
+            {
+              "text": "radiolunate",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "radioscaphoid",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Intrinsic (Interosseous) ligaments",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Proximal row",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**scapholunate ligament**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/normal%20scapholunate%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**primary stabilizer of scapholunate joint**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "composed of 3 components",
+                  "table": null,
+                  "images": [
+                    {
+                      "src": "https://upload.orthobullets.com/topic/6005/images/slil.jpg",
+                      "caption": ""
+                    }
+                  ],
+                  "importance": "4",
+                  "children": [
+                    {
+                      "text": "**dorsal portion**",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "thickest and strongest",
+                          "table": null,
+                          "images": [],
+                          "importance": "1",
+                          "children": []
+                        },
+                        {
+                          "text": "prevents translation",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "volar portion",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "prevents rotation",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "proximal portion",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "no significant strength",
+                          "table": null,
+                          "images": [],
+                          "importance": "2",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "disruption leads to lunate extension when the scaphoid flexes",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "creating DISI deformity",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6005/images/disi-visi.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "**lunotriquetral ligament**",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/normal%20lunotriquetral%20lig.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "composed of 3 components",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "dorsal",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    },
+                    {
+                      "text": "**volar**",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": [
+                        {
+                          "text": "strongest",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "proximal",
+                      "table": null,
+                      "images": [],
+                      "importance": "1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "disruption leads to lunate flexion when the scaphoid is normally aligned",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "creating VISI deformity (in combination with rupture of **dorsal radiotriquetral** rupture)",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/6005/images/disi-visi.jpg",
+                          "caption": ""
+                        }
+                      ],
+                      "importance": "5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Distal row",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/6005/images/distal%20dorsal%20interosseous%20lig.jpg",
+              "caption": ""
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "trapeziotrapezoid ligament",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "trapeziocapitate ligament",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "capitohamate ligament",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Palmar midcarpal",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "scaphotrapeziotrapezoid",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/stt%20diagram.jpg",
+                  "caption": ""
+                },
+                {
+                  "src": "https://upload.orthobullets.com/topic/6005/images/stt%20mr%20arthro.jpg",
+                  "caption": ""
+                }
+              ],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "scaphocapitate",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "triquetralcapitate",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "triquetralhamate",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/6005/images/space%20of%20poirier.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6005/images/TTC%20Illustration%20-%20volar%20wrist%20ligaments_moved.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6005/images/mra%20radial%20collat.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6005/images/rsc%20diagram.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/6005/images/mra%20of%20rsc%20and%20volar%20rl%20lig.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 141,
+  "visitorMode": false
+}

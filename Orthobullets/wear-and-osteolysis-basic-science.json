@@ -1,0 +1,1079 @@
+{
+  "title": "Wear & Osteolysis Basic Science",
+  "url": "https://www.orthobullets.com/recon/5001/wear-and-osteolysis-basic-science",
+  "subtitle": "Updated: Feb 2 2026",
+  "sections": [
+    {
+      "text": "Overview",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Osteolysis represents a histiocytic response to wear debris, resulting in bone loss",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": []
+        },
+        {
+          "text": "Basic steps of osteolysis include",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**particulate debris formation**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "**macrophage-activated osteoclastogenesis and osteolysis**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "**prosthesis micromotion**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "**particulate debris dissemination**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Evaluation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "radiostereometric analysis",
+              "table": null,
+              "images": [
+                {
+                  "src": "https://upload.orthobullets.com/topic/5001/images/668dc084-0ca4-4b06-b9f2-6eaf23e05616_radiostero..jpg",
+                  "caption": "Radiosteriometric analysis"
+                }
+              ],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "most accurate and precise technique to evaluate polyethylene wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "uses radiopaque tantalum beads planted in the bone to follow the position of the components (relative to the beads) on radiographs",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Imaging",
+      "table": null,
+      "images": [],
+      "importance": "-1",
+      "children": [
+        {
+          "text": "Plain radiographs to monitor for progression",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "underestimates lesion size and may miss small lesions",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "various methods for monitoring osteolysis progression",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "manual methods",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "utilize distances from the superior and inferior aspects of femoral heads to the acetabular cup to monitor for progression",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "Livermore method",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "Measures maximum head penetration by identifying the shortest distance between the femoral head center and a point on the acetabular surface",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "computer-assisted techniques",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "utilizes two-dimensional radiographs to create a 3D rendering that estimates wear",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Radiostereometric analysis",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "most accurate and precise method for wear measurement",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "spherical tantalum markers are used to physically define the implant's location",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "radiographs from two different angles are then taken and processed in a computer program to geospatially define the object in 3D space",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "osteolysis progression is measured by comparing prior radiostereometric measurements to current measurements to determine component migration",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Computed Tomography",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/5001/images/8d677ec6-52dd-4cb6-9676-238d42fe8c47_screenshot_2026-01-02_at_6.58.52_pm.jpg",
+              "caption": "Periprosthetic osteolysis on CT"
+            }
+          ],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "creates true 3D rendering of components, allowing for monitoring of osteolytic defect progression",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "useful for surgical planning",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "helpful with determining component positioning",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "possible future utility in establishing the degree of linear and volumetric wear",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Step 1: Particulate Debris Formation",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Mechanisms of wear",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**adhesive wear**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "caused by two surfaces of different materials bonding together and subsequent peeling of the softer material during motion",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**abrasive wear**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "occurs between two dissimilar materials",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "harder non-smooth material cuts into softer material (akin to a cheese grater)",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**delaminating wear**",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "formation of fissures within polyethylene, which leads to large particle formation",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**third-body wear**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "particles in the joint space cause abrasion and wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Sub-types of wear",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "**linear wear**",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": [
+                {
+                  "text": "can occur with adhesive or abrasive wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "reduction in polyethylene component thickness due to prosthesis penetration into the liner",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "linear wear rates are independent of femoral head size",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "**volumetric wear**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "can occur with adhesive or abrasive wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "main determinant of the number of particles created",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                },
+                {
+                  "text": "directly related to the radius² of the femoral head",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                },
+                {
+                  "text": "volumetric wear more or less creates a cylinder",
+                  "table": null,
+                  "images": [],
+                  "importance": "2",
+                  "children": []
+                },
+                {
+                  "text": "**head size** is most important factor in volumetric wear",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Wear leads to particulate debris formation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "wear rates by material",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "**polyethylene**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "colorless and vary in shape size (spheroid is most commonly seen shape)",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": [
+                        {
+                          "text": "linear wear rates **>0.1 mm/year** have been associated with osteolysis and subsequent component loosening",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "non-cross-linked UHMWPE wear rate is 0.1-0.2 mm/year",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "highly cross-linked UHMWPE generates smaller wear particles and is more resistant to wear (but has reduced mechanical properties compared to conventional non-highly cross-linked UHMWPE), however, it is considered more bio-reactive",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "factors increasing wear in THA",
+                          "table": null,
+                          "images": [],
+                          "importance": "4",
+                          "children": [
+                            {
+                              "text": "thickness <6 mm",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            },
+                            {
+                              "text": "malalignment of components",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            },
+                            {
+                              "text": "patients <50 y/o",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            },
+                            {
+                              "text": "men",
+                              "table": null,
+                              "images": [],
+                              "importance": "4",
+                              "children": []
+                            },
+                            {
+                              "text": "higher activity level",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "femoral head size between 22-46 mm in diameter does not influence wear rates of UHMWPE",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**ceramics**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "typically alumina or zirconia",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "ceramic bearings have the lowest wear rates of any bearing combination (0.5-2.5 µ per component per year)",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "ceramic-on-polyethylene bearings have varied wear rates, ranging from 0-150 µ",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "debris from ceramic-on-ceramic implants are thought to be the result of mechanical issues with implantation (i.e. malpositioning, instability) as opposed be the cause of implant failure",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "unique complication of stripe wear occurring from contact between the femoral head and the edge of the liner",
+                      "table": null,
+                      "images": [
+                        {
+                          "src": "https://upload.orthobullets.com/topic/5001/images/8addc881-c9b4-47f2-a2eb-639355c1ce14_screenshot_2026-01-02_at_10.50.24_am.jpg",
+                          "caption": "Stripe Wear"
+                        }
+                      ],
+                      "importance": "4",
+                      "children": [
+                        {
+                          "text": "etiology unclear, though surmised to be caused by gait or edge loading during deep hip flexion",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "text": "recurrent dislocations or incidental contact of the femoral head with a metallic shell can cause \"lead pencil-like\" markings that lead to increased femoral head roughness and polyethylene wear rates",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "**metals**",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": [
+                    {
+                      "text": "metal-on-metal produces smaller wear particles (30 nm to 200 um and lower wear rates compared to metal-on-polyethylene bearings (ranging from 2.5-5.0 µ per year)",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "4-5% risk of aseptic loosening with metal on metal prosthesis at 6 years post implantation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "titanium used for bearing surfaces has a high failure rate because of poor resistance to wear and notch sensitivity",
+                      "table": null,
+                      "images": [],
+                      "importance": "2",
+                      "children": []
+                    },
+                    {
+                      "text": "metal-on-metal wear stimulates lymphocytes and pseudotumor development via ALVALreaction",
+                      "table": null,
+                      "images": [],
+                      "importance": "5",
+                      "children": [
+                        {
+                          "text": "seen more frequently in Titanium alloy compared to Cobalt/Chrome alloy or stainless steel",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": [
+                            {
+                              "text": "ALTR creates a local reaction characterized by",
+                              "table": null,
+                              "images": [],
+                              "importance": "-1",
+                              "children": [
+                                {
+                                  "text": "watery, yellow or gray appearing joint effusion",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "basic (opposed to acidic) pH",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                },
+                                {
+                                  "text": "low cell count",
+                                  "table": null,
+                                  "images": [],
+                                  "importance": "-1",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "text": "metal-on-metal serum ion levels are greater with cup abduction angle >55° and smaller component size",
+                      "table": null,
+                      "images": [],
+                      "importance": "4",
+                      "children": []
+                    },
+                    {
+                      "text": "metal on metal implants also have risk of electro-chemical corrosion leading to additional debris formation",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "metal ions",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "chromium oxide",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Particulate type",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "**UHMWPE** most common",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "PMMA",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Aluminum oxide",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Zirconium oxide",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "Co-Cr",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "Ti",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "third body",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Particulate size",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "<1 µm",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "particle size is more important than particle type with regard to influencing biologic activity.",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Risk factors for wear",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "activity level",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "femoral head size (> 32 mm)",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "increased contact stresses",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "male",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "high BMI",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "acetabular inclination > 45 degrees",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Step 2: Macrophage-Activated Osteoclastogenesis and Osteolysis",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Macrophage activation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "occurs via phagocytosis or cell contact activation (via toll-like receptors)",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "leads to increased transcription of Nuclear Factor Kappa B, which leads to increased production of:",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "**TNF-alpha**",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": [
+                    {
+                      "text": "increases RANK production and RANKL mediated bone resorption",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    },
+                    {
+                      "text": "stimulates the release of granulocyte macrophage-colony stimulating factor (GCSF), which leads to the production of reactive oxygen species such as:",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": [
+                        {
+                          "text": "oxide radicals",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        },
+                        {
+                          "text": "hydrogen peroxide",
+                          "table": null,
+                          "images": [],
+                          "importance": "-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "monocyte chemoattractant molecule 1",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": [
+                    {
+                      "text": "recruits additional macrophage/monocytes",
+                      "table": null,
+                      "images": [],
+                      "importance": "-1",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "osteoclast activating factor",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "acid phosphatase",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "interleukins (IL-1, IL-6, IL-8)",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                },
+                {
+                  "text": "prostaglandins",
+                  "table": null,
+                  "images": [],
+                  "importance": "5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Osteoclast activation and osteolysis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "increase in TNF-alpha levels increases RANK presence",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "increase of **VEGF specifically with UHMWPE enhances RANK and RANKL activation**",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "**RANKL-mediated bone resorption**",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "an increase in production of RANK and RANKL gene transcripts leads to osteolysis via osteoclast activation",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "reactive oxygen species produced as a result of increased Nuclear Kappa Factor B levels also stimulate osteoclast-mediated bone resorption",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Step 3: Prosthesis Micromotion",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Osteolysis surrounding the prosthesis leads to micromotion",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "micromotion leads to an increase in particle wear and further prosthesis loosening",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": []
+            },
+            {
+              "text": "mechanical forces caused by joint fluid/implant can additionally lead to bone resorption, though these mechanisms are not well characterized",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": [
+                {
+                  "text": "hypothesized mechanisms include pressure induced bone resorption, osteoclastogenesis modulation, inflammatory processes involving cell mediated",
+                  "table": null,
+                  "images": [],
+                  "importance": "-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "N-telopeptide urine level is a marker for bone turnover and is elevated in osteolysis",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Step 4: Debris Dissemination",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Increase in hydrostatic pressure leads to the dissemination of debris into effective joint space**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "increased hydrostatic pressure is the result of an inflammatory response",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "dissemination of debris into effective joint space further propagates osteolysis",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "circumferentially coated prosthesis limits osteolysis in the distal femur\\",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Systemic Dissemination",
+          "table": null,
+          "images": [],
+          "importance": "-1",
+          "children": [
+            {
+              "text": "increased levels of metal ions may be measured in the serum in patients with metal on metal implants",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "no clear evidence of association between metal debris and neoplastic, toxic, or metabolic conditions",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/5001/images/xray.knee.ap.shows%20osteolysis.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/5001/images/8d677ec6-52dd-4cb6-9676-238d42fe8c47_screenshot_2026-01-02_at_6.58.52_pm.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 142,
+  "visitorMode": false
+}

@@ -1,0 +1,390 @@
+{
+  "title": "Biopsy Principles",
+  "url": "https://www.orthobullets.com/pathology/8082/biopsy-principles",
+  "subtitle": "Updated: May 20 2026",
+  "sections": [
+    {
+      "text": "Introduction",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "Purpose of the biopsy is to confirm a suspected diagnosis",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": []
+        },
+        {
+          "text": "The biopsy is not a substitute for a thorough history, physical exam, and laboratory investigation",
+          "table": null,
+          "images": [],
+          "importance": "3",
+          "children": [
+            {
+              "text": "prerequisites for a biopsy",
+              "table": null,
+              "images": [],
+              "importance": "3",
+              "children": [
+                {
+                  "text": "CBC, platelets, coagulation studies",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "cross-sectional imaging to evaluate local anatomy",
+                  "table": null,
+                  "images": [],
+                  "importance": "3",
+                  "children": []
+                },
+                {
+                  "text": "treatment center performing biopsy must be capable of proper diagnosis and treatment",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Indications for Biopsy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Indications**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "aggressive bone or soft tissue lesions",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "soft tissue lesions larger than 5cm, deep to fascia, or overlying bone/neurovascular structures",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "unclear diagnosis in a symptomatic patient",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "solitary bone lesions in a patient with history of carcinoma",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**When a biopsy is not indicated**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "asymptomatic latent bone lesions or a symptomatic active bone lesions which appear entirely benign on imaging don't necessarily need a biopsy",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "soft tissue lesion which are completely benign on MRI don't necessarily need a biopsy (e.g. lipoma, hemangioma)",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Types of Biopsy",
+      "table": null,
+      "images": [],
+      "importance": "3",
+      "children": [
+        {
+          "text": "**Fine Needle Aspiration** (FNA)",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/8082/images/tru-cut.jpg",
+              "caption": "tru-cut needle"
+            }
+          ],
+          "importance": "1",
+          "children": [
+            {
+              "text": "provides cytologic (separated cellular) specimen",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "does not provide adequate tissue samples for tumor architecture or mesenchymal stromal analysis",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            },
+            {
+              "text": "frequently used for carcinoma",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "not typically used for sarcoma",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Core biopsy** (Tru-cut)",
+          "table": null,
+          "images": [
+            {
+              "src": "https://upload.orthobullets.com/topic/8082/images/principle_of_trucut_biopsy.jpg",
+              "caption": "principle of tru-cut biopsy"
+            }
+          ],
+          "importance": "4",
+          "children": [
+            {
+              "text": "allow for tumor structural examination",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": [
+                {
+                  "text": "can evaluate both the cytologic and stromal elements of the tumor",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "frequently used for soft tissue sarcoma",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            },
+            {
+              "text": "85-95% accuracy in diagnosis",
+              "table": null,
+              "images": [],
+              "importance": "1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Incisional biopsy**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "small surgical incision carefully placed to access tumor without contamination of critical structures",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            },
+            {
+              "text": "overall lower rate of non-diagnostic biopsy results compared to core needle biopsy",
+              "table": null,
+              "images": [],
+              "importance": "-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Excisional biopsy**",
+          "table": null,
+          "images": [],
+          "importance": "1",
+          "children": [
+            {
+              "text": "select indications: small (<3cm), superficial (relatively to fascia) soft tissue masses",
+              "table": null,
+              "images": [],
+              "importance": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Principles of the Open Incisional Biopsy",
+      "table": null,
+      "images": [],
+      "importance": "5",
+      "children": [
+        {
+          "text": "**Incision**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "use longitudinal incision in the extremities",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "allows for extension of the incision for definitive management",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Approach**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "do not expose neurovascular structures",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "all tissue exposed during the biopsy is considered contaminated with tumor",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "maintain meticulous hemostasis",
+              "table": null,
+              "images": [],
+              "importance": "5",
+              "children": [
+                {
+                  "text": "post-operative hematomas are considered contaminated with tumor",
+                  "table": null,
+                  "images": [],
+                  "importance": "4",
+                  "children": []
+                },
+                {
+                  "text": "release tourniquet prior to wound closure",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "**Biopsy**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "perform through the involved compartment of the tumor",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            },
+            {
+              "text": "for bone lesions with a soft tissue mass, it is ok to perform the biopsy using the soft tissue mass",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "**Closure**",
+          "table": null,
+          "images": [],
+          "importance": "5",
+          "children": [
+            {
+              "text": "if using a drain, bring drain out of the skin in line with surgical incision",
+              "table": null,
+              "images": [],
+              "importance": "4",
+              "children": [
+                {
+                  "text": "allows drain site to be removed with definitive surgical extensile incision",
+                  "table": null,
+                  "images": [],
+                  "importance": "1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://upload.orthobullets.com/topic/8082/images/biopsy%20thigh.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8082/images/tru-cut.jpg",
+      "caption": ""
+    },
+    {
+      "src": "https://upload.orthobullets.com/topic/8082/images/principle_of_trucut_biopsy.jpg",
+      "caption": ""
+    }
+  ],
+  "domBulletCount": 48,
+  "visitorMode": false
+}

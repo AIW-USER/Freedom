@@ -1,0 +1,422 @@
+# Cardiac Conditions
+
+Source: https://www.orthobullets.com/knee-and-sports/3121/cardiac-conditions
+
+Updated: Mar 23 2025
+
+## Images
+
+![[ob3121-60077869-m1720649-hypertrophic-cardiomyopathy-spl.jpg]]
+
+
+## Summary
+
+- Cardiac conditions are the most common cause of sudden death in young athletic patients and comprise of hypertrophic cardiomyopathy (most common), coronary artery disease, and commotio cordis.
+- Diagnosis requires a thorough history and physical exam to identify a history of chest pain, palpitations, syncope during exercise, and evaluation for murmurs. An EKG or echocardiogram should be performed when there is a high suspicion of hypertrophic cardiomyopathy.
+- Treatment is focused on prevention with avoidance of vigorous exercise when hypertrophic cardiomyopathy is diagnosed. If commotio cordis develops, prompt treatment with cardiac defibrillation is required for survival.
+
+## Overview
+
+- Common conditions affecting athletes include
+  - syncope
+  - hypertrophic cardiomyopathy
+  - coronary artery disease
+  - long QT syndrome
+  - commotio cordis
+  - sudden cardiac death
+- Presentation
+  - symptoms
+    - **history and physical exam** is the best screening tool to identify cardiovascular problems in high school athletes
+    - chest pain
+    - palpitations
+    - syncope
+  - physical exam
+    - pre-participation physicals
+      - diastolic murmur warrants further workup
+      - **II/VI systolic murmur**
+- Evaluation
+  - EKG
+    - normal EKG findings in endurance athletes
+      - **ventricular hypertrophy**
+      - **primary AV block**
+      - **nonspecific STT** wave changes in the lateral leads on ECG
+      - **resting sinus bradycardia** at 40 beats per minute
+
+## Syncope
+
+- Overview
+  - sudden loss of consciousness caused by a sudden loss of blood pressure
+  - **a syncopal episode in a young athlete is a red flag for a serious cardiac condition.**
+- Epidemiology
+  - incidence
+    - annual incidence of 7%
+- Demographics
+  - age
+    - any age
+  - sex
+    - more common in females than in males
+  - risk factors
+    - cardiac conditions
+    - dehydration
+    - female gender
+- Etiology
+  - pathophysiology
+    - transient loss of consciousness due to decreased cerebral perfusion
+    - can be caused by any condition disrupting cerebral perfusion
+    - 50% are neurocardiogenic also known as **vasovagal syncope**
+      - increased vasodilation with **bradycardia** due to **decreased sympathetic** and **increased parasympathetic tone**
+      - risk factors
+        - when standing for prolonged periods
+        - hot environments
+  - associated conditions
+    - cardiovascular disorder
+      - arrhythmias
+      - cardiac structural abnormalities
+        - including myocardial infarction, hypertrophic cardiomyopathy, valvular disease, pulmonary embolism, commotio cordis
+    - cerebrovascular disease
+      - including stroke, transient ischemic attack, vertebrobasilar insufficiency
+    - disruption of vascular tone and blood flow
+      - including orthostatic hypotension, carotid sinus syndrome, anemia
+- Presentation
+  - symptoms
+    - lightheadedness
+    - dizziness
+    - palpitations
+    - sweating
+  - physical examination
+    - unconsciousness
+    - cold clammy skin
+- Treatment
+  - medical evaluation
+    - requires a medical evaluation prior to returning to athletic activity
+
+## Hypertrophic Cardiomyopathy
+
+- Overview
+  - a genetic condition causing mutations in the cardiac muscle leading to **increased ventricular wall thickness** resulting in outflow obstruction, diastolic dysfunction, and increased risk of sudden cardiac death
+  - **most common cause of cardiac sudden death** in young athletic patients
+- Epidemiology
+  - incidence
+    - 1 in 500
+  - demographics
+    - age
+      - present from birth
+      - diagnosis is usually between 20-30 years of age
+    - sex
+      - male:female is 1 to 1
+        - females more likely to be symptomatic
+  - risk factors
+    - hypertension
+    - genetic predisposition
+- Etiology
+  - pathophysiology
+    - abnormal thick or thin cardiac myofilament proteins resulting in abnormal structure and function of the cardiac muscle with **hypertrophy of the left ventricular wall and septum**
+    - leads to asymmetric hypertrophy resulting in **left ventricular outflow obstruction**
+      - most commonly affects the **interventricular septum**
+        - 66% of patients
+  - genetics
+    - inheritance pattern
+      - **autosomal dominant** with variable penetrance
+        - predominantly missense mutations
+        - less likely to be frameshift mutation
+    - mutations
+      - thousands of possible mutations affecting more than a dozen genes including
+        - Cardiac troponin T – TNNT2 gene
+        - Cardiac troponin I – TNNTI3 gene
+        - Myosin regulatory light chain – MYL2 gene
+        - Myosin essential light chain – MYL3 gene
+  - associated conditions
+    - increased risk for sudden cardiac death and arrhythmias
+- Presentation
+  - history
+    - family history
+    - cardiac murmur
+  - symptoms
+    - dyspnea on exertion
+    - chest pain
+    - dizziness
+    - presyncope or syncope
+  - physical exam
+    - II/VI systolic crescendo-decrescendo murmur
+      - 25% of patients with obstruction at rest
+      - 70% of patients with obstruction during provocative maneuvers
+        - decreased preload increases murmur intensity
+          - Valsalva maneuver
+          - diuretics
+          - standing
+            - **a murmur that increases with standing or Valsalva maneuver** should raise concern for hypertrophic cardiomyopathy
+        - increases with decreased afterload or increased preload
+          - caused by dynamic obstruction of blood outflow caused by an enlarged ventricle
+          - squatting or handgrip maneuver
+    - double carotid pulse
+    - arrhythmia
+    - double apical pulse
+- Imaging
+  - echocardiogram
+    - will show **nondilated, thickened left ventricular wall thickness** compared to normal individuals of the same age.
+    - 80% diagnostic accuracy
+    - evaluate the structure of cardiac chambers, along with systolic and diastolic function
+    - determines the degree of outflow obstruction
+    - evaluates for valvular disease
+  - cardiac mri
+    - **gold standard for diagnosis**
+    - performed in patients in which hypertrophic cardiomyopathy is suspected with inconclusive echocardiogram
+- Studies
+  - electrocardiogram
+    - most sensitive diagnostic test
+    - **left ventricular hypertrophy with right atrial enlargement is highly suggestive of hypertrophic cardiomyopathy**
+      - prominent Q-waves in inferior and lateral leads
+      - left axis deviation
+      - atrial enlargement
+      - inverted t-waves
+  - ambulatory electrocardiogram
+    - recommended in all patients diagnosed with hypertrophic cardiomyopathy
+    - worn for 24-48 hours
+    - used in the assessment of ventricular arrhythmias and sudden cardiac death
+  - stress test
+    - exercise is preferred over pharmacologic stress test
+    - used for assessment of **left ventricular outflow obstruction tract gradient**
+      - useful for **risk stratification**
+- Diagnosis
+  - diagnosis is made based on an echocardiogram, electrocardiogram, genetic testing, and family history
+- Treatment
+  - lifestyle modifications
+    - indications
+      - Asymptomatic patients, mild left ventricular hypertrophy, and no outflow obstruction
+    - management
+      - routine clinical observation
+      - repeat echocardiogram as indicated by changes in symptoms
+      - maintain hydration
+      - avoid vigorous exercise
+        - **considered an absolute contraindication to vigorous exercise and sports**
+    - outcomes
+      - may participate in sports that require mild to moderate physical activity
+  - medical therapy
+    - indications
+      - symptomatic patients (dyspnea, fatigue, chest pain, syncope)
+    - management
+      - beta-blockers (metoprolol)
+        - first line
+      - calcium channel blockers
+    - outcomes
+      - non-vasodilating beta-blockers can improve symptoms
+        - only provides symptomatic relief
+- Complications
+  - cardiac complications
+    - includes sudden cardiac death, arrhythmias, congestive heart failure, stroke
+- Prognosis
+  - **1-2% annual mortality rate**
+
+## Coronary Artery Disease
+
+- Epidemiology
+  - **2nd most common cause of sudden cardiac death**
+  - most common in older patients
+- Pathophysiology
+  - coronary artery disease (CAD)
+    - usually seen in older patients
+    - risk factors
+      - hypertension
+      - family history
+  - **left main coronary artery with abnormal origin** is a risk because the artery can become compressed and lead to ischemia
+- Presentation
+  - symptoms
+    - mostly asymptomatic
+    - but when symptoms present they are commonly
+      - chest pain
+      - palpitations
+      - syncope
+- Imaging
+  - coronary angiography and MR angiography are gold standards
+- Treatment
+  - lifestyle changes
+    - healthy eating, stress reduction, quit smoking, lose weight
+  - medications
+    - b-blocker, aspirin, ACE inhibitors, nitroglycerin, calcium channel blockers
+  - surgery
+    - angioplasty and stenting
+    - coronary artery bypass grafting
+
+## Commotio Cordis
+
+- Overview
+  - it results in cardiac ventricular fibrillation and is universally fatal unless immediate defibrillation is performed
+  - caused by direct impact during ventricular repolarization
+  - a rare but catastrophic condition that is caused by blunt chest trauma
+- Epidemiology
+  - incidence
+    - less than 30 cases per year
+  - demographics
+    - age
+      - average age is 15 years old
+        - most common in children and adolescents due to high number of athletes
+    - sex
+      - male:female ratio is 20 to 1
+  - risk factors
+    - contact sports
+    - younger age
+- Etiology
+  - pathophysiology
+    - mechanism of injury
+      - **traumatic blow to the anterior chest during ventricular repolarization leading to ventricular depolarization resulting in ventricular fibrillation**
+  - pathoanatomy
+    - anterior chest wall blow occurring during the upstroke of the T-wave with enough energy (>50 joules) leading to myocardial cell membrane stretch
+      - the upstroke of the T-wave is 1% of the cardiac cycle
+      - smaller balls increase risk due to decreased surface area of impact
+      - higher energy impacts are more likely to cause **structural damage** and not isolated ventricular fibrillation
+    - results in activation of ion channels through mechanical-electrical coupling resulting in aberrant depolarization resulting in ventricular fibrillation
+- Presentation
+  - history
+    - patient experiences a sudden blow to the chest, typically during an athletic event
+  - symptoms
+    - loss of consciousness
+  - physical exam
+    - pulselessness
+    - unconsciousness
+    - death
+- Studies
+  - electrocardiogram
+    - will show **ventricular fibrillation**
+- Diagnosis
+  - diagnosis is made by witnessed blow to the chest followed by collapse with electrocardiogram showing ventricular fibrillation
+- Treatment
+  - CPR vs.cardiac defibrillation
+    - the best method of treatment is **cardiac defibrillation**
+  - return to sport
+    - **no restrictions from returning to sport**
+    - athletes should take precautions against future blows to the chest
+- Prevention
+  - chest protectors in baseball and hockey have not yielded the protective results desired
+- Prognosis
+  - **poor prognosis with a mortality rate of 59%**
+  - improved mortality rate with early defibrillation
+
+## Long QT Syndrome
+
+- overview
+  - a prolongation in the ventricular action potential duration, QT interval, potentially leading to cardiac arrhythmias
+- Epidemiology
+  - incidence
+    - 1 in 2,500 to 10,000
+  - demographics
+    - age
+      - diagnosis is usually under 20 years of age
+    - sex
+      - more uncommon in females than in males
+  - risk factors
+    - genetic predisposition
+    - medications
+      - anti-arrhythmic, antibiotics (macrolides/fluoroquinolones), antipsychotics
+- Etiology
+  - pathophysiology
+    - congenital
+      - genetic mutation coding for the ion channel proteins leading to increased intracellular positive ion charge, prolonging the QT interval, and increasing risk of arrhythmia
+    - acquired
+      - electrolyte derangement or medications blocking potassium ion channel leading to **increased intracellular positive ion charge** and prolonged QT interval during repolarization
+  - Genetics
+    - inheritance pattern
+      - most mutations are autosomal dominant
+    - mutations
+      - LTQ1 – 45%
+        - Chromosome 11
+        - Encodes for KCNQ1
+          - Loss of function mutation
+          - Component of potassium efflux channel
+      - LTQ2 – 25-40%
+        - Chromosome 7
+        - Encodes KCNH2
+          - Component of potassium influx channel
+      - LTQ3 – 5-10%
+        - Chromosome 3
+        - Encodes SCN5A
+        - Component of sodium channel
+  - associated conditions
+    - Romano Ward Syndrome
+      - an abnormality of ventricular repolarization that can lead to
+        - sudden cardiac death if not recognized and treated
+        - torsades de pointes
+        - ventricular tachycardia
+- Presentation
+  - history
+    - majority of patients are asymptomatic
+    - family history or medications leading to acquired long QT syndrome
+  - symptoms
+    - often times asymptomatic
+    - syncope or near-syncope with exercise
+    - cardiac arrest
+    - palpitations
+  - physical examination
+    - arrhythmia
+- Studies
+  - labs
+    - basic metabolic panel and magnesium level
+      - further cause QT prolongation
+- Diagnosis
+  - ECG is gold standard
+- Treatment
+  - sports return to play
+    - determination of play by genetic makeup, presentation, and need for pacemaker
+    - monitoring with intermittent electrocardiogram
+    - no restriction from exercise
+- Complications
+  - torsades de pointes
+    - can occur from prolonged QT syndrome
+    - 50% are asymptomatic
+
+## Sudden Cardiac Death
+
+- Overview
+  - defined as death resulting from cardiovascular cause occurring within one hour of symptom onset
+- Epidemiology
+  - incidence
+    - 0.76 to 13 per 100,000
+    - 2.8x more common in adolescent and teenage athletes than in non-athletes
+  - demographics
+    - age
+      - Birth to 13 years old is usually due to a congenital abnormality
+      - 14 to 24 years old is usually due to **hypertrophic cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy, congenital coronary anomalies, wolf-parkinson white, and Marfan syndrome**
+    - sex
+      - more common in males than females
+    - risk factors
+      - increased with age
+      - increased risk in males
+      - anomalous origin of coronary artery
+      - hypertrophic cardiomyopathy
+- Etiology
+  - pathophysiology
+    - mechanism
+      - sudden generation of cardiac arrhythmia leading to ventricular ectopy then sustained ventricular arrhythmia leading to ventricular tachycardia or ventricular fibrillation
+      - usually secondary to a pre-existing condition
+- Presentation
+  - history
+    - family history of sudden cardiac death
+    - prior restriction from sports due to cardiac
+    - history of heart murmur
+  - symptoms
+    - syncope
+    - chest pain, tightness, pressure or discomfort
+    - elevated blood pressure
+    - heart murmur
+    - pulselessness
+  - physical exam
+    - blood pressure assessment
+    - pulse check
+    - auscultation for heart murmur
+- Imaging
+  - cardiac MRI
+  - coronary angiography
+  - echocardiogram
+- Studies
+  - labs
+    - cardiac enzyme assay
+    - genetic testing
+      - brugada, lqts, arvc
+  - other studies
+    - exercise stress test
+    - electrophysiology testing
+    - electrocardiogram
+- Treatment
+  - cardiac resuscitation involving CPR and AED defibrillation
+- Prognosis
+  - overall, poor prognosis with >90% mortality rate
+  - early recognition and use of an AED significantly improve survival
