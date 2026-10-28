@@ -108,7 +108,7 @@
 |---|---|
 | **Syme** | Through ankle; **talus removed**; malleoli retained (TO) · malleoli removed flush with plafond (Orthobullets) — read the options |
 | **Sarmiento** | Bone cut **1.3 cm above malleoli** |
-| **Boyd** | **Talectomy** + **calcaneus shifted forward + fused to tibia** |
+| **Boyd** | **Talectomy** + **calcaneus shifted forward + fused to tibia** · stump bulbous, only \~1 cm longer than Syme |
 | **Pirogoff** | **Vertical section of calcaneus rotated + fused to tibia** |
 
 **Gritti-Stokes (TO)** — through distal femur; **prepatellar tissues** for closure
@@ -263,7 +263,6 @@
 |---|---|---|
 | **Pirogoff** | Remove forefoot + talus → **calcaneotibial arthrodesis**; calcaneus rotated **50–90°** | Walk without prosthesis |
 | **Chopart** | **Talonavicular + calcaneocuboid** | **Equinus (equinovarus)** → **TA lengthening / tenotomy + tibialis anterior → talar neck** |
-| **Boyd (TO)** | **Talectomy** → calcaneus **shifted forward + fused to tibia** (calcaneotibial arthrodesis) | Syme modification (TO) · heel pad stays anchored · stump **bulbous, only \~1 cm longer** than Syme |
 | **Lisfranc** | **Tarsometatarsal** (2nd MT osteotomised to keep medial cuneiform stable) | **Equinovarus** — unopposed **gastroc-soleus + tibialis posterior** → keep **peroneus brevis** insertion (5th MT base) + TA lengthening; walking cast 4 wk |
 | **Transmetatarsal** | MT shafts | **Almost all need TA lengthening**; appeals to patients refusing BKA; **rocker-sole shoe + toe filler + carbon plate** |
 | **Great toe** | Keep **1 cm of proximal phalanx base** | Preserves **plantar fascia, sesamoids, FHB** → ↓ transfer ulcers |
