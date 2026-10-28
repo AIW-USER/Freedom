@@ -100,7 +100,6 @@
 | **Jerk** | 90° abduction/flexion + IR, elbow bent · **axial load** along humerus → adduct into forward flexion (bring back to extension → reduces) | **Clunk** ± pain · posterior labral tear in **mid-range** glenoid |
 | **Kim** | Seated, 90° abduction → **flex to 45°** + axial load at elbow + posteroinferior force (Orthobullets) · arm elevated **125°** + IR, downward + posterior force (OB) | **Pain** (± clunk) · more sensitive for **posteroinferior** tears |
 | **Jerk + Kim** | Combined | **97% sensitive** for posterior labral tear |
-
 | **Load & shift (TO)** | Push head anterior/posterior with thumb | **90% sensitivity, 85% specificity** |
 | **Circumduction (TO)** | Circumduction under load | Reproduces **clunk** → confirms instability |
 | Posterior stress | Stabilise scapula, push posteriorly | Pain common, **not specific** |

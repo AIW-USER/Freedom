@@ -278,6 +278,7 @@ UHMWPE resin (MW 2–6 million)
 | Fracture toughness | **↓** |
 | Ductility / elongation to break | **↓** |
 | 10-yr outcome | ✓ **↓ wear + ↑ survival** (✗ Wrong options: no difference) |
+| Head size effect | None, **22–46 mm** |
 
 | PE generation (TO) | Process | Note |
 |---|---|---|
@@ -286,7 +287,6 @@ UHMWPE resin (MW 2–6 million)
 | **3rd (2010s)** | Low-O2 processing, solid-state deformation | Wear **~0.02 mm/yr** · long-term data pending (TO — verify: compression moulding / ram extrusion are consolidation methods for all UHMWPE, not a generation) |
 
 **Other materials (TO)** — **PEEK** under evaluation · **polyacetal + PTFE abandoned** (poor wear) · prevention: **3rd/4th-generation cementing**, PE **≥ 6 mm**, head **22–46 mm** (> 46 mm → thinner PE → ↑ wear), ceramic or MoP (avoid MoM) · drugs: **bisphosphonates**, **denosumab** (investigational), BMP-2
-| Head size effect | None, **22–46 mm** |
 
 **Toughness** — affects mechanical strength, **not** wear rate
 

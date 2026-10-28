@@ -78,11 +78,11 @@
 |---|---|
 | **Cancellous** | Little structure · ↑ osteoconduction · **rapid incorporation by creeping substitution** |
 | **Cortical** | Slow (remodel existing Haversian canals) · structural · interstitial lamellae preserved |
+| **Vascularised** | Faster union, cells preserved · **free fibula (peroneal a.)**, free iliac crest (deep circumflex iliac a.), **distal radius 1,2-ICSRA** for scaphoid |
 
 **Cortical graft weakness** — **weak during resorption phase → fatigue fracture** risk (TO)
 
 **Graft source types (TO)** — autograft (same individual, **all 3 properties**) · allograft (human donor, no donor-site morbidity, infection risk) · **xenograft** (animal, rarely used)
-| **Vascularised** | Faster union, cells preserved · **free fibula (peroneal a.)**, free iliac crest (deep circumflex iliac a.), **distal radius 1,2-ICSRA** for scaphoid |
 
 ### Structural allograft biology & outcomes
 
