@@ -262,12 +262,15 @@
 | Amputation | Level | Deformity / key fact |
 |---|---|---|
 | **Pirogoff** | Remove forefoot + talus → **calcaneotibial arthrodesis**; calcaneus rotated **50–90°** | Walk without prosthesis |
-| **Chopart / Boyd** | **Talonavicular + calcaneocuboid** | **Equinus (equinovarus)** → **TA lengthening / tenotomy + tibialis anterior → talar neck** |
+| **Chopart** | **Talonavicular + calcaneocuboid** | **Equinus (equinovarus)** → **TA lengthening / tenotomy + tibialis anterior → talar neck** |
+| **Boyd (TO)** | **Talectomy** → calcaneus **shifted forward + fused to tibia** (calcaneotibial arthrodesis) | Syme modification (TO) · heel pad stays anchored · stump **bulbous, only \~1 cm longer** than Syme |
 | **Lisfranc** | **Tarsometatarsal** (2nd MT osteotomised to keep medial cuneiform stable) | **Equinovarus** — unopposed **gastroc-soleus + tibialis posterior** → keep **peroneus brevis** insertion (5th MT base) + TA lengthening; walking cast 4 wk |
 | **Transmetatarsal** | MT shafts | **Almost all need TA lengthening**; appeals to patients refusing BKA; **rocker-sole shoe + toe filler + carbon plate** |
 | **Great toe** | Keep **1 cm of proximal phalanx base** | Preserves **plantar fascia, sesamoids, FHB** → ↓ transfer ulcers |
 
 **Chopart (TO)** — **forefoot gangrene to navicular** in smoker → **Chopart**: preserves heel support, shoe + AFO, little shortening, heel-skin end-bearing, muscle balancing possible (tibialis anterior transfer + TA lengthening) — easier than Syme / Pirogoff
+
+**Boyd** — grouped with **Chopart** as a hindfoot amputation (Orthobullets) · **talectomy + calcaneotibial fusion** (TO) — read the options
 
 **Tibialis anterior** — innervated by **deep peroneal nerve**
 
