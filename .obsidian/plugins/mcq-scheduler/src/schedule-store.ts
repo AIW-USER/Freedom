@@ -18,6 +18,8 @@ export class ScheduleStore {
 	defs: ModuleDef[] = [];
 	byKey = new Map<string, ModuleDef>();
 	private listeners = new Set<() => void>();
+	/** The modules file the last reload read; undefined before the first. */
+	private scope: string | undefined;
 	private writing: Promise<void> = Promise.resolve();
 
 	constructor(private plugin: McqSchedulerPlugin) {}
@@ -54,9 +56,27 @@ export class ScheduleStore {
 	/** Re-read the modules file. Cheap: one small note. */
 	async reloadModules(): Promise<void> {
 		const file = this.plugin.app.vault.getFileByPath(this.modulesPath);
+		const completedBefore = this.completed();
 		this.defs = file instanceof TFile ? parseModules(await this.plugin.app.vault.cachedRead(file)) : [];
 		this.byKey = new Map(this.defs.map((d) => [d.key, d]));
+		// Activity is kept per modules file. Editing the file moves its
+		// `modules-completed` count by the difference; a file shown for the
+		// first time starts from what its modules already have completed.
+		const pk = this.plugin.progress;
+		if (this.plugin.activity.enabled) {
+			if (this.scope === this.modulesPath) pk.addSource("modules-completed", this.completed() - completedBefore);
+			else if (!pk.hasSource("modules-completed")) pk.addSource("modules-completed", this.completed());
+		}
+		this.scope = this.modulesPath;
+		pk.redrawAll();
 		this.notify();
+	}
+
+	/** The total an `auto` progress bar uses: this file's questions, or its modules. */
+	autoTotal(source: string | undefined): number {
+		if (source === "mcq-solved") return new Set(this.defs.flatMap((d) => d.ids)).size;
+		if (source === "modules-completed") return this.defs.length;
+		return 0;
 	}
 
 	/** Modules that exist in the file and have at least one question in the index. */

@@ -86,9 +86,9 @@ export function recurringProgress(bar: BarSpec, history: HistoryState, now: numb
  * What a bar with a `source:` has done: this period's sum for a recurring
  * bar, the running total since `start` (or ever) for a fixed one.
  */
-export function sourceProgress(bar: BarSpec, history: HistoryState, now: number): number {
+export function sourceProgress(bar: BarSpec, history: HistoryState, now: number, scope?: string): number {
 	if (!bar.source) return bar.value;
-	const key = sourceKey(bar.source);
+	const key = sourceKey(bar.source, scope);
 	if (bar.type === "recurring") {
 		const period = currentPeriod(bar, now);
 		return Math.max(0, periodSum(history.events, key, period.start, period.end));

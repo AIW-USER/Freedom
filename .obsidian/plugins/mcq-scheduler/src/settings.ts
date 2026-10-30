@@ -68,7 +68,7 @@ export class McqSettingTab extends PluginSettingTab {
 			.setName("Reset activity")
 			.setDesc(
 				"Clears every question answered and minute spent, today and in total, heat maps " +
-					"included. Modules completed follow the module schedule and are kept.",
+					"included, for the loaded modules file. Modules completed follow the module schedule and are kept.",
 			)
 			.addButton((b) =>
 				b
@@ -379,7 +379,8 @@ export class McqSettingTab extends PluginSettingTab {
 			.setName("Delete the module schedule")
 			.setDesc(
 				"Forgets every module's interval, ease and question history so the schedule can be " +
-					"created afresh. The answer log (responses.jsonl) is kept. Press twice to confirm.",
+					"created afresh, and resets the MCQ activity of the loaded modules file: questions answered, " +
+					"time spent and modules completed. The answer log (responses.jsonl) is kept. Press twice to confirm.",
 			)
 			.addButton((b) => {
 				const armed = this.deleteArmed;
@@ -397,6 +398,8 @@ export class McqSettingTab extends PluginSettingTab {
 					}
 					this.deleteArmed = false;
 					this.plugin.schedule.set(null);
+					// The activity of the loaded modules file goes with its schedule.
+					this.plugin.activity.resetAll();
 					this.display();
 				});
 			});

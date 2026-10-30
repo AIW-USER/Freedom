@@ -111,3 +111,20 @@ describe("extractBars", () => {
 		expect(extractBars(text, 5)).toEqual([]);
 	});
 });
+
+describe("per modules file activity", () => {
+	it("keeps the plain id for the original file and scopes any other", async () => {
+		const { sourceKey } = await import("../../src/progress/parse");
+		expect(sourceKey("mcq-solved")).toBe("src:mcq-solved");
+		expect(sourceKey("mcq-solved", "Question Modules.md")).toBe("src:mcq-solved");
+		expect(sourceKey("mcq-solved", "Question Modules TO.md")).toBe("src:mcq-solved@Question Modules TO.md");
+	});
+
+	it("reads `auto` as a total filled in from the modules file", async () => {
+		const { parseBar } = await import("../../src/progress/parse");
+		const r = parseBar("Modules: auto\nsource: modules-completed", 5);
+		expect(r.ok && r.spec.auto).toBe(true);
+		expect(parseBar("Minutes: auto\nsource: mcq-time", 5).ok).toBe(false);
+		expect(parseBar("Plain: auto", 5).ok).toBe(false);
+	});
+});

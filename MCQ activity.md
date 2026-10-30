@@ -22,17 +22,17 @@ id: daily-time
 ## Modules
 
 ```progress
-Modules completed: 2981
+Modules completed: auto
 source: modules-completed
-start: 2026:09:01:00:00
-deadline: 2026:12:10:23:59
+start: 2026:10:30:00:00
+deadline: 2026:12:01:23:59
 id: modules-completed
 ```
 
 ## Totals
 
 ```progress
-MCQs solved: 12528
+MCQs solved: auto
 source: mcq-solved
 id: mcqs-solved
 ```

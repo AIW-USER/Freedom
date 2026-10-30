@@ -288,6 +288,7 @@ describe("completion", () => {
 		expect(isMature({ ...review(20), questions: seen(["a", "b"]) }, ["a", "b"])).toBe(false);
 		const s = { ...createSchedule(defsOf(1, 1)), cards: { "t::m0": { ...review(30), questions: seen(["Q0_0"]) } } };
 		expect(completedCount(s, () => ["Q0_0"])).toBe(1);
+		expect(completedCount(s, () => undefined)).toBe(0);
 	});
 });
 

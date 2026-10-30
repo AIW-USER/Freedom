@@ -185,20 +185,26 @@ export class ProgressKeeper {
 	/** Log scheduler activity: +1 question, +minutes, ±1 module completed. */
 	addSource(source: Source, d: number): void {
 		if (d === 0) return;
-		addEvent(this.history, sourceKey(source), d, Date.now());
+		addEvent(this.history, sourceKey(source, this.scope), d, Date.now());
 		this.saveSoon();
 		this.redrawSoon();
 	}
 
 	clearSource(source: Source): void {
-		clearEvents(this.history, sourceKey(source));
+		clearEvents(this.history, sourceKey(source, this.scope));
 		this.saveSoon();
 		this.redrawAll();
 	}
 
+	/** Whether this modules file has any logged activity for the source. */
+	hasSource(source: Source): boolean {
+		const key = sourceKey(source, this.scope);
+		return this.history.events.some((e) => e.id === key);
+	}
+
 	/** Total ever, and today (local midnight to now). */
 	sourceTotals(source: Source): { total: number; today: number } {
-		const key = sourceKey(source);
+		const key = sourceKey(source, this.scope);
 		const now = Date.now();
 		const today = bucketStart(now, "day");
 		return {
@@ -230,15 +236,28 @@ export class ProgressKeeper {
 
 	/** The bar as it applies now: with Sunday relief, a lower goal. */
 	effective(bar: BarSpec, now: number): BarSpec {
-		return applyRelief(bar, now, this.reliefPct()).bar;
+		return applyRelief(this.resolve(bar), now, this.reliefPct()).bar;
 	}
 
 	private reliefPct(): number | null {
 		return this.settings.sundayRelief ? this.settings.sundayReliefPercent : null;
 	}
 
+	/** The modules file whose activity is shown. */
+	get scope(): string {
+		return this.plugin.schedule.modulesPath;
+	}
+
+	/** Fill in an `auto` total from the loaded modules file: its questions or its modules. */
+	resolve(bar: BarSpec): BarSpec {
+		if (!bar.auto) return bar;
+		const n = this.plugin.schedule.autoTotal(bar.source);
+		return { ...bar, total: n > 0 ? n : 1 };
+	}
+
 	/** Takes the bar as written; relief is applied here. */
-	evaluate(written: BarSpec, now: number): Evaluation {
+	evaluate(spec: BarSpec, now: number): Evaluation {
+		const written = this.resolve(spec);
 		const { bar, relief } = applyRelief(written, now, this.reliefPct());
 		const ev = this.evaluateRaw(bar, now);
 		if (!relief) return ev;
@@ -247,7 +266,7 @@ export class ProgressKeeper {
 	}
 
 	private evaluateRaw(bar: BarSpec, now: number): Evaluation {
-		if (bar.source) return evaluate(bar, now, sourceProgress(bar, this.history, now));
+		if (bar.source) return evaluate(bar, now, sourceProgress(bar, this.history, now, this.scope));
 		if (bar.type !== "recurring") return evaluate(bar, now);
 		const { done, hint } = recurringProgress(bar, this.history, now);
 		return { ...evaluate(bar, now, done), hint };
@@ -267,7 +286,7 @@ export class ProgressKeeper {
 
 	/** The history id a bar's events live under. */
 	private historyId(bar: BarSpec): string {
-		return bar.source ? sourceKey(bar.source) : bar.id;
+		return bar.source ? sourceKey(bar.source, this.scope) : bar.id;
 	}
 
 	private drawHeatmap(el: HTMLElement, spec: HeatmapSpec): void {
@@ -276,7 +295,7 @@ export class ProgressKeeper {
 		const matched = entries.filter((e) => !wanted || wanted.has(e.spec.id) || wanted.has(e.spec.title));
 		const weights = new Map<string, number>();
 		for (const e of matched) {
-			weights.set(this.historyId(e.spec), spec.measure === "percent" ? 100 / e.spec.total : 1);
+			weights.set(this.historyId(e.spec), spec.measure === "percent" ? 100 / this.resolve(e.spec).total : 1);
 		}
 		// A named bar that's gone from the notes still has history worth showing.
 		if (wanted && spec.measure === "value") for (const id of wanted) if (!weights.has(id)) weights.set(id, 1);

@@ -86,6 +86,13 @@ export class ActivityLog {
 		new Notice("Activity reset.");
 	}
 
+	/** Reset everything for the loaded modules file, modules completed too. */
+	resetAll(): void {
+		this.plugin.progress.clearSource("mcq-solved");
+		this.plugin.progress.clearSource("mcq-time");
+		this.plugin.progress.clearSource("modules-completed");
+	}
+
 	/** Counted only while monitoring is on. */
 	recordSolved(): void {
 		if (this.enabled) this.plugin.progress.addSource("mcq-solved", 1);

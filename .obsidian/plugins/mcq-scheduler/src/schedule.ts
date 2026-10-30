@@ -576,7 +576,11 @@ export function completedCount(
 	idsOf: (key: string) => string[] | undefined,
 ): number {
 	if (!state) return 0;
-	return Object.entries(state.cards).filter(([k, c]) => isMature(c, idsOf(k))).length;
+	// A module that has left the modules file is hidden, not completed.
+	return Object.entries(state.cards).filter(([k, c]) => {
+		const ids = idsOf(k);
+		return ids !== undefined && isMature(c, ids);
+	}).length;
 }
 
 /** Modules introduced so far. */

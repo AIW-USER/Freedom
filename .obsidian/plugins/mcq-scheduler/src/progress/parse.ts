@@ -58,9 +58,15 @@ const COUNT_MODES: Record<string, CountMode> = {
 export type Source = "mcq-solved" | "mcq-time" | "modules-completed";
 export const SOURCES: Source[] = ["mcq-solved", "mcq-time", "modules-completed"];
 
-/** The history id a source's events are logged under. */
-export function sourceKey(source: Source): string {
-	return `src:${source}`;
+/**
+ * Activity before it was kept per modules file belongs to this file, so its
+ * events keep the plain `src:<source>` id.
+ */
+export const LEGACY_SCOPE = "Question Modules.md";
+
+/** The history id a source's events are logged under, for one modules file. */
+export function sourceKey(source: Source, scope: string = LEGACY_SCOPE): string {
+	return scope === LEGACY_SCOPE ? `src:${source}` : `src:${source}@${scope}`;
 }
 
 export interface BarSpec {
@@ -87,6 +93,8 @@ export interface BarSpec {
 	digits: number;
 	/** Fed by the scheduler: the note's number is ignored. */
 	source?: Source;
+	/** `Title: auto`: the total is the loaded modules file's (see `ProgressKeeper.resolve`). */
+	auto?: boolean;
 	/** Daily bars only: this bar's own Sunday relief in percent, overriding the setting. */
 	sunday?: number;
 }
@@ -106,7 +114,7 @@ const NUM = String.raw`-?\d+(?:\.\d+)?`;
 // Greedy title, so the *last* colon splits it: "Time spent (mins): 0/60".
 const HEAD = new RegExp(String.raw`^(.*):\s*(${NUM})\s*/\s*(${NUM})\s*$`);
 /** `Title: total` — only for bars with a `source:`, whose value is not typed. */
-const HEAD_GOAL = new RegExp(String.raw`^(.*):\s*(${NUM})\s*$`);
+const HEAD_GOAL = new RegExp(String.raw`^(.*):\s*(${NUM}|auto)\s*$`, "i");
 
 /**
  * `yyyy:mm:dd:hh:mm`, with the time optional. `-`, `/`, space and `T` are
@@ -200,12 +208,15 @@ export function parseBar(source: string, defaultWindow: number, defaultDigits = 
 	const title = (head ?? goal)![1].trim();
 	// A sourced bar's typed value means nothing; its number comes from the log.
 	const value = head && !barSource ? Number(head[2]) : 0;
-	const total = Number(head ? head[3] : goal![2]);
+	const auto = !head && goal![2].toLowerCase() === "auto";
+	if (auto && barSource === "mcq-time") return { ok: false, error: "`auto` has no total for mcq-time; type a number of minutes." };
+	const total = auto ? 1 : Number(head ? head[3] : goal![2]);
 	if (!title) return { ok: false, error: "The bar needs a title before the colon." };
 	if (!(total > 0)) return { ok: false, error: "The total must be greater than 0." };
 
 	const spec: BarSpec = { id: kv.get("id") || title, title, value, total, type: "fixed", window: defaultWindow, digits: defaultDigits };
 	if (barSource) spec.source = barSource;
+	if (auto) spec.auto = true;
 
 	const typeRaw = kv.get("type");
 	const everyRaw = kv.get("every") ?? kv.get("repeat");
